@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T20:12:49.233410+07:00",
+  "updated_at": "2026-07-23T20:31:45.455045+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -19,9 +19,9 @@
       "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
       "match_name": "Mỹ (W) vs Trung Quốc (W)",
       "kickoff_iso": "2026-07-23T18:30:00+07:00",
-      "minutes_to_kickoff": -102,
-      "last_scan_at": "2026-07-23T20:12:49.233300+07:00",
-      "next_scan_at": "2026-07-23T20:17:49.233300+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-23T20:31:45.454938+07:00",
+      "next_scan_at": "2026-07-23T20:36:45.454938+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -71,9 +71,9 @@
       "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
       "match_name": "Campuchia vs Philippines",
       "kickoff_iso": "2026-07-23T19:00:00+07:00",
-      "minutes_to_kickoff": -72,
-      "last_scan_at": "2026-07-23T20:12:49.233300+07:00",
-      "next_scan_at": "2026-07-23T20:17:49.233300+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-23T20:31:45.454938+07:00",
+      "next_scan_at": "2026-07-23T20:36:45.454938+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -157,9 +157,9 @@
       "url": "https://phaohoa1.live/truc-tiep/fk-liepaja-vs-austria-vienna-23-07-2026-776592",
       "match_name": "23-07 UEFA Conference League FK Liepaja VS Austria Vienna Văn Minh",
       "kickoff_iso": "2026-07-23T22:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-23T20:01:38.313987+07:00",
-      "next_scan_at": "2026-07-23T20:21:38.313987+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T20:31:45.454938+07:00",
+      "next_scan_at": "2026-07-23T20:51:45.454938+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
