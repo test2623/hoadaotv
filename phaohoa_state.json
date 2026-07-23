@@ -1,15 +1,15 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T15:01:41.103001+07:00",
+  "updated_at": "2026-07-23T15:31:34.582217+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
       "match_name": "Thổ Nhĩ Kì (W) vs Canada (W)",
       "kickoff_iso": "2026-07-23T15:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-23T15:01:41.102848+07:00",
-      "next_scan_at": "2026-07-23T15:06:41.102848+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-23T15:31:34.582112+07:00",
+      "next_scan_at": "2026-07-23T15:36:34.582112+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -21,9 +21,9 @@
       "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
       "match_name": "23-07 Nations League Mỹ (W) VS Trung Quốc (W) KaKa",
       "kickoff_iso": "2026-07-23T18:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-23T14:31:17.086664+07:00",
-      "next_scan_at": "2026-07-23T15:16:17.086664+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-23T15:31:34.582112+07:00",
+      "next_scan_at": "2026-07-23T16:16:34.582112+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -31,14 +31,16 @@
     },
     "e42ebdb7e388": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
-      "match_name": "23-07 Sea V Cup Việt Nam VS Thái Lan Chim Nhỏ",
+      "match_name": "Việt Nam vs Thái Lan",
       "kickoff_iso": "2026-07-23T15:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-23T15:01:41.102848+07:00",
-      "next_scan_at": "2026-07-23T15:11:41.102848+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-23T15:31:34.582112+07:00",
+      "next_scan_at": "2026-07-23T15:36:34.582112+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "776573": {
