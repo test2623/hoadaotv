@@ -53,7 +53,7 @@ LEGACY_GIT_PLAYLIST_PATH = "phaohoa/phaohoa_live.m3u"
 OUTPUT_DEBUG = "phaohoa_debug.json"
 OUTPUT_HOME_DEBUG_HTML = "phaohoa_home_debug.html"
 OUTPUT_HOME_DEBUG_PNG = "phaohoa_home_debug.png"
-SCANNER_VERSION = "4.4.15-PHAOHOA-HYBRID-METADATA-SOURCE-GROUP"
+SCANNER_VERSION = "4.4.17-PHAOHOA-ALL-FIXTURES-METADATA-PLAYLIST"
 
 
 def read_env_bool(name: str, default: bool = True) -> bool:
@@ -119,6 +119,12 @@ SCAN_UNKNOWN_LIVE = read_env_bool("PHAOHOA_SCAN_UNKNOWN_LIVE", True)
 UPCOMING_MIN_CANDIDATE_SCORE = read_env_int("PHAOHOA_UPCOMING_MIN_CANDIDATE_SCORE", 150, minimum=80, maximum=300)
 ALLOW_UNVERIFIED_BROWSER_FALLBACK = read_env_bool("PHAOHOA_ALLOW_UNVERIFIED_BROWSER_FALLBACK", False)
 KEEP_PREVIOUS_UNVERIFIED = read_env_bool("PHAOHOA_KEEP_PREVIOUS_UNVERIFIED", False)
+LIST_ALL_DISCOVERED_MATCHES = read_env_bool(
+    "PHAOHOA_LIST_ALL_DISCOVERED_MATCHES", True
+)
+PLACEHOLDER_USE_MATCH_PAGE = read_env_bool(
+    "PHAOHOA_PLACEHOLDER_USE_MATCH_PAGE", True
+)
 UPCOMING_FAR_THRESHOLD_MINUTES = read_env_int("PHAOHOA_UPCOMING_FAR_THRESHOLD_MINUTES", 45, minimum=5, maximum=240)
 UPCOMING_FAR_WAIT_SECONDS = read_env_int("PHAOHOA_UPCOMING_FAR_WAIT_SECONDS", 7, minimum=3, maximum=30)
 UPCOMING_NEAR_WAIT_SECONDS = read_env_int("PHAOHOA_UPCOMING_NEAR_WAIT_SECONDS", 12, minimum=5, maximum=60)
@@ -251,10 +257,11 @@ def classify_sport(*values: str, default: str = "Bóng đá") -> str:
 
 
 def channel_id_for(result: dict[str, Any], stream_url: str, index: int) -> str:
-    path_match = re.search(r"/live/(\d+)", result.get("url", ""))
-    base = path_match.group(1) if path_match else hashlib.sha1(
-        (result.get("url", "") + stream_url).encode("utf-8")
-    ).hexdigest()[:12]
+    base = match_id_from_url(result.get("url", ""))
+    if not base:
+        base = hashlib.sha1(
+            (result.get("url", "") + stream_url).encode("utf-8")
+        ).hexdigest()[:12]
     return f"phaohoa-{base}-{index}"
 
 
@@ -301,6 +308,9 @@ def normalize_blv_name(value: str) -> str:
         return BLV_ALIASES[key]
 
     if re.fullmatch(r"[a-zA-Z0-9_.-]+", raw):
+        # Giữ cách viết thương hiệu/tên BLV như KaKa thay vì ép thành Kaka.
+        if any(ch.isupper() for ch in raw[1:]) and any(ch.islower() for ch in raw):
+            return raw
         words = re.sub(r"[_\-.]+", " ", raw).split()
         return " ".join(word.capitalize() for word in words)
     return raw
@@ -1365,8 +1375,17 @@ async def finalize_stream_map(
 
 
 def match_id_from_url(value: str) -> str:
-    match = re.search(r"/live/(\d+)", value or "")
-    return match.group(1) if match else ""
+    parsed = urlparse(clean_text(value or ""))
+    live_match = re.search(r"/live/(\d+)", parsed.path, re.I)
+    if live_match:
+        return live_match.group(1)
+    trailing_id = re.search(r"-(\d{5,})/?$", parsed.path)
+    if trailing_id:
+        return trailing_id.group(1)
+    canonical_path = re.sub(r"/+", "/", parsed.path.rstrip("/").lower())
+    if canonical_path:
+        return hashlib.sha1(canonical_path.encode("utf-8")).hexdigest()[:12]
+    return ""
 
 
 def _parse_previous_playlist_text(text: str, source_label: str) -> dict[str, list[dict[str, str]]]:
@@ -1377,7 +1396,7 @@ def _parse_previous_playlist_text(text: str, source_label: str) -> dict[str, lis
     for raw_line in (text or "").splitlines():
         line = raw_line.strip()
         if line.startswith("#EXTINF"):
-            id_match = re.search(r'tvg-id="phaohoa-(\d+)-\d+"', line)
+            id_match = re.search(r'tvg-id="phaohoa-([a-z0-9]+)-\d+"', line, re.I)
             current_match_id = id_match.group(1) if id_match else ""
             referer = PLAYER_ORIGIN_FALLBACK + "/"
             user_agent = UA
@@ -1544,7 +1563,11 @@ def clean_match_name(value: str, fallback_url: str) -> str:
         r"(?i)\b(sắp diễn ra|đang diễn ra|nations league|conference league|europa league|bóng chuyền|bóng rổ|tennis|esports)\b",
         text,
     ))
-    if noisy_card and "-vs-" in urlparse(fallback_url).path.lower():
+    if (
+        noisy_card
+        and "-vs-" in urlparse(fallback_url).path.lower()
+        and (not re.search(r"\bvs\b", text, re.I) or len(text) > 180)
+    ):
         text = ""
     # Ưu tiên dòng/đoạn chứa "vs" nếu card còn kèm giải, thời gian, trạng thái.
     pieces = [clean_text(p) for p in re.split(r"[\n|]", value or "") if clean_text(p)] if text else []
@@ -1579,6 +1602,201 @@ def clean_match_name(value: str, fallback_url: str) -> str:
         text = re.sub(r"\b(Fc|Sc|Cf|Af|U(\d{1,2})|Ac|Bk|Sk)\b", lambda m: m.group(0).upper(), text)
 
     return text or fallback_url
+
+
+def _token_spans(value: str) -> list[tuple[str, int, int]]:
+    rows: list[tuple[str, int, int]] = []
+    for match in re.finditer(r"\w+", value or "", flags=re.UNICODE):
+        normalized = normalize_search_text(match.group(0)).strip()
+        if normalized:
+            rows.append((normalized, match.start(), match.end()))
+    return rows
+
+
+def _find_exact_team_span(
+    value: str,
+    team_hint: str,
+    *,
+    prefer_last: bool,
+) -> tuple[str, int, int]:
+    """Khôi phục tên đội có dấu từ card bằng token trong slug URL."""
+    target = normalize_search_text(team_hint).split()
+    spans = _token_spans(value)
+    if not target or len(spans) < len(target):
+        return "", -1, -1
+
+    matches: list[tuple[int, int]] = []
+    width = len(target)
+    for index in range(0, len(spans) - width + 1):
+        if [row[0] for row in spans[index:index + width]] == target:
+            matches.append((index, index + width - 1))
+    if not matches:
+        return "", -1, -1
+
+    first_index, last_index = matches[-1] if prefer_last else matches[0]
+    start = spans[first_index][1]
+    end = spans[last_index][2]
+    while end < len(value) and value[end] in ").]}":
+        end += 1
+    extracted = clean_text(value[start:end]).strip(" -|•")
+    return extracted, start, end
+
+
+def extract_card_identity(
+    url: str,
+    card_text: str,
+    raw_title: str = "",
+    existing_blv: str = "",
+) -> dict[str, str]:
+    """Lấy đúng tên hai đội và BLV từ card, giữ dấu tiếng Việt/ngoặc đội nữ."""
+    slug_name = clean_match_name("", url)
+    home_hint, away_hint = _team_parts(slug_name)
+    card = clean_text(card_text or raw_title)
+
+    home_name = ""
+    away_name = ""
+    commentator = normalize_blv_name(existing_blv)
+    if re.search(r"\bvs\b", card, re.I):
+        left, right = re.split(r"\bvs\b", card, maxsplit=1, flags=re.I)
+        home_name, _home_start, _home_end = _find_exact_team_span(
+            left, home_hint, prefer_last=True
+        )
+        away_name, _away_start, away_end = _find_exact_team_span(
+            right, away_hint, prefer_last=False
+        )
+        if away_name and not commentator and away_end >= 0:
+            trailing = clean_text(right[away_end:])
+            trailing = re.sub(
+                r"(?i)^(?:sắp\s*diễn\s*ra|đang\s*diễn\s*ra|xem\s*ngay|live)\s*",
+                "",
+                trailing,
+            ).strip(" -|•")
+            commentator = normalize_blv_name(trailing)
+
+    match_name = ""
+    if home_name and away_name:
+        match_name = f"{home_name} VS {away_name}"
+    else:
+        candidate = clean_match_name(raw_title, url)
+        if re.search(r"\bvs\b", candidate, re.I) and len(candidate) <= 140:
+            match_name = candidate
+        else:
+            match_name = slug_name
+        fallback_home, fallback_away = _team_parts(match_name)
+        home_name = home_name or fallback_home
+        away_name = away_name or fallback_away
+
+    return {
+        "match_name": clean_text(match_name),
+        "home_name": clean_text(home_name),
+        "away_name": clean_text(away_name),
+        "blv": commentator,
+    }
+
+
+def match_name_detail_score(value: str) -> int:
+    text = clean_text(value)
+    if not re.search(r"\bvs\b", text, re.I):
+        return -1000
+    score = len(normalize_search_text(text).split())
+    score += sum(2 for ch in text if ord(ch) > 127 and ch.isalpha())
+    score += text.count("(") * 4 + text.count(".") * 2
+    if re.search(r"\b(?:FC|CF|SC|HJK|CSKA|PAOK|U\d{1,2})\b", text):
+        score += 4
+    if re.search(r"(?i)\b(?:trực tiếp|sắp diễn ra|đang diễn ra|nations league|europa league)\b", text):
+        score -= 25
+    return score
+
+
+def hydrate_discovered_match_metadata(
+    match: dict[str, Any],
+    now: datetime | None = None,
+) -> dict[str, Any]:
+    """Chuẩn hóa metadata ngay từ trang chủ để trận chưa có media vẫn vào playlist."""
+    url = clean_text(str(match.get("url", "")))
+    raw_title = clean_text(str(match.get("raw_title", "")))
+    raw_time = clean_text(str(match.get("raw_time", "")))
+    card_text = clean_text(str(match.get("card_text", "")))
+
+    identity = extract_card_identity(
+        url,
+        card_text,
+        raw_title,
+        clean_text(str(match.get("blv", ""))),
+    )
+    _derived_name, derived_time, derived_blv = derive_match_info(url, raw_title, raw_time)
+    match["match_name"] = identity.get("match_name") or _derived_name
+    match["home_name"] = identity.get("home_name", "")
+    match["away_name"] = identity.get("away_name", "")
+    match["time"] = (
+        clean_text(str(match.get("time", "")))
+        or extract_time(raw_time)
+        or extract_time(card_text)
+        or derived_time
+    )
+    match["date"] = (
+        clean_text(str(match.get("date", "")))
+        or extract_date(raw_time)
+        or extract_date(card_text)
+        or extract_date(url)
+    )
+    match["blv"] = (
+        identity.get("blv")
+        or normalize_blv_name(clean_text(str(match.get("blv", ""))))
+        or derived_blv
+    )
+
+    candidates: list[Any] = list(match.get("logo_candidates") or [])
+    candidates.extend(match.get("team_logos") or [])
+    for field in ("home_logo", "away_logo", "logo"):
+        if match.get(field):
+            candidates.append(match[field])
+    ranked = ranked_logo_candidates(candidates, url or TARGET_URL, match["match_name"])
+
+    home_logo = absolute_url(clean_text(str(match.get("home_logo", ""))), url or TARGET_URL)
+    away_logo = absolute_url(clean_text(str(match.get("away_logo", ""))), url or TARGET_URL)
+    if not is_good_logo_url(home_logo):
+        home_logo = ""
+    if not is_good_logo_url(away_logo) or away_logo == home_logo:
+        away_logo = ""
+    if not home_logo:
+        home_logo = next(
+            (item["url"] for item in ranked if item.get("home_hits", 0) > 0),
+            "",
+        )
+    if not away_logo:
+        away_logo = next(
+            (
+                item["url"] for item in ranked
+                if item.get("away_hits", 0) > 0 and item["url"] != home_logo
+            ),
+            "",
+        )
+    if not home_logo and ranked:
+        home_logo = ranked[0]["url"]
+    if not away_logo:
+        away_logo = next(
+            (item["url"] for item in ranked if item["url"] != home_logo),
+            "",
+        )
+
+    match["home_logo"] = home_logo
+    match["away_logo"] = away_logo
+    match["team_logos"] = [value for value in (home_logo, away_logo) if value]
+    match["logo"] = home_logo or away_logo or choose_logo(
+        candidates, url or TARGET_URL, match["match_name"]
+    )
+    match["playlist_page_url"] = url
+    match["metadata_complete"] = bool(
+        match.get("match_name")
+        and match.get("time")
+        and match.get("date")
+        and match.get("blv")
+        and match.get("home_logo")
+        and match.get("away_logo")
+    )
+    annotate_match_timing(match, now)
+    return match
 
 
 def derive_match_info(
@@ -2855,7 +3073,11 @@ async def fetch_stream(
             )
             if metadata.get("title"):
                 better_name = clean_match_name(metadata["title"], match["url"])
-                if re.search(r"\bvs\b", better_name, re.I):
+                if (
+                    re.search(r"\bvs\b", better_name, re.I)
+                    and match_name_detail_score(better_name)
+                    > match_name_detail_score(match.get("match_name", ""))
+                ):
                     match["match_name"] = better_name
             detail_time, detail_date, detail_time_source = select_best_time_candidate(metadata)
             if detail_time:
@@ -3229,7 +3451,8 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                     timeValue = "",
                     logos = [],
                     sportHint = "",
-                    mediaHints = []
+                    mediaHints = [],
+                    commentator = ""
                 ) {
                     const href = normalizeHref(hrefValue);
                     if (!isMatchHref(href) || seen.has(href)) return;
@@ -3243,8 +3466,11 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                         card_text: clean(cardText),
                         raw_time: clean(timeValue),
                         logo: logos[0]?.url || "",
+                        home_logo: logos[0]?.url || "",
+                        away_logo: logos[1]?.url || "",
                         team_logos: logos.slice(0, 12).map((item) => item.url),
                         logo_candidates: logos.slice(0, 20),
+                        blv: clean(commentator),
                         sport_hint: clean(sportHint),
                         stream_hints: Array.from(new Set(mediaHints || [])).slice(0, 12),
                     });
@@ -3270,14 +3496,40 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                         "h1, h2, h3, [class*='match-title'], [class*='match-name'], [class*='team-name']"
                     ) || []).find((el) => /\bvs\b/i.test(clean(el.innerText || el.textContent)));
 
+                    const teamNames = Array.from(container?.querySelectorAll(
+                        "[class*='home-team'], [class*='away-team'], [class*='team-name'], " +
+                        "[data-home-team], [data-away-team], [data-team-name]"
+                    ) || []).map((el) => clean(
+                        el.getAttribute("data-home-team") || el.getAttribute("data-away-team") ||
+                        el.getAttribute("data-team-name") || el.innerText || el.textContent
+                    )).filter((value, index, array) => (
+                        value && value.length <= 90 && !/\bvs\b/i.test(value) &&
+                        !/sắp diễn ra|đang diễn ra|xem ngay/i.test(value) &&
+                        array.indexOf(value) === index
+                    ));
+                    const structuredTitle = teamNames.length >= 2
+                        ? `${teamNames[0]} VS ${teamNames[1]}`
+                        : "";
+
+                    const commentatorNode = container?.querySelector(
+                        "[data-blv], [data-commentator], [class*='blv-name'], " +
+                        "[class*='commentator-name'], [class*='blv'], [class*='commentator']"
+                    );
+                    const commentator = clean(
+                        commentatorNode?.getAttribute("data-blv") ||
+                        commentatorNode?.getAttribute("data-commentator") ||
+                        commentatorNode?.innerText || commentatorNode?.textContent || ""
+                    );
+
                     addItem(
                         href,
-                        clean(titleNode?.innerText || titleNode?.textContent || a.innerText || a.title || a.getAttribute("aria-label")),
+                        clean(structuredTitle || titleNode?.innerText || titleNode?.textContent || a.innerText || a.title || a.getAttribute("aria-label")),
                         cardText,
                         timeValue,
-                        imageCandidates(container, clean(titleNode?.innerText || titleNode?.textContent || cardText)),
+                        imageCandidates(container, clean(structuredTitle || titleNode?.innerText || titleNode?.textContent || cardText)),
                         sportHint,
-                        streamHints(container)
+                        streamHints(container),
+                        commentator
                     );
                 });
 
@@ -3322,6 +3574,7 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                     if isinstance(candidate, dict) and initial_logo_usage[candidate.get("url", "")] > 1:
                         candidate["score"] = float(candidate.get("score") or 0) - 80
         for item in links:
+            hydrate_discovered_match_metadata(item)
             item["sport_group"] = classify_sport(
                 item.get("sport_hint", ""),
                 item.get("card_text", ""),
@@ -3344,6 +3597,22 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                 f"{group}={counts[group]}" for group in SPORT_GROUP_ORDER if counts[group]
             )
             print(f"📂 Phân loại link trang chủ: {summary}", flush=True)
+            metadata_summary = {
+                "name": sum(bool(item.get("match_name")) for item in links),
+                "schedule": sum(bool(item.get("time") and item.get("date")) for item in links),
+                "blv": sum(bool(item.get("blv")) for item in links),
+                "home_logo": sum(bool(item.get("home_logo")) for item in links),
+                "away_logo": sum(bool(item.get("away_logo")) for item in links),
+            }
+            print(
+                "🧾 Metadata card: "
+                f"tên={metadata_summary['name']}/{len(links)} | "
+                f"ngày+giờ={metadata_summary['schedule']}/{len(links)} | "
+                f"BLV={metadata_summary['blv']}/{len(links)} | "
+                f"logo chủ={metadata_summary['home_logo']}/{len(links)} | "
+                f"logo khách={metadata_summary['away_logo']}/{len(links)}",
+                flush=True,
+            )
 
         if not links:
             try:
@@ -3408,50 +3677,120 @@ def android_stream_url(stream_url: str, user_agent: str, referer: str, origin: s
     return stream_url + "|" + "&".join(headers)
 
 
-def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int]:
-    """
-    Tạo 3 playlist:
-      - phaohoa_live.m3u: playlist phổ thông, URL nguyên bản + EXTHTTP/EXTVLCOPT.
-      - phaohoa_live_pipe.m3u: biến thể Kodi-style URL|Header=Value.
-      - phaohoa_live_vlc.m3u: URL nguyên bản + EXTVLCOPT dành riêng VLC.
+def merge_discovered_with_scan_results(
+    discovered: list[dict[str, Any]],
+    scanned_results: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Giữ toàn bộ card trang chủ; kết quả quét chỉ ghi đè stream/metadata chi tiết."""
+    scanned_by_id = {
+        match_id_from_url(str(row.get("url", ""))): row
+        for row in scanned_results
+        if row.get("url")
+    }
+    merged: list[dict[str, Any]] = []
+    for source_row in discovered:
+        row = dict(source_row)
+        scanned = scanned_by_id.get(match_id_from_url(str(row.get("url", ""))))
+        if scanned:
+            for key, value in scanned.items():
+                if value not in (None, "", [], {}):
+                    row[key] = value
+            row["scan_attempted"] = True
+        else:
+            row["scan_attempted"] = False
+        hydrate_discovered_match_metadata(row)
+        row["playlist_mode"] = (
+            "stream" if (row.get("streams") or row.get("stream_urls")) else "metadata-only"
+        )
+        row["listed_in_playlist"] = True
+        merged.append(row)
 
-    Không gắn pipe headers vào playlist mặc định vì nhiều IPTV player Android
-    coi phần sau dấu | là một phần URL và báo lỗi phát kênh.
+    known = {match_id_from_url(str(row.get("url", ""))) for row in merged}
+    for scanned in scanned_results:
+        key = match_id_from_url(str(scanned.get("url", "")))
+        if key in known:
+            continue
+        row = dict(scanned)
+        hydrate_discovered_match_metadata(row)
+        row["scan_attempted"] = True
+        row["playlist_mode"] = (
+            "stream" if (row.get("streams") or row.get("stream_urls")) else "metadata-only"
+        )
+        row["listed_in_playlist"] = True
+        merged.append(row)
+    return merged
+
+
+def _date_sort_value(value: str) -> tuple[int, int]:
+    match = re.fullmatch(r"\s*(\d{1,2})/(\d{1,2})\s*", value or "")
+    if not match:
+        return (99, 99)
+    return (int(match.group(2)), int(match.group(1)))
+
+
+def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int, int]:
+    """
+    Tạo 3 playlist. Mọi card trận đều được ghi vào M3U.
+
+    - Có media thật: URL M3U8/FLV + header phát.
+    - Chưa có media: dùng URL trang trận làm mục metadata tạm thời. Lượt cron sau
+      sẽ tự thay bằng media thật khi player bắt đầu công khai link.
     """
     for output_path in (OUTPUT_M3U, OUTPUT_PIPE_M3U, OUTPUT_VLC_M3U):
         Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+    for result in results:
+        hydrate_discovered_match_metadata(result)
     resolve_duplicate_logos(results)
 
     universal_lines = ["#EXTM3U"]
     pipe_lines = ["#EXTM3U"]
     vlc_lines = ["#EXTM3U"]
 
-    written_streams: set[str] = set()
-    match_keys_with_streams: set[str] = set()
-    count_links = 0
+    written_urls: set[str] = set()
+    match_keys_with_entries: set[str] = set()
+    count_real_links = 0
+    count_metadata_only = 0
 
     sorted_results = sorted(
         results,
         key=lambda item: (
             SPORT_GROUP_RANK.get(item.get("sport_group", "Khác"), 999),
+            _date_sort_value(item.get("date") or ""),
             item.get("time") or "99:99",
             clean_text(item.get("match_name") or item.get("raw_title") or "").lower(),
         ),
     )
 
-    group_stream_counts: Counter[str] = Counter()
+    group_entry_counts: Counter[str] = Counter()
 
     for result in sorted_results:
         streams = result.get("streams") or [
             {"url": value} for value in (result.get("stream_urls") or [])
         ]
         if not streams:
-            continue
+            if not LIST_ALL_DISCOVERED_MATCHES:
+                continue
+            page_url = clean_text(
+                str(result.get("playlist_page_url") or result.get("url") or "")
+            )
+            if (
+                not PLACEHOLDER_USE_MATCH_PAGE
+                or not page_url.startswith(("http://", "https://"))
+            ):
+                continue
+            streams = [{
+                "url": page_url,
+                "playability": "metadata-only",
+                "is_placeholder": True,
+                "kind": "page",
+            }]
 
-        match_name = result.get("match_name") or result.get("raw_title") or "Pháo Hoa TV"
-        time_str = result.get("time") or ""
-        date_str = result.get("date") or ""
-        blv = result.get("blv") or ""
+        match_name = clean_text(
+            str(result.get("match_name") or result.get("raw_title") or "Pháo Hoa TV")
+        )
+        time_str = clean_text(str(result.get("time") or ""))
+        date_str = clean_text(str(result.get("date") or ""))
+        blv = normalize_blv_name(clean_text(str(result.get("blv") or "")))
         sport_group = result.get("sport_group") or classify_sport(
             result.get("sport_hint", ""),
             result.get("card_text", ""),
@@ -3460,27 +3799,42 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int]:
         )
         if sport_group not in SPORT_GROUP_RANK:
             sport_group = "Khác"
-        # resolve_duplicate_logos() đã chọn logo cuối cùng và loại logo dùng nhầm
-        # cho nhiều trận. Không chấm lại ở đây vì có thể vô tình chọn lại logo lỗi.
-        logo = result.get("logo", "") or "https://phaohoa1.live/favicon.ico"
+
+        home_logo = clean_text(str(result.get("home_logo") or ""))
+        away_logo = clean_text(str(result.get("away_logo") or ""))
+        logo = home_logo or away_logo or clean_text(str(result.get("logo") or ""))
+        if not logo:
+            logo = "https://phaohoa1.live/favicon.ico"
 
         kickoff_label = " ".join(part for part in (time_str, date_str) if part)
         display_base = f"[{kickoff_label}] {match_name}" if kickoff_label else match_name
         if blv and blv.lower() not in display_base.lower():
             display_base += f" [BLV {blv}]"
         display_base = escape_m3u_text(display_base)
-        logo = escape_m3u_text(logo)
 
-        unique_streams = [item for item in streams if item.get("url") not in written_streams]
+        unique_streams: list[dict[str, Any]] = []
+        local_seen: set[str] = set()
+        for item in streams:
+            stream_url = decode_url_repeatedly(clean_text(str(item.get("url") or "")))
+            if not stream_url or stream_url in local_seen:
+                continue
+            local_seen.add(stream_url)
+            fixed = dict(item)
+            fixed["url"] = stream_url
+            unique_streams.append(fixed)
         if not unique_streams:
             continue
 
-        match_keys_with_streams.add(f"{match_name}|{blv}|{time_str}|{date_str}")
+        match_keys_with_entries.add(f"{match_name}|{blv}|{time_str}|{date_str}")
         for index, stream_info in enumerate(unique_streams, start=1):
-            stream_url = decode_url_repeatedly(stream_info.get("url", ""))
-            if not stream_url:
+            stream_url = stream_info["url"]
+            is_placeholder = bool(stream_info.get("is_placeholder")) or (
+                stream_info.get("playability") == "metadata-only"
+            )
+            dedupe_key = f"placeholder:{result.get('url')}" if is_placeholder else stream_url
+            if dedupe_key in written_urls:
                 continue
-            written_streams.add(stream_url)
+            written_urls.add(dedupe_key)
 
             display_name = display_base
             quality = normalize_quality_hint(stream_info.get("quality", ""))
@@ -3488,58 +3842,80 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int]:
                 display_name += f" (Luồng {index})"
 
             referer = normalize_playback_referer(
-                stream_info.get("referer") or result.get("url") or PLAYER_ORIGIN_FALLBACK + "/"
+                stream_info.get("referer")
+                or result.get("url")
+                or PLAYER_ORIGIN_FALLBACK + "/"
             )
-            origin = clean_text(stream_info.get("origin") or origin_from_url(referer) or PLAYER_ORIGIN_FALLBACK)
+            origin = clean_text(
+                stream_info.get("origin")
+                or origin_from_url(referer)
+                or PLAYER_ORIGIN_FALLBACK
+            )
             user_agent = clean_text(stream_info.get("user_agent") or UA)
-            kind = stream_kind(stream_url, stream_info.get("content_type", ""))
+            kind = "" if is_placeholder else stream_kind(
+                stream_url, stream_info.get("content_type", "")
+            )
             if kind:
                 suffix = f"{quality} {kind.upper()}" if quality else kind.upper()
-                if stream_info.get("playability") == "upcoming-pending":
-                    suffix = f"CHỜ PHÁT {suffix}"
                 display_name += f" [{suffix}]"
 
             channel_id = channel_id_for(result, stream_url, index)
-            attributes = (
-                f'tvg-id="{escape_m3u_text(channel_id)}" '
-                f'tvg-name="{escape_m3u_text(display_base)}" '
-                f'group-title="{escape_m3u_text(sport_group)}"'
-            )
+            attributes = [
+                f'tvg-id="{escape_m3u_text(channel_id)}"',
+                f'tvg-name="{escape_m3u_text(display_base)}"',
+                f'group-title="{escape_m3u_text(sport_group)}"',
+                f'phaohoa-entry="{"metadata-only" if is_placeholder else "stream"}"',
+                f'phaohoa-page-url="{escape_m3u_text(str(result.get("url") or ""))}"',
+            ]
             if logo:
-                attributes += f' tvg-logo="{logo}"'
-            extinf = f"#EXTINF:-1 {attributes},{display_name}"
+                attributes.append(f'tvg-logo="{escape_m3u_text(logo)}"')
+            if home_logo:
+                attributes.append(
+                    f'phaohoa-home-logo="{escape_m3u_text(home_logo)}"'
+                )
+            if away_logo:
+                attributes.append(
+                    f'phaohoa-away-logo="{escape_m3u_text(away_logo)}"'
+                )
+            if blv:
+                attributes.append(f'phaohoa-blv="{escape_m3u_text(blv)}"')
+            extinf = f"#EXTINF:-1 {' '.join(attributes)},{display_name}"
 
-            universal_lines.extend([
-                extinf,
-                f"#EXTVLCOPT:http-referrer={referer}",
-                f"#EXTVLCOPT:http-user-agent={user_agent}",
-                f"#EXTVLCOPT:http-origin={origin}",
-                "#EXTVLCOPT:http-reconnect=true",
-                f"#EXTHTTP:{header_json(user_agent, referer, origin)}",
-                stream_url,
-            ])
+            if is_placeholder:
+                universal_lines.extend([extinf, stream_url])
+                pipe_lines.extend([extinf, stream_url])
+                vlc_lines.extend([extinf, stream_url])
+                count_metadata_only += 1
+            else:
+                universal_lines.extend([
+                    extinf,
+                    f"#EXTVLCOPT:http-referrer={referer}",
+                    f"#EXTVLCOPT:http-user-agent={user_agent}",
+                    f"#EXTVLCOPT:http-origin={origin}",
+                    "#EXTVLCOPT:http-reconnect=true",
+                    f"#EXTHTTP:{header_json(user_agent, referer, origin)}",
+                    stream_url,
+                ])
+                pipe_lines.extend([
+                    extinf,
+                    f"#EXTVLCOPT:http-referrer={referer}",
+                    f"#EXTVLCOPT:http-user-agent={user_agent}",
+                    f"#EXTVLCOPT:http-origin={origin}",
+                    "#EXTVLCOPT:http-reconnect=true",
+                    f"#EXTHTTP:{header_json(user_agent, referer, origin)}",
+                    android_stream_url(stream_url, user_agent, referer, origin),
+                ])
+                vlc_lines.extend([
+                    extinf,
+                    f"#EXTVLCOPT:http-referrer={referer}",
+                    f"#EXTVLCOPT:http-user-agent={user_agent}",
+                    f"#EXTVLCOPT:http-origin={origin}",
+                    "#EXTVLCOPT:http-reconnect=true",
+                    stream_url,
+                ])
+                count_real_links += 1
 
-            pipe_lines.extend([
-                extinf,
-                f"#EXTVLCOPT:http-referrer={referer}",
-                f"#EXTVLCOPT:http-user-agent={user_agent}",
-                f"#EXTVLCOPT:http-origin={origin}",
-                "#EXTVLCOPT:http-reconnect=true",
-                f"#EXTHTTP:{header_json(user_agent, referer, origin)}",
-                android_stream_url(stream_url, user_agent, referer, origin),
-            ])
-
-            vlc_lines.extend([
-                extinf,
-                f"#EXTVLCOPT:http-referrer={referer}",
-                f"#EXTVLCOPT:http-user-agent={user_agent}",
-                f"#EXTVLCOPT:http-origin={origin}",
-                "#EXTVLCOPT:http-reconnect=true",
-                stream_url,
-            ])
-
-            group_stream_counts[sport_group] += 1
-            count_links += 1
+            group_entry_counts[sport_group] += 1
 
     Path(OUTPUT_DEBUG).write_text(
         json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -3551,28 +3927,37 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int]:
         (Path(OUTPUT_VLC_M3U), vlc_lines, "VLC"),
     )
 
-    if count_links:
+    playlist_entry_count = count_real_links + count_metadata_only
+    if playlist_entry_count:
         for path, lines, _label in output_sets:
             path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     else:
         for path, _lines, label in output_sets:
-            if path.exists():
-                print(f"⚠️ Không có link mới; giữ nguyên playlist {label}: {path.resolve()}")
-            else:
-                path.write_text("#EXTM3U\n", encoding="utf-8")
-                print(f"⚠️ Đã tạo playlist {label} rỗng: {path.resolve()}")
+            path.write_text("#EXTM3U\n", encoding="utf-8")
+            print(f"⚠️ Không có trận nào để ghi playlist {label}: {path.resolve()}")
 
-    if count_links:
+    if playlist_entry_count:
         m3u8_count = sum(
-            1 for line in vlc_lines if line.startswith("http") and stream_kind(line) == "m3u8"
+            1
+            for result in results
+            for item in (result.get("streams") or [])
+            if stream_kind(item.get("url", ""), item.get("content_type", "")) == "m3u8"
         )
         flv_count = sum(
-            1 for line in vlc_lines if line.startswith("http") and stream_kind(line) == "flv"
+            1
+            for result in results
+            for item in (result.get("streams") or [])
+            if stream_kind(item.get("url", ""), item.get("content_type", "")) == "flv"
         )
-        print(f"📊 Playlist: M3U8={m3u8_count} | FLV={flv_count}")
+        print(
+            f"📊 Playlist: trận hiển thị={len(match_keys_with_entries)} | "
+            f"link thật={count_real_links} (M3U8={m3u8_count}, FLV={flv_count}) | "
+            f"chưa có media={count_metadata_only}"
+        )
         group_summary = " | ".join(
-            f"{group}={group_stream_counts[group]}"
-            for group in SPORT_GROUP_ORDER if group_stream_counts[group]
+            f"{group}={group_entry_counts[group]}"
+            for group in SPORT_GROUP_ORDER
+            if group_entry_counts[group]
         )
         if group_summary:
             print(f"📂 Thư mục playlist: {group_summary}")
@@ -3580,7 +3965,7 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int]:
         print(f"📺 Pipe/Kodi tùy chọn: {Path(OUTPUT_PIPE_M3U).resolve()}")
         print(f"📺 VLC: {Path(OUTPUT_VLC_M3U).resolve()}")
 
-    return len(match_keys_with_streams), count_links
+    return len(match_keys_with_entries), count_real_links, count_metadata_only
 
 
 async def progress_heartbeat(tasks: list[asyncio.Task[Any]], total: int) -> None:
@@ -3621,8 +4006,8 @@ async def main() -> None:
         f"định dạng={','.join(STREAM_EXTENSIONS)} | chờ mỗi trận={STREAM_WAIT_SECONDS}s | "
         f"xác minh phát thật={'BẬT' if VERIFY_STREAMS else 'TẮT'} | "
         f"tối đa {MAX_VERIFY_CANDIDATES} ứng viên/{MAX_OUTPUT_STREAMS_PER_MATCH} mức chất lượng đầu ra | "
-        f"lọc trận -{SCAN_PAST_MINUTES}/+{SCAN_FUTURE_MINUTES} phút | "
-        f"giữ link chờ phát trong {UPCOMING_KEEP_HOURS} giờ tới | "
+        f"hiển thị mọi card; chỉ dò player trong -{SCAN_PAST_MINUTES}/+{SCAN_FUTURE_MINUTES} phút | "
+        f"chu kỳ rà lại trận sắp đá={UPCOMING_KEEP_HOURS} giờ | "
         f"fallback chung chưa xác minh={'BẬT' if (ALLOW_UNVERIFIED_BROWSER_FALLBACK or KEEP_PREVIOUS_UNVERIFIED) else 'TẮT'} | "
         f"HTTP-first={'BẬT' if HYBRID_HTTP_FIRST else 'TẮT'} | delta={'BẬT' if DELTA_SCAN_ENABLED else 'TẮT'} | "
         f"miền dự phòng={','.join(HOME_URLS)}"
@@ -3679,28 +4064,46 @@ async def main() -> None:
         )
 
         if direct_urls:
-            links = []
+            discovered_links: list[dict[str, Any]] = []
             for url in direct_urls:
                 match_name, _, _ = derive_match_info(url)
-                links.append({
+                row = {
                     "url": url,
                     "raw_title": match_name,
                     "raw_time": "",
+                    "card_text": "",
                     "logo": "",
+                    "home_logo": "",
+                    "away_logo": "",
                     "team_logos": [],
                     "logo_candidates": [],
                     "sport_hint": "",
                     "sport_group": classify_sport(match_name, url),
-                })
-            print(f"✅ Chế độ test trực tiếp: {len(links)} URL.")
+                }
+                hydrate_discovered_match_metadata(row)
+                discovered_links.append(row)
+            scan_links = list(discovered_links)
+            print(f"✅ Chế độ test trực tiếp: {len(scan_links)} URL.")
         else:
-            links = await collect_home_links_with_failover(context)
-            links, window_stats = filter_links_by_scan_window(links)
+            discovered_links = await collect_home_links_with_failover(context)
+            if not discovered_links:
+                print("❌ Không tìm thấy card trận/phòng nào trên trang chủ.")
+                write_outputs([])
+                await context.close()
+                await browser.close()
+                return
+
+            scan_links, window_stats = filter_links_by_scan_window(discovered_links)
             print_scan_window_summary(window_stats)
+            print(
+                f"📋 Playlist sẽ hiển thị đủ {len(discovered_links)} trận phát hiện trên web; "
+                f"chỉ {len(scan_links)} trận trong cửa sổ được mở player ở lượt này.",
+                flush=True,
+            )
             if DELTA_SCAN_ENABLED:
                 due_links: list[dict[str, Any]] = []
                 skipped_delta = 0
-                for item in links:
+                for item in scan_links:
                     key = match_id_from_url(item.get("url", ""))
                     due, reason = should_scan_now(
                         item, delta_state.get(key), near_minutes=DELTA_NEAR_MINUTES
@@ -3710,65 +4113,62 @@ async def main() -> None:
                         due_links.append(item)
                     else:
                         skipped_delta += 1
-                links = due_links
+                scan_links = due_links
                 print(
-                    f"🧠 Delta scan: đến lượt={len(links)} | hoãn={skipped_delta} | "
+                    f"🧠 Delta scan: đến lượt={len(scan_links)} | hoãn={skipped_delta} | "
                     f"ngưỡng gần giờ={DELTA_NEAR_MINUTES} phút",
                     flush=True,
                 )
 
-        if not links:
-            print("❌ Không tìm thấy link trận/phòng nào.")
-            write_outputs([])
-            await context.close()
-            await browser.close()
-            return
-
-        for match in links:
+        for match in scan_links:
             match_id = match_id_from_url(match.get("url", ""))
             match["_previous_streams"] = list(previous_streams_by_match.get(match_id, []))
 
-        print(
-            f"✅ Tìm thấy {len(links)} link trận/phòng. "
-            f"Bắt đầu quét tối đa {CONCURRENCY_LIMIT} trang cùng lúc..."
-        )
-        semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
-        total_links = len(links)
-        tasks: list[asyncio.Task[dict[str, Any]]] = []
-        for index, match in enumerate(links, start=1):
-            match["_scan_index"] = index
-            match["_scan_total"] = total_links
-            tasks.append(asyncio.create_task(fetch_stream(context, match, semaphore)))
-
-        heartbeat = asyncio.create_task(progress_heartbeat(tasks, total_links))
         results: list[dict[str, Any]] = []
-        completed = 0
-        try:
-            for future in asyncio.as_completed(tasks):
-                result = await future
-                results.append(result)
-                completed += 1
-                found = len(result.get("streams") or [])
-                print(
-                    f"📈 Hoàn thành {completed}/{total_links}: "
-                    f"[{result.get('sport_group', 'Khác')}] "
-                    f"{result.get('match_name', '')[:70]} | stream={found}",
-                    flush=True,
-                )
-        finally:
-            heartbeat.cancel()
-            await asyncio.gather(heartbeat, return_exceptions=True)
+        if scan_links:
+            print(
+                f"✅ Có {len(scan_links)} trận đến lượt dò media. "
+                f"Bắt đầu quét tối đa {CONCURRENCY_LIMIT} trang cùng lúc..."
+            )
+            semaphore = asyncio.Semaphore(CONCURRENCY_LIMIT)
+            total_links = len(scan_links)
+            tasks: list[asyncio.Task[dict[str, Any]]] = []
+            for index, match in enumerate(scan_links, start=1):
+                match["_scan_index"] = index
+                match["_scan_total"] = total_links
+                tasks.append(asyncio.create_task(fetch_stream(context, match, semaphore)))
+
+            heartbeat = asyncio.create_task(progress_heartbeat(tasks, total_links))
+            completed = 0
+            try:
+                for future in asyncio.as_completed(tasks):
+                    result = await future
+                    results.append(result)
+                    completed += 1
+                    found = len(result.get("streams") or [])
+                    print(
+                        f"📈 Hoàn thành {completed}/{total_links}: "
+                        f"[{result.get('sport_group', 'Khác')}] "
+                        f"{result.get('match_name', '')[:70]} | stream={found}",
+                        flush=True,
+                    )
+            finally:
+                heartbeat.cancel()
+                await asyncio.gather(heartbeat, return_exceptions=True)
+        else:
+            print(
+                "ℹ️ Chưa có trận nào đến lượt mở player; vẫn ghi toàn bộ card vào M3U bằng URL trang trận.",
+                flush=True,
+            )
 
         pending_without_media = [
             row for row in results
-            if isinstance(row.get("minutes_to_kickoff"), int)
-            and 0 <= int(row.get("minutes_to_kickoff")) <= SCAN_FUTURE_MINUTES
-            and not (row.get("streams") or [])
+            if not (row.get("streams") or [])
         ]
         if pending_without_media:
             print(
-                f"ℹ️ Có {len(pending_without_media)} trận sắp đá trong cửa sổ nhưng trang chưa lộ "
-                "URL M3U8/FLV; không đưa URL trang web vào M3U vì ứng dụng IPTV không phát được.",
+                f"ℹ️ Có {len(pending_without_media)} trận đã dò nhưng chưa lộ M3U8/FLV; "
+                "playlist vẫn giữ mục trận bằng URL trang trận và sẽ tự thay ở lượt cron sau.",
                 flush=True,
             )
 
@@ -3777,15 +4177,21 @@ async def main() -> None:
             save_delta_state(STATE_PATH, delta_state, "phaohoa")
             print(f"💾 Đã cập nhật delta state: {STATE_PATH.resolve()}", flush=True)
 
-        count_matches, count_links = write_outputs(results)
+        playlist_results = merge_discovered_with_scan_results(discovered_links, results)
+        count_matches, count_real_links, count_metadata_only = write_outputs(playlist_results)
 
-        if count_links:
-            print(f"\n🎉 HOÀN TẤT: lấy được {count_links} link từ {count_matches} trận/phòng.")
-            print(f"📺 Playlist mặc định: {Path(OUTPUT_M3U).resolve()}")
-            print(f"📺 Playlist pipe/Kodi: {Path(OUTPUT_PIPE_M3U).resolve()}")
-            print(f"📺 Playlist VLC: {Path(OUTPUT_VLC_M3U).resolve()}")
-        else:
-            print("\n❌ Không bắt được m3u8/flv nào.")
+        print(
+            f"\n🎉 HOÀN TẤT: playlist có {count_matches} trận | "
+            f"link media thật={count_real_links} | chưa có media={count_metadata_only}."
+        )
+        if count_metadata_only:
+            print(
+                "ℹ️ Các mục chưa có media đang dùng URL trang trận để giữ đủ tên, lịch, BLV và logo; "
+                "chúng sẽ được thay bằng M3U8/FLV khi lần quét sau bắt được link."
+            )
+        print(f"📺 Playlist mặc định: {Path(OUTPUT_M3U).resolve()}")
+        print(f"📺 Playlist pipe/Kodi: {Path(OUTPUT_PIPE_M3U).resolve()}")
+        print(f"📺 Playlist VLC: {Path(OUTPUT_VLC_M3U).resolve()}")
         print(f"🧾 Nhật ký chi tiết: {Path(OUTPUT_DEBUG).resolve()}")
 
         await context.close()
