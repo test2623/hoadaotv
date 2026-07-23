@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-24T02:01:50.372970+07:00",
+  "updated_at": "2026-07-24T02:31:48.551468+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -129,9 +129,9 @@
       "url": "https://phaohoa1.live/truc-tiep/st-gallen-vs-benfica-24-07-2026-770777",
       "match_name": "St. Gallen vs Benfica",
       "kickoff_iso": "2026-07-24T01:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-24T02:01:50.372842+07:00",
-      "next_scan_at": "2026-07-24T02:06:50.372842+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-24T02:31:48.551378+07:00",
+      "next_scan_at": "2026-07-24T02:36:48.551378+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -143,9 +143,9 @@
       "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-midtjylland-24-07-2026-770775",
       "match_name": "Besiktas vs Midtjylland",
       "kickoff_iso": "2026-07-24T01:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-24T02:01:50.372842+07:00",
-      "next_scan_at": "2026-07-24T02:06:50.372842+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-24T02:31:48.551378+07:00",
+      "next_scan_at": "2026-07-24T02:36:48.551378+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -157,9 +157,9 @@
       "url": "https://phaohoa1.live/truc-tiep/vojvodina-vs-ajax-24-07-2026-778935",
       "match_name": "Vojvodina vs Ajax",
       "kickoff_iso": "2026-07-24T01:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-24T02:01:50.372842+07:00",
-      "next_scan_at": "2026-07-24T02:06:50.372842+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-24T02:31:48.551378+07:00",
+      "next_scan_at": "2026-07-24T02:36:48.551378+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
