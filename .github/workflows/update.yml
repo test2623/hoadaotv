@@ -1,0 +1,126 @@
+name: Phao Hoa TV Standalone v4.4.15
+
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+
+concurrency:
+  group: phaohoa-live-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: 1. Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 3
+
+      - name: 2. Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 3. Install Playwright
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: 4. Offline audit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m py_compile main.py sources/phaohoa.py sources/hybrid_support.py
+          python -m unittest discover -s tests -v
+
+      - name: 5. Scan Phao Hoa TV
+        shell: bash
+        env:
+          PYTHONUNBUFFERED: "1"
+          PHAOHOA_HOME_URLS: "https://phaohoa1.live/"
+          PHAOHOA_MATCH_CONCURRENCY: "3"
+          PHAOHOA_HOME_WAIT_MS: "6000"
+          PHAOHOA_ROOM_WAIT_SECONDS: "20"
+          PHAOHOA_SCAN_PAST_MINUTES: "150"
+          PHAOHOA_SCAN_FUTURE_MINUTES: "240"
+          PHAOHOA_HYBRID_HTTP_FIRST: "1"
+          PHAOHOA_HTTP_DISCOVERY_TIMEOUT_SECONDS: "8"
+          PHAOHOA_HTTP_DISCOVERY_MAX_FOLLOWS: "4"
+          PHAOHOA_DELTA_SCAN_ENABLED: "1"
+          PHAOHOA_DELTA_NEAR_MINUTES: "45"
+          PHAOHOA_STATE_PATH: "phaohoa_state.json"
+          PHAOHOA_SCAN_UNKNOWN_LIVE: "1"
+          PHAOHOA_FULL_SCAN: "1"
+          PHAOHOA_VERIFY_STREAMS: "1"
+          PHAOHOA_VERIFY_TIMEOUT_SECONDS: "7"
+          PHAOHOA_MAX_VERIFY_CANDIDATES: "5"
+          PHAOHOA_MAX_OUTPUT_STREAMS_PER_MATCH: "2"
+          PHAOHOA_UPCOMING_KEEP_HOURS: "4"
+          PHAOHOA_UPCOMING_FAR_THRESHOLD_MINUTES: "45"
+          PHAOHOA_UPCOMING_FAR_WAIT_SECONDS: "7"
+          PHAOHOA_UPCOMING_NEAR_WAIT_SECONDS: "12"
+          PHAOHOA_KEEP_PREVIOUS_UNVERIFIED: "0"
+          PHAOHOA_ALLOW_UNVERIFIED_BROWSER_FALLBACK: "0"
+        run: |
+          set -o pipefail
+          python -u main.py 2>&1 | tee phaohoa_scan.log
+
+      - name: 6. Audit outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in phaohoa_live.m3u phaohoa_live_pipe.m3u phaohoa_live_vlc.m3u phaohoa_debug.json; do
+            test -f "$file"
+          done
+          if grep -E '^https?://.*\|User-Agent=' phaohoa_live.m3u; then
+            echo "::error::Playlist phổ thông không được nối pipe header vào URL"
+            exit 1
+          fi
+          python - <<'PY_AUDIT'
+          import json
+          from pathlib import Path
+          payload = json.loads(Path('phaohoa_debug.json').read_text(encoding='utf-8'))
+          rows = payload if isinstance(payload, list) else payload.get('results', [])
+          streams = sum(len(row.get('streams') or []) for row in rows)
+          print(f'Pháo Hoa TV: rows={len(rows)} | streams={streams}')
+          PY_AUDIT
+
+      - name: 7. Upload debug
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phaohoa-debug-${{ github.run_id }}
+          if-no-files-found: ignore
+          path: |
+            phaohoa_scan.log
+            phaohoa_debug.json
+            phaohoa_home_debug.html
+            phaohoa_home_debug.png
+            phaohoa_live.m3u
+            phaohoa_live_pipe.m3u
+            phaohoa_live_vlc.m3u
+            phaohoa_state.json
+
+      - name: 8. Commit playlists
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          files=(phaohoa_live.m3u phaohoa_live_pipe.m3u phaohoa_live_vlc.m3u phaohoa_debug.json)
+          [[ -f phaohoa_state.json ]] && files+=(phaohoa_state.json)
+          git add -- "${files[@]}"
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi."
+            exit 0
+          fi
+          git commit -m "Update Phao Hoa TV playlist"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
