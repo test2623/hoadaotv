@@ -1,6 +1,151 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T13:09:30.409744+07:00",
-  "matches": {}
+  "updated_at": "2026-07-23T13:31:08.713617+07:00",
+  "matches": {
+    "d42658950ab7": {
+      "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
+      "match_name": "23-07 Nations League Thổ Nhĩ Kì (W) VS Canada (W) KaKa",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "b749f7505746": {
+      "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
+      "match_name": "23-07 Nations League Mỹ (W) VS Trung Quốc (W) KaKa",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "e42ebdb7e388": {
+      "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
+      "match_name": "23-07 Sea V Cup Việt Nam VS Thái Lan Chim Nhỏ",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "776573": {
+      "url": "https://phaohoa1.live/truc-tiep/malisheva-vs-hibernian-23-07-2026-776573",
+      "match_name": "23-07 UEFA Conference League Malisheva VS Hibernian Văn Minh",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "770542": {
+      "url": "https://phaohoa1.live/truc-tiep/hjk-vs-coleraine-23-07-2026-770542",
+      "match_name": "23-07 UEFA Conference League HJK VS Coleraine Pháo Thủ",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "9d9e4f844e37": {
+      "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
+      "match_name": "23-07 Sea V Cup Campuchia VS Philippines Chim Nhỏ",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "778923": {
+      "url": "https://phaohoa1.live/truc-tiep/qarabag-vs-cska-sofia-23-07-2026-778923",
+      "match_name": "23-07 UEFA Europa League Qarabag VS CSKA Sofia Kevin",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "778921": {
+      "url": "https://phaohoa1.live/truc-tiep/dyn-kyiv-vs-paok-24-07-2026-778921",
+      "match_name": "24-07 UEFA Europa League Dyn. Kyiv VS PAOK Văn Minh",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "770776": {
+      "url": "https://phaohoa1.live/truc-tiep/hammarby-vs-anderlecht-24-07-2026-770776",
+      "match_name": "24-07 UEFA Europa League Hammarby VS Anderlecht Chim Nhỏ",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "770777": {
+      "url": "https://phaohoa1.live/truc-tiep/st-gallen-vs-benfica-24-07-2026-770777",
+      "match_name": "24-07 UEFA Europa League St. Gallen VS Benfica Kevin",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "770775": {
+      "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-midtjylland-24-07-2026-770775",
+      "match_name": "24-07 UEFA Europa League Besiktas VS Midtjylland KaKa",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "778935": {
+      "url": "https://phaohoa1.live/truc-tiep/vojvodina-vs-ajax-24-07-2026-778935",
+      "match_name": "24-07 UEFA Conference League Vojvodina VS Ajax Pháo Thủ",
+      "kickoff_iso": "2026-07-23T15:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-23T13:31:08.713269+07:00",
+      "next_scan_at": "2026-07-23T13:51:08.713269+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    }
+  }
 }
