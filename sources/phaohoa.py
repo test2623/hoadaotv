@@ -53,7 +53,7 @@ LEGACY_GIT_PLAYLIST_PATH = "phaohoa/phaohoa_live.m3u"
 OUTPUT_DEBUG = "phaohoa_debug.json"
 OUTPUT_HOME_DEBUG_HTML = "phaohoa_home_debug.html"
 OUTPUT_HOME_DEBUG_PNG = "phaohoa_home_debug.png"
-SCANNER_VERSION = "4.4.17-PHAOHOA-ALL-FIXTURES-METADATA-PLAYLIST"
+SCANNER_VERSION = "4.4.19-PHAOHOA-SAFE-M3U-RAW-METADATA-FIX"
 
 
 def read_env_bool(name: str, default: bool = True) -> bool:
@@ -122,9 +122,21 @@ KEEP_PREVIOUS_UNVERIFIED = read_env_bool("PHAOHOA_KEEP_PREVIOUS_UNVERIFIED", Fal
 LIST_ALL_DISCOVERED_MATCHES = read_env_bool(
     "PHAOHOA_LIST_ALL_DISCOVERED_MATCHES", True
 )
-PLACEHOLDER_USE_MATCH_PAGE = read_env_bool(
-    "PHAOHOA_PLACEHOLDER_USE_MATCH_PAGE", True
-)
+# Không dùng URL trang trận làm dòng phát trong M3U. Một số IPTV app hoặc
+# trình nhập nguồn có thể tải/diễn giải HTML đó như playlist và sinh hàng
+# nghìn kênh rác. Placeholder luôn là URL loopback .m3u8 không có nội dung;
+# URL trang trận thật chỉ nằm trong thuộc tính metadata/debug.
+PLACEHOLDER_USE_MATCH_PAGE = False
+PLACEHOLDER_STREAM_BASE = os.getenv(
+    "PHAOHOA_PLACEHOLDER_STREAM_BASE",
+    "http://127.0.0.1:9/__phaohoa_metadata__",
+).strip().rstrip("/")
+if not PLACEHOLDER_STREAM_BASE.startswith(("http://", "https://")):
+    print(
+        "⚠️ PHAOHOA_PLACEHOLDER_STREAM_BASE không hợp lệ; dùng loopback an toàn.",
+        flush=True,
+    )
+    PLACEHOLDER_STREAM_BASE = "http://127.0.0.1:9/__phaohoa_metadata__"
 UPCOMING_FAR_THRESHOLD_MINUTES = read_env_int("PHAOHOA_UPCOMING_FAR_THRESHOLD_MINUTES", 45, minimum=5, maximum=240)
 UPCOMING_FAR_WAIT_SECONDS = read_env_int("PHAOHOA_UPCOMING_FAR_WAIT_SECONDS", 7, minimum=3, maximum=30)
 UPCOMING_NEAR_WAIT_SECONDS = read_env_int("PHAOHOA_UPCOMING_NEAR_WAIT_SECONDS", 12, minimum=5, maximum=60)
@@ -267,6 +279,49 @@ def channel_id_for(result: dict[str, Any], stream_url: str, index: int) -> str:
 
 def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+def sanitize_single_line(value: Any) -> str:
+    """Chuẩn hóa tuyệt đối về một dòng M3U, kể cả Unicode LS/PS/C0."""
+    raw = str(value or "")
+    cleaned = []
+    for char in raw:
+        category = unicodedata.category(char)
+        if char in {"\r", "\n", "\t"} or category in {"Zl", "Zp"}:
+            cleaned.append(" ")
+        elif category.startswith("C") and char not in {"\u200c", "\u200d"}:
+            cleaned.append(" ")
+        else:
+            cleaned.append(char)
+    return re.sub(r"\s+", " ", "".join(cleaned)).strip()
+
+
+def focused_card_text(raw_title: str, card_text: str) -> str:
+    """Chọn đúng card hiện tại, không dùng nhầm text của cả lưới trận."""
+    raw = sanitize_single_line(raw_title)
+    card = sanitize_single_line(card_text)
+    if not card:
+        return raw
+    if not raw:
+        return card
+    card_vs = len(re.findall(r"(?i)\bvs\b", card))
+    card_times = len(TIME_RE.findall(card))
+    raw_vs = len(re.findall(r"(?i)\bvs\b", raw))
+    # DOM Pháo Hoa có lúc closest() nhảy lên cả grid: card_text chứa 12 trận,
+    # còn raw_title của anchor vẫn đúng một card.
+    if raw_vs == 1 and (card_vs > 1 or card_times > 1 or len(card) > max(320, len(raw) * 3)):
+        return raw
+    return card
+
+
+def placeholder_stream_url(result: dict[str, Any]) -> str:
+    """URL giả an toàn, không tải trang HTML và không bị hiểu là playlist con."""
+    match_id = match_id_from_url(str(result.get("url") or ""))
+    if not match_id:
+        stable = sanitize_single_line(result.get("match_name") or result.get("raw_title") or "phaohoa")
+        match_id = hashlib.sha1(stable.encode("utf-8")).hexdigest()[:12]
+    safe_id = re.sub(r"[^a-zA-Z0-9_-]+", "-", match_id).strip("-") or "match"
+    return f"{PLACEHOLDER_STREAM_BASE}/{safe_id}.m3u8"
 
 
 def _decode_javascript_escapes(value: str) -> str:
@@ -1651,7 +1706,7 @@ def extract_card_identity(
     """Lấy đúng tên hai đội và BLV từ card, giữ dấu tiếng Việt/ngoặc đội nữ."""
     slug_name = clean_match_name("", url)
     home_hint, away_hint = _team_parts(slug_name)
-    card = clean_text(card_text or raw_title)
+    card = focused_card_text(raw_title, card_text)
 
     home_name = ""
     away_name = ""
@@ -1714,9 +1769,15 @@ def hydrate_discovered_match_metadata(
 ) -> dict[str, Any]:
     """Chuẩn hóa metadata ngay từ trang chủ để trận chưa có media vẫn vào playlist."""
     url = clean_text(str(match.get("url", "")))
-    raw_title = clean_text(str(match.get("raw_title", "")))
-    raw_time = clean_text(str(match.get("raw_time", "")))
-    card_text = clean_text(str(match.get("card_text", "")))
+    raw_title = sanitize_single_line(match.get("raw_title", ""))
+    raw_time = sanitize_single_line(match.get("raw_time", ""))
+    original_card_text = sanitize_single_line(match.get("card_text", ""))
+    card_text = focused_card_text(raw_title, original_card_text)
+    if original_card_text and original_card_text != card_text:
+        match["page_card_text"] = original_card_text
+    match["raw_title"] = raw_title
+    match["raw_time"] = raw_time
+    match["card_text"] = card_text
 
     identity = extract_card_identity(
         url,
@@ -1753,32 +1814,36 @@ def hydrate_discovered_match_metadata(
             candidates.append(match[field])
     ranked = ranked_logo_candidates(candidates, url or TARGET_URL, match["match_name"])
 
-    home_logo = absolute_url(clean_text(str(match.get("home_logo", ""))), url or TARGET_URL)
-    away_logo = absolute_url(clean_text(str(match.get("away_logo", ""))), url or TARGET_URL)
-    if not is_good_logo_url(home_logo):
-        home_logo = ""
-    if not is_good_logo_url(away_logo) or away_logo == home_logo:
-        away_logo = ""
-    if not home_logo:
-        home_logo = next(
-            (item["url"] for item in ranked if item.get("home_hits", 0) > 0),
-            "",
-        )
-    if not away_logo:
-        away_logo = next(
-            (
-                item["url"] for item in ranked
-                if item.get("away_hits", 0) > 0 and item["url"] != home_logo
-            ),
-            "",
-        )
-    if not home_logo and ranked:
-        home_logo = ranked[0]["url"]
-    if not away_logo:
-        away_logo = next(
-            (item["url"] for item in ranked if item["url"] != home_logo),
-            "",
-        )
+    # Chỉ nhận logo có context khớp đúng tên đội. Không dùng icon môn thể thao,
+    # avatar BLV hoặc ảnh của card khác trong cùng grid làm logo đội. Trường hợp
+    # adapter/test đã cung cấp trực tiếp URL logo sạch thì dùng làm fallback.
+    explicit_home_logo = absolute_url(
+        sanitize_single_line(match.get("home_logo") or ""), url or TARGET_URL
+    )
+    explicit_away_logo = absolute_url(
+        sanitize_single_line(match.get("away_logo") or ""), url or TARGET_URL
+    )
+    if not is_good_logo_url(explicit_home_logo):
+        explicit_home_logo = ""
+    if not is_good_logo_url(explicit_away_logo) or explicit_away_logo == explicit_home_logo:
+        explicit_away_logo = ""
+
+    home_logo = next(
+        (
+            item["url"] for item in ranked
+            if item.get("home_hits", 0) > 0 and item.get("final_score", 0) >= 28
+        ),
+        explicit_home_logo,
+    )
+    away_logo = next(
+        (
+            item["url"] for item in ranked
+            if item.get("away_hits", 0) > 0
+            and item.get("final_score", 0) >= 28
+            and item["url"] != home_logo
+        ),
+        explicit_away_logo if explicit_away_logo != home_logo else "",
+    )
 
     match["home_logo"] = home_logo
     match["away_logo"] = away_logo
@@ -1842,6 +1907,8 @@ def is_good_logo_url(value: str) -> bool:
         "avatar", "banner", "advert", "doubleclick", "googleads", "emoji",
         "flag", "favicon", "placeholder", "default-avatar", "no-image",
         "logo-white", "logo-dark", "site-logo", "loading.gif",
+        "/media/sports/icons/", "/commentators/avatars/", "bchuyen.png",
+        "bóng_đá", "b%C3%B3ng_%C4%91%C3%A1",
     )
     return not any(marker in lower for marker in bad)
 
@@ -1884,16 +1951,25 @@ def _logo_context_and_hits(
         f"{candidate.get('context', '')} {urlparse(url).path}"
     )
     home, away = _team_parts(match_name)
+    home_normalized = normalize_search_text(home).strip()
+    away_normalized = normalize_search_text(away).strip()
     home_tokens = [
-        token for token in normalize_search_text(home).split()
+        token for token in home_normalized.split()
         if len(token) >= 4
     ]
     away_tokens = [
-        token for token in normalize_search_text(away).split()
+        token for token in away_normalized.split()
         if len(token) >= 4
     ]
-    home_hits = sum(1 for token in home_tokens if f" {token} " in f" {context} ")
-    away_hits = sum(1 for token in away_tokens if f" {token} " in f" {context} ")
+    padded_context = f" {context} "
+    home_hits = sum(1 for token in home_tokens if f" {token} " in padded_context)
+    away_hits = sum(1 for token in away_tokens if f" {token} " in padded_context)
+    # Tên ngắn như HJK, Mỹ (W), PAOK vẫn cần khớp được logo khi cả cụm tên
+    # xuất hiện nguyên vẹn trong context ảnh.
+    if home_normalized and f" {home_normalized} " in padded_context:
+        home_hits = max(home_hits, 2)
+    if away_normalized and f" {away_normalized} " in padded_context:
+        away_hits = max(away_hits, 2)
     return context, home_hits, away_hits
 
 
@@ -3574,11 +3650,18 @@ async def collect_home_links(context: BrowserContext, home_url: str = TARGET_URL
                     if isinstance(candidate, dict) and initial_logo_usage[candidate.get("url", "")] > 1:
                         candidate["score"] = float(candidate.get("score") or 0) - 80
         for item in links:
+            exact_card = focused_card_text(
+                str(item.get("raw_title") or ""),
+                str(item.get("card_text") or ""),
+            )
+            if item.get("card_text") and exact_card != sanitize_single_line(item.get("card_text")):
+                item["page_card_text"] = sanitize_single_line(item.get("card_text"))
+            item["card_text"] = exact_card
             hydrate_discovered_match_metadata(item)
             item["sport_group"] = classify_sport(
-                item.get("sport_hint", ""),
-                item.get("card_text", ""),
                 item.get("raw_title", ""),
+                item.get("card_text", ""),
+                item.get("sport_hint", ""),
                 item.get("url", ""),
             )
         diagnostics = result.get("diagnostics") or {}
@@ -3645,7 +3728,7 @@ async def collect_home_links_with_failover(context: BrowserContext) -> list[dict
 
 
 def escape_m3u_text(value: str) -> str:
-    return re.sub(r"[\r\n]+", " ", value or "").replace('"', "'").strip()
+    return sanitize_single_line(value).replace('"', "'").strip()
 
 
 def header_json(user_agent: str, referer: str, origin: str = "") -> str:
@@ -3733,8 +3816,9 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int, int]:
     Tạo 3 playlist. Mọi card trận đều được ghi vào M3U.
 
     - Có media thật: URL M3U8/FLV + header phát.
-    - Chưa có media: dùng URL trang trận làm mục metadata tạm thời. Lượt cron sau
-      sẽ tự thay bằng media thật khi player bắt đầu công khai link.
+    - Chưa có media: dùng URL loopback .m3u8 an toàn làm mục metadata tạm thời.
+      URL trang trận chỉ nằm trong thuộc tính metadata/debug, không bao giờ là dòng
+      phát; lượt cron sau tự thay placeholder bằng media thật.
     """
     for output_path in (OUTPUT_M3U, OUTPUT_PIPE_M3U, OUTPUT_VLC_M3U):
         Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -3770,27 +3854,23 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int, int]:
         if not streams:
             if not LIST_ALL_DISCOVERED_MATCHES:
                 continue
-            page_url = clean_text(
-                str(result.get("playlist_page_url") or result.get("url") or "")
+            page_url = sanitize_single_line(
+                result.get("playlist_page_url") or result.get("url") or ""
             )
-            if (
-                not PLACEHOLDER_USE_MATCH_PAGE
-                or not page_url.startswith(("http://", "https://"))
-            ):
-                continue
             streams = [{
-                "url": page_url,
+                "url": placeholder_stream_url(result),
                 "playability": "metadata-only",
                 "is_placeholder": True,
-                "kind": "page",
+                "kind": "placeholder-m3u8",
+                "page_url": page_url,
             }]
 
-        match_name = clean_text(
-            str(result.get("match_name") or result.get("raw_title") or "Pháo Hoa TV")
+        match_name = sanitize_single_line(
+            result.get("match_name") or result.get("raw_title") or "Pháo Hoa TV"
         )
-        time_str = clean_text(str(result.get("time") or ""))
-        date_str = clean_text(str(result.get("date") or ""))
-        blv = normalize_blv_name(clean_text(str(result.get("blv") or "")))
+        time_str = sanitize_single_line(result.get("time") or "")
+        date_str = sanitize_single_line(result.get("date") or "")
+        blv = normalize_blv_name(sanitize_single_line(result.get("blv") or ""))
         sport_group = result.get("sport_group") or classify_sport(
             result.get("sport_hint", ""),
             result.get("card_text", ""),
@@ -3831,7 +3911,7 @@ def write_outputs(results: list[dict[str, Any]]) -> tuple[int, int, int]:
             is_placeholder = bool(stream_info.get("is_placeholder")) or (
                 stream_info.get("playability") == "metadata-only"
             )
-            dedupe_key = f"placeholder:{result.get('url')}" if is_placeholder else stream_url
+            dedupe_key = stream_url if is_placeholder else stream_url
             if dedupe_key in written_urls:
                 continue
             written_urls.add(dedupe_key)
@@ -4157,7 +4237,7 @@ async def main() -> None:
                 await asyncio.gather(heartbeat, return_exceptions=True)
         else:
             print(
-                "ℹ️ Chưa có trận nào đến lượt mở player; vẫn ghi toàn bộ card vào M3U bằng URL trang trận.",
+                "ℹ️ Chưa có trận nào đến lượt mở player; vẫn ghi toàn bộ card vào M3U bằng placeholder loopback an toàn.",
                 flush=True,
             )
 
@@ -4168,7 +4248,7 @@ async def main() -> None:
         if pending_without_media:
             print(
                 f"ℹ️ Có {len(pending_without_media)} trận đã dò nhưng chưa lộ M3U8/FLV; "
-                "playlist vẫn giữ mục trận bằng URL trang trận và sẽ tự thay ở lượt cron sau.",
+                "playlist vẫn giữ mục trận bằng placeholder loopback và sẽ tự thay ở lượt cron sau.",
                 flush=True,
             )
 
@@ -4186,7 +4266,7 @@ async def main() -> None:
         )
         if count_metadata_only:
             print(
-                "ℹ️ Các mục chưa có media đang dùng URL trang trận để giữ đủ tên, lịch, BLV và logo; "
+                "ℹ️ Các mục chưa có media dùng placeholder loopback để giữ đủ tên, lịch, BLV và logo; "
                 "chúng sẽ được thay bằng M3U8/FLV khi lần quét sau bắt được link."
             )
         print(f"📺 Playlist mặc định: {Path(OUTPUT_M3U).resolve()}")

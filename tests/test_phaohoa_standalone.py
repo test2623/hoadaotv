@@ -129,7 +129,12 @@ class StandaloneTests(unittest.TestCase):
             self.assertIn('phaohoa-entry="metadata-only"', content)
             self.assertIn('phaohoa-home-logo="https://cdn.example/home.png"', content)
             self.assertIn('phaohoa-away-logo="https://cdn.example/away.png"', content)
-            self.assertIn(SIMPLE_URL, content)
+            self.assertIn(f'phaohoa-page-url="{SIMPLE_URL}"', content)
+            self.assertIn(
+                "http://127.0.0.1:9/__phaohoa_metadata__/d42658950ab7.m3u8",
+                content,
+            )
+            self.assertNotIn(f"\n{SIMPLE_URL}\n", content)
             self.assertNotIn("CHỜ PHÁT", content)
 
     def test_real_stream_replaces_metadata_placeholder(self) -> None:
@@ -200,6 +205,96 @@ class StandaloneTests(unittest.TestCase):
                 identity = phaohoa.extract_card_identity(url, card, card)
                 self.assertEqual(identity["match_name"], expected_name)
                 self.assertEqual(identity["blv"], expected_blv)
+
+    def test_grid_text_is_not_misread_as_one_card(self) -> None:
+        page_grid = (
+            "15:00 - 23-07 BÓNG CHUYỀN Nations League Thổ Nhĩ Kì (W) "
+            "VS Sắp diễn ra Canada (W) KaKa "
+            "15:30 - 23-07 BÓNG CHUYỀN Sea V Cup Việt Nam "
+            "VS Sắp diễn ra Thái Lan Chim Nhỏ "
+            "18:30 - 23-07 BÓNG CHUYỀN Nations League Mỹ (W) "
+            "VS Sắp diễn ra Trung Quốc (W) KaKa"
+        )
+        row = {
+            "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
+            "raw_title": (
+                "15:30 - 23-07 BÓNG CHUYỀN Sea V Cup Việt Nam "
+                "VS Sắp diễn ra Thái Lan Chim Nhỏ"
+            ),
+            "card_text": page_grid,
+            "home_logo": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+            "away_logo": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+            "logo_candidates": [
+                {
+                    "url": "https://cdn.example/vietnam.png",
+                    "context": "Việt Nam max-h-full team logo",
+                    "source": "home-card",
+                    "score": 5,
+                },
+                {
+                    "url": "https://cdn.example/thailand.png",
+                    "context": "Thái Lan max-h-full team logo",
+                    "source": "home-card",
+                    "score": 5,
+                },
+                {
+                    "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+                    "context": "BÓNG CHUYỀN sport icon",
+                    "source": "home-card",
+                    "score": 80,
+                },
+            ],
+        }
+        phaohoa.hydrate_discovered_match_metadata(
+            row, now=datetime(2026, 7, 23, 14, 0, tzinfo=TZ)
+        )
+        self.assertEqual(row["card_text"], row["raw_title"])
+        self.assertEqual(row["match_name"], "Việt Nam VS Thái Lan")
+        self.assertEqual(row["blv"], "Chim Nhỏ")
+        self.assertEqual(row["time"], "15:30")
+        self.assertEqual(row["date"], "23/07")
+        self.assertEqual(row["home_logo"], "https://cdn.example/vietnam.png")
+        self.assertEqual(row["away_logo"], "https://cdn.example/thailand.png")
+
+    def test_m3u_has_exactly_one_url_line_per_entry_and_no_match_page_url(self) -> None:
+        rows = [
+            {
+                "url": f"https://phaohoa1.live/truc-tiep/doi-{index}-vs-doi-{index + 1}",
+                "raw_title": f"20:0{index} - 23-07 BÓNG ĐÁ Đội {index} VS Sắp diễn ra Đội {index + 1} BLV {index}",
+                "card_text": f"20:0{index} - 23-07 BÓNG ĐÁ Đội {index} VS Sắp diễn ra Đội {index + 1} BLV {index}",
+                "sport_group": "Bóng đá",
+                "streams": [],
+            }
+            for index in range(3)
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            with patch.object(phaohoa, "OUTPUT_M3U", root / "phaohoa_live.m3u"),                  patch.object(phaohoa, "OUTPUT_PIPE_M3U", root / "phaohoa_live_pipe.m3u"),                  patch.object(phaohoa, "OUTPUT_VLC_M3U", root / "phaohoa_live_vlc.m3u"),                  patch.object(phaohoa, "OUTPUT_DEBUG", root / "phaohoa_debug.json"):
+                phaohoa.write_outputs(rows)
+            lines = (root / "phaohoa_live.m3u").read_text(encoding="utf-8").splitlines()
+        extinf = [line for line in lines if line.startswith("#EXTINF:")]
+        urls = [line for line in lines if line and not line.startswith("#")]
+        self.assertEqual(len(extinf), 3)
+        self.assertEqual(len(urls), 3)
+        self.assertTrue(all(url.startswith("http://127.0.0.1:9/__phaohoa_metadata__/") for url in urls))
+        self.assertTrue(all(url.endswith(".m3u8") for url in urls))
+        self.assertFalse(any("phaohoa1.live/truc-tiep/" in url for url in urls))
+        self.assertTrue(all("\n" not in line and "\r" not in line for line in lines))
+
+    def test_unicode_line_separator_is_removed_from_m3u_name(self) -> None:
+        row = {
+            "url": "https://phaohoa1.live/truc-tiep/dyn-kyiv-vs-paok-24-07-2026-778921",
+            "raw_title": "00:00 - 24-07 BÓNG ĐÁ Dyn.\u2028Kyiv VS Sắp diễn ra PAOK Văn Minh",
+            "card_text": "00:00 - 24-07 BÓNG ĐÁ Dyn.\u2028Kyiv VS Sắp diễn ra PAOK Văn Minh",
+            "streams": [],
+        }
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            with patch.object(phaohoa, "OUTPUT_M3U", root / "phaohoa_live.m3u"),                  patch.object(phaohoa, "OUTPUT_PIPE_M3U", root / "phaohoa_live_pipe.m3u"),                  patch.object(phaohoa, "OUTPUT_VLC_M3U", root / "phaohoa_live_vlc.m3u"),                  patch.object(phaohoa, "OUTPUT_DEBUG", root / "phaohoa_debug.json"):
+                phaohoa.write_outputs([row])
+            content = (root / "phaohoa_live.m3u").read_text(encoding="utf-8")
+        self.assertNotIn("\u2028", content)
+        self.assertEqual(content.count("#EXTINF:"), 1)
 
 
 if __name__ == "__main__":
