@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T18:01:41.129700+07:00",
+  "updated_at": "2026-07-23T18:31:27.147162+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -19,12 +19,14 @@
       "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
       "match_name": "Mỹ (W) vs Trung Quốc (W)",
       "kickoff_iso": "2026-07-23T18:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-23T18:01:41.129547+07:00",
-      "next_scan_at": "2026-07-23T18:11:41.129547+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-23T18:31:27.147076+07:00",
+      "next_scan_at": "2026-07-23T18:36:27.147076+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     },
     "e42ebdb7e388": {
@@ -69,13 +71,13 @@
       "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
       "match_name": "23-07 Sea V Cup Campuchia VS Philippines Chim Nhỏ",
       "kickoff_iso": "2026-07-23T19:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-23T18:01:41.129547+07:00",
-      "next_scan_at": "2026-07-23T18:21:41.129547+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-23T18:31:27.147076+07:00",
+      "next_scan_at": "2026-07-23T18:41:27.147076+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "778923": {
       "url": "https://phaohoa1.live/truc-tiep/qarabag-vs-cska-sofia-23-07-2026-778923",
