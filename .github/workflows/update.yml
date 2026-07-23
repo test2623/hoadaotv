@@ -1,7 +1,10 @@
-name: Phao Hoa TV Standalone v4.4.15
+name: Phao Hoa TV Standalone v4.4.17
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
 permissions:
   contents: write
 
@@ -67,6 +70,8 @@ jobs:
           PHAOHOA_UPCOMING_NEAR_WAIT_SECONDS: "12"
           PHAOHOA_KEEP_PREVIOUS_UNVERIFIED: "0"
           PHAOHOA_ALLOW_UNVERIFIED_BROWSER_FALLBACK: "0"
+          PHAOHOA_LIST_ALL_DISCOVERED_MATCHES: "1"
+          PHAOHOA_PLACEHOLDER_USE_MATCH_PAGE: "1"
         run: |
           set -o pipefail
           python -u main.py 2>&1 | tee phaohoa_scan.log
@@ -82,13 +87,39 @@ jobs:
             echo "::error::Playlist phổ thông không được nối pipe header vào URL"
             exit 1
           fi
+          if grep -F 'CHỜ PHÁT' phaohoa_live.m3u; then
+            echo "::error::Playlist không được còn nhãn CHỜ PHÁT"
+            exit 1
+          fi
           python - <<'PY_AUDIT'
           import json
+          import re
           from pathlib import Path
           payload = json.loads(Path('phaohoa_debug.json').read_text(encoding='utf-8'))
           rows = payload if isinstance(payload, list) else payload.get('results', [])
           streams = sum(len(row.get('streams') or []) for row in rows)
-          print(f'Pháo Hoa TV: rows={len(rows)} | streams={streams}')
+          playlist = Path('phaohoa_live.m3u').read_text(encoding='utf-8')
+          entries = len(re.findall(r'^#EXTINF:', playlist, flags=re.M))
+          metadata_only = playlist.count('phaohoa-entry="metadata-only"')
+          missing_name = [row.get('url', '') for row in rows if not row.get('match_name')]
+          missing_schedule = [row.get('url', '') for row in rows if not (row.get('time') and row.get('date'))]
+          missing_blv = [row.get('url', '') for row in rows if not row.get('blv')]
+          missing_home_logo = [row.get('url', '') for row in rows if not row.get('home_logo')]
+          missing_away_logo = [row.get('url', '') for row in rows if not row.get('away_logo')]
+          if entries < len(rows):
+              raise SystemExit(f'Playlist thiếu trận: rows={len(rows)} nhưng EXTINF={entries}')
+          if missing_name:
+              raise SystemExit(f'Metadata thiếu tên trận: {len(missing_name)}')
+          for label, values in (
+              ('ngày+giờ', missing_schedule), ('BLV', missing_blv),
+              ('logo chủ', missing_home_logo), ('logo khách', missing_away_logo),
+          ):
+              if values:
+                  print(f'::warning::Pháo Hoa TV còn thiếu {label}: {len(values)}/{len(rows)}')
+          print(
+              f'Pháo Hoa TV: rows={len(rows)} | playlist_entries={entries} | '
+              f'streams={streams} | metadata_only={metadata_only}'
+          )
           PY_AUDIT
 
       - name: 7. Upload debug
