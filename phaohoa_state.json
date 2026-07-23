@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T17:31:27.069371+07:00",
+  "updated_at": "2026-07-23T18:01:41.129700+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -17,15 +17,15 @@
     },
     "b749f7505746": {
       "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
-      "match_name": "23-07 Nations League Mỹ (W) VS Trung Quốc (W) KaKa",
+      "match_name": "Mỹ (W) vs Trung Quốc (W)",
       "kickoff_iso": "2026-07-23T18:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-23T17:31:27.069220+07:00",
-      "next_scan_at": "2026-07-23T17:51:27.069220+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-23T18:01:41.129547+07:00",
+      "next_scan_at": "2026-07-23T18:11:41.129547+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "e42ebdb7e388": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
@@ -69,9 +69,9 @@
       "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
       "match_name": "23-07 Sea V Cup Campuchia VS Philippines Chim Nhỏ",
       "kickoff_iso": "2026-07-23T19:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-23T17:31:27.069220+07:00",
-      "next_scan_at": "2026-07-23T17:51:27.069220+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-23T18:01:41.129547+07:00",
+      "next_scan_at": "2026-07-23T18:21:41.129547+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -144,6 +144,18 @@
       "minutes_to_kickoff": 59,
       "last_scan_at": "2026-07-23T14:01:14.337783+07:00",
       "next_scan_at": "2026-07-23T14:21:14.337783+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "776592": {
+      "url": "https://phaohoa1.live/truc-tiep/fk-liepaja-vs-austria-vienna-23-07-2026-776592",
+      "match_name": "23-07 UEFA Conference League FK Liepaja VS Austria Vienna Văn Minh",
+      "kickoff_iso": "2026-07-23T22:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-23T18:01:41.129547+07:00",
+      "next_scan_at": "2026-07-23T18:46:41.129547+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
