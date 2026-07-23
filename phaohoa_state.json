@@ -1,18 +1,20 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T14:31:17.086869+07:00",
+  "updated_at": "2026-07-23T15:01:41.103001+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
       "match_name": "Thổ Nhĩ Kì (W) vs Canada (W)",
       "kickoff_iso": "2026-07-23T15:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-23T14:31:17.086664+07:00",
-      "next_scan_at": "2026-07-23T14:41:17.086664+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-23T15:01:41.102848+07:00",
+      "next_scan_at": "2026-07-23T15:06:41.102848+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     },
     "b749f7505746": {
@@ -31,13 +33,13 @@
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
       "match_name": "23-07 Sea V Cup Việt Nam VS Thái Lan Chim Nhỏ",
       "kickoff_iso": "2026-07-23T15:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-23T14:31:17.086664+07:00",
-      "next_scan_at": "2026-07-23T14:51:17.086664+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-23T15:01:41.102848+07:00",
+      "next_scan_at": "2026-07-23T15:11:41.102848+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "776573": {
       "url": "https://phaohoa1.live/truc-tiep/malisheva-vs-hibernian-23-07-2026-776573",
@@ -66,10 +68,10 @@
     "9d9e4f844e37": {
       "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
       "match_name": "23-07 Sea V Cup Campuchia VS Philippines Chim Nhỏ",
-      "kickoff_iso": "2026-07-23T15:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-23T14:01:14.337783+07:00",
-      "next_scan_at": "2026-07-23T14:21:14.337783+07:00",
+      "kickoff_iso": "2026-07-23T19:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-23T15:01:41.102848+07:00",
+      "next_scan_at": "2026-07-23T15:46:41.102848+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
