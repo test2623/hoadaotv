@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-23T19:01:37.745552+07:00",
+  "updated_at": "2026-07-23T19:31:44.440578+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -19,9 +19,9 @@
       "url": "https://phaohoa1.live/truc-tiep/my-w-vs-trung-quoc-w",
       "match_name": "Mỹ (W) vs Trung Quốc (W)",
       "kickoff_iso": "2026-07-23T18:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-23T19:01:37.745343+07:00",
-      "next_scan_at": "2026-07-23T19:06:37.745343+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-23T19:31:44.440489+07:00",
+      "next_scan_at": "2026-07-23T19:36:44.440489+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -71,9 +71,9 @@
       "url": "https://phaohoa1.live/truc-tiep/campuchia-vs-philippines",
       "match_name": "Campuchia vs Philippines",
       "kickoff_iso": "2026-07-23T19:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-23T19:01:37.745343+07:00",
-      "next_scan_at": "2026-07-23T19:06:37.745343+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-23T19:31:44.440489+07:00",
+      "next_scan_at": "2026-07-23T19:36:44.440489+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
