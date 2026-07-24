@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-25T00:31:37.214940+07:00",
+  "updated_at": "2026-07-25T01:01:49.576016+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -307,9 +307,9 @@
       "url": "https://phaohoa1.live/truc-tiep/vasteras-sk-vs-orgryte-25-07-2026-715560",
       "match_name": "Vasteras SK vs Orgryte",
       "kickoff_iso": "2026-07-25T00:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-25T00:31:37.214810+07:00",
-      "next_scan_at": "2026-07-25T00:36:37.214810+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-25T01:01:49.575915+07:00",
+      "next_scan_at": "2026-07-25T01:06:49.575915+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -319,14 +319,30 @@
     },
     "771667": {
       "url": "https://phaohoa1.live/truc-tiep/galatasaray-vs-monza-25-07-2026-771667",
-      "match_name": "25-07 Club Friendlies Galatasaray VS Monza Chim Nhỏ",
+      "match_name": "Galatasaray vs Monza",
       "kickoff_iso": "2026-07-25T01:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-25T00:31:37.214810+07:00",
-      "next_scan_at": "2026-07-25T00:41:37.214810+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-25T01:01:49.575915+07:00",
+      "next_scan_at": "2026-07-25T01:06:49.575915+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "774492": {
+      "url": "https://phaohoa1.live/truc-tiep/arda-vs-slavia-sofia-25-07-2026-774492",
+      "match_name": "Arda vs Slavia Sofia",
+      "kickoff_iso": "2026-07-25T01:15:00+07:00",
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-07-25T01:01:49.575915+07:00",
+      "next_scan_at": "2026-07-25T01:06:49.575915+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
