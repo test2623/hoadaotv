@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-25T00:01:38.728795+07:00",
+  "updated_at": "2026-07-25T00:31:37.214940+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -281,9 +281,9 @@
       "url": "https://phaohoa1.live/truc-tiep/rosenborg-vs-manchester-utd-24-07-2026-758914",
       "match_name": "Rosenborg vs Manchester Utd",
       "kickoff_iso": "2026-07-24T23:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-25T00:01:38.728669+07:00",
-      "next_scan_at": "2026-07-25T00:06:38.728669+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-25T00:31:37.214810+07:00",
+      "next_scan_at": "2026-07-25T00:36:37.214810+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -307,9 +307,9 @@
       "url": "https://phaohoa1.live/truc-tiep/vasteras-sk-vs-orgryte-25-07-2026-715560",
       "match_name": "Vasteras SK vs Orgryte",
       "kickoff_iso": "2026-07-25T00:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-25T00:01:38.728669+07:00",
-      "next_scan_at": "2026-07-25T00:06:38.728669+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-25T00:31:37.214810+07:00",
+      "next_scan_at": "2026-07-25T00:36:37.214810+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -321,13 +321,13 @@
       "url": "https://phaohoa1.live/truc-tiep/galatasaray-vs-monza-25-07-2026-771667",
       "match_name": "25-07 Club Friendlies Galatasaray VS Monza Chim Nhỏ",
       "kickoff_iso": "2026-07-25T01:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-25T00:01:38.728669+07:00",
-      "next_scan_at": "2026-07-25T00:21:38.728669+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-25T00:31:37.214810+07:00",
+      "next_scan_at": "2026-07-25T00:41:37.214810+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     }
   }
 }
