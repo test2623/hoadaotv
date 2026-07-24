@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-24T21:11:47.449719+07:00",
+  "updated_at": "2026-07-24T21:31:40.786158+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -239,9 +239,9 @@
       "url": "https://phaohoa1.live/truc-tiep/timor-leste-vs-vietnam-24-07-2026-791555",
       "match_name": "Timor Leste vs Vietnam",
       "kickoff_iso": "2026-07-24T20:30:00+07:00",
-      "minutes_to_kickoff": -41,
-      "last_scan_at": "2026-07-24T21:11:47.449481+07:00",
-      "next_scan_at": "2026-07-24T21:16:47.449481+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-24T21:31:40.786066+07:00",
+      "next_scan_at": "2026-07-24T21:36:40.786066+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -253,9 +253,9 @@
       "url": "https://phaohoa1.live/truc-tiep/timor-leste-vs-vietnam-23-07-2026-162046",
       "match_name": "Timor Leste vs Vietnam",
       "kickoff_iso": "2026-07-24T20:30:00+07:00",
-      "minutes_to_kickoff": -41,
-      "last_scan_at": "2026-07-24T21:11:47.449481+07:00",
-      "next_scan_at": "2026-07-24T21:16:47.449481+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-24T21:31:40.786066+07:00",
+      "next_scan_at": "2026-07-24T21:36:40.786066+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -267,9 +267,9 @@
       "url": "https://phaohoa1.live/truc-tiep/bournemouth-vs-st-pauli-24-07-2026-770417",
       "match_name": "Bournemouth vs St. Pauli",
       "kickoff_iso": "2026-07-24T21:00:00+07:00",
-      "minutes_to_kickoff": -11,
-      "last_scan_at": "2026-07-24T21:11:47.449481+07:00",
-      "next_scan_at": "2026-07-24T21:16:47.449481+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-24T21:31:40.786066+07:00",
+      "next_scan_at": "2026-07-24T21:36:40.786066+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
