@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-24T11:01:02.055540+07:00",
+  "updated_at": "2026-07-24T11:31:19.683643+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -180,6 +180,18 @@
         "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "bb7f089c9945": {
+      "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-viet-nam",
+      "match_name": "24-07 Sea V Cup Myanmar VS Việt Nam KaKa",
+      "kickoff_iso": "2026-07-24T15:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-24T11:31:19.683551+07:00",
+      "next_scan_at": "2026-07-24T12:16:19.683551+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
