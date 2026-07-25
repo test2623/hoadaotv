@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-25T13:37:47.502635+07:00",
+  "updated_at": "2026-07-25T14:01:22.264904+07:00",
   "matches": {
     "d42658950ab7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-canada-w",
@@ -349,9 +349,9 @@
       "url": "https://phaohoa1.live/truc-tiep/brazil-w-vs-italy-w",
       "match_name": "25-07 Nations League Brazil (W) VS Italy (W) KaKa",
       "kickoff_iso": "2026-07-25T15:00:00+07:00",
-      "minutes_to_kickoff": 82,
-      "last_scan_at": "2026-07-25T13:37:47.502539+07:00",
-      "next_scan_at": "2026-07-25T13:57:47.502539+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-25T14:01:22.264796+07:00",
+      "next_scan_at": "2026-07-25T14:21:22.264796+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -364,6 +364,18 @@
       "minutes_to_kickoff": 202,
       "last_scan_at": "2026-07-25T13:37:47.502539+07:00",
       "next_scan_at": "2026-07-25T14:22:47.502539+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "774339": {
+      "url": "https://phaohoa1.live/truc-tiep/dusseldorf-vs-dortmund-25-07-2026-774339",
+      "match_name": "25-07 Club Friendlies Dusseldorf VS Dortmund Văn Minh",
+      "kickoff_iso": "2026-07-25T18:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-25T14:01:22.264796+07:00",
+      "next_scan_at": "2026-07-25T14:46:22.264796+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
