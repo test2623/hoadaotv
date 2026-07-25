@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-26T01:01:34.308863+07:00",
+  "updated_at": "2026-07-26T01:09:05.148108+07:00",
   "matches": {
     "bb7f089c9945": {
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-viet-nam",
@@ -351,9 +351,9 @@
       "url": "https://phaohoa1.live/truc-tiep/st-liege-vs-juventus-26-07-2026-766458",
       "match_name": "St. Liege vs Juventus",
       "kickoff_iso": "2026-07-26T01:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-26T01:01:34.308729+07:00",
-      "next_scan_at": "2026-07-26T01:06:34.308729+07:00",
+      "minutes_to_kickoff": -9,
+      "last_scan_at": "2026-07-26T01:09:05.147977+07:00",
+      "next_scan_at": "2026-07-26T01:14:05.147977+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -365,9 +365,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-monaco-26-07-2026-769748",
       "match_name": "26-07 Club Friendlies Sporting CP VS Monaco Pháo Thủ",
       "kickoff_iso": "2026-07-26T01:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-26T01:01:34.308729+07:00",
-      "next_scan_at": "2026-07-26T01:11:34.308729+07:00",
+      "minutes_to_kickoff": 21,
+      "last_scan_at": "2026-07-26T01:09:05.147977+07:00",
+      "next_scan_at": "2026-07-26T01:19:05.147977+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
