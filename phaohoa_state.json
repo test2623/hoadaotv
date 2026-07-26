@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-26T14:31:33.619139+07:00",
+  "updated_at": "2026-07-26T14:46:45.897399+07:00",
   "matches": {
     "bb7f089c9945": {
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-viet-nam",
@@ -421,9 +421,9 @@
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-w-vs-italy-w",
       "match_name": "Trung Quốc (W) vs Italy (W)",
       "kickoff_iso": "2026-07-26T14:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-26T14:31:33.618995+07:00",
-      "next_scan_at": "2026-07-26T14:36:33.618995+07:00",
+      "minutes_to_kickoff": -16,
+      "last_scan_at": "2026-07-26T14:46:45.897251+07:00",
+      "next_scan_at": "2026-07-26T14:51:45.897251+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -450,6 +450,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-07-26T14:31:33.618995+07:00",
       "next_scan_at": "2026-07-26T15:16:33.618995+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "742927": {
+      "url": "https://phaohoa1.live/truc-tiep/chengdu-rongcheng-vs-beijing-guoan-26-07-2026-742927",
+      "match_name": "26-07 Chinese Super League Chengdu Rongcheng VS Beijing Guoan Pháo Thủ",
+      "kickoff_iso": "2026-07-26T18:35:00+07:00",
+      "minutes_to_kickoff": 229,
+      "last_scan_at": "2026-07-26T14:46:45.897251+07:00",
+      "next_scan_at": "2026-07-26T15:31:45.897251+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
