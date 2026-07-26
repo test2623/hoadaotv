@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-vojvodina-27-07-2026-775218",
-    "raw_title": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 0 : 0 Trực tiếp Vojvodina Văn Minh",
-    "card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 0 : 0 Trực tiếp Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 Trực tiếp Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa 20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
+    "raw_title": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 2 : 0 30' Vojvodina Văn Minh",
+    "card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 2 : 0 30' Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 18' Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -61,12 +61,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.88,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_2rRVLbr.jpg",
         "score": 39.9,
         "context": "Timor-Leste max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Timor-Leste min-w-0 text-center",
@@ -76,24 +70,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-16-22-39-40-808.jpg",
         "score": 4.89,
         "context": "Dế Lửa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Dế Lửa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Dế Lửa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-        "score": 4.87,
-        "context": "Hóa Chất Đức Giang max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hóa Chất Đức Giang min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg",
-        "score": 4.86,
-        "context": "Binh Chủng Thông Tin max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Binh Chủng Thông Tin min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.85,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -108,7 +84,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_288.png",
         "score": 75,
-        "context": "size-5 object-contain SUPER LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SUPER LIGA Crvena zvezda ĐANG DIỄN RA 0-0 00:00 - 27/07/2026 Vojvodina relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SUPER LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SUPER LIGA Crvena zvezda 30' 2-0 00:00 - 27/07/2026 Vojvodina relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -121,7 +97,7 @@
       "https://phaohoa1.live/media/tournaments/icons/tournament_288.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6460.jpg"
     ],
-    "blv": "nhé Thôi kệ Lv9 5 phút trước Đag nc tự n",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -131,11 +107,11 @@
     "time": "00:00",
     "date": "27/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-vojvodina-27-07-2026-775218",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-07-27T00:01:47.624278+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-07-27T00:33:18.692161+07:00",
     "kickoff_iso": "2026-07-27T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -33,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -152,7 +128,7 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/775218.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
@@ -193,7 +169,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2884370044-1785084073-20260726T170136.ts?volcDst=MTAuMTMuOC4xNDY",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2884370044-1785084954-20260726T173308.ts?volcDst=MTAuMTMuOC4xNDY",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -266,8 +242,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/aalesund-vs-viking-27-07-2026-716897",
-    "raw_title": "00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 Trực tiếp Viking Kevin",
-    "card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 0 : 0 Trực tiếp Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 Trực tiếp Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa 20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
+    "raw_title": "00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 18' Viking Kevin",
+    "card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 2 : 0 30' Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 18' Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5594.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5594.jpg",
@@ -326,12 +302,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.88,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_2rRVLbr.jpg",
         "score": 39.9,
         "context": "Timor-Leste max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Timor-Leste min-w-0 text-center",
@@ -341,24 +311,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-16-22-39-40-808.jpg",
         "score": 4.89,
         "context": "Dế Lửa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Dế Lửa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Dế Lửa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-        "score": 4.87,
-        "context": "Hóa Chất Đức Giang max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hóa Chất Đức Giang min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg",
-        "score": 4.86,
-        "context": "Binh Chủng Thông Tin max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Binh Chủng Thông Tin min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.85,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5594.jpg",
@@ -373,7 +325,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_253_6d1JOrO.png",
         "score": 75,
-        "context": "size-5 object-contain ELITESERIEN flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs ELITESERIEN Aalesund ĐANG DIỄN RA 0-0 00:15 - 27/07/2026 Viking relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain ELITESERIEN flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs ELITESERIEN Aalesund 18' 0-0 00:15 - 27/07/2026 Viking relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -382,11 +334,18 @@
         "context": "Viking max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Viking min-w-0 text-center",
         "source": "detail-match"
       },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Duy MC Lv3 1 phút trước trận này 3-0 cho viking nha phi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5594.jpg",
       "https://phaohoa1.live/media/tournaments/icons/tournament_253_6d1JOrO.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_236.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_236.jpg",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
     ],
-    "blv": "nhé Thôi kệ Lv9 5 phút trước Đag nc tự n",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -396,22 +355,28 @@
     "time": "00:15",
     "date": "27/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aalesund-vs-viking-27-07-2026-716897",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-07-27T00:01:47.628013+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-07-27T00:33:18.695388+07:00",
     "kickoff_iso": "2026-07-27T00:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 13,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -18,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/716897.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/716897.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
@@ -430,6 +395,7 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -451,8 +417,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2786266046-1785080757-20260726T170127.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2786527739-1785086595-20260726T173308.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -584,12 +550,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.88,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_2rRVLbr.jpg",
         "score": 39.9,
         "context": "Timor-Leste max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Timor-Leste min-w-0 text-center",
@@ -599,24 +559,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-16-22-39-40-808.jpg",
         "score": 4.89,
         "context": "Dế Lửa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Dế Lửa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Dế Lửa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-        "score": 4.87,
-        "context": "Hóa Chất Đức Giang max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hóa Chất Đức Giang min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg",
-        "score": 4.86,
-        "context": "Binh Chủng Thông Tin max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Binh Chủng Thông Tin min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.85,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -624,7 +566,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 0 : 0 Trực tiếp Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 Trực tiếp Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa 20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
+    "page_card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 2 : 0 30' Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 18' Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa",
     "match_name": "Singapore VS Timor-Leste",
     "home_name": "Singapore",
     "away_name": "Timor-Leste",
@@ -632,135 +574,13 @@
     "date": "27/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-27T00:01:47.630452+07:00",
+    "scan_time_iso": "2026-07-27T00:33:18.697381+07:00",
     "kickoff_iso": "2026-07-27T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1078,
+    "minutes_to_kickoff": 1047,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
-    "raw_title": "20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
-    "card_text": "20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.99,
-        "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6460.jpg",
-        "score": 64.98,
-        "context": "Vojvodina max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vojvodina min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5594.jpg",
-        "score": 64.95,
-        "context": "Aalesund max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalesund min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_236.jpg",
-        "score": 64.94,
-        "context": "Viking max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Viking min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.93,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.91,
-        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.88,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_2rRVLbr.jpg",
-        "score": 39.9,
-        "context": "Timor-Leste max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Timor-Leste min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-16-22-39-40-808.jpg",
-        "score": 4.89,
-        "context": "Dế Lửa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Dế Lửa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Dế Lửa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p5UhE4o.jpg",
-        "score": 4.87,
-        "context": "Hóa Chất Đức Giang max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hóa Chất Đức Giang min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Lzci6bf.jpg",
-        "score": 4.86,
-        "context": "Binh Chủng Thông Tin max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Binh Chủng Thông Tin min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.85,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      }
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 27-07 BÓNG ĐÁ Super Liga Crvena zvezda 0 : 0 Trực tiếp Vojvodina Văn Minh 00:15 - 27-07 BÓNG ĐÁ Eliteserien Aalesund 0 : 0 Trực tiếp Viking Kevin 18:00 - 27-07 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Timor-Leste Dế Lửa 20:00 - 27-07 BÓNG CHUYỀN U18 Việt Nam Hóa Chất Đức Giang VS Sắp diễn ra Binh Chủng Thông Tin KaKa",
-    "match_name": "27-07 U18 Việt Nam Hóa Chất Đức Giang VS Binh Chủng Thông Tin KaKa",
-    "home_name": "27-07 U18 Việt Nam Hóa Chất Đức Giang",
-    "away_name": "Binh Chủng Thông Tin KaKa",
-    "time": "20:00",
-    "date": "27/07",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-07-27T00:01:47.633547+07:00",
-    "kickoff_iso": "2026-07-27T20:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1198,
-    "timing_state": "future",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng chuyền",
     "scan_window_reason": "too-early",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
