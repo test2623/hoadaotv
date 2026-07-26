@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-26T22:33:04.420029+07:00",
+  "updated_at": "2026-07-26T22:48:20.733656+07:00",
   "matches": {
     "770876": {
       "url": "https://phaohoa1.live/truc-tiep/barcelona-vs-europa-24-07-2026-770876",
@@ -403,14 +403,16 @@
     },
     "715558": {
       "url": "https://phaohoa1.live/truc-tiep/malmo-ff-vs-elfsborg-26-07-2026-715558",
-      "match_name": "26-07 Allsvenskan Malmo FF VS Elfsborg Văn Minh",
+      "match_name": "Malmo Ff vs Elfsborg",
       "kickoff_iso": "2026-07-26T21:30:00+07:00",
-      "minutes_to_kickoff": 27,
-      "last_scan_at": "2026-07-26T21:03:12.212788+07:00",
-      "next_scan_at": "2026-07-26T21:13:12.212788+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -78,
+      "last_scan_at": "2026-07-26T22:48:20.733575+07:00",
+      "next_scan_at": "2026-07-26T22:53:20.733575+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
+      ],
       "scan_decision": "browser-fallback"
     },
     "766199": {
@@ -427,26 +429,30 @@
     },
     "716902": {
       "url": "https://phaohoa1.live/truc-tiep/sandefjord-vs-bodo-glimt-26-07-2026-716902",
-      "match_name": "26-07 Eliteserien Sandefjord VS Bodo/Glimt Pháo Thủ",
+      "match_name": "Sandefjord vs Bodo Glimt",
       "kickoff_iso": "2026-07-26T22:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-26T21:31:22.641943+07:00",
-      "next_scan_at": "2026-07-26T21:41:22.641943+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -48,
+      "last_scan_at": "2026-07-26T22:48:20.733575+07:00",
+      "next_scan_at": "2026-07-26T22:53:20.733575+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
       "scan_decision": "browser-fallback"
     },
     "769413": {
       "url": "https://phaohoa1.live/truc-tiep/rangers-vs-west-ham-26-07-2026-769413",
-      "match_name": "26-07 Club Friendlies Rangers VS West Ham Kevin",
+      "match_name": "Rangers vs West Ham",
       "kickoff_iso": "2026-07-26T22:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-26T21:31:22.641943+07:00",
-      "next_scan_at": "2026-07-26T21:41:22.641943+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -48,
+      "last_scan_at": "2026-07-26T22:48:20.733575+07:00",
+      "next_scan_at": "2026-07-26T22:53:20.733575+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     },
     "775218": {
