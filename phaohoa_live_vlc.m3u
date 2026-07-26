@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-728352-1" tvg-name="[17:30 26/07] Seoul vs Ulsan Hd" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/seoul-vs-ulsan-hd-26-07-2026-728352" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_377.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_377.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",[17:30 26/07] Seoul vs Ulsan Hd [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 tvg-id="phaohoa-728352-1" tvg-name="[17:30 26/07] Seoul vs Ulsan Hd" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/seoul-vs-ulsan-hd-26-07-2026-728352" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_377.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_377.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",[17:30 26/07] Seoul vs Ulsan Hd
+http://127.0.0.1:9/__phaohoa_metadata__/728352.m3u8
 #EXTINF:-1 tvg-id="phaohoa-742927-1" tvg-name="[18:35 26/07] Chengdu Rongcheng vs Beijing Guoan" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/chengdu-rongcheng-vs-beijing-guoan-26-07-2026-742927" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2236.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2236.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",[18:35 26/07] Chengdu Rongcheng vs Beijing Guoan [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -29,7 +25,7 @@ http://127.0.0.1:9/__phaohoa_metadata__/716897.m3u8
 #EXTVLCOPT:http-origin=https://phaohoa1.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="phaohoa-e42ebdb7e388-1" tvg-name="[19:00 26/07] Viet Nam vs Thai Lan" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",[19:00 26/07] Viet Nam vs Thai Lan [M3U8]
+#EXTINF:-1 tvg-id="phaohoa-e42ebdb7e388-1" tvg-name="[19:00 26/07] Viet Nam vs Thai Lan" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",[19:00 26/07] Viet Nam vs Thai Lan [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
