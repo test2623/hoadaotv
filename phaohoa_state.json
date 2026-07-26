@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-26T18:50:19.165712+07:00",
+  "updated_at": "2026-07-26T19:02:12.701851+07:00",
   "matches": {
-    "791554": {
-      "url": "https://phaohoa1.live/truc-tiep/cambodia-vs-singapore-24-07-2026-791554",
-      "match_name": "Cambodia vs Singapore",
-      "kickoff_iso": "2026-07-24T19:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-24T20:31:59.995640+07:00",
-      "next_scan_at": "2026-07-24T20:36:59.995640+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "770876": {
       "url": "https://phaohoa1.live/truc-tiep/barcelona-vs-europa-24-07-2026-770876",
       "match_name": "25-07 Club Friendlies Barcelona VS Europa Kevin",
@@ -28,20 +14,6 @@
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
-    },
-    "0605d4dbf8ea": {
-      "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-philippines",
-      "match_name": "Indonesia vs Philippines",
-      "kickoff_iso": "2026-07-24T19:00:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-07-24T20:31:59.995640+07:00",
-      "next_scan_at": "2026-07-24T20:36:59.995640+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
     },
     "791555": {
       "url": "https://phaohoa1.live/truc-tiep/timor-leste-vs-vietnam-24-07-2026-791555",
@@ -421,9 +393,9 @@
       "url": "https://phaohoa1.live/truc-tiep/seoul-vs-ulsan-hd-26-07-2026-728352",
       "match_name": "Seoul vs Ulsan Hd",
       "kickoff_iso": "2026-07-26T17:30:00+07:00",
-      "minutes_to_kickoff": -79,
-      "last_scan_at": "2026-07-26T18:50:19.165424+07:00",
-      "next_scan_at": "2026-07-26T18:55:19.165424+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-26T19:02:12.701681+07:00",
+      "next_scan_at": "2026-07-26T19:07:12.701681+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -435,9 +407,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-brazil-w",
       "match_name": "Thổ Nhĩ Kì (W) vs Brazil (W)",
       "kickoff_iso": "2026-07-26T18:30:00+07:00",
-      "minutes_to_kickoff": -19,
-      "last_scan_at": "2026-07-26T18:50:19.165424+07:00",
-      "next_scan_at": "2026-07-26T18:55:19.165424+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-26T19:02:12.701681+07:00",
+      "next_scan_at": "2026-07-26T19:07:12.701681+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -449,9 +421,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chengdu-rongcheng-vs-beijing-guoan-26-07-2026-742927",
       "match_name": "Chengdu Rongcheng vs Beijing Guoan",
       "kickoff_iso": "2026-07-26T18:35:00+07:00",
-      "minutes_to_kickoff": -14,
-      "last_scan_at": "2026-07-26T18:50:19.165424+07:00",
-      "next_scan_at": "2026-07-26T18:55:19.165424+07:00",
+      "minutes_to_kickoff": -26,
+      "last_scan_at": "2026-07-26T19:02:12.701681+07:00",
+      "next_scan_at": "2026-07-26T19:07:12.701681+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -461,14 +433,16 @@
     },
     "e42ebdb7e388": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
-      "match_name": "26-07 Sea V Cup Việt Nam VS Thái Lan Chim Nhỏ",
+      "match_name": "Việt Nam vs Thái Lan",
       "kickoff_iso": "2026-07-26T19:00:00+07:00",
-      "minutes_to_kickoff": 10,
-      "last_scan_at": "2026-07-26T18:50:19.165424+07:00",
-      "next_scan_at": "2026-07-26T18:55:19.165424+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -2,
+      "last_scan_at": "2026-07-26T19:02:12.701681+07:00",
+      "next_scan_at": "2026-07-26T19:07:12.701681+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "715558": {
