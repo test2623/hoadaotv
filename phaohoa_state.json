@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-26T15:01:39.249413+07:00",
+  "updated_at": "2026-07-26T15:31:27.080655+07:00",
   "matches": {
-    "bb7f089c9945": {
-      "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-viet-nam",
-      "match_name": "Myanmar vs Việt Nam",
-      "kickoff_iso": "2026-07-24T15:30:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-07-24T17:02:13.785239+07:00",
-      "next_scan_at": "2026-07-24T17:07:13.785239+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "791554": {
       "url": "https://phaohoa1.live/truc-tiep/cambodia-vs-singapore-24-07-2026-791554",
       "match_name": "Cambodia vs Singapore",
@@ -421,9 +407,9 @@
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-w-vs-italy-w",
       "match_name": "Trung Quốc (W) vs Italy (W)",
       "kickoff_iso": "2026-07-26T14:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-26T15:01:39.249330+07:00",
-      "next_scan_at": "2026-07-26T15:06:39.249330+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-26T15:31:27.080490+07:00",
+      "next_scan_at": "2026-07-26T15:36:27.080490+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -435,9 +421,9 @@
       "url": "https://phaohoa1.live/truc-tiep/seoul-vs-ulsan-hd-26-07-2026-728352",
       "match_name": "26-07 K League 1 Seoul VS Ulsan HD Văn Minh",
       "kickoff_iso": "2026-07-26T17:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-26T14:31:33.618995+07:00",
-      "next_scan_at": "2026-07-26T15:16:33.618995+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-26T15:31:27.080490+07:00",
+      "next_scan_at": "2026-07-26T15:51:27.080490+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -447,9 +433,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-brazil-w",
       "match_name": "26-07 Nations League Thổ Nhĩ Kì (W) VS Brazil (W) KaKa",
       "kickoff_iso": "2026-07-26T18:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-26T14:31:33.618995+07:00",
-      "next_scan_at": "2026-07-26T15:16:33.618995+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-26T15:31:27.080490+07:00",
+      "next_scan_at": "2026-07-26T16:16:27.080490+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
