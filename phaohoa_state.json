@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T15:31:06.796482+07:00",
+  "updated_at": "2026-07-27T16:01:17.894639+07:00",
   "matches": {
     "791556": {
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-malaysia-25-07-2026-791556",
@@ -393,9 +393,21 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
       "match_name": "27-07 ASEAN Championship Singapore VS Timor-Leste Dế Lửa",
       "kickoff_iso": "2026-07-27T18:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-27T15:01:09.945412+07:00",
-      "next_scan_at": "2026-07-27T15:46:09.945412+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-27T16:01:17.894523+07:00",
+      "next_scan_at": "2026-07-27T16:21:17.894523+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "870f7a34fe46": {
+      "url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
+      "match_name": "27-07 U18 Việt Nam Hóa Chất Đức Giang VS Binh Chủng Thông Tin KaKa",
+      "kickoff_iso": "2026-07-27T20:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-27T16:01:17.894523+07:00",
+      "next_scan_at": "2026-07-27T16:46:17.894523+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
