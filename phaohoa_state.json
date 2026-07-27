@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-28T01:01:44.651283+07:00",
+  "updated_at": "2026-07-28T01:16:39.325467+07:00",
   "matches": {
     "769748": {
       "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-monaco-26-07-2026-769748",
@@ -297,9 +297,9 @@
       "url": "https://phaohoa1.live/truc-tiep/hacken-vs-aik-28-07-2026-715556",
       "match_name": "Hacken vs Aik",
       "kickoff_iso": "2026-07-28T00:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-28T01:01:44.651187+07:00",
-      "next_scan_at": "2026-07-28T01:06:44.651187+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-07-28T01:16:39.325387+07:00",
+      "next_scan_at": "2026-07-28T01:21:39.325387+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -311,9 +311,9 @@
       "url": "https://phaohoa1.live/truc-tiep/cska-sofia-vs-botev-plovdiv-28-07-2026-774498",
       "match_name": "CSKA Sofia vs Botev Plovdiv",
       "kickoff_iso": "2026-07-28T01:15:00+07:00",
-      "minutes_to_kickoff": 14,
-      "last_scan_at": "2026-07-28T01:01:44.651187+07:00",
-      "next_scan_at": "2026-07-28T01:06:44.651187+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-28T01:16:39.325387+07:00",
+      "next_scan_at": "2026-07-28T01:21:39.325387+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -325,9 +325,9 @@
       "url": "https://phaohoa1.live/truc-tiep/rosenborg-vs-fredrikstad-28-07-2026-716901",
       "match_name": "Rosenborg vs Fredrikstad",
       "kickoff_iso": "2026-07-28T00:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-28T01:01:44.651187+07:00",
-      "next_scan_at": "2026-07-28T01:06:44.651187+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-07-28T01:16:39.325387+07:00",
+      "next_scan_at": "2026-07-28T01:21:39.325387+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
