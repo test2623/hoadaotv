@@ -1,36 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T19:40:43.008701+07:00",
+  "updated_at": "2026-07-27T20:01:37.015350+07:00",
   "matches": {
-    "791557": {
-      "url": "https://phaohoa1.live/truc-tiep/laos-vs-thailand-25-07-2026-791557",
-      "match_name": "Laos vs Thailand",
-      "kickoff_iso": "2026-07-25T20:00:00+07:00",
-      "minutes_to_kickoff": -111,
-      "last_scan_at": "2026-07-25T21:51:29.721799+07:00",
-      "next_scan_at": "2026-07-25T21:56:29.721799+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "104132": {
-      "url": "https://phaohoa1.live/truc-tiep/laos-vs-thailand-24-07-2026-104132",
-      "match_name": "Laos vs Thailand",
-      "kickoff_iso": "2026-07-25T20:00:00+07:00",
-      "minutes_to_kickoff": -111,
-      "last_scan_at": "2026-07-25T21:51:29.721799+07:00",
-      "next_scan_at": "2026-07-25T21:56:29.721799+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "761670": {
       "url": "https://phaohoa1.live/truc-tiep/wehen-vs-bayern-munich-25-07-2026-761670",
       "match_name": "Wehen vs Bayern Munich",
@@ -323,9 +295,9 @@
       "url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
       "match_name": "Hóa Chất Đức Giang vs Binh Chủng Thông Tin",
       "kickoff_iso": "2026-07-27T20:00:00+07:00",
-      "minutes_to_kickoff": 20,
-      "last_scan_at": "2026-07-27T19:40:43.008631+07:00",
-      "next_scan_at": "2026-07-27T19:45:43.008631+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:06:37.015212+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -335,35 +307,37 @@
     },
     "791559": {
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-27-07-2026-791559",
-      "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Dế Lửa",
+      "match_name": "Indonesia vs Cambodia",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-27T19:31:37.490004+07:00",
-      "next_scan_at": "2026-07-27T19:51:37.490004+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:06:37.015212+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "152523": {
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-26-07-2026-152523",
       "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Kevin",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-27T19:31:37.490004+07:00",
-      "next_scan_at": "2026-07-27T19:51:37.490004+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:11:37.015212+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "736649": {
       "url": "https://phaohoa1.live/truc-tiep/lok-tashkent-vs-sogdiana-27-07-2026-736649",
       "match_name": "27-07 Super League Lok. Tashkent VS Sogdiana Chim Nhỏ",
       "kickoff_iso": "2026-07-27T22:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-27T19:01:44.082605+07:00",
-      "next_scan_at": "2026-07-27T19:46:44.082605+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:21:37.015212+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -385,9 +359,21 @@
       "url": "https://phaohoa1.live/truc-tiep/artis-brno-vs-mlada-boleslav-27-07-2026-781988",
       "match_name": "27-07 Czech Liga Artis Brno VS Mlada Boleslav Pháo Thủ",
       "kickoff_iso": "2026-07-27T23:00:00+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:46:37.015212+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "715556": {
+      "url": "https://phaohoa1.live/truc-tiep/hacken-vs-aik-28-07-2026-715556",
+      "match_name": "28-07 Allsvenskan Hacken VS AIK Kevin",
+      "kickoff_iso": "2026-07-28T00:00:00+07:00",
       "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-27T19:01:44.082605+07:00",
-      "next_scan_at": "2026-07-27T19:46:44.082605+07:00",
+      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
+      "next_scan_at": "2026-07-27T20:46:37.015212+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
