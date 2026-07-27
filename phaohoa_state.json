@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T13:31:00.005308+07:00",
+  "updated_at": "2026-07-27T14:01:09.515947+07:00",
   "matches": {
     "2c7dd973da5f": {
       "url": "https://phaohoa1.live/truc-tiep/brazil-w-vs-italy-w",
@@ -402,6 +402,18 @@
         "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "791558": {
+      "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
+      "match_name": "27-07 ASEAN Championship Singapore VS Timor-Leste Dế Lửa",
+      "kickoff_iso": "2026-07-27T18:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-27T14:01:09.515886+07:00",
+      "next_scan_at": "2026-07-27T14:46:09.515886+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
