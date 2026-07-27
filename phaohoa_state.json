@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T20:01:37.015350+07:00",
+  "updated_at": "2026-07-27T20:31:32.349066+07:00",
   "matches": {
-    "761670": {
-      "url": "https://phaohoa1.live/truc-tiep/wehen-vs-bayern-munich-25-07-2026-761670",
-      "match_name": "Wehen vs Bayern Munich",
-      "kickoff_iso": "2026-07-25T20:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-25T22:01:32.581471+07:00",
-      "next_scan_at": "2026-07-25T22:06:32.581471+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "767885": {
       "url": "https://phaohoa1.live/truc-tiep/celtic-vs-ac-milan-25-07-2026-767885",
       "match_name": "25-07 Club Friendlies Celtic VS AC Milan Chim Nhỏ",
@@ -295,9 +281,9 @@
       "url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
       "match_name": "Hóa Chất Đức Giang vs Binh Chủng Thông Tin",
       "kickoff_iso": "2026-07-27T20:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
-      "next_scan_at": "2026-07-27T20:06:37.015212+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-27T20:31:32.348869+07:00",
+      "next_scan_at": "2026-07-27T20:36:32.348869+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -309,9 +295,9 @@
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-27-07-2026-791559",
       "match_name": "Indonesia vs Cambodia",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
-      "next_scan_at": "2026-07-27T20:06:37.015212+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-27T20:31:32.348869+07:00",
+      "next_scan_at": "2026-07-27T20:36:32.348869+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -321,23 +307,25 @@
     },
     "152523": {
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-26-07-2026-152523",
-      "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Kevin",
+      "match_name": "Indonesia vs Cambodia",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
-      "next_scan_at": "2026-07-27T20:11:37.015212+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-27T20:31:32.348869+07:00",
+      "next_scan_at": "2026-07-27T20:36:32.348869+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     },
     "736649": {
       "url": "https://phaohoa1.live/truc-tiep/lok-tashkent-vs-sogdiana-27-07-2026-736649",
       "match_name": "27-07 Super League Lok. Tashkent VS Sogdiana Chim Nhỏ",
       "kickoff_iso": "2026-07-27T22:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-27T20:01:37.015212+07:00",
-      "next_scan_at": "2026-07-27T20:21:37.015212+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-27T20:31:32.348869+07:00",
+      "next_scan_at": "2026-07-27T20:51:32.348869+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -347,9 +335,9 @@
       "url": "https://phaohoa1.live/truc-tiep/cfr-cluj-vs-fc-voluntari-27-07-2026-774982",
       "match_name": "27-07 Liga I CFR Cluj VS FC Voluntari KaKa",
       "kickoff_iso": "2026-07-27T22:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-27T19:31:37.490004+07:00",
-      "next_scan_at": "2026-07-27T20:16:37.490004+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-27T20:31:32.348869+07:00",
+      "next_scan_at": "2026-07-27T20:51:32.348869+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
