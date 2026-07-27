@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T17:01:14.279174+07:00",
+  "updated_at": "2026-07-27T17:31:28.846228+07:00",
   "matches": {
     "774339": {
       "url": "https://phaohoa1.live/truc-tiep/dusseldorf-vs-dortmund-25-07-2026-774339",
@@ -379,13 +379,13 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
       "match_name": "27-07 ASEAN Championship Singapore VS Timor-Leste Dế Lửa",
       "kickoff_iso": "2026-07-27T18:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-27T17:01:14.279047+07:00",
-      "next_scan_at": "2026-07-27T17:21:14.279047+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-27T17:31:28.846079+07:00",
+      "next_scan_at": "2026-07-27T17:41:28.846079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "870f7a34fe46": {
       "url": "https://phaohoa1.live/truc-tiep/u18-hoa-chat-duc-giang-vs-u18-binh-chung-thong-tin",
@@ -403,9 +403,9 @@
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-27-07-2026-791559",
       "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Dế Lửa",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-27T16:30:57.256405+07:00",
-      "next_scan_at": "2026-07-27T17:15:57.256405+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-27T17:31:28.846079+07:00",
+      "next_scan_at": "2026-07-27T18:16:28.846079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -415,9 +415,9 @@
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-26-07-2026-152523",
       "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Kevin",
       "kickoff_iso": "2026-07-27T20:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-27T16:30:57.256405+07:00",
-      "next_scan_at": "2026-07-27T17:15:57.256405+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-27T17:31:28.846079+07:00",
+      "next_scan_at": "2026-07-27T18:16:28.846079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
