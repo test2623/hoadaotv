@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T16:01:17.894639+07:00",
+  "updated_at": "2026-07-27T16:30:57.256536+07:00",
   "matches": {
     "791556": {
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-malaysia-25-07-2026-791556",
@@ -393,9 +393,9 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
       "match_name": "27-07 ASEAN Championship Singapore VS Timor-Leste Dế Lửa",
       "kickoff_iso": "2026-07-27T18:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-27T16:01:17.894523+07:00",
-      "next_scan_at": "2026-07-27T16:21:17.894523+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-27T16:30:57.256405+07:00",
+      "next_scan_at": "2026-07-27T16:50:57.256405+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -408,6 +408,30 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-07-27T16:01:17.894523+07:00",
       "next_scan_at": "2026-07-27T16:46:17.894523+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791559": {
+      "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-27-07-2026-791559",
+      "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Dế Lửa",
+      "kickoff_iso": "2026-07-27T20:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-27T16:30:57.256405+07:00",
+      "next_scan_at": "2026-07-27T17:15:57.256405+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "152523": {
+      "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-cambodia-26-07-2026-152523",
+      "match_name": "27-07 ASEAN Championship Indonesia VS Cambodia Kevin",
+      "kickoff_iso": "2026-07-27T20:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-27T16:30:57.256405+07:00",
+      "next_scan_at": "2026-07-27T17:15:57.256405+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
