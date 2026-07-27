@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-27T14:31:08.934589+07:00",
+  "updated_at": "2026-07-27T15:01:09.945489+07:00",
   "matches": {
-    "2c7dd973da5f": {
-      "url": "https://phaohoa1.live/truc-tiep/brazil-w-vs-italy-w",
-      "match_name": "Brazil (W) vs Italy (W)",
-      "kickoff_iso": "2026-07-25T15:00:00+07:00",
-      "minutes_to_kickoff": -123,
-      "last_scan_at": "2026-07-25T17:03:53.775580+07:00",
-      "next_scan_at": "2026-07-25T17:08:53.775580+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "791556": {
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-malaysia-25-07-2026-791556",
       "match_name": "Myanmar vs Malaysia",
@@ -407,9 +393,9 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
       "match_name": "27-07 ASEAN Championship Singapore VS Timor-Leste Dế Lửa",
       "kickoff_iso": "2026-07-27T18:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-27T14:01:09.515886+07:00",
-      "next_scan_at": "2026-07-27T14:46:09.515886+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-27T15:01:09.945412+07:00",
+      "next_scan_at": "2026-07-27T15:46:09.945412+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
