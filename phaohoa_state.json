@@ -1,20 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-28T17:01:40.871494+07:00",
+  "updated_at": "2026-07-28T17:41:11.486698+07:00",
   "matches": {
-    "728352": {
-      "url": "https://phaohoa1.live/truc-tiep/seoul-vs-ulsan-hd-26-07-2026-728352",
-      "match_name": "Seoul vs Ulsan Hd",
-      "kickoff_iso": "2026-07-26T17:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-07-26T19:31:59.817417+07:00",
-      "next_scan_at": "2026-07-26T19:36:59.817417+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
     "fe42a472fa00": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-w-vs-brazil-w",
       "match_name": "Thổ Nhĩ Kì (W) vs Brazil (W)",
@@ -283,9 +271,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
       "match_name": "Chelsea vs Ws Wanderers",
       "kickoff_iso": "2026-07-28T16:45:00+07:00",
-      "minutes_to_kickoff": -16,
-      "last_scan_at": "2026-07-28T17:01:40.871227+07:00",
-      "next_scan_at": "2026-07-28T17:06:40.871227+07:00",
+      "minutes_to_kickoff": -56,
+      "last_scan_at": "2026-07-28T17:41:11.486560+07:00",
+      "next_scan_at": "2026-07-28T17:46:11.486560+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -297,9 +285,9 @@
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-myanmar-28-07-2026-791560",
       "match_name": "Philippines vs Myanmar",
       "kickoff_iso": "2026-07-28T17:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-28T17:01:40.871227+07:00",
-      "next_scan_at": "2026-07-28T17:06:40.871227+07:00",
+      "minutes_to_kickoff": -41,
+      "last_scan_at": "2026-07-28T17:41:11.486560+07:00",
+      "next_scan_at": "2026-07-28T17:46:11.486560+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
