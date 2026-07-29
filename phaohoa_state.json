@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-29T23:01:50.913098+07:00",
+  "updated_at": "2026-07-29T23:06:11.869095+07:00",
   "matches": {
     "715556": {
       "url": "https://phaohoa1.live/truc-tiep/hacken-vs-aik-28-07-2026-715556",
@@ -287,9 +287,9 @@
       "url": "https://phaohoa1.live/truc-tiep/kairat-almaty-vs-omonia-29-07-2026-776596",
       "match_name": "Kairat Almaty vs Omonia",
       "kickoff_iso": "2026-07-29T22:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-29T23:01:50.912917+07:00",
-      "next_scan_at": "2026-07-29T23:06:50.912917+07:00",
+      "minutes_to_kickoff": -66,
+      "last_scan_at": "2026-07-29T23:06:11.869017+07:00",
+      "next_scan_at": "2026-07-29T23:11:11.869017+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
