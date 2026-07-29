@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-polissya-zhytomyr-30-07-2026-770560",
-    "raw_title": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh",
+    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
@@ -150,7 +150,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE FC Copenhagen GIẢI LAO 1-0 00:00 - 30/07/2026 Polissya Zhytomyr relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE FC Copenhagen 73' 2-0 00:00 - 30/07/2026 Polissya Zhytomyr relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
@@ -168,10 +168,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-polissya-zhytomyr-30-07-2026-770560",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.632883+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.750437+07:00",
     "kickoff_iso": "2026-07-30T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -62,
+    "minutes_to_kickoff": -92,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -179,13 +179,13 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770560.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
       },
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770560.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "HEAD~1:phaohoa_live.m3u"
@@ -206,19 +206,20 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "previous-playlist",
           "request/xhr",
+          "previous-playlist",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa3",
         "family_key": "phaohoa3",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -228,7 +229,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2891756824-1785345770-20260729T180135.ts?volcDst=MTAuMTMuOC4xNDY",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2891756824-1785346583-20260729T183136.ts?volcDst=MTAuMTMuOC4xNDY",
           "segment_status": 200,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -257,9 +258,7 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 522 ()",
-      "console/error: Failed to load resource: the server responded with a status of 522 ()"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -303,8 +302,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ",
+    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -440,7 +439,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Real Betis ĐANG DIỄN RA 0-0 01:00 - 30/07/2026 Lyon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Real Betis 29' 1-0 01:00 - 30/07/2026 Lyon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -470,10 +469,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.638032+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.755347+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -481,10 +480,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770271.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770271.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
@@ -503,18 +508,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
-          "quality/SD",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "SD",
+        "quality": "FHD",
         "parent_url": "",
         "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa5",
         "family_key": "phaohoa5",
-        "quality_rank": 20,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -524,7 +530,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3130700570-1785347358-20260729T180139.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3130700570-1785348181-20260729T183139.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 200,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -536,7 +542,6 @@
       "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
     ],
     "errors": [
-      "TimeoutError:APIRequestContext.get: Timeout 8000ms exceeded.\nCall log:\n  - → GET https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7\n    - Referer: https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271\n    - cookie: _ga=GA1.1.2078876028.1785348061; _ga_RW5QPRV9PD=GS2.1.s1785348061$o1$g1$t1785348071$j50$l0$h0\n",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -554,8 +559,7 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: WebSocket connection to 'wss://phaohoa1.live/ws/live/football/' failed: Error during WebSocket handshake: Unexpected response code: 522"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -599,8 +603,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/gornik-zabrze-vs-fenerbahce-30-07-2026-770479",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ",
+    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
@@ -748,7 +752,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Gornik Zabrze 2' 0-0 01:00 - 30/07/2026 Fenerbahce relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Gornik Zabrze 32' 0-1 01:00 - 30/07/2026 Fenerbahce relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
@@ -766,10 +770,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gornik-zabrze-vs-fenerbahce-30-07-2026-770479",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.643334+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.760197+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -777,10 +781,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770479.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770479.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
@@ -799,17 +809,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa4",
         "family_key": "phaohoa4",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -819,7 +831,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2282723767-1785347623-20260729T180136.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2282723767-1785348444-20260729T183137.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 200,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -848,8 +860,7 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 522 ()"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -893,8 +904,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-larne-30-07-2026-776512",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin",
+    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -1042,7 +1053,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Crvena zvezda 1' 0-0 01:00 - 30/07/2026 Larne relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Crvena zvezda 31' 1-0 01:00 - 30/07/2026 Larne relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -1060,10 +1071,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-larne-30-07-2026-776512",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.648631+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.765009+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1071,10 +1082,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/776512.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/776512.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 4,
@@ -1094,17 +1111,17 @@
         "sources": [
           "request/xhr",
           "response",
-          "quality/HD",
+          "previous-playlist",
           "dom/performance"
         ],
-        "quality": "HD",
+        "quality": "",
         "parent_url": "",
-        "candidate_score": 231,
+        "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa2",
         "family_key": "phaohoa2",
-        "quality_rank": 30,
+        "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1114,8 +1131,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2793084982-1785341176-20260729T180219.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2793084982-1785342027-20260729T183209.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -1323,7 +1340,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "match_name": "Liverpool VS Wrexham",
     "home_name": "Liverpool",
     "away_name": "Wrexham",
@@ -1331,10 +1348,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/liverpool-vs-wrexham",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:02:29.651749+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.767833+07:00",
     "kickoff_iso": "2026-07-30T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 328,
+    "minutes_to_kickoff": 298,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1480,7 +1497,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "match_name": "Italy VS Mỹ",
     "home_name": "Italy",
     "away_name": "Mỹ",
@@ -1488,10 +1505,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.654655+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.770419+07:00",
     "kickoff_iso": "2026-07-30T14:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 778,
+    "minutes_to_kickoff": 748,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1638,7 +1655,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "match_name": "Ba Lan VS Ukraine",
     "home_name": "Ba Lan",
     "away_name": "Ukraine",
@@ -1646,10 +1663,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:02:29.657716+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.773176+07:00",
     "kickoff_iso": "2026-07-30T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1048,
+    "minutes_to_kickoff": 1018,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1796,7 +1813,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "match_name": "Augsburg VS Bournemouth",
     "home_name": "Augsburg",
     "away_name": "Bournemouth",
@@ -1804,10 +1821,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/augsburg-vs-bournemouth-30-07-2026-770274",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:02:29.660785+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.775951+07:00",
     "kickoff_iso": "2026-07-30T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1198,
+    "minutes_to_kickoff": 1168,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1953,7 +1970,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 1 : 0 Giải lao Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 0 : 0 Trực tiếp Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 0 1' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 0 : 0 Trực tiếp Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "match_name": "Inter Turku VS Basaksehir",
     "home_name": "Inter Turku",
     "away_name": "Basaksehir",
@@ -1961,10 +1978,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-turku-vs-basaksehir-30-07-2026-778815",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:02:29.663807+07:00",
+    "scan_time_iso": "2026-07-30T01:32:21.778679+07:00",
     "kickoff_iso": "2026-07-30T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1318,
+    "minutes_to_kickoff": 1288,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
