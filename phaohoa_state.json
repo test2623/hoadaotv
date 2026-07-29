@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-29T17:19:17.823499+07:00",
+  "updated_at": "2026-07-29T17:31:45.518390+07:00",
   "matches": {
     "791558": {
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
@@ -329,9 +329,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-sydney-fc-29-07-2026-712691",
       "match_name": "Tottenham vs Sydney FC",
       "kickoff_iso": "2026-07-29T16:45:00+07:00",
-      "minutes_to_kickoff": -34,
-      "last_scan_at": "2026-07-29T17:19:17.823426+07:00",
-      "next_scan_at": "2026-07-29T17:24:17.823426+07:00",
+      "minutes_to_kickoff": -46,
+      "last_scan_at": "2026-07-29T17:31:45.518264+07:00",
+      "next_scan_at": "2026-07-29T17:36:45.518264+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -343,9 +343,9 @@
       "url": "https://phaohoa1.live/truc-tiep/cerezo-osaka-vs-dortmund-29-07-2026-763663",
       "match_name": "Cerezo Osaka vs Dortmund",
       "kickoff_iso": "2026-07-29T17:00:00+07:00",
-      "minutes_to_kickoff": -19,
-      "last_scan_at": "2026-07-29T17:19:17.823426+07:00",
-      "next_scan_at": "2026-07-29T17:24:17.823426+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-29T17:31:45.518264+07:00",
+      "next_scan_at": "2026-07-29T17:36:45.518264+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -357,9 +357,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-trung-quoc",
       "match_name": "29-07 Nations League Nhật Bản VS Trung Quốc KaKa",
       "kickoff_iso": "2026-07-29T18:30:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-29T17:01:44.956125+07:00",
-      "next_scan_at": "2026-07-29T17:21:44.956125+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-29T17:31:45.518264+07:00",
+      "next_scan_at": "2026-07-29T17:51:45.518264+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
