@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-29T16:31:25.569460+07:00",
+  "updated_at": "2026-07-29T17:01:44.956240+07:00",
   "matches": {
     "791558": {
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-timor-leste-27-07-2026-791558",
@@ -327,35 +327,39 @@
     },
     "712691": {
       "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-sydney-fc-29-07-2026-712691",
-      "match_name": "29-07 Club Friendlies Tottenham VS Sydney FC Chim Nhỏ",
+      "match_name": "Tottenham vs Sydney FC",
       "kickoff_iso": "2026-07-29T16:45:00+07:00",
-      "minutes_to_kickoff": 14,
-      "last_scan_at": "2026-07-29T16:31:25.569220+07:00",
-      "next_scan_at": "2026-07-29T16:36:25.569220+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -16,
+      "last_scan_at": "2026-07-29T17:01:44.956125+07:00",
+      "next_scan_at": "2026-07-29T17:06:44.956125+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "763663": {
       "url": "https://phaohoa1.live/truc-tiep/cerezo-osaka-vs-dortmund-29-07-2026-763663",
-      "match_name": "29-07 Club Friendlies Cerezo Osaka VS Dortmund Pháo Thủ",
+      "match_name": "Cerezo Osaka vs Dortmund",
       "kickoff_iso": "2026-07-29T17:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-29T16:31:25.569220+07:00",
-      "next_scan_at": "2026-07-29T16:41:25.569220+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-29T17:01:44.956125+07:00",
+      "next_scan_at": "2026-07-29T17:06:44.956125+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
       "scan_decision": "browser-fallback"
     },
     "17314220d118": {
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-trung-quoc",
       "match_name": "29-07 Nations League Nhật Bản VS Trung Quốc KaKa",
       "kickoff_iso": "2026-07-29T18:30:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-29T16:31:25.569220+07:00",
-      "next_scan_at": "2026-07-29T16:51:25.569220+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-29T17:01:44.956125+07:00",
+      "next_scan_at": "2026-07-29T17:21:44.956125+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -365,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/bayer-leverkusen-vs-genk-29-07-2026-826126",
       "match_name": "29-07 Club Friendlies Bayer Leverkusen VS Genk Văn Minh",
       "kickoff_iso": "2026-07-29T20:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-29T16:01:40.428558+07:00",
-      "next_scan_at": "2026-07-29T16:46:40.428558+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-29T17:01:44.956125+07:00",
+      "next_scan_at": "2026-07-29T17:46:44.956125+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
