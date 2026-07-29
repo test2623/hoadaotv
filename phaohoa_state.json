@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T01:32:21.704729+07:00",
+  "updated_at": "2026-07-30T02:01:40.271054+07:00",
   "matches": {
     "712690": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
@@ -273,9 +273,9 @@
       "url": "https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271",
       "match_name": "Real Betis vs Lyon",
       "kickoff_iso": "2026-07-30T01:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-30T01:32:21.704567+07:00",
-      "next_scan_at": "2026-07-30T01:37:21.704567+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-30T02:01:40.270953+07:00",
+      "next_scan_at": "2026-07-30T02:06:40.270953+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -287,9 +287,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gornik-zabrze-vs-fenerbahce-30-07-2026-770479",
       "match_name": "Gornik Zabrze vs Fenerbahce",
       "kickoff_iso": "2026-07-30T01:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-30T01:32:21.704567+07:00",
-      "next_scan_at": "2026-07-30T01:37:21.704567+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-30T02:01:40.270953+07:00",
+      "next_scan_at": "2026-07-30T02:06:40.270953+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -301,9 +301,9 @@
       "url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-larne-30-07-2026-776512",
       "match_name": "Crvena Zvezda vs Larne",
       "kickoff_iso": "2026-07-30T01:00:00+07:00",
-      "minutes_to_kickoff": -32,
-      "last_scan_at": "2026-07-30T01:32:21.704567+07:00",
-      "next_scan_at": "2026-07-30T01:37:21.704567+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-30T02:01:40.270953+07:00",
+      "next_scan_at": "2026-07-30T02:06:40.270953+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [

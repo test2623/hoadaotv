@@ -1,309 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-polissya-zhytomyr-30-07-2026-770560",
-    "raw_title": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
-        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
-        "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
-        "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
-        "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
-        "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
-        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
-        "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
-        "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
-        "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
-        "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 75,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] FC Copenhagen min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 50,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE FC Copenhagen 73' 2-0 00:00 - 30/07/2026 Polissya Zhytomyr relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "FC Copenhagen vs Polissya Zhytomyr",
-    "home_name": "FC Copenhagen",
-    "away_name": "Polissya Zhytomyr",
-    "time": "00:00",
-    "date": "30/07",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-polissya-zhytomyr-30-07-2026-770560",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.750437+07:00",
-    "kickoff_iso": "2026-07-30T00:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770560.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 4,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa3",
-        "family_key": "phaohoa3",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2891756824-1785346583-20260729T183136.ts?volcDst=MTAuMTMuOC4xNDY",
-          "segment_status": 200,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770560.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "770560",
-        "family_key": "770560",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/770560.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ",
+    "card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -320,117 +19,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
@@ -439,7 +138,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Real Betis 29' 1-0 01:00 - 30/07/2026 Lyon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Real Betis GIẢI LAO 2-0 01:00 - 30/07/2026 Lyon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -469,10 +168,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/betis-vs-lyon-30-07-2026-770271",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.755347+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.309903+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -489,11 +188,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/770271.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 2,
-    "_scan_total": 4,
+    "_scan_index": 1,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -530,8 +229,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3130700570-1785348181-20260729T183139.ts?volcDst=MTAuMTMuOC4xNDU",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3130700570-1785348983-20260729T190127.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -552,9 +251,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -603,8 +299,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/gornik-zabrze-vs-fenerbahce-30-07-2026-770479",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ",
+    "card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
@@ -621,117 +317,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
@@ -752,7 +448,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Gornik Zabrze 32' 0-1 01:00 - 30/07/2026 Fenerbahce relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Gornik Zabrze GIẢI LAO 1-1 01:00 - 30/07/2026 Fenerbahce relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
@@ -770,10 +466,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gornik-zabrze-vs-fenerbahce-30-07-2026-770479",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.760197+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.314535+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -790,11 +486,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/770479.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 3,
-    "_scan_total": 4,
+    "_scan_index": 2,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -831,8 +527,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2282723767-1785348444-20260729T183137.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2282723767-1785349240-20260729T190127.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -853,9 +549,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -904,8 +597,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-larne-30-07-2026-776512",
-    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin",
-    "card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "raw_title": "01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin",
+    "card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -922,117 +615,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -1053,7 +746,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Crvena zvezda 31' 1-0 01:00 - 30/07/2026 Larne relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Crvena zvezda GIẢI LAO 2-0 01:00 - 30/07/2026 Larne relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
@@ -1071,10 +764,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/crvena-zvezda-vs-larne-30-07-2026-776512",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.765009+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.318937+07:00",
     "kickoff_iso": "2026-07-30T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1091,11 +784,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/776512.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 4,
-    "_scan_total": 4,
+    "_scan_index": 3,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1110,18 +803,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa2",
         "family_key": "phaohoa2",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1131,7 +825,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2793084982-1785342027-20260729T183209.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2793084982-1785342853-20260729T190129.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1153,9 +847,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1222,117 +913,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1340,7 +1031,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "match_name": "Liverpool VS Wrexham",
     "home_name": "Liverpool",
     "away_name": "Wrexham",
@@ -1348,10 +1039,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/liverpool-vs-wrexham",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:32:21.767833+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.321595+07:00",
     "kickoff_iso": "2026-07-30T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 298,
+    "minutes_to_kickoff": 268,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1367,9 +1058,9 @@
     "raw_time": "",
     "logo": "",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg"
     ],
     "logo_candidates": [
       {
@@ -1379,117 +1070,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1497,7 +1188,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "match_name": "Italy VS Mỹ",
     "home_name": "Italy",
     "away_name": "Mỹ",
@@ -1505,10 +1196,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.770419+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.324057+07:00",
     "kickoff_iso": "2026-07-30T14:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 748,
+    "minutes_to_kickoff": 718,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1524,10 +1215,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg"
     ],
     "logo_candidates": [
       {
@@ -1537,117 +1228,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1655,7 +1346,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "match_name": "Ba Lan VS Ukraine",
     "home_name": "Ba Lan",
     "away_name": "Ukraine",
@@ -1663,10 +1354,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:32:21.773176+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.326661+07:00",
     "kickoff_iso": "2026-07-30T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1018,
+    "minutes_to_kickoff": 988,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1695,117 +1386,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1813,7 +1504,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "match_name": "Augsburg VS Bournemouth",
     "home_name": "Augsburg",
     "away_name": "Bournemouth",
@@ -1821,10 +1512,10 @@
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/augsburg-vs-bournemouth-30-07-2026-770274",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-30T01:32:21.775951+07:00",
+    "scan_time_iso": "2026-07-30T02:01:40.329235+07:00",
     "kickoff_iso": "2026-07-30T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1168,
+    "minutes_to_kickoff": 1138,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1838,11 +1529,12 @@
     "raw_title": "23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "card_text": "23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg"
     ],
     "logo_candidates": [
       {
@@ -1852,117 +1544,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 64.99,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FC Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.98,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 64.97,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.94,
+        "score": 64.98,
         "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.89,
+        "score": 64.93,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
-        "score": 64.87,
+        "score": 64.91,
         "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
-        "score": 64.86,
+        "score": 64.9,
         "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
-        "score": 64.83,
+        "score": 64.87,
         "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.8,
+        "score": 64.84,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.77,
+        "score": 4.81,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
-        "score": 4.7,
+        "score": 4.74,
         "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1970,18 +1662,175 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 30-07 BÓNG ĐÁ UEFA Conference League FC Copenhagen 2 : 0 73' Polissya Zhytomyr Văn Minh 01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 1 : 0 29' Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 0 : 1 31' Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 1 : 0 30' Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
     "match_name": "Inter Turku VS Basaksehir",
     "home_name": "Inter Turku",
     "away_name": "Basaksehir",
     "time": "23:00",
     "date": "30/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-turku-vs-basaksehir-30-07-2026-778815",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-07-30T01:32:21.778679+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-07-30T02:01:40.331875+07:00",
     "kickoff_iso": "2026-07-30T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1288,
+    "minutes_to_kickoff": 1258,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/maccabi-tel-aviv-vs-sheriff-tiraspol-30-07-2026-778996",
+    "raw_title": "23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
+    "card_text": "23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+        "score": 64.99,
+        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
+        "score": 64.98,
+        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Lyon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
+        "score": 64.95,
+        "context": "Gornik Zabrze max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gornik Zabrze min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
+        "score": 64.94,
+        "context": "Fenerbahce max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fenerbahce min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.93,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_112.jpg",
+        "score": 64.91,
+        "context": "Crvena zvezda max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Crvena zvezda min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5581.jpg",
+        "score": 64.9,
+        "context": "Larne max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Larne min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.89,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96.png",
+        "score": 64.87,
+        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Liverpool min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.84,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2954.jpg",
+        "score": 39.86,
+        "context": "Wrexham max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Wrexham min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.81,
+        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
+        "score": 4.79,
+        "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3934.jpg",
+        "score": 4.75,
+        "context": "Augsburg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Augsburg min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3071.jpg",
+        "score": 4.74,
+        "context": "Bournemouth max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bournemouth min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.73,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
+        "score": 4.71,
+        "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Turku min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_103.jpg",
+        "score": 4.7,
+        "context": "Basaksehir max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Basaksehir min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Kevin",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:00 - 30-07 BÓNG ĐÁ Club Friendlies Real Betis 2 : 0 Giải lao Lyon Chim Nhỏ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Gornik Zabrze 1 : 1 Giải lao Fenerbahce Pháo Thủ 01:00 - 30-07 BÓNG ĐÁ UEFA Champions League Crvena zvezda 2 : 0 Giải lao Larne Kevin 06:30 - 30-07 BÓNG ĐÁ Club Friendlies Liverpool VS Sắp diễn ra Wrexham Chim Nhỏ 14:00 - 30-07 BÓNG CHUYỀN Nations League Italy VS Sắp diễn ra Mỹ KaKa 18:30 - 30-07 BÓNG CHUYỀN Nations League Ba Lan VS Sắp diễn ra Ukraine KaKa 21:00 - 30-07 BÓNG ĐÁ Club Friendlies Augsburg VS Sắp diễn ra Bournemouth Văn Minh 23:00 - 30-07 BÓNG ĐÁ UEFA Conference League Inter Turku VS Sắp diễn ra Basaksehir Pháo Thủ 23:00 - 30-07 BÓNG ĐÁ UEFA Europa League Maccabi Tel Aviv VS Sắp diễn ra Sheriff Tiraspol Kevin",
+    "match_name": "Maccabi Tel Aviv VS Sheriff Tiraspol",
+    "home_name": "Maccabi Tel Aviv",
+    "away_name": "Sheriff Tiraspol",
+    "time": "23:00",
+    "date": "30/07",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/maccabi-tel-aviv-vs-sheriff-tiraspol-30-07-2026-778996",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-07-30T02:01:40.334548+07:00",
+    "kickoff_iso": "2026-07-30T23:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 1258,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
