@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T14:31:40.790833+07:00",
+  "updated_at": "2026-07-30T15:00:53.983775+07:00",
   "matches": {
     "712690": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
@@ -329,9 +329,9 @@
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
       "match_name": "Italy vs Mỹ",
       "kickoff_iso": "2026-07-30T14:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-30T14:31:40.790734+07:00",
-      "next_scan_at": "2026-07-30T14:36:40.790734+07:00",
+      "minutes_to_kickoff": -60,
+      "last_scan_at": "2026-07-30T15:00:53.983711+07:00",
+      "next_scan_at": "2026-07-30T15:05:53.983711+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
