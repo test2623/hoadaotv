@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-31T01:06:25.346587+07:00",
+  "updated_at": "2026-07-31T01:32:22.652629+07:00",
   "matches": {
-    "767881": {
-      "url": "https://phaohoa1.live/truc-tiep/aston-villa-vs-real-sociedad-29-07-2026-767881",
-      "match_name": "Aston Villa vs Real Sociedad",
-      "kickoff_iso": "2026-07-29T01:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-29T02:32:07.501751+07:00",
-      "next_scan_at": "2026-07-29T02:37:07.501751+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "770480": {
       "url": "https://phaohoa1.live/truc-tiep/hearts-vs-sturm-graz-29-07-2026-770480",
       "match_name": "Hearts vs Sturm Graz",
@@ -257,9 +243,9 @@
       "url": "https://phaohoa1.live/truc-tiep/midtjylland-vs-besiktas-31-07-2026-770781",
       "match_name": "Midtjylland vs Besiktas",
       "kickoff_iso": "2026-07-31T00:00:00+07:00",
-      "minutes_to_kickoff": -66,
-      "last_scan_at": "2026-07-31T01:06:25.346409+07:00",
-      "next_scan_at": "2026-07-31T01:11:25.346409+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-31T01:32:22.652498+07:00",
+      "next_scan_at": "2026-07-31T01:37:22.652498+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -271,9 +257,9 @@
       "url": "https://phaohoa1.live/truc-tiep/paok-vs-dyn-kyiv-31-07-2026-778998",
       "match_name": "PAOK vs Dyn. Kyiv",
       "kickoff_iso": "2026-07-31T00:45:00+07:00",
-      "minutes_to_kickoff": -21,
-      "last_scan_at": "2026-07-31T01:06:25.346409+07:00",
-      "next_scan_at": "2026-07-31T01:11:25.346409+07:00",
+      "minutes_to_kickoff": -46,
+      "last_scan_at": "2026-07-31T01:32:22.652498+07:00",
+      "next_scan_at": "2026-07-31T01:37:22.652498+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -285,37 +271,41 @@
       "url": "https://phaohoa1.live/truc-tiep/anderlecht-vs-hammarby-31-07-2026-770779",
       "match_name": "Anderlecht vs Hammarby",
       "kickoff_iso": "2026-07-31T01:30:00+07:00",
-      "minutes_to_kickoff": 24,
-      "last_scan_at": "2026-07-31T01:06:25.346409+07:00",
-      "next_scan_at": "2026-07-31T01:16:25.346409+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-31T01:32:22.652498+07:00",
+      "next_scan_at": "2026-07-31T01:37:22.652498+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
       "scan_decision": "browser-fallback"
     },
     "778995": {
       "url": "https://phaohoa1.live/truc-tiep/ferencvaros-vs-twente-31-07-2026-778995",
       "match_name": "Ferencvaros vs Twente",
       "kickoff_iso": "2026-07-31T01:30:00+07:00",
-      "minutes_to_kickoff": 24,
-      "last_scan_at": "2026-07-31T01:06:25.346409+07:00",
-      "next_scan_at": "2026-07-31T01:16:25.346409+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -2,
+      "last_scan_at": "2026-07-31T01:32:22.652498+07:00",
+      "next_scan_at": "2026-07-31T01:37:22.652498+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     },
     "770780": {
       "url": "https://phaohoa1.live/truc-tiep/benfica-vs-st-gallen-31-07-2026-770780",
-      "match_name": "31-07 UEFA Europa League Benfica VS St. Gallen Kevin",
+      "match_name": "Benfica vs St. Gallen",
       "kickoff_iso": "2026-07-31T02:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-31T01:01:57.866158+07:00",
-      "next_scan_at": "2026-07-31T01:21:57.866158+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-07-31T01:32:22.652498+07:00",
+      "next_scan_at": "2026-07-31T01:42:22.652498+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     }
   }
 }
