@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T18:01:27.304035+07:00",
+  "updated_at": "2026-07-30T18:31:34.070856+07:00",
   "matches": {
     "791561": {
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-laos-28-07-2026-791561",
@@ -313,12 +313,14 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
       "match_name": "Ba Lan vs Ukraine",
       "kickoff_iso": "2026-07-30T18:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-30T18:01:27.303915+07:00",
-      "next_scan_at": "2026-07-30T18:11:27.303915+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-30T18:31:34.070777+07:00",
+      "next_scan_at": "2026-07-30T18:36:34.070777+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     },
     "770274": {
