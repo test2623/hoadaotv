@@ -1,36 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T16:31:01.616453+07:00",
+  "updated_at": "2026-07-30T17:01:04.912842+07:00",
   "matches": {
-    "712690": {
-      "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
-      "match_name": "Chelsea vs Ws Wanderers",
-      "kickoff_iso": "2026-07-28T16:45:00+07:00",
-      "minutes_to_kickoff": -106,
-      "last_scan_at": "2026-07-28T18:31:31.095711+07:00",
-      "next_scan_at": "2026-07-28T18:36:31.095711+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "791560": {
-      "url": "https://phaohoa1.live/truc-tiep/philippines-vs-myanmar-28-07-2026-791560",
-      "match_name": "Philippines vs Myanmar",
-      "kickoff_iso": "2026-07-28T17:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-28T18:31:31.095711+07:00",
-      "next_scan_at": "2026-07-28T18:36:31.095711+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "791561": {
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-laos-28-07-2026-791561",
       "match_name": "Malaysia vs Laos",
@@ -341,9 +313,21 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
       "match_name": "30-07 Nations League Ba Lan VS Ukraine KaKa",
       "kickoff_iso": "2026-07-30T18:30:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-30T16:31:01.616370+07:00",
-      "next_scan_at": "2026-07-30T16:51:01.616370+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-30T17:01:04.912725+07:00",
+      "next_scan_at": "2026-07-30T17:21:04.912725+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "770274": {
+      "url": "https://phaohoa1.live/truc-tiep/augsburg-vs-bournemouth-30-07-2026-770274",
+      "match_name": "30-07 Club Friendlies Augsburg VS Bournemouth Văn Minh",
+      "kickoff_iso": "2026-07-30T21:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-30T17:01:04.912725+07:00",
+      "next_scan_at": "2026-07-30T17:46:04.912725+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
