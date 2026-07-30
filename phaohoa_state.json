@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T16:01:39.811284+07:00",
+  "updated_at": "2026-07-30T16:31:01.616453+07:00",
   "matches": {
     "712690": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
@@ -341,9 +341,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
       "match_name": "30-07 Nations League Ba Lan VS Ukraine KaKa",
       "kickoff_iso": "2026-07-30T18:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-30T15:31:33.077933+07:00",
-      "next_scan_at": "2026-07-30T16:16:33.077933+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-30T16:31:01.616370+07:00",
+      "next_scan_at": "2026-07-30T16:51:01.616370+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
