@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-30T07:31:45.601462+07:00",
+  "updated_at": "2026-07-30T08:01:49.930184+07:00",
   "matches": {
     "712690": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ws-wanderers-28-07-2026-712690",
@@ -315,9 +315,9 @@
       "url": "https://phaohoa1.live/truc-tiep/liverpool-vs-wrexham",
       "match_name": "Liverpool vs Wrexham",
       "kickoff_iso": "2026-07-30T06:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-30T07:31:45.601399+07:00",
-      "next_scan_at": "2026-07-30T07:36:45.601399+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-30T08:01:49.930104+07:00",
+      "next_scan_at": "2026-07-30T08:06:49.930104+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
