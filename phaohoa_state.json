@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-31T23:01:49.692364+07:00",
+  "updated_at": "2026-07-31T23:22:30.263223+07:00",
   "matches": {
     "770560": {
       "url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-polissya-zhytomyr-30-07-2026-770560",
@@ -299,9 +299,9 @@
       "url": "https://phaohoa1.live/truc-tiep/fk-zorya-luhansk-vs-kolos-kovalivka-31-07-2026-795392",
       "match_name": "Fk Zorya Luhansk vs Kolos Kovalivka",
       "kickoff_iso": "2026-07-31T22:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-31T23:01:49.692212+07:00",
-      "next_scan_at": "2026-07-31T23:06:49.692212+07:00",
+      "minutes_to_kickoff": -82,
+      "last_scan_at": "2026-07-31T23:22:30.263079+07:00",
+      "next_scan_at": "2026-07-31T23:27:30.263079+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -313,9 +313,9 @@
       "url": "https://phaohoa1.live/truc-tiep/aarhus-fremad-vs-aalborg-31-07-2026-779693",
       "match_name": "Aarhus Fremad vs Aalborg",
       "kickoff_iso": "2026-07-31T23:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-31T23:01:49.692212+07:00",
-      "next_scan_at": "2026-07-31T23:06:49.692212+07:00",
+      "minutes_to_kickoff": -22,
+      "last_scan_at": "2026-07-31T23:22:30.263079+07:00",
+      "next_scan_at": "2026-07-31T23:27:30.263079+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -327,37 +327,37 @@
       "url": "https://phaohoa1.live/truc-tiep/valerenga-vs-hamkam-01-08-2026-716911",
       "match_name": "01-08 Eliteserien Valerenga VS HamKam Kevin",
       "kickoff_iso": "2026-08-01T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-31T23:01:49.692212+07:00",
-      "next_scan_at": "2026-07-31T23:21:49.692212+07:00",
+      "minutes_to_kickoff": 38,
+      "last_scan_at": "2026-07-31T23:22:30.263079+07:00",
+      "next_scan_at": "2026-07-31T23:32:30.263079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "779694": {
       "url": "https://phaohoa1.live/truc-tiep/ab-copenhagen-vs-fredericia-01-08-2026-779694",
       "match_name": "01-08 1. Division AB Copenhagen VS Fredericia Chim Nhỏ",
       "kickoff_iso": "2026-08-01T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-31T23:01:49.692212+07:00",
-      "next_scan_at": "2026-07-31T23:21:49.692212+07:00",
+      "minutes_to_kickoff": 38,
+      "last_scan_at": "2026-07-31T23:22:30.263079+07:00",
+      "next_scan_at": "2026-07-31T23:32:30.263079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "779695": {
       "url": "https://phaohoa1.live/truc-tiep/koge-vs-vejle-01-08-2026-779695",
       "match_name": "01-08 1. Division Koge VS Vejle Văn Minh",
       "kickoff_iso": "2026-08-01T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-31T23:01:49.692212+07:00",
-      "next_scan_at": "2026-07-31T23:21:49.692212+07:00",
+      "minutes_to_kickoff": 38,
+      "last_scan_at": "2026-07-31T23:22:30.263079+07:00",
+      "next_scan_at": "2026-07-31T23:32:30.263079+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "769170": {
       "url": "https://phaohoa1.live/truc-tiep/birmingham-vs-barcelona-01-08-2026-769170",
