@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-31T16:31:45.874857+07:00",
+  "updated_at": "2026-07-31T16:35:46.697214+07:00",
   "matches": {
     "712691": {
       "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-sydney-fc-29-07-2026-712691",
@@ -285,9 +285,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
       "match_name": "Thái Lan vs Indonesia",
       "kickoff_iso": "2026-07-31T16:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-31T16:31:45.874748+07:00",
-      "next_scan_at": "2026-07-31T16:36:45.874748+07:00",
+      "minutes_to_kickoff": -35,
+      "last_scan_at": "2026-07-31T16:35:46.697108+07:00",
+      "next_scan_at": "2026-07-31T16:40:46.697108+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -299,9 +299,9 @@
       "url": "https://phaohoa1.live/truc-tiep/timor-leste-vs-indonesia-31-07-2026-791562",
       "match_name": "31-07 ASEAN Championship Timor-Leste VS Indonesia Chim Nhỏ",
       "kickoff_iso": "2026-07-31T17:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-31T16:31:45.874748+07:00",
-      "next_scan_at": "2026-07-31T16:41:45.874748+07:00",
+      "minutes_to_kickoff": 25,
+      "last_scan_at": "2026-07-31T16:35:46.697108+07:00",
+      "next_scan_at": "2026-07-31T16:45:46.697108+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
