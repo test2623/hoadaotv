@@ -1,269 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/henan-songshan-longmen-vs-dalian-yingbo-31-07-2026-742930",
-    "raw_title": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ",
-    "card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
-        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
-        "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
-        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
-        "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
-        "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
-        "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
-        "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
-        "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
-        "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 75,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 50,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Dalian Yingbo min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_118_AX4vHfg.png",
-        "score": 40,
-        "context": "size-5 object-contain CHINESE SUPER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CHINESE SUPER LEAGUE Henan Songshan Longmen 90+ 1-1 18:35 - 31/07/2026 Dalian Yingbo relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_118_AX4vHfg.png"
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Henan Songshan Longmen vs Dalian Yingbo",
-    "home_name": "Henan Songshan Longmen",
-    "away_name": "Dalian Yingbo",
-    "time": "18:35",
-    "date": "31/07",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/henan-songshan-longmen-vs-dalian-yingbo-31-07-2026-742930",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-07-31T20:32:08.522308+07:00",
-    "kickoff_iso": "2026-07-31T18:35:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -117,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 5,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2288016753-1785500563-20260731T133125.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-philippines",
     "raw_title": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa",
-    "card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
@@ -274,123 +13,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
@@ -398,7 +137,7 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 75,
+        "score": 70,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Việt Nam min-w-0 text-center",
         "source": "detail-match"
       },
@@ -408,22 +147,8 @@
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Philippines min-w-0 text-center",
         "source": "detail-match"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
-        "score": 40,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 chamicon Lv14 2 phút trước Cố lên Vietnam chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 40,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 nguyen huyen Lv1 1 phút trước Gái Phi nhìn xinh và có lực hơn gái Việt nhỉ ?? chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -436,10 +161,10 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-philippines",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-31T20:32:08.526877+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.598727+07:00",
     "kickoff_iso": "2026-07-31T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
+    "minutes_to_kickoff": -122,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -453,8 +178,8 @@
         "history_source": "working-tree"
       }
     ],
-    "_scan_index": 2,
-    "_scan_total": 5,
+    "_scan_index": 1,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -468,8 +193,8 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "request/xhr",
           "previous-playlist",
+          "request/xhr",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -491,7 +216,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2288054839-1785501229-20260731T133125.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2288054839-1785502132-20260731T140132.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -530,8 +255,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/vietnam-vs-singapore-31-07-2026-791563",
-    "raw_title": "20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken",
-    "card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "raw_title": "20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken",
+    "card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
     "home_logo": "",
@@ -541,123 +266,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
@@ -674,10 +399,10 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/vietnam-vs-singapore-31-07-2026-791563",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-31T20:32:08.530602+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.602452+07:00",
     "kickoff_iso": "2026-07-31T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -694,11 +419,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/791563.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 3,
-    "_scan_total": 5,
+    "_scan_index": 2,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -735,7 +460,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3215522394-1785503240-20260731T133121.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3215522394-1785504123-20260731T140133.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -809,134 +534,134 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-singapore-30-07-2026-005840",
     "raw_title": "20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin",
-    "card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
@@ -949,29 +674,15 @@
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 75,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
         "score": 50,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Singapore min-w-0 text-center",
         "source": "detail-match"
       },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 40,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 nguyen huyen Lv1 1 phút trước Gái Phi nhìn xinh và có lực hơn gái Việt nhỉ ?? chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg"
     ],
-    "blv": "nước ngoài bùn muốn chít=)) HT Vừa xong",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -981,11 +692,11 @@
     "time": "20:00",
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-singapore-30-07-2026-005840",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T20:32:08.535393+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-07-31T21:01:47.606697+07:00",
     "kickoff_iso": "2026-07-31T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1002,11 +713,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/005840.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 4,
-    "_scan_total": 5,
+    "_scan_index": 3,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1021,18 +732,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa2",
         "family_key": "phaohoa2",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1042,8 +754,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2798343907-1785502847-20260731T133153.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2798343907-1785503697-20260731T140134.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -1064,9 +776,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1127,123 +836,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1251,7 +960,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "page_card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "match_name": "FK Zorya Luhansk VS Kolos Kovalivka",
     "home_name": "FK Zorya Luhansk",
     "away_name": "Kolos Kovalivka",
@@ -1259,10 +968,10 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fk-zorya-luhansk-vs-kolos-kovalivka-31-07-2026-795392",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T20:32:08.538413+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.609664+07:00",
     "kickoff_iso": "2026-07-31T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 88,
+    "minutes_to_kickoff": 58,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1276,8 +985,8 @@
         "history_source": "working-tree"
       }
     ],
-    "_scan_index": 5,
-    "_scan_total": 5,
+    "_scan_index": 4,
+    "_scan_total": 8,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -1301,123 +1010,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1425,7 +1134,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "page_card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "match_name": "Aarhus Fremad VS Aalborg",
     "home_name": "Aarhus Fremad",
     "away_name": "Aalborg",
@@ -1433,16 +1142,31 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aarhus-fremad-vs-aalborg-31-07-2026-779693",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T20:32:08.541246+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.612483+07:00",
     "kickoff_iso": "2026-07-31T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 148,
+    "minutes_to_kickoff": 118,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-16m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/779693.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 5,
+    "_scan_total": 8,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1460,123 +1184,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1584,7 +1308,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "page_card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "match_name": "Valerenga VS HamKam",
     "home_name": "Valerenga",
     "away_name": "HamKam",
@@ -1592,16 +1316,31 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/valerenga-vs-hamkam-01-08-2026-716911",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T20:32:08.543966+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.615165+07:00",
     "kickoff_iso": "2026-08-01T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 208,
+    "minutes_to_kickoff": 178,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-16m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/716911.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 6,
+    "_scan_total": 8,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1612,130 +1351,130 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2255.jpg",
-        "score": 64.99,
-        "context": "Henan Songshan Longmen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Henan Songshan Longmen min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31510.jpg",
-        "score": 64.98,
-        "context": "Dalian Yingbo max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dalian Yingbo min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.96,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.95,
+        "score": 64.99,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.93,
+        "score": 64.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.91,
+        "score": 64.95,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 64.9,
+        "score": 64.94,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.85,
+        "score": 64.89,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
-        "score": 64.83,
+        "score": 64.87,
         "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 59.94,
+        "score": 59.98,
         "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
-        "score": 39.82,
+        "score": 39.86,
         "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.81,
+        "score": 39.85,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.89,
+        "score": 4.93,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
-        "score": 4.79,
+        "score": 4.83,
         "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
-        "score": 4.78,
+        "score": 4.82,
         "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
-        "score": 4.75,
+        "score": 4.79,
         "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
-        "score": 4.74,
+        "score": 4.78,
         "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
-        "score": 4.71,
+        "score": 4.75,
         "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1743,7 +1482,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:35 - 31-07 BÓNG ĐÁ Chinese Super League Henan Songshan Longmen 1 : 1 90+ Dalian Yingbo Pháo Thủ 19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 30' Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ",
+    "page_card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
     "match_name": "AB Copenhagen VS Fredericia",
     "home_name": "AB Copenhagen",
     "away_name": "Fredericia",
@@ -1751,16 +1490,197 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ab-copenhagen-vs-fredericia-01-08-2026-779694",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T20:32:08.546769+07:00",
+    "scan_time_iso": "2026-07-31T21:01:47.617926+07:00",
     "kickoff_iso": "2026-08-01T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 208,
+    "minutes_to_kickoff": 178,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-16m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/779694.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 7,
+    "_scan_total": 8,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/koge-vs-vejle-01-08-2026-779695",
+    "raw_title": "00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
+    "card_text": "00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": -15.0,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 64.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 64.97,
+        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.96,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
+        "score": 64.95,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
+        "score": 64.94,
+        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Singapore min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.89,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
+        "score": 64.87,
+        "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] FK Zorya Luhansk min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.98,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_230.jpg",
+        "score": 39.86,
+        "context": "Kolos Kovalivka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kolos Kovalivka min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 39.85,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.93,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
+        "score": 4.83,
+        "context": "Aarhus Fremad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aarhus Fremad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2651.jpg",
+        "score": 4.82,
+        "context": "Aalborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aalborg min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.81,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5599.jpg",
+        "score": 4.79,
+        "context": "Valerenga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Valerenga min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5665.jpg",
+        "score": 4.78,
+        "context": "HamKam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] HamKam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2673.jpg",
+        "score": 4.75,
+        "context": "AB Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] AB Copenhagen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2731.jpg",
+        "score": 4.74,
+        "context": "Fredericia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Fredericia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.73,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Văn Minh",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "19:00 - 31-07 BÓNG CHUYỀN Sea V Cup Việt Nam 0 : 0 Trực tiếp Philippines KaKa 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Giải lao Singapore Ken 20:00 - 31-07 BÓNG ĐÁ ASEAN Championship Việt Nam 0 : 0 Trực tiếp Singapore Kevin 22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk VS Sắp diễn ra Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad VS Sắp diễn ra Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh",
+    "match_name": "Koge VS Vejle",
+    "home_name": "Koge",
+    "away_name": "Vejle",
+    "time": "00:00",
+    "date": "01/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/koge-vs-vejle-01-08-2026-779695",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-07-31T21:01:47.620455+07:00",
+    "kickoff_iso": "2026-08-01T00:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 178,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [],
+    "_scan_index": 8,
+    "_scan_total": 8,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   }
