@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-07-31T14:01:11.090878+07:00",
+  "updated_at": "2026-07-31T14:31:18.538030+07:00",
   "matches": {
     "712691": {
       "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-sydney-fc-29-07-2026-712691",
@@ -285,9 +285,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
       "match_name": "31-07 Sea V Cup Thái Lan VS Indonesia KaKa",
       "kickoff_iso": "2026-07-31T16:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-31T14:01:11.090761+07:00",
-      "next_scan_at": "2026-07-31T14:21:11.090761+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-31T14:31:18.537947+07:00",
+      "next_scan_at": "2026-07-31T14:51:18.537947+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
