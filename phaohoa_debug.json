@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/fk-zorya-luhansk-vs-kolos-kovalivka-31-07-2026-795392",
-    "raw_title": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh",
-    "card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "raw_title": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh",
+    "card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
@@ -138,7 +138,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_325.png",
         "score": 40,
-        "context": "size-5 object-contain PREMIER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PREMIER LEAGUE FK Zorya Luhansk 63' 0-0 22:00 - 31/07/2026 Kolos Kovalivka relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain PREMIER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PREMIER LEAGUE FK Zorya Luhansk 73' 1-0 22:00 - 31/07/2026 Kolos Kovalivka relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
@@ -156,10 +156,10 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fk-zorya-luhansk-vs-kolos-kovalivka-31-07-2026-795392",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-31T23:22:30.293018+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.195617+07:00",
     "kickoff_iso": "2026-07-31T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -83,
+    "minutes_to_kickoff": -92,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -211,7 +211,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2898366900-1785512365-20260731T162157.ts?volcDst=MTAuMTMuOC4xNDY",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2898366900-1785512651-20260731T163150.ts?volcDst=MTAuMTMuOC4xNDY",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -250,8 +250,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/aarhus-fremad-vs-aalborg-31-07-2026-779693",
-    "raw_title": "23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ",
-    "card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "raw_title": "23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ",
+    "card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2658.jpg",
@@ -381,7 +381,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_138.png",
         "score": 75,
-        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION Aarhus Fremad 22' 0-1 23:00 - 31/07/2026 Aalborg relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION Aarhus Fremad 32' 0-1 23:00 - 31/07/2026 Aalborg relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -405,10 +405,10 @@
     "date": "31/07",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aarhus-fremad-vs-aalborg-31-07-2026-779693",
     "metadata_complete": false,
-    "scan_time_iso": "2026-07-31T23:22:30.295799+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.198864+07:00",
     "kickoff_iso": "2026-07-31T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -23,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -425,7 +425,7 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/779693.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
@@ -466,7 +466,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2288573936-1785513618-20260731T162158.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2288573936-1785513907-20260731T163151.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -676,7 +676,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_253_6d1JOrO.png",
         "score": 75,
-        "context": "size-5 object-contain ELITESERIEN flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs ELITESERIEN Valerenga SẮP DIỄN RA VS 00:00 - 01/08/2026 HamKam TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 38 PHÚT 21 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "context": "size-5 object-contain ELITESERIEN flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs ELITESERIEN Valerenga SẮP DIỄN RA VS 00:00 - 01/08/2026 HamKam TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 27 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
         "source": "detail-match"
       },
       {
@@ -701,7 +701,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "match_name": "Valerenga VS HamKam",
     "home_name": "Valerenga",
     "away_name": "HamKam",
@@ -709,10 +709,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/valerenga-vs-hamkam-01-08-2026-716911",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T23:22:30.298297+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.201740+07:00",
     "kickoff_iso": "2026-08-01T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 37,
+    "minutes_to_kickoff": 28,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -930,7 +930,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_138.png",
         "score": 75,
-        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION AB Copenhagen SẮP DIỄN RA VS 00:00 - 01/08/2026 Fredericia TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 37 PHÚT 58 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION AB Copenhagen SẮP DIỄN RA VS 00:00 - 01/08/2026 Fredericia TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 04 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
         "source": "detail-match"
       },
       {
@@ -955,7 +955,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "match_name": "AB Copenhagen VS Fredericia",
     "home_name": "AB Copenhagen",
     "away_name": "Fredericia",
@@ -963,10 +963,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ab-copenhagen-vs-fredericia-01-08-2026-779694",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T23:22:30.300935+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.204824+07:00",
     "kickoff_iso": "2026-08-01T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 37,
+    "minutes_to_kickoff": 28,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1184,7 +1184,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_138.png",
         "score": 75,
-        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION Koge SẮP DIỄN RA VS 00:00 - 01/08/2026 Vejle TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 37 PHÚT 50 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "context": "size-5 object-contain 1. DIVISION flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 1. DIVISION Koge SẮP DIỄN RA VS 00:00 - 01/08/2026 Vejle TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 27 PHÚT 57 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
         "source": "detail-match"
       },
       {
@@ -1208,25 +1208,25 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/avatars/IELTS_preparation_.jpg",
         "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Johnny Trần Minh Quân NCE Lv15 16 phút trước Hello Văn Minh chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Johnny Trần Minh Quân NCE Lv15 26 phút trước Hello Văn Minh chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
         "source": "detail-match"
       },
       {
         "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
         "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 1 15 phút trước chú minh năm nay bao tuổi r chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 1 25 phút trước chú minh năm nay bao tuổi r chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000002957_1cQwLSA.png",
-        "score": 10,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Thôi kệ Lv13 42 phút trước Kệ minh... 3 con r lấy đâu ra đời trai nữa chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000056581.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 🌨️ Lv15 6 phút trước Hi anh minh minh đẹp zai h2 chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000007989.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
         "score": 10,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Volleyball Fan Lv13 41 phút trước Thử tra Thokbuom Canada xem nào Minh chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 chamicon Lv14 7 phút trước Hi Minh nhaa chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
@@ -1237,14 +1237,14 @@
       "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
       "https://phaohoa1.live/media-thumb/avatar/avatars/IELTS_preparation_.jpg",
       "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/1000002957_1cQwLSA.png",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/1000007989.jpg"
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000056581.jpg",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg"
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "match_name": "Koge VS Vejle",
     "home_name": "Koge",
     "away_name": "Vejle",
@@ -1252,10 +1252,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/koge-vs-vejle-01-08-2026-779695",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T23:22:30.303896+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.208238+07:00",
     "kickoff_iso": "2026-08-01T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 37,
+    "minutes_to_kickoff": 28,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1460,7 +1460,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 0 : 0 63' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 21' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
+    "page_card_text": "22:00 - 31-07 BÓNG ĐÁ Premier League FK Zorya Luhansk 1 : 0 73' Kolos Kovalivka Văn Minh 23:00 - 31-07 BÓNG ĐÁ 1. Division Aarhus Fremad 0 : 1 31' Aalborg Pháo Thủ 00:00 - 01-08 BÓNG ĐÁ Eliteserien Valerenga VS Sắp diễn ra HamKam Kevin 00:00 - 01-08 BÓNG ĐÁ 1. Division AB Copenhagen VS Sắp diễn ra Fredericia Chim Nhỏ 00:00 - 01-08 BÓNG ĐÁ 1. Division Koge VS Sắp diễn ra Vejle Văn Minh 01:45 - 01-08 BÓNG ĐÁ Club Friendlies Birmingham VS Sắp diễn ra Barcelona Ken",
     "match_name": "Birmingham VS Barcelona",
     "home_name": "Birmingham",
     "away_name": "Barcelona",
@@ -1468,15 +1468,15 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/birmingham-vs-barcelona-01-08-2026-769170",
     "metadata_complete": true,
-    "scan_time_iso": "2026-07-31T23:22:30.305628+07:00",
+    "scan_time_iso": "2026-07-31T23:32:24.210246+07:00",
     "kickoff_iso": "2026-08-01T01:45:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 142,
+    "minutes_to_kickoff": 133,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-25m",
+    "delta_reason": "delta-wait-15m",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
