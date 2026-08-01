@@ -1,1 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="phaohoa-761671-1" tvg-name="[18:30 01/08] Manchester City vs Inter" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/manchester-city-vs-inter-01-08-2026-761671" tvg-logo="https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png" phaohoa-home-logo="https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",[18:30 01/08] Manchester City vs Inter [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="phaohoa-758915-1" tvg-name="[20:00 01/08] 01-08 Club Friendlies Manchester United VS Atl. Madrid Ken" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/manchester-utd-vs-atl-madrid-01-08-2026-758915" tvg-logo="https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png" phaohoa-home-logo="https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_73.jpg" phaohoa-blv="Ken",[20:00 01/08] 01-08 Club Friendlies Manchester United VS Atl. Madrid Ken
+http://127.0.0.1:9/__phaohoa_metadata__/758915.m3u8
+#EXTINF:-1 tvg-id="phaohoa-791565-1" tvg-name="[20:00 01/08] Thailand vs Malaysia" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/thailand-vs-malaysia-01-08-2026-791565" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_478.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_478.jpg",[20:00 01/08] Thailand vs Malaysia [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 tvg-id="phaohoa-718662-1" tvg-name="[22:00 01/08] Lahti VS Jaro [BLV Pháo Thủ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/lahti-vs-jaro-01-08-2026-718662" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3548.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3548.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3554.jpg" phaohoa-blv="Pháo Thủ",[22:00 01/08] Lahti VS Jaro [BLV Pháo Thủ]
+http://127.0.0.1:9/__phaohoa_metadata__/718662.m3u8
+#EXTINF:-1 tvg-id="phaohoa-775956-1" tvg-name="[23:00 01/08] Real Madrid VS Fiorentina [BLV Dế Lửa]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/real-madrid-vs-fiorentina-01-08-2026-775956" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_80.jpg" phaohoa-blv="Dế Lửa",[23:00 01/08] Real Madrid VS Fiorentina [BLV Dế Lửa]
+http://127.0.0.1:9/__phaohoa_metadata__/775956.m3u8
+#EXTINF:-1 tvg-id="phaohoa-0bb45771f90a-1" tvg-name="[18:30 01/08] Nhat Ban vs My" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nhat-ban-vs-my" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_80.jpg",[18:30 01/08] Nhat Ban vs My [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-id="phaohoa-9c1940409eed-1" tvg-name="[19:00 01/08] Viet Nam vs Indonesia" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",[19:00 01/08] Viet Nam vs Indonesia [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
