@@ -136,15 +136,15 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_341.jpg",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
-        "score": 70,
-        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Philippines min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_341.jpg",
+        "score": 75,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_341.jpg",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
         "score": 70,
-        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Philippines min-w-0 text-center",
         "source": "detail-match"
       },
       {
@@ -154,15 +154,15 @@
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
-        "score": 10,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 chamicon Lv14 7 phút trước Nên ngủ hay xem trận Thái đây chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000056581.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 🌨️ Lv16 9 phút trước @Johnny Trần Minh Quân College xem ăn đc thái k đã chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
         "source": "detail-match"
       },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_341.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg"
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000056581.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -175,10 +175,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-01T15:31:36.286515+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.902231+07:00",
     "kickoff_iso": "2026-08-01T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
+    "minutes_to_kickoff": 3,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -193,10 +193,53 @@
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 6,
+    "_scan_total": 5,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3218654512-1785573946-20260801T085658.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -212,49 +255,10 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 404,
-        "statuses": [
-          404
-        ],
-        "content_type": "",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 106,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa7",
-        "family_key": "phaohoa7",
-        "quality_rank": 40,
-        "probe": {
-          "status": 404,
-          "content_type": "",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "HTTP 404",
-          "playable": false,
-          "state": "dead",
-          "kind": "m3u8",
-          "detail": "HTTP 404",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "HTTP 404"
-      },
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/fd20b565b498.m3u8",
         "referer": "https://phaohoa1.live/",
@@ -290,7 +294,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -439,10 +443,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/chelsea-vs-tottenham-01-08-2026-712692",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.289593+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.905310+07:00",
     "kickoff_iso": "2026-08-01T16:45:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 73,
+    "minutes_to_kickoff": 48,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -457,7 +461,7 @@
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 6,
+    "_scan_total": 5,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -613,10 +617,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fc-tokyo-vs-dortmund-01-08-2026-763664",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.292715+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.908462+07:00",
     "kickoff_iso": "2026-08-01T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 88,
+    "minutes_to_kickoff": 63,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -631,7 +635,7 @@
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 6,
+    "_scan_total": 5,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -787,10 +791,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/laos-vs-philippines-01-08-2026-791564",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.295767+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.911524+07:00",
     "kickoff_iso": "2026-08-01T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 88,
+    "minutes_to_kickoff": 63,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -805,7 +809,7 @@
       }
     ],
     "_scan_index": 4,
-    "_scan_total": 6,
+    "_scan_total": 5,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -961,31 +965,16 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/manchester-city-vs-inter-01-08-2026-761671",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.298924+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.914689+07:00",
     "kickoff_iso": "2026-08-01T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 153,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/761671.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 5,
-    "_scan_total": 6,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-19m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1135,31 +1124,16 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-my",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.302062+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.917857+07:00",
     "kickoff_iso": "2026-08-01T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 153,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/0bb45771f90a.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 6,
-    "_scan_total": 6,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-19m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1309,16 +1283,31 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.305215+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.921035+07:00",
     "kickoff_iso": "2026-08-01T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 208,
+    "minutes_to_kickoff": 183,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/9c1940409eed.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 5,
+    "_scan_total": 5,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1468,10 +1457,10 @@
     "date": "01/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/manchester-utd-vs-atl-madrid-01-08-2026-758915",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-01T15:31:36.308766+07:00",
+    "scan_time_iso": "2026-08-01T15:57:08.924614+07:00",
     "kickoff_iso": "2026-08-01T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 268,
+    "minutes_to_kickoff": 243,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
