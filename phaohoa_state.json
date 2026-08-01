@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T13:01:10.227321+07:00",
+  "updated_at": "2026-08-01T13:31:34.024715+07:00",
   "matches": {
     "68cbf63dbff8": {
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
@@ -323,15 +323,15 @@
     },
     "5a94eee975ef": {
       "url": "https://phaohoa1.live/truc-tiep/slovenia-vs-ba-lan",
-      "match_name": "01-08 Nations League Slovenia VS Ba Lan KaKa",
+      "match_name": "Slovenia vs Ba Lan",
       "kickoff_iso": "2026-08-01T14:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-01T13:01:10.227109+07:00",
-      "next_scan_at": "2026-08-01T13:21:10.227109+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-01T13:31:34.024611+07:00",
+      "next_scan_at": "2026-08-01T13:41:34.024611+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "fd20b565b498": {
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
