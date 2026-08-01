@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T11:30:58.650585+07:00",
+  "updated_at": "2026-08-01T12:02:58.116409+07:00",
   "matches": {
     "68cbf63dbff8": {
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
@@ -328,6 +328,18 @@
       "minutes_to_kickoff": 149,
       "last_scan_at": "2026-08-01T11:30:58.650492+07:00",
       "next_scan_at": "2026-08-01T12:15:58.650492+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "fd20b565b498": {
+      "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
+      "match_name": "01-08 Sea V Cup Philippines VS Thái Lan Ken",
+      "kickoff_iso": "2026-08-01T16:00:00+07:00",
+      "minutes_to_kickoff": 237,
+      "last_scan_at": "2026-08-01T12:02:58.116319+07:00",
+      "next_scan_at": "2026-08-01T12:47:58.116319+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
