@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T21:31:27.959244+07:00",
+  "updated_at": "2026-08-01T22:01:40.010760+07:00",
   "matches": {
     "778815": {
       "url": "https://phaohoa1.live/truc-tiep/inter-turku-vs-basaksehir-30-07-2026-778815",
@@ -409,11 +409,11 @@
     },
     "718662": {
       "url": "https://phaohoa1.live/truc-tiep/lahti-vs-jaro-01-08-2026-718662",
-      "match_name": "01-08 Veikkausliiga Lahti VS Jaro Pháo Thủ",
+      "match_name": "Lahti vs Jaro",
       "kickoff_iso": "2026-08-01T22:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-01T21:31:27.958936+07:00",
-      "next_scan_at": "2026-08-01T21:41:27.958936+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-01T22:01:40.010616+07:00",
+      "next_scan_at": "2026-08-01T22:06:40.010616+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -423,9 +423,9 @@
       "url": "https://phaohoa1.live/truc-tiep/real-madrid-vs-fiorentina-01-08-2026-775956",
       "match_name": "01-08 Club Friendlies Real Madrid VS Fiorentina Dế Lửa",
       "kickoff_iso": "2026-08-01T23:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-08-01T21:31:27.958936+07:00",
-      "next_scan_at": "2026-08-01T21:51:27.958936+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-08-01T22:01:40.010616+07:00",
+      "next_scan_at": "2026-08-01T22:21:40.010616+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
