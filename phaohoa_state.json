@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T14:01:18.684563+07:00",
+  "updated_at": "2026-08-01T14:31:03.195465+07:00",
   "matches": {
     "e28321e49fc2": {
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
@@ -325,9 +325,9 @@
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
       "match_name": "01-08 Sea V Cup Philippines VS Thái Lan Ken",
       "kickoff_iso": "2026-08-01T16:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-08-01T14:01:18.684388+07:00",
-      "next_scan_at": "2026-08-01T14:21:18.684388+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-01T14:31:03.195322+07:00",
+      "next_scan_at": "2026-08-01T14:51:03.195322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -364,6 +364,30 @@
       "minutes_to_kickoff": 179,
       "last_scan_at": "2026-08-01T14:01:18.684388+07:00",
       "next_scan_at": "2026-08-01T14:46:18.684388+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "0bb45771f90a": {
+      "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-my",
+      "match_name": "01-08 Nations League Nhật Bản VS Mỹ KaKa",
+      "kickoff_iso": "2026-08-01T18:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-01T14:31:03.195322+07:00",
+      "next_scan_at": "2026-08-01T15:16:03.195322+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "761671": {
+      "url": "https://phaohoa1.live/truc-tiep/manchester-city-vs-inter-01-08-2026-761671",
+      "match_name": "01-08 Club Friendlies Manchester City VS Inter Kevin",
+      "kickoff_iso": "2026-08-01T18:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-01T14:31:03.195322+07:00",
+      "next_scan_at": "2026-08-01T15:16:03.195322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
