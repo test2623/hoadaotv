@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T15:57:08.866620+07:00",
+  "updated_at": "2026-08-01T16:01:32.513094+07:00",
   "matches": {
     "e28321e49fc2": {
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
@@ -327,9 +327,9 @@
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
       "match_name": "Philippines vs Thái Lan",
       "kickoff_iso": "2026-08-01T16:00:00+07:00",
-      "minutes_to_kickoff": 3,
-      "last_scan_at": "2026-08-01T15:57:08.866461+07:00",
-      "next_scan_at": "2026-08-01T16:02:08.866461+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-01T16:01:32.512926+07:00",
+      "next_scan_at": "2026-08-01T16:06:32.512926+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -341,13 +341,13 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-tottenham-01-08-2026-712692",
       "match_name": "01-08 Club Friendlies Chelsea VS Tottenham Chim Nhỏ",
       "kickoff_iso": "2026-08-01T16:45:00+07:00",
-      "minutes_to_kickoff": 48,
-      "last_scan_at": "2026-08-01T15:57:08.866461+07:00",
-      "next_scan_at": "2026-08-01T16:17:08.866461+07:00",
+      "minutes_to_kickoff": 44,
+      "last_scan_at": "2026-08-01T16:01:32.512926+07:00",
+      "next_scan_at": "2026-08-01T16:11:32.512926+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "791564": {
       "url": "https://phaohoa1.live/truc-tiep/laos-vs-philippines-01-08-2026-791564",
@@ -404,6 +404,18 @@
       "minutes_to_kickoff": 183,
       "last_scan_at": "2026-08-01T15:57:08.866461+07:00",
       "next_scan_at": "2026-08-01T16:42:08.866461+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "758915": {
+      "url": "https://phaohoa1.live/truc-tiep/manchester-utd-vs-atl-madrid-01-08-2026-758915",
+      "match_name": "01-08 Club Friendlies Manchester United VS Atl. Madrid Ken",
+      "kickoff_iso": "2026-08-01T20:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-01T16:01:32.512926+07:00",
+      "next_scan_at": "2026-08-01T16:46:32.512926+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
