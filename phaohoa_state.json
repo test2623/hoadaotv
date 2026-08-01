@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T12:02:58.116409+07:00",
+  "updated_at": "2026-08-01T12:33:11.884439+07:00",
   "matches": {
     "68cbf63dbff8": {
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
@@ -325,9 +325,9 @@
       "url": "https://phaohoa1.live/truc-tiep/slovenia-vs-ba-lan",
       "match_name": "01-08 Nations League Slovenia VS Ba Lan KaKa",
       "kickoff_iso": "2026-08-01T14:00:00+07:00",
-      "minutes_to_kickoff": 149,
-      "last_scan_at": "2026-08-01T11:30:58.650492+07:00",
-      "next_scan_at": "2026-08-01T12:15:58.650492+07:00",
+      "minutes_to_kickoff": 87,
+      "last_scan_at": "2026-08-01T12:33:11.884349+07:00",
+      "next_scan_at": "2026-08-01T12:53:11.884349+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
