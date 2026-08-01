@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-01T20:02:09.146224+07:00",
+  "updated_at": "2026-08-01T20:32:09.563993+07:00",
   "matches": {
     "770274": {
       "url": "https://phaohoa1.live/truc-tiep/augsburg-vs-bournemouth-30-07-2026-770274",
@@ -369,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-my",
       "match_name": "Nhật Bản vs Mỹ",
       "kickoff_iso": "2026-08-01T18:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-01T20:02:09.146070+07:00",
-      "next_scan_at": "2026-08-01T20:07:09.146070+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:37:09.563670+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -383,9 +383,9 @@
       "url": "https://phaohoa1.live/truc-tiep/manchester-city-vs-inter-01-08-2026-761671",
       "match_name": "Manchester City vs Inter",
       "kickoff_iso": "2026-08-01T18:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-01T20:02:09.146070+07:00",
-      "next_scan_at": "2026-08-01T20:07:09.146070+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:37:09.563670+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -397,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia",
       "match_name": "Việt Nam vs Indonesia",
       "kickoff_iso": "2026-08-01T19:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-01T20:02:09.146070+07:00",
-      "next_scan_at": "2026-08-01T20:07:09.146070+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:37:09.563670+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -411,9 +411,9 @@
       "url": "https://phaohoa1.live/truc-tiep/manchester-utd-vs-atl-madrid-01-08-2026-758915",
       "match_name": "Manchester United vs Atl. Madrid",
       "kickoff_iso": "2026-08-01T20:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-08-01T20:02:09.146070+07:00",
-      "next_scan_at": "2026-08-01T20:07:09.146070+07:00",
+      "minutes_to_kickoff": -32,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:37:09.563670+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -425,9 +425,9 @@
       "url": "https://phaohoa1.live/truc-tiep/lahti-vs-jaro-01-08-2026-718662",
       "match_name": "01-08 Veikkausliiga Lahti VS Jaro Pháo Thủ",
       "kickoff_iso": "2026-08-01T22:00:00+07:00",
-      "minutes_to_kickoff": 147,
-      "last_scan_at": "2026-08-01T19:34:04.317423+07:00",
-      "next_scan_at": "2026-08-01T20:19:04.317423+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:52:09.563670+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -437,9 +437,9 @@
       "url": "https://phaohoa1.live/truc-tiep/real-madrid-vs-fiorentina-01-08-2026-775956",
       "match_name": "01-08 Club Friendlies Real Madrid VS Fiorentina Dế Lửa",
       "kickoff_iso": "2026-08-01T23:00:00+07:00",
-      "minutes_to_kickoff": 207,
-      "last_scan_at": "2026-08-01T19:34:04.317423+07:00",
-      "next_scan_at": "2026-08-01T20:19:04.317423+07:00",
+      "minutes_to_kickoff": 149,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T21:17:09.563670+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -449,15 +449,27 @@
       "url": "https://phaohoa1.live/truc-tiep/thailand-vs-malaysia-01-08-2026-791565",
       "match_name": "Thái Lan vs Malaysia",
       "kickoff_iso": "2026-08-01T20:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-08-01T20:02:09.146070+07:00",
-      "next_scan_at": "2026-08-01T20:07:09.146070+07:00",
+      "minutes_to_kickoff": -32,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T20:37:09.563670+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "819438": {
+      "url": "https://phaohoa1.live/truc-tiep/salzburg-vs-hartberg-02-08-2026-819438",
+      "match_name": "02-08 Bundesliga Salzburg VS Hartberg Ken",
+      "kickoff_iso": "2026-08-02T00:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-01T20:32:09.563670+07:00",
+      "next_scan_at": "2026-08-01T21:17:09.563670+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
