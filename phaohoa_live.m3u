@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-716906-1" tvg-name="[00:15 03/08] Brann vs Rosenborg" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/brann-vs-rosenborg-03-08-2026-716906" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5608.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5608.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_253_6d1JOrO.png",[00:15 03/08] Brann vs Rosenborg [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="phaohoa-781996-1" tvg-name="[01:00 03/08] Fk Pardubice vs Jablonec [BLV Chim Nhỏ 11 phút trước _bbisuyy_ Hào 🔪]" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/fk-pardubice-vs-jablonec-03-08-2026-781996" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2637.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2637.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_134.png" phaohoa-blv="Chim Nhỏ 11 phút trước _bbisuyy_ Hào 🔪",[01:00 03/08] Fk Pardubice vs Jablonec [BLV Chim Nhỏ 11 phút trước _bbisuyy_ Hào 🔪] [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-781996-1" tvg-name="[01:00 03/08] Fk Pardubice vs Jablonec" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/fk-pardubice-vs-jablonec-03-08-2026-781996" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2637.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2637.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_134.png",[01:00 03/08] Fk Pardubice vs Jablonec [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
@@ -32,3 +25,5 @@ http://127.0.0.1:9/__phaohoa_metadata__/115212.m3u8
 http://127.0.0.1:9/__phaohoa_metadata__/115213.m3u8
 #EXTINF:-1 tvg-id="phaohoa-736660-1" tvg-name="[22:00 03/08] OKMK VS Nasaf Qarshi [BLV Văn Minh]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/okmk-vs-nasaf-qarshi-03-08-2026-736660" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_392.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_392.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_8002.jpg" phaohoa-blv="Văn Minh",[22:00 03/08] OKMK VS Nasaf Qarshi [BLV Văn Minh]
 http://127.0.0.1:9/__phaohoa_metadata__/736660.m3u8
+#EXTINF:-1 tvg-id="phaohoa-718664-1" tvg-name="[23:00 03/08] SJK VS HJK [BLV Pháo Thủ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/sjk-vs-hjk-03-08-2026-718664" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3543.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3543.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_2637.jpg" phaohoa-blv="Pháo Thủ",[23:00 03/08] SJK VS HJK [BLV Pháo Thủ]
+http://127.0.0.1:9/__phaohoa_metadata__/718664.m3u8
