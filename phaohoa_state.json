@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-03T04:31:38.203445+07:00",
+  "updated_at": "2026-08-03T05:01:30.781030+07:00",
   "matches": {
     "5a94eee975ef": {
       "url": "https://phaohoa1.live/truc-tiep/slovenia-vs-ba-lan",
@@ -423,9 +423,9 @@
       "url": "https://phaohoa1.live/truc-tiep/liverpool-vs-leeds-03-08-2026-829593",
       "match_name": "Liverpool vs Leeds",
       "kickoff_iso": "2026-08-03T03:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-03T04:31:38.203394+07:00",
-      "next_scan_at": "2026-08-03T04:36:38.203394+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-03T05:01:30.780975+07:00",
+      "next_scan_at": "2026-08-03T05:06:30.780975+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
