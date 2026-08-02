@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-slovenia",
-    "raw_title": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ",
-    "card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ",
+    "raw_title": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ",
+    "card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
@@ -25,33 +25,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -125,30 +131,23 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
-    "blv": "Chim Nhỏ",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
-    "match_name": "Nhật Bản VS Slovenia",
+    "match_name": "Nhat Ban vs Slovenia",
     "home_name": "Nhật Bản",
     "away_name": "Slovenia",
     "time": "14:40",
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-slovenia",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-02T07:32:56.206146+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-02T08:03:37.907520+07:00",
     "kickoff_iso": "2026-08-02T14:40:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 427,
+    "minutes_to_kickoff": 396,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -162,10 +161,11 @@
     "raw_title": "16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken",
     "card_text": "16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg"
     ],
     "logo_candidates": [
@@ -182,33 +182,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -282,30 +288,24 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Ken",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Philippines VS Indonesia",
     "home_name": "Philippines",
     "away_name": "Indonesia",
     "time": "16:00",
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/philippines-vs-indonesia",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-02T07:32:56.208853+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-02T08:03:37.910159+07:00",
     "kickoff_iso": "2026-08-02T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 507,
+    "minutes_to_kickoff": 476,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -340,33 +340,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -440,19 +446,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Jeju SK VS Incheon",
     "home_name": "Jeju SK",
     "away_name": "Incheon",
@@ -460,10 +460,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/jeju-sk-vs-incheon-02-08-2026-728357",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-02T07:32:56.211642+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.912767+07:00",
     "kickoff_iso": "2026-08-02T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 597,
+    "minutes_to_kickoff": 566,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -498,33 +498,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -598,19 +604,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Ulsan HD VS Anyang",
     "home_name": "Ulsan HD",
     "away_name": "Anyang",
@@ -618,10 +618,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-anyang-02-08-2026-728358",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-02T07:32:56.214382+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.915050+07:00",
     "kickoff_iso": "2026-08-02T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 597,
+    "minutes_to_kickoff": 566,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -655,33 +655,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -755,19 +761,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "KaKa",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Mỹ VS Ba Lan",
     "home_name": "Mỹ",
     "away_name": "Ba Lan",
@@ -775,10 +775,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/my-vs-ba-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-02T07:32:56.216946+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.917189+07:00",
     "kickoff_iso": "2026-08-02T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 657,
+    "minutes_to_kickoff": 626,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -813,33 +813,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -913,19 +919,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Kevin",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Brommapojkarna VS Malmo FF",
     "home_name": "Brommapojkarna",
     "away_name": "Malmo FF",
@@ -933,10 +933,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/brommapojkarna-vs-malmo-ff-02-08-2026-715562",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-02T07:32:56.219701+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.919476+07:00",
     "kickoff_iso": "2026-08-02T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 687,
+    "minutes_to_kickoff": 656,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -950,11 +950,10 @@
     "raw_title": "19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ",
     "card_text": "19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
+    "logo": "",
+    "home_logo": "",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg"
     ],
     "logo_candidates": [
@@ -971,33 +970,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1071,30 +1076,24 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Goteborg VS Degerfors",
     "home_name": "Goteborg",
     "away_name": "Degerfors",
     "time": "19:00",
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/goteborg-vs-degerfors-02-08-2026-715566",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-02T07:32:56.222424+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-02T08:03:37.921562+07:00",
     "kickoff_iso": "2026-08-02T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 687,
+    "minutes_to_kickoff": 656,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1128,33 +1127,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1228,19 +1233,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Việt Nam VS Thái Lan",
     "home_name": "Việt Nam",
     "away_name": "Thái Lan",
@@ -1248,10 +1247,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-02T07:32:56.225163+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.923760+07:00",
     "kickoff_iso": "2026-08-02T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 687,
+    "minutes_to_kickoff": 656,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1285,33 +1284,39 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
+        "score": 59.98,
+        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-        "score": 34.98,
-        "context": "Slovenia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slovenia min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",
+        "score": 59.94,
+        "context": "Philippines max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Philippines min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
+        "score": 39.93,
+        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sponsors/logos/download_F1K3J1W.png",
         "score": 4.96,
         "context": "FB88 size-full object-contain rounded-full group/partner grid size-10 place-items-center overflow-hidden rounded-full bg-white p-1 shadow-[0_4px_12px_rgba(0,0,0,0.35)] transition hover:scale-105 flex shrink-0 items-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_WqmhllM.jpg",
-        "score": 4.93,
-        "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1385,19 +1390,13 @@
         "score": 4.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
-        "score": 4.69,
-        "context": "Goteborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goteborg min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản VS Sắp diễn ra Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
+    "page_card_text": "14:40 - 02-08 BÓNG CHUYỀN Sea V Cup Nhật Bản 0 : 0 Trực tiếp Slovenia Chim Nhỏ 16:00 - 02-08 BÓNG CHUYỀN Sea V Cup Philippines VS Sắp diễn ra Indonesia Ken 17:30 - 02-08 BÓNG ĐÁ K League 1 Jeju SK VS Sắp diễn ra Incheon Pháo Thủ 17:30 - 02-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Anyang Văn Minh 18:30 - 02-08 BÓNG CHUYỀN Nations League Mỹ VS Sắp diễn ra Ba Lan KaKa 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Brommapojkarna VS Sắp diễn ra Malmo FF Kevin 19:00 - 02-08 BÓNG ĐÁ Allsvenskan Goteborg VS Sắp diễn ra Degerfors Pháo Thủ 19:00 - 02-08 BÓNG CHUYỀN Sea V Cup Việt Nam VS Sắp diễn ra Thái Lan Chim Nhỏ 20:00 - 02-08 BÓNG ĐÁ Czech Liga Sigma Olomouc VS Sắp diễn ra Mlada Boleslav Văn Minh",
     "match_name": "Sigma Olomouc VS Mlada Boleslav",
     "home_name": "Sigma Olomouc",
     "away_name": "Mlada Boleslav",
@@ -1405,10 +1404,10 @@
     "date": "02/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sigma-olomouc-vs-mlada-boleslav-02-08-2026-781994",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-02T07:32:56.227876+07:00",
+    "scan_time_iso": "2026-08-02T08:03:37.926148+07:00",
     "kickoff_iso": "2026-08-02T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 747,
+    "minutes_to_kickoff": 716,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
