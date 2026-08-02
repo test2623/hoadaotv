@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-02T13:04:45.034630+07:00",
+  "updated_at": "2026-08-02T13:33:44.679415+07:00",
   "matches": {
     "e9a8be850222": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
@@ -397,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-slovenia",
       "match_name": "Nhat Ban vs Slovenia",
       "kickoff_iso": "2026-08-02T14:40:00+07:00",
-      "minutes_to_kickoff": 95,
-      "last_scan_at": "2026-08-02T13:04:45.034532+07:00",
-      "next_scan_at": "2026-08-02T13:24:45.034532+07:00",
+      "minutes_to_kickoff": 66,
+      "last_scan_at": "2026-08-02T13:33:44.679273+07:00",
+      "next_scan_at": "2026-08-02T13:53:44.679273+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -412,6 +412,30 @@
       "minutes_to_kickoff": 175,
       "last_scan_at": "2026-08-02T13:04:45.034532+07:00",
       "next_scan_at": "2026-08-02T13:49:45.034532+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "728358": {
+      "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-anyang-02-08-2026-728358",
+      "match_name": "02-08 K League 1 Ulsan HD VS Anyang Văn Minh",
+      "kickoff_iso": "2026-08-02T17:30:00+07:00",
+      "minutes_to_kickoff": 236,
+      "last_scan_at": "2026-08-02T13:33:44.679273+07:00",
+      "next_scan_at": "2026-08-02T14:18:44.679273+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "728357": {
+      "url": "https://phaohoa1.live/truc-tiep/jeju-sk-vs-incheon-02-08-2026-728357",
+      "match_name": "02-08 K League 1 Jeju SK VS Incheon Pháo Thủ",
+      "kickoff_iso": "2026-08-02T17:30:00+07:00",
+      "minutes_to_kickoff": 236,
+      "last_scan_at": "2026-08-02T13:33:44.679273+07:00",
+      "next_scan_at": "2026-08-02T14:18:44.679273+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
