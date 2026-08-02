@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-02T14:31:26.722138+07:00",
+  "updated_at": "2026-08-02T14:55:22.054238+07:00",
   "matches": {
     "e9a8be850222": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
@@ -397,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-slovenia",
       "match_name": "Nhật Bản vs Slovenia",
       "kickoff_iso": "2026-08-02T14:40:00+07:00",
-      "minutes_to_kickoff": 9,
-      "last_scan_at": "2026-08-02T14:31:26.721944+07:00",
-      "next_scan_at": "2026-08-02T14:36:26.721944+07:00",
+      "minutes_to_kickoff": -15,
+      "last_scan_at": "2026-08-02T14:55:22.054149+07:00",
+      "next_scan_at": "2026-08-02T15:00:22.054149+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -411,9 +411,9 @@
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-indonesia",
       "match_name": "02-08 Sea V Cup Philippines VS Indonesia Ken",
       "kickoff_iso": "2026-08-02T16:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-08-02T14:31:26.721944+07:00",
-      "next_scan_at": "2026-08-02T14:51:26.721944+07:00",
+      "minutes_to_kickoff": 65,
+      "last_scan_at": "2026-08-02T14:55:22.054149+07:00",
+      "next_scan_at": "2026-08-02T15:15:22.054149+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
