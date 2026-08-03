@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-03T15:01:31.490351+07:00",
+  "updated_at": "2026-08-03T15:31:04.094008+07:00",
   "matches": {
     "fd20b565b498": {
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thai-lan",
@@ -423,9 +423,9 @@
       "url": "https://phaohoa1.live/truc-tiep/cambodia-vs-timor-leste-03-08-2026-791566",
       "match_name": "03-08 ASEAN Championship Cambodia VS Timor-Leste Chim Nhỏ",
       "kickoff_iso": "2026-08-03T17:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-08-03T14:31:02.525583+07:00",
-      "next_scan_at": "2026-08-03T15:16:02.525583+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-08-03T15:31:04.093939+07:00",
+      "next_scan_at": "2026-08-03T15:51:04.093939+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
