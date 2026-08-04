@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-04T13:30:57.390593+07:00",
+  "updated_at": "2026-08-04T14:01:11.345054+07:00",
   "matches": {
     "c5539b6aba0c": {
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-slovenia",
@@ -367,9 +367,21 @@
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-laos-04-08-2026-791568",
       "match_name": "04-08 ASEAN Championship Myanmar VS Laos Kevin",
       "kickoff_iso": "2026-08-04T17:00:00+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-04T14:01:11.344920+07:00",
+      "next_scan_at": "2026-08-04T14:46:11.344920+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "759675": {
+      "url": "https://phaohoa1.live/truc-tiep/jeju-sk-vs-bayern-munich-04-08-2026-759675",
+      "match_name": "04-08 Club Friendlies Jeju SK VS Bayern Munich Ken",
+      "kickoff_iso": "2026-08-04T18:00:00+07:00",
       "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-04T13:01:08.771471+07:00",
-      "next_scan_at": "2026-08-04T13:46:08.771471+07:00",
+      "last_scan_at": "2026-08-04T14:01:11.344920+07:00",
+      "next_scan_at": "2026-08-04T14:46:11.344920+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
