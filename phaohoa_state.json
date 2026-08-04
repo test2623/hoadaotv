@@ -1,36 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-04T17:01:39.231201+07:00",
+  "updated_at": "2026-08-04T17:31:40.755918+07:00",
   "matches": {
-    "728358": {
-      "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-anyang-02-08-2026-728358",
-      "match_name": "Ulsan Hd vs Anyang",
-      "kickoff_iso": "2026-08-02T17:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-02T19:02:05.691868+07:00",
-      "next_scan_at": "2026-08-02T19:07:05.691868+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "728357": {
-      "url": "https://phaohoa1.live/truc-tiep/jeju-sk-vs-incheon-02-08-2026-728357",
-      "match_name": "Jeju SK vs Incheon",
-      "kickoff_iso": "2026-08-02T17:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-02T19:02:05.691868+07:00",
-      "next_scan_at": "2026-08-02T19:07:05.691868+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "3a9fdd0ba443": {
       "url": "https://phaohoa1.live/truc-tiep/my-vs-ba-lan",
       "match_name": "My vs Ba Lan",
@@ -341,9 +313,9 @@
       "url": "https://phaohoa1.live/truc-tiep/myanmar-vs-laos-04-08-2026-791568",
       "match_name": "Myanmar vs Laos",
       "kickoff_iso": "2026-08-04T17:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-04T17:01:39.231077+07:00",
-      "next_scan_at": "2026-08-04T17:06:39.231077+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-04T17:31:40.755850+07:00",
+      "next_scan_at": "2026-08-04T17:36:40.755850+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -355,13 +327,13 @@
       "url": "https://phaohoa1.live/truc-tiep/jeju-sk-vs-bayern-munich-04-08-2026-759675",
       "match_name": "04-08 Club Friendlies Jeju SK VS Bayern Munich Ken",
       "kickoff_iso": "2026-08-04T18:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-04T17:01:39.231077+07:00",
-      "next_scan_at": "2026-08-04T17:21:39.231077+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-04T17:31:40.755850+07:00",
+      "next_scan_at": "2026-08-04T17:41:40.755850+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "791569": {
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-thailand-04-08-2026-791569",
