@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/ac-milan-vs-inter-05-08-2026-759553",
-    "raw_title": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ",
-    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "raw_title": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ",
+    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_159.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -138,7 +138,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES AC Milan 18' 0-0 18:00 - 05/08/2026 Inter relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES AC Milan GIẢI LAO 0-0 18:00 - 05/08/2026 Inter relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -168,10 +168,10 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ac-milan-vs-inter-05-08-2026-759553",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-05T18:31:25.877059+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.731168+07:00",
     "kickoff_iso": "2026-08-05T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -31,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -188,11 +188,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/759553.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 4,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -229,7 +229,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2301697578-1785925830-20260805T113112.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2301697578-1785926673-20260805T120129.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -302,8 +302,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/k-league-stars-vs-manchester-city-05-08-2026-771686",
-    "raw_title": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin",
-    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "raw_title": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin",
+    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_80.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -438,7 +438,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 52,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES KS K-League Stars 26' 1-3 18:00 - 05/08/2026 Manchester City relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES KS K-League Stars GIẢI LAO 1-3 18:00 - 05/08/2026 Manchester City relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -447,8 +447,43 @@
         "context": "Manchester City max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Manchester City min-w-0 text-center",
         "source": "detail-match"
       },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Em chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/avatar-anime-nu-9.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Đệ Kevin 21cm ❌ Lv14 1 phút trước @ManCityFoden47 4p nhé chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Thôi lỡ r để đ chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000004512_zm40y1j.png",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Ui nay e làm vua chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/phil-foden-1908140208.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 ManCityFoden47 Lv2 4 phút trước 1 vịt phi ơi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
       "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_80.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_80.jpg",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/avatar-anime-nu-9.jpg",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_20260726_210032.jpg",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000004512_zm40y1j.png",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/phil-foden-1908140208.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -461,10 +496,10 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/k-league-stars-vs-manchester-city-05-08-2026-771686",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-05T18:31:25.881782+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.736572+07:00",
     "kickoff_iso": "2026-08-05T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -31,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -481,11 +516,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/771686.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 4,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -500,8 +535,8 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
           "dom/performance"
         ],
         "quality": "",
@@ -521,7 +556,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2811804735-1785927574-20260805T113115.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2811804735-1785928432-20260805T120132.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -594,8 +629,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-juventus-05-08-2026-761549",
-    "raw_title": "18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken",
-    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "raw_title": "18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken",
+    "card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_88.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -731,7 +766,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Chelsea 1' 0-0 18:30 - 05/08/2026 Juventus relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Chelsea 31' 0-0 18:30 - 05/08/2026 Juventus relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -761,10 +796,10 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/chelsea-vs-juventus-05-08-2026-761549",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-05T18:31:25.886342+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.741147+07:00",
     "kickoff_iso": "2026-08-05T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -1,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -772,14 +807,20 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/761549.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/761549.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 4,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -794,6 +835,7 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -815,7 +857,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3233639333-1785928970-20260805T113114.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3233639333-1785929865-20260805T120131.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -837,9 +879,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1024,7 +1063,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Spartak Moscow VS Orenburg",
     "home_name": "Spartak Moscow",
     "away_name": "Orenburg",
@@ -1032,31 +1071,16 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/spartak-moscow-vs-orenburg-05-08-2026-785730",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-05T18:31:25.889140+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.743924+07:00",
     "kickoff_iso": "2026-08-05T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 239,
+    "minutes_to_kickoff": 208,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/785730.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 4,
-    "_scan_total": 4,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-15m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1198,7 +1222,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Aarhus VS Sabah Baku",
     "home_name": "Aarhus",
     "away_name": "Sabah Baku",
@@ -1206,10 +1230,10 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-05T18:31:25.891914+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.746707+07:00",
     "kickoff_iso": "2026-08-05T23:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 299,
+    "minutes_to_kickoff": 268,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1356,7 +1380,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Brann VS Apollon",
     "home_name": "Brann",
     "away_name": "Apollon",
@@ -1364,10 +1388,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/brann-vs-apollon-07-08-2026-829880",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-05T18:31:25.894677+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.749405+07:00",
     "kickoff_iso": "2026-08-06T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 329,
+    "minutes_to_kickoff": 298,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1514,7 +1538,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Fenerbahce VS Sturm Graz",
     "home_name": "Fenerbahce",
     "away_name": "Sturm Graz",
@@ -1522,10 +1546,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fenerbahce-vs-sturm-graz-05-08-2026-829363",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-05T18:31:25.897474+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.752187+07:00",
     "kickoff_iso": "2026-08-06T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 389,
+    "minutes_to_kickoff": 358,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1672,7 +1696,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Ferencvaros VS Gornik Zabrze",
     "home_name": "Ferencvaros",
     "away_name": "Gornik Zabrze",
@@ -1680,10 +1704,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ferencvaros-vs-gornik-zabrze-07-08-2026-829909",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-05T18:31:25.900252+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.754967+07:00",
     "kickoff_iso": "2026-08-06T01:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 404,
+    "minutes_to_kickoff": 373,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1829,7 +1853,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 17' Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 26' Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 Trực tiếp Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "page_card_text": "18:00 - 05-08 BÓNG ĐÁ Club Friendlies AC Milan 0 : 0 Giải lao Inter Pháo Thủ 18:00 - 05-08 BÓNG ĐÁ Club Friendlies KS K-League Stars 1 : 3 Giải lao Manchester City Kevin 18:30 - 05-08 BÓNG ĐÁ Club Friendlies Chelsea 0 : 0 31' Juventus Ken 22:30 - 05-08 BÓNG ĐÁ Cup Spartak Moscow VS Sắp diễn ra Orenburg KaKa 23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus VS Sắp diễn ra Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann VS Sắp diễn ra Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce VS Sắp diễn ra Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros VS Sắp diễn ra Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
     "match_name": "Arsenal VS Real Betis",
     "home_name": "Arsenal",
     "away_name": "Real Betis",
@@ -1837,10 +1861,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-real-betis-06-08-2026-758916",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-05T18:31:25.902869+07:00",
+    "scan_time_iso": "2026-08-05T19:01:42.757604+07:00",
     "kickoff_iso": "2026-08-06T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 419,
+    "minutes_to_kickoff": 388,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
