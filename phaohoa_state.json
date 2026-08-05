@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-05T19:31:33.335225+07:00",
+  "updated_at": "2026-08-05T20:01:36.466155+07:00",
   "matches": {
     "115212": {
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-viet-nam-02-08-2026-115212",
@@ -273,9 +273,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ac-milan-vs-inter-05-08-2026-759553",
       "match_name": "AC Milan vs Inter",
       "kickoff_iso": "2026-08-05T18:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
-      "next_scan_at": "2026-08-05T19:36:33.335083+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-05T20:01:36.466028+07:00",
+      "next_scan_at": "2026-08-05T20:06:36.466028+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -301,9 +301,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-juventus-05-08-2026-761549",
       "match_name": "Chelsea vs Juventus",
       "kickoff_iso": "2026-08-05T18:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
-      "next_scan_at": "2026-08-05T19:36:33.335083+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-05T20:01:36.466028+07:00",
+      "next_scan_at": "2026-08-05T20:06:36.466028+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -330,6 +330,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
       "next_scan_at": "2026-08-05T20:16:33.335083+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "829880": {
+      "url": "https://phaohoa1.live/truc-tiep/brann-vs-apollon-07-08-2026-829880",
+      "match_name": "06-08 UEFA Conference League Brann VS Apollon Pháo Thủ",
+      "kickoff_iso": "2026-08-06T00:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-05T20:01:36.466028+07:00",
+      "next_scan_at": "2026-08-05T20:46:36.466028+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
