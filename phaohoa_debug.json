@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
-    "raw_title": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh",
-    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "raw_title": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh",
+    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
@@ -98,20 +98,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -150,7 +150,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Aarhus GIẢI LAO 1-0 23:30 - 05/08/2026 Sabah Baku relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Aarhus 60' 1-0 23:30 - 05/08/2026 Sabah Baku relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
@@ -168,10 +168,10 @@
     "date": "05/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.556128+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.745463+07:00",
     "kickoff_iso": "2026-08-05T23:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -101,
+    "minutes_to_kickoff": -122,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -186,7 +186,7 @@
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 5,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -223,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2914761789-1785949790-20260805T180955.ts?volcDst=MTAuMTMuOC4xNDY",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2914761789-1785950362-20260805T183121.ts?volcDst=MTAuMTMuOC4xNDY",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -262,8 +262,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/brann-vs-apollon-07-08-2026-829880",
-    "raw_title": "00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ",
-    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "raw_title": "00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ",
+    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5608.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5608.jpg",
@@ -359,20 +359,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -411,7 +411,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE Brann 51' 0-1 00:00 - 06/08/2026 Apollon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE Brann 73' 0-1 00:00 - 06/08/2026 Apollon relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5608.jpg",
@@ -429,10 +429,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/brann-vs-apollon-07-08-2026-829880",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.559674+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.749878+07:00",
     "kickoff_iso": "2026-08-06T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -71,
+    "minutes_to_kickoff": -92,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -447,7 +447,7 @@
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 5,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -484,7 +484,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2302478316-1785950595-20260805T180957.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2302478316-1785951203-20260805T183121.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -523,8 +523,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/fenerbahce-vs-sturm-graz-05-08-2026-829363",
-    "raw_title": "01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin",
-    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "raw_title": "01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin",
+    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
@@ -620,20 +620,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -672,7 +672,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Fenerbahce 9' 0-0 01:00 - 06/08/2026 Sturm Graz relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Fenerbahce 30' 1-0 01:00 - 06/08/2026 Sturm Graz relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg",
@@ -690,10 +690,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fenerbahce-vs-sturm-graz-05-08-2026-829363",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.563385+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.754411+07:00",
     "kickoff_iso": "2026-08-06T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -11,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -710,11 +710,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/829363.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 5,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -751,7 +751,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2812649552-1785952750-20260805T180957.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2812649552-1785953315-20260805T183120.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -824,8 +824,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/ferencvaros-vs-gornik-zabrze-07-08-2026-829909",
-    "raw_title": "01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa",
-    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "raw_title": "01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa",
+    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_99.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_99.jpg",
@@ -921,20 +921,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -973,14 +973,14 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA EUROPA LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA EUROPA LEAGUE Ferencvaros ĐANG DIỄN RA 0-0 01:15 - 06/08/2026 Gornik Zabrze relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA EUROPA LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA EUROPA LEAGUE Ferencvaros 17' 0-0 01:15 - 06/08/2026 Gornik Zabrze relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_99.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5765.jpg",
       "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png"
     ],
-    "blv": "",
+    "blv": "3 phút trước @Mai Thị Lệ Mỹ không ngủ à",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -990,26 +990,32 @@
     "time": "01:15",
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ferencvaros-vs-gornik-zabrze-07-08-2026-829909",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.567316+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-06T01:32:03.758933+07:00",
     "kickoff_iso": "2026-08-06T01:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 4,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -17,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829909.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829909.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 4,
-    "_scan_total": 5,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1025,6 +1031,7 @@
         "sources": [
           "request/xhr",
           "response",
+          "previous-playlist",
           "dom/performance"
         ],
         "quality": "",
@@ -1044,7 +1051,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2302611815-1785952997-20260805T181020.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2302611815-1785953620-20260805T183153.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1117,14 +1124,14 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-real-betis-06-08-2026-758916",
-    "raw_title": "01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
-    "card_text": "01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken",
+    "raw_title": "01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken",
+    "card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
-    "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg"
     ],
     "logo_candidates": [
@@ -1214,20 +1221,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1252,18 +1259,6 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 87,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 01:30 - 06-08 BÓNG ĐÁ Club Friendlies grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
-        "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Arsenal SẮP DIỄN RA VS 01:30 - 06/08/2026 Real Betis TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 19 PHÚT 50 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
-        "source": "detail-match"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
         "score": 75,
         "context": "Arsenal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Arsenal min-w-0 text-center",
@@ -1275,29 +1270,26 @@
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Real Betis min-w-0 text-center",
         "source": "detail-match"
       },
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg"
     ],
-    "blv": "Ken",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
-    "match_name": "Arsenal VS Real Betis",
+    "match_name": "Arsenal vs Real Betis",
     "home_name": "Arsenal",
     "away_name": "Real Betis",
     "time": "01:30",
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-real-betis-06-08-2026-758916",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-06T01:10:30.570337+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-06T01:32:03.763192+07:00",
     "kickoff_iso": "2026-08-06T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 19,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -2,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
@@ -1310,10 +1302,52 @@
       }
     ],
     "_scan_index": 5,
-    "_scan_total": 5,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "dom/performance"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 223,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 0,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3234636539-1785954096-20260805T183150.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1325,7 +1359,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 502 ()",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1372,7 +1405,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -1380,11 +1413,11 @@
     "raw_title": "02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ",
     "card_text": "02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+    "logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
+    "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
     ],
     "logo_candidates": [
@@ -1474,20 +1507,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1507,13 +1540,58 @@
         "score": 4.68,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
         "source": "home-card"
-      }
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+        "score": 87,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 02:00 - 06-08 BÓNG ĐÁ Club Friendlies grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
+        "score": 87,
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Mallorca SẮP DIỄN RA VS 02:00 - 06/08/2026 PSG TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 26 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 75,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Mallorca min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 50,
+        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 PHÁO THỦ flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 50,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 akira fan pháo thủ nem chua 13 phút trước chỗ nem mưa ko chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+      "https://phaohoa1.live/media/commentators/avatars/photo_6246769060473409763_y.jpg",
+      "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
     ],
-    "blv": "Pháo Thủ",
+    "blv": "3 phút trước @Mai Thị Lệ Mỹ không ngủ à",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "match_name": "Mallorca VS PSG",
     "home_name": "Mallorca",
     "away_name": "PSG",
@@ -1521,16 +1599,85 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/mallorca-vs-psg-06-08-2026-770668",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-06T01:10:30.572513+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.766994+07:00",
     "kickoff_iso": "2026-08-06T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 49,
+    "minutes_to_kickoff": 28,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-12m",
-    "scan_attempted": false,
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770668.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 6,
+    "_scan_total": 6,
+    "time_source": "json-ld/startDate",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770668.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "770668",
+        "family_key": "770668",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/770668.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1633,20 +1780,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1672,7 +1819,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "match_name": "Sogdiana VS Andijan",
     "home_name": "Sogdiana",
     "away_name": "Andijan",
@@ -1680,10 +1827,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sogdiana-vs-andijan-06-08-2026-736667",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-06T01:10:30.575105+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.769593+07:00",
     "kickoff_iso": "2026-08-06T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1189,
+    "minutes_to_kickoff": 1168,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1790,20 +1937,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1829,7 +1976,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "match_name": "KuPS VS Univ. Craiova",
     "home_name": "KuPS",
     "away_name": "Univ. Craiova",
@@ -1837,10 +1984,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kups-vs-univ-craiova-07-08-2026-829347",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.577266+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.772105+07:00",
     "kickoff_iso": "2026-08-06T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1249,
+    "minutes_to_kickoff": 1228,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1947,20 +2094,20 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 39.78,
+        "score": 64.78,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
+        "score": 64.74,
+        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7285.jpg",
-        "score": 4.74,
-        "context": "Mallorca max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mallorca min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1986,7 +2133,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 Giải lao Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 51' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 0 : 0 8' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 Trực tiếp Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
+    "page_card_text": "23:30 - 05-08 BÓNG ĐÁ UEFA Champions League Aarhus 1 : 0 60' Sabah Baku Văn Minh 00:00 - 06-08 BÓNG ĐÁ UEFA Conference League Brann 0 : 1 73' Apollon Pháo Thủ 01:00 - 06-08 BÓNG ĐÁ UEFA Champions League Fenerbahce 1 : 0 30' Sturm Graz Kevin 01:15 - 06-08 BÓNG ĐÁ UEFA Europa League Ferencvaros 0 : 0 16' Gornik Zabrze KaKa 01:30 - 06-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Real Betis Ken 02:00 - 06-08 BÓNG ĐÁ Club Friendlies Mallorca VS Sắp diễn ra PSG Pháo Thủ 21:00 - 06-08 BÓNG ĐÁ Super League Sogdiana VS Sắp diễn ra Andijan Kevin 22:00 - 06-08 BÓNG ĐÁ UEFA Europa League KuPS VS Sắp diễn ra Univ. Craiova Văn Minh 23:00 - 06-08 BÓNG ĐÁ UEFA Europa League Jagiellonia VS Sắp diễn ra Rangers Pháo Thủ",
     "match_name": "Jagiellonia VS Rangers",
     "home_name": "Jagiellonia",
     "away_name": "Rangers",
@@ -1994,10 +2141,10 @@
     "date": "06/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/jagiellonia-vs-rangers-07-08-2026-785369",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-06T01:10:30.579894+07:00",
+    "scan_time_iso": "2026-08-06T01:32:03.774606+07:00",
     "kickoff_iso": "2026-08-06T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1309,
+    "minutes_to_kickoff": 1288,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
