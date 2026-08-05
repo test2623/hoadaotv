@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-05T19:29:51.266949+07:00",
+  "updated_at": "2026-08-05T19:31:33.335225+07:00",
   "matches": {
     "115212": {
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-viet-nam-02-08-2026-115212",
@@ -273,9 +273,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ac-milan-vs-inter-05-08-2026-759553",
       "match_name": "AC Milan vs Inter",
       "kickoff_iso": "2026-08-05T18:00:00+07:00",
-      "minutes_to_kickoff": -89,
-      "last_scan_at": "2026-08-05T19:29:51.266771+07:00",
-      "next_scan_at": "2026-08-05T19:34:51.266771+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
+      "next_scan_at": "2026-08-05T19:36:33.335083+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -287,9 +287,9 @@
       "url": "https://phaohoa1.live/truc-tiep/k-league-stars-vs-manchester-city-05-08-2026-771686",
       "match_name": "K League Stars vs Manchester City",
       "kickoff_iso": "2026-08-05T18:00:00+07:00",
-      "minutes_to_kickoff": -89,
-      "last_scan_at": "2026-08-05T19:29:51.266771+07:00",
-      "next_scan_at": "2026-08-05T19:34:51.266771+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
+      "next_scan_at": "2026-08-05T19:36:33.335083+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -301,9 +301,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-juventus-05-08-2026-761549",
       "match_name": "Chelsea vs Juventus",
       "kickoff_iso": "2026-08-05T18:30:00+07:00",
-      "minutes_to_kickoff": -59,
-      "last_scan_at": "2026-08-05T19:29:51.266771+07:00",
-      "next_scan_at": "2026-08-05T19:34:51.266771+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
+      "next_scan_at": "2026-08-05T19:36:33.335083+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -318,6 +318,18 @@
       "minutes_to_kickoff": 181,
       "last_scan_at": "2026-08-05T19:29:51.266771+07:00",
       "next_scan_at": "2026-08-05T20:14:51.266771+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "829362": {
+      "url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
+      "match_name": "05-08 UEFA Champions League Aarhus VS Sabah Baku Văn Minh",
+      "kickoff_iso": "2026-08-05T23:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-05T19:31:33.335083+07:00",
+      "next_scan_at": "2026-08-05T20:16:33.335083+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
