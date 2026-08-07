@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-07T19:01:47.804995+07:00",
+  "updated_at": "2026-08-07T19:29:33.059610+07:00",
   "matches": {
     "785730": {
       "url": "https://phaohoa1.live/truc-tiep/spartak-moscow-vs-orenburg-05-08-2026-785730",
@@ -245,9 +245,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gamba-osaka-vs-urawa-reds-07-08-2026-807474",
       "match_name": "Gamba Osaka vs Urawa Reds",
       "kickoff_iso": "2026-08-07T17:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-07T19:01:47.804810+07:00",
-      "next_scan_at": "2026-08-07T19:06:47.804810+07:00",
+      "minutes_to_kickoff": -119,
+      "last_scan_at": "2026-08-07T19:29:33.059361+07:00",
+      "next_scan_at": "2026-08-07T19:34:33.059361+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -271,9 +271,9 @@
       "url": "https://phaohoa1.live/truc-tiep/bayern-munich-vs-aston-villa-07-08-2026-759676",
       "match_name": "Bayern Munich vs Aston Villa",
       "kickoff_iso": "2026-08-07T19:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-07T19:01:47.804810+07:00",
-      "next_scan_at": "2026-08-07T19:06:47.804810+07:00",
+      "minutes_to_kickoff": -29,
+      "last_scan_at": "2026-08-07T19:29:33.059361+07:00",
+      "next_scan_at": "2026-08-07T19:34:33.059361+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -285,37 +285,37 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-indonesia-07-08-2026-791570",
       "match_name": "07-08 ASEAN Championship Singapore VS Indonesia Chim Nhỏ",
       "kickoff_iso": "2026-08-07T20:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T19:01:47.804810+07:00",
-      "next_scan_at": "2026-08-07T19:21:47.804810+07:00",
+      "minutes_to_kickoff": 31,
+      "last_scan_at": "2026-08-07T19:29:33.059361+07:00",
+      "next_scan_at": "2026-08-07T19:39:33.059361+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "012811": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012811",
       "match_name": "07-08 ASEAN Championship Việt Nam VS Cambodia Kevin",
       "kickoff_iso": "2026-08-07T20:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T19:01:47.804810+07:00",
-      "next_scan_at": "2026-08-07T19:21:47.804810+07:00",
+      "minutes_to_kickoff": 31,
+      "last_scan_at": "2026-08-07T19:29:33.059361+07:00",
+      "next_scan_at": "2026-08-07T19:39:33.059361+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "012808": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012808",
       "match_name": "07-08 ASEAN Championship Việt Nam VS Cambodia Ken",
       "kickoff_iso": "2026-08-07T20:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T19:01:47.804810+07:00",
-      "next_scan_at": "2026-08-07T19:21:47.804810+07:00",
+      "minutes_to_kickoff": 31,
+      "last_scan_at": "2026-08-07T19:29:33.059361+07:00",
+      "next_scan_at": "2026-08-07T19:39:33.059361+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "718665": {
       "url": "https://phaohoa1.live/truc-tiep/sjk-vs-gnistan-07-08-2026-718665",
