@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-07T23:01:42.154867+07:00",
+  "updated_at": "2026-08-07T23:31:53.221656+07:00",
   "matches": {
-    "829362": {
-      "url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
-      "match_name": "Aarhus vs Sabah Baku",
-      "kickoff_iso": "2026-08-05T23:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-06T01:32:03.694953+07:00",
-      "next_scan_at": "2026-08-06T01:37:03.694953+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "829880": {
       "url": "https://phaohoa1.live/truc-tiep/brann-vs-apollon-07-08-2026-829880",
       "match_name": "Brann vs Apollon",
@@ -313,9 +299,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sjk-vs-gnistan-07-08-2026-718665",
       "match_name": "Sjk vs Gnistan",
       "kickoff_iso": "2026-08-07T23:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:06:42.154675+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:36:53.221421+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -327,57 +313,57 @@
       "url": "https://phaohoa1.live/truc-tiep/serbia-vs-nga",
       "match_name": "07-08 Giao Hữu Serbia VS Nga KaKa",
       "kickoff_iso": "2026-08-07T23:55:00+07:00",
-      "minutes_to_kickoff": 54,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:21:42.154675+07:00",
+      "minutes_to_kickoff": 24,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:41:53.221421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "716916": {
       "url": "https://phaohoa1.live/truc-tiep/sandefjord-vs-kfum-oslo-08-08-2026-716916",
       "match_name": "08-08 Eliteserien Sandefjord VS KFUM Oslo Pháo Thủ",
       "kickoff_iso": "2026-08-08T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:21:42.154675+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:41:53.221421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "826143": {
       "url": "https://phaohoa1.live/truc-tiep/fulham-vs-crystal-palace-08-08-2026-826143",
       "match_name": "08-08 Club Friendlies Fulham VS Crystal Palace Ken",
       "kickoff_iso": "2026-08-08T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:21:42.154675+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:41:53.221421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "779569": {
       "url": "https://phaohoa1.live/truc-tiep/sonderjyske-vs-viborg-08-08-2026-779569",
       "match_name": "08-08 Superliga Sonderjyske VS Viborg Kevin",
       "kickoff_iso": "2026-08-08T00:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:21:42.154675+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:41:53.221421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "819442": {
       "url": "https://phaohoa1.live/truc-tiep/altach-vs-tirol-08-08-2026-819442",
       "match_name": "08-08 Bundesliga Altach VS Tirol Văn Minh",
       "kickoff_iso": "2026-08-08T00:30:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-08-07T23:01:42.154675+07:00",
-      "next_scan_at": "2026-08-07T23:21:42.154675+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-08-07T23:31:53.221421+07:00",
+      "next_scan_at": "2026-08-07T23:51:53.221421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
