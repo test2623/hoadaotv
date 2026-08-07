@@ -19,20 +19,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -50,7 +50,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -97,12 +97,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -130,6 +124,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_358.jpg",
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -145,16 +145,31 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.872300+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.681092+07:00",
     "kickoff_iso": "2026-08-07T13:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 209,
+    "minutes_to_kickoff": 179,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/9c1940409eed.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 1,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -165,10 +180,9 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+    "away_logo": "",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg"
     ],
     "logo_candidates": [
       {
@@ -178,20 +192,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -209,7 +223,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -256,12 +270,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -290,6 +298,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "KaKa",
@@ -303,11 +317,11 @@
     "time": "16:30",
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-philippines",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.875199+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-07T10:01:04.683704+07:00",
     "kickoff_iso": "2026-08-07T16:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 419,
+    "minutes_to_kickoff": 389,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -336,20 +350,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -367,7 +381,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -414,12 +428,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -448,6 +456,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
@@ -462,10 +476,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/yokohama-f-marinos-vs-kashima-antlers-07-08-2026-807473",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.878304+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.686621+07:00",
     "kickoff_iso": "2026-08-07T17:25:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 474,
+    "minutes_to_kickoff": 444,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -494,20 +508,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -525,7 +539,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -572,12 +586,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -605,6 +613,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_358.jpg",
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -620,10 +634,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gamba-osaka-vs-urawa-reds-07-08-2026-807474",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.881268+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.689391+07:00",
     "kickoff_iso": "2026-08-07T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 479,
+    "minutes_to_kickoff": 449,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -637,11 +651,10 @@
     "raw_title": "19:00 - 07-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra Aston Villa Pháo Thủ",
     "card_text": "19:00 - 07-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra Aston Villa Pháo Thủ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+    "home_logo": "",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg"
     ],
     "logo_candidates": [
@@ -652,20 +665,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -683,7 +696,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -730,12 +743,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -764,6 +771,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
@@ -777,11 +790,11 @@
     "time": "19:00",
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/bayern-munich-vs-aston-villa-07-08-2026-759676",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.884255+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-07T10:01:04.692065+07:00",
     "kickoff_iso": "2026-08-07T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 569,
+    "minutes_to_kickoff": 539,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -810,20 +823,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -841,7 +854,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -888,12 +901,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -922,6 +929,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
@@ -936,10 +949,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/singapore-vs-indonesia-07-08-2026-791570",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.887075+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.694817+07:00",
     "kickoff_iso": "2026-08-07T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 629,
+    "minutes_to_kickoff": 599,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -968,20 +981,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -999,7 +1012,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -1046,12 +1059,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -1080,6 +1087,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "Ken",
@@ -1094,10 +1107,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012808",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.889974+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.697568+07:00",
     "kickoff_iso": "2026-08-07T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 629,
+    "minutes_to_kickoff": 599,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1126,20 +1139,20 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.9,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -1157,7 +1170,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -1204,12 +1217,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -1237,6 +1244,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_358.jpg",
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1252,10 +1265,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012811",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-07T09:30:57.892832+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.700302+07:00",
     "kickoff_iso": "2026-08-07T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 629,
+    "minutes_to_kickoff": 599,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1271,21 +1284,13 @@
     "raw_time": "",
     "logo": "",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg"
-    ],
+    "away_logo": "",
+    "team_logos": [],
     "logo_candidates": [
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
-        "score": 64.99,
-        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1295,8 +1300,14 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg",
+        "score": 59.99,
+        "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg",
-        "score": 64.69,
+        "score": 59.69,
         "context": "Việt Nam max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Việt Nam min-w-0 text-center",
         "source": "home-card"
       },
@@ -1314,7 +1325,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_484.jpg",
-        "score": 39.73,
+        "score": 34.73,
         "context": "Indonesia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Indonesia min-w-0 text-center",
         "source": "home-card"
       },
@@ -1361,12 +1372,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
-        "score": 4.79,
-        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bayern Munich min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
         "score": 4.78,
         "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
@@ -1395,6 +1400,12 @@
         "score": 4.68,
         "context": "Cambodia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Cambodia min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.67,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
@@ -1409,10 +1420,10 @@
     "date": "07/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/petrolul-vs-otelul-07-08-2026-775001",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-07T09:30:57.895458+07:00",
+    "scan_time_iso": "2026-08-07T10:01:04.704653+07:00",
     "kickoff_iso": "2026-08-07T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 779,
+    "minutes_to_kickoff": 749,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
