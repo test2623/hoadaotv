@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-07T22:31:32.027369+07:00",
+  "updated_at": "2026-08-07T22:36:46.345107+07:00",
   "matches": {
     "829362": {
       "url": "https://phaohoa1.live/truc-tiep/aarhus-vs-sabah-baku-05-08-2026-829362",
@@ -313,9 +313,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sjk-vs-gnistan-07-08-2026-718665",
       "match_name": "07-08 Veikkausliiga SJK VS Gnistan Chim Nhỏ",
       "kickoff_iso": "2026-08-07T23:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-07T22:31:32.027130+07:00",
-      "next_scan_at": "2026-08-07T22:41:32.027130+07:00",
+      "minutes_to_kickoff": 24,
+      "last_scan_at": "2026-08-07T22:36:46.345049+07:00",
+      "next_scan_at": "2026-08-07T22:46:46.345049+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
