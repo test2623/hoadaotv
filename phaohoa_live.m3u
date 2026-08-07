@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="phaohoa-012808-1" tvg-name="[20:00 07/08] Viet Nam vs Cambodia" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012808" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_358.jpg",[20:00 07/08] Viet Nam vs Cambodia [M3U8]
+#EXTINF:-1 tvg-id="phaohoa-012808-1" tvg-name="[20:00 07/08] Viet Nam vs Cambodia [BLV Vừa xong Vị 2.1 về là có thật siuuu Vừa]" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-cambodia-06-08-2026-012808" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_479.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_358.jpg" phaohoa-blv="Vừa xong Vị 2.1 về là có thật siuuu Vừa",[20:00 07/08] Viet Nam vs Cambodia [BLV Vừa xong Vị 2.1 về là có thật siuuu Vừa] [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
