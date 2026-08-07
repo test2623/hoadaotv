@@ -13,7 +13,11 @@ http://127.0.0.1:9/__phaohoa_metadata__/012808.m3u8
 http://127.0.0.1:9/__phaohoa_metadata__/012811.m3u8
 #EXTINF:-1 tvg-id="phaohoa-718665-1" tvg-name="[23:00 07/08] SJK VS Gnistan [BLV Chim Nhỏ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/sjk-vs-gnistan-07-08-2026-718665" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-blv="Chim Nhỏ",[23:00 07/08] SJK VS Gnistan [BLV Chim Nhỏ]
 http://127.0.0.1:9/__phaohoa_metadata__/718665.m3u8
-#EXTINF:-1 tvg-id="phaohoa-4d43439ae4da-1" tvg-name="[16:30 07/08] Thái Lan VS Philippines [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/thai-lan-vs-philippines" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg" phaohoa-blv="KaKa",[16:30 07/08] Thái Lan VS Philippines [BLV KaKa]
-http://127.0.0.1:9/__phaohoa_metadata__/4d43439ae4da.m3u8
+#EXTINF:-1 tvg-id="phaohoa-4d43439ae4da-1" tvg-name="[16:30 07/08] Thai Lan vs Philippines" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/thai-lan-vs-philippines" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_njudfFz.jpg",[16:30 07/08] Thai Lan vs Philippines [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="phaohoa-afda7b207c96-1" tvg-name="[23:55 07/08] Serbia VS Nga [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/serbia-vs-nga" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg" phaohoa-blv="KaKa",[23:55 07/08] Serbia VS Nga [BLV KaKa]
 http://127.0.0.1:9/__phaohoa_metadata__/afda7b207c96.m3u8
