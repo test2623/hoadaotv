@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-09T06:04:25.735393+07:00",
+  "updated_at": "2026-08-09T06:31:21.045244+07:00",
   "matches": {
     "9c1940409eed": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia",
@@ -447,25 +447,25 @@
       "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-monterrey-09-08-2026-749495",
       "match_name": "09-08 Leagues Cup Inter Miami VS Monterrey Tày",
       "kickoff_iso": "2026-08-09T07:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-09T06:01:03.670284+07:00",
-      "next_scan_at": "2026-08-09T06:21:03.670284+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-09T06:31:21.045156+07:00",
+      "next_scan_at": "2026-08-09T06:41:21.045156+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "28fce444acb9": {
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-nhat-ban",
       "match_name": "09-08 U17 World Championship Ba Lan VS Nhật Bản KaKa",
       "kickoff_iso": "2026-08-09T07:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-09T06:01:03.670284+07:00",
-      "next_scan_at": "2026-08-09T06:21:03.670284+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-09T06:31:21.045156+07:00",
+      "next_scan_at": "2026-08-09T06:41:21.045156+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     }
   }
 }
