@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-08T21:02:03.704651+07:00",
+  "updated_at": "2026-08-08T21:06:43.948392+07:00",
   "matches": {
     "829347": {
       "url": "https://phaohoa1.live/truc-tiep/kups-vs-univ-craiova-07-08-2026-829347",
@@ -407,9 +407,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ac-milan-08-08-2026-763692",
       "match_name": "Chelsea vs AC Milan",
       "kickoff_iso": "2026-08-08T19:00:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-08T21:02:03.704457+07:00",
-      "next_scan_at": "2026-08-08T21:07:03.704457+07:00",
+      "minutes_to_kickoff": -126,
+      "last_scan_at": "2026-08-08T21:06:43.948158+07:00",
+      "next_scan_at": "2026-08-08T21:11:43.948158+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -421,9 +421,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-philippines-08-08-2026-791572",
       "match_name": "Malaysia vs Philippines",
       "kickoff_iso": "2026-08-08T20:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-08T21:02:03.704457+07:00",
-      "next_scan_at": "2026-08-08T21:07:03.704457+07:00",
+      "minutes_to_kickoff": -66,
+      "last_scan_at": "2026-08-08T21:06:43.948158+07:00",
+      "next_scan_at": "2026-08-08T21:11:43.948158+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -435,9 +435,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thailand-vs-myanmar-08-08-2026-791573",
       "match_name": "Thái Lan vs Myanmar",
       "kickoff_iso": "2026-08-08T20:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-08T21:02:03.704457+07:00",
-      "next_scan_at": "2026-08-08T21:07:03.704457+07:00",
+      "minutes_to_kickoff": -66,
+      "last_scan_at": "2026-08-08T21:06:43.948158+07:00",
+      "next_scan_at": "2026-08-08T21:11:43.948158+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -449,9 +449,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-getafe-08-08-2026-774436",
       "match_name": "Tottenham vs Getafe",
       "kickoff_iso": "2026-08-08T21:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-08-08T21:02:03.704457+07:00",
-      "next_scan_at": "2026-08-08T21:07:03.704457+07:00",
+      "minutes_to_kickoff": -6,
+      "last_scan_at": "2026-08-08T21:06:43.948158+07:00",
+      "next_scan_at": "2026-08-08T21:11:43.948158+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
