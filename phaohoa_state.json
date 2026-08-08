@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-09T02:01:38.419001+07:00",
+  "updated_at": "2026-08-09T02:17:07.797968+07:00",
   "matches": {
     "9c1940409eed": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-indonesia",
@@ -419,9 +419,9 @@
       "url": "https://phaohoa1.live/truc-tiep/wolfsburg-vs-kaiserslautern-09-08-2026-809606",
       "match_name": "Wolfsburg vs Kaiserslautern",
       "kickoff_iso": "2026-08-09T01:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-09T02:01:38.418925+07:00",
-      "next_scan_at": "2026-08-09T02:06:38.418925+07:00",
+      "minutes_to_kickoff": -47,
+      "last_scan_at": "2026-08-09T02:17:07.797899+07:00",
+      "next_scan_at": "2026-08-09T02:22:07.797899+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -431,14 +431,16 @@
     },
     "803643": {
       "url": "https://phaohoa1.live/truc-tiep/estrela-vs-sporting-cp-09-08-2026-803643",
-      "match_name": "09-08 Primeira Liga Estrela VS Sporting CP Kevin",
+      "match_name": "Estrela vs Sporting Cp",
       "kickoff_iso": "2026-08-09T02:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-09T02:01:38.418925+07:00",
-      "next_scan_at": "2026-08-09T02:11:38.418925+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 13,
+      "last_scan_at": "2026-08-09T02:17:07.797899+07:00",
+      "next_scan_at": "2026-08-09T02:22:07.797899+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
