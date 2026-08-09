@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-09T18:54:08.895168+07:00",
+  "updated_at": "2026-08-09T19:01:54.900929+07:00",
   "matches": {
-    "759676": {
-      "url": "https://phaohoa1.live/truc-tiep/bayern-munich-vs-aston-villa-07-08-2026-759676",
-      "match_name": "Bayern Munich vs Aston Villa",
-      "kickoff_iso": "2026-08-07T19:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-07T20:32:03.447446+07:00",
-      "next_scan_at": "2026-08-07T20:37:03.447446+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "791570": {
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-indonesia-07-08-2026-791570",
       "match_name": "Singapore vs Indonesia",
@@ -461,9 +447,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sparta-rotterdam-vs-feyenoord-09-08-2026-805954",
       "match_name": "Sparta Rotterdam vs Feyenoord",
       "kickoff_iso": "2026-08-09T17:15:00+07:00",
-      "minutes_to_kickoff": -98,
-      "last_scan_at": "2026-08-09T18:54:08.894902+07:00",
-      "next_scan_at": "2026-08-09T18:59:08.894902+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-08-09T19:01:54.900773+07:00",
+      "next_scan_at": "2026-08-09T19:06:54.900773+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -475,9 +461,9 @@
       "url": "https://phaohoa1.live/truc-tiep/manchester-city-vs-atl-madrid-09-08-2026-769768",
       "match_name": "Manchester City vs Atl. Madrid",
       "kickoff_iso": "2026-08-09T18:00:00+07:00",
-      "minutes_to_kickoff": -53,
-      "last_scan_at": "2026-08-09T18:54:08.894902+07:00",
-      "next_scan_at": "2026-08-09T18:59:08.894902+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-09T19:01:54.900773+07:00",
+      "next_scan_at": "2026-08-09T19:06:54.900773+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -489,9 +475,9 @@
       "url": "https://phaohoa1.live/truc-tiep/johor-dt-vs-chelsea-09-08-2026-764902",
       "match_name": "Johor Dt vs Chelsea",
       "kickoff_iso": "2026-08-09T19:00:00+07:00",
-      "minutes_to_kickoff": 7,
-      "last_scan_at": "2026-08-09T18:54:08.894902+07:00",
-      "next_scan_at": "2026-08-09T18:59:08.894902+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-09T19:01:54.900773+07:00",
+      "next_scan_at": "2026-08-09T19:06:54.900773+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -503,9 +489,9 @@
       "url": "https://phaohoa1.live/truc-tiep/zwolle-vs-ajax-09-08-2026-805956",
       "match_name": "09-08 Eredivisie Zwolle VS Ajax Chim Nhỏ",
       "kickoff_iso": "2026-08-09T19:30:00+07:00",
-      "minutes_to_kickoff": 36,
-      "last_scan_at": "2026-08-09T18:54:08.894902+07:00",
-      "next_scan_at": "2026-08-09T19:04:08.894902+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-09T19:01:54.900773+07:00",
+      "next_scan_at": "2026-08-09T19:11:54.900773+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
