@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-10T01:31:46.410999+07:00",
+  "updated_at": "2026-08-10T02:01:55.581638+07:00",
   "matches": {
     "a02a37557a4c": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-philippines",
@@ -431,9 +431,9 @@
       "url": "https://phaohoa1.live/truc-tiep/fc-porto-vs-alverca-10-08-2026-803644",
       "match_name": "FC Porto vs Alverca",
       "kickoff_iso": "2026-08-10T00:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-10T01:31:46.410792+07:00",
-      "next_scan_at": "2026-08-10T01:36:46.410792+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-10T02:01:55.581437+07:00",
+      "next_scan_at": "2026-08-10T02:06:55.581437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -445,9 +445,9 @@
       "url": "https://phaohoa1.live/truc-tiep/antwerp-vs-beveren-10-08-2026-819132",
       "match_name": "Antwerp vs Beveren",
       "kickoff_iso": "2026-08-10T00:15:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-08-10T01:31:46.410792+07:00",
-      "next_scan_at": "2026-08-10T01:36:46.410792+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-08-10T02:01:55.581437+07:00",
+      "next_scan_at": "2026-08-10T02:06:55.581437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -459,9 +459,9 @@
       "url": "https://phaohoa1.live/truc-tiep/jagiellonia-vs-widzew-lodz-10-08-2026-780170",
       "match_name": "Jagiellonia vs Widzew Lodz",
       "kickoff_iso": "2026-08-10T01:15:00+07:00",
-      "minutes_to_kickoff": -16,
-      "last_scan_at": "2026-08-10T01:31:46.410792+07:00",
-      "next_scan_at": "2026-08-10T01:36:46.410792+07:00",
+      "minutes_to_kickoff": -46,
+      "last_scan_at": "2026-08-10T02:01:55.581437+07:00",
+      "next_scan_at": "2026-08-10T02:06:55.581437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -473,21 +473,21 @@
       "url": "https://phaohoa1.live/truc-tiep/benfica-vs-academico-viseu-10-08-2026-803645",
       "match_name": "10-08 Primeira Liga Benfica VS Academico Viseu Ken",
       "kickoff_iso": "2026-08-10T02:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-10T01:31:46.410792+07:00",
-      "next_scan_at": "2026-08-10T01:51:46.410792+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-10T02:01:55.581437+07:00",
+      "next_scan_at": "2026-08-10T02:11:55.581437+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "803647": {
       "url": "https://phaohoa1.live/truc-tiep/moreirense-vs-braga-10-08-2026-803647",
       "match_name": "Moreirense vs Braga",
       "kickoff_iso": "2026-08-10T02:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-10T01:31:46.410792+07:00",
-      "next_scan_at": "2026-08-10T01:41:46.410792+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-10T02:01:55.581437+07:00",
+      "next_scan_at": "2026-08-10T02:06:55.581437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
