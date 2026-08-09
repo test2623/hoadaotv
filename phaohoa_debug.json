@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/zwolle-vs-ajax-09-08-2026-805956",
-    "raw_title": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ",
-    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "raw_title": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ",
+    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5484.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5484.jpg",
@@ -144,7 +144,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_244.png",
         "score": 75,
-        "context": "size-5 object-contain EREDIVISIE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs EREDIVISIE Zwolle 66' 0-0 19:30 - 09/08/2026 Ajax relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain EREDIVISIE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs EREDIVISIE Zwolle 70' 0-0 19:30 - 09/08/2026 Ajax relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -168,10 +168,10 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/zwolle-vs-ajax-09-08-2026-805956",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.168844+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.075500+07:00",
     "kickoff_iso": "2026-08-09T19:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
+    "minutes_to_kickoff": -97,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -186,7 +186,7 @@
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 6,
+    "_scan_total": 4,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -223,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3158591162-1786280392-20260809T140135.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3158591162-1786280513-20260809T140604.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -263,7 +263,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-dortmund-09-08-2026-770307",
     "raw_title": "20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken",
-    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -429,10 +429,10 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-dortmund-09-08-2026-770307",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.173835+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.080519+07:00",
     "kickoff_iso": "2026-08-09T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -62,
+    "minutes_to_kickoff": -67,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -444,16 +444,10 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770307.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 6,
+    "_scan_total": 4,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -470,16 +464,17 @@
           "request/xhr",
           "previous-playlist",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa7",
         "family_key": "phaohoa7",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -489,7 +484,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3246898432-1786280738-20260809T140136.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3246898432-1786280870-20260809T140604.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -521,49 +516,15 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770307.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "770307",
-        "family_key": "770307",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/770307.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/liverpool-vs-monaco-09-08-2026-767106",
-    "raw_title": "20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin",
-    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "raw_title": "20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin",
+    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -699,7 +660,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Liverpool 28' 1-0 20:30 - 09/08/2026 Monaco relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Liverpool 33' 2-0 20:30 - 09/08/2026 Monaco relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -729,10 +690,10 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/liverpool-vs-monaco-09-08-2026-767106",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.178842+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.085514+07:00",
     "kickoff_iso": "2026-08-09T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -37,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -749,11 +710,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/767106.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 6,
+    "_scan_total": 4,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -790,7 +751,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2823604499-1786277177-20260809T140137.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2823604499-1786277304-20260809T140602.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -864,7 +825,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/goteborg-vs-kalmar-09-08-2026-715569",
     "raw_title": "21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày",
-    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_213.jpg",
@@ -1030,10 +991,10 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/goteborg-vs-kalmar-09-08-2026-715569",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.183845+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.090488+07:00",
     "kickoff_iso": "2026-08-09T21:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
+    "minutes_to_kickoff": 23,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1041,14 +1002,20 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/715569.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/715569.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 4,
-    "_scan_total": 6,
+    "_scan_total": 4,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1063,6 +1030,7 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
           "dom/performance"
         ],
@@ -1083,7 +1051,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2311903908-1786282180-20260809T140200.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2311903908-1786282313-20260809T140627.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1292,7 +1260,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "match_name": "Wolfsberger AC VS Salzburg",
     "home_name": "Wolfsberger AC",
     "away_name": "Salzburg",
@@ -1300,31 +1268,16 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/wolfsberger-ac-vs-salzburg-09-08-2026-819446",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-09T21:02:12.187007+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.093755+07:00",
     "kickoff_iso": "2026-08-09T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 58,
+    "minutes_to_kickoff": 53,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/819446.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 5,
-    "_scan_total": 6,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-16m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1466,7 +1419,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "match_name": "Anderlecht VS RAAL La Louviere",
     "home_name": "Anderlecht",
     "away_name": "RAAL La Louviere",
@@ -1474,15 +1427,15 @@
     "date": "09/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/anderlecht-vs-raal-la-louviere-09-08-2026-819131",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-09T21:02:12.190286+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.097005+07:00",
     "kickoff_iso": "2026-08-09T23:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 148,
+    "minutes_to_kickoff": 143,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
+    "delta_reason": "delta-wait-11m",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
@@ -1625,7 +1578,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "match_name": "FC Porto VS Alverca",
     "home_name": "FC Porto",
     "away_name": "Alverca",
@@ -1633,31 +1586,16 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fc-porto-vs-alverca-10-08-2026-803644",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-09T21:02:12.193415+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.100098+07:00",
     "kickoff_iso": "2026-08-10T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 173,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803644.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 6,
-    "_scan_total": 6,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-41m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1798,7 +1736,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "match_name": "Antwerp VS Beveren",
     "home_name": "Antwerp",
     "away_name": "Beveren",
@@ -1806,15 +1744,15 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/antwerp-vs-beveren-10-08-2026-819132",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.196328+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.102970+07:00",
     "kickoff_iso": "2026-08-10T00:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 193,
+    "minutes_to_kickoff": 188,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
+    "delta_reason": "delta-wait-11m",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
@@ -1956,7 +1894,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 66' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 1 : 0 28' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
+    "page_card_text": "19:30 - 09-08 BÓNG ĐÁ Eredivisie Zwolle 0 : 0 70' Ajax Chim Nhỏ 20:00 - 09-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Dortmund Ken 20:30 - 09-08 BÓNG ĐÁ Club Friendlies Liverpool 2 : 0 33' Monaco Kevin 21:30 - 09-08 BÓNG ĐÁ Allsvenskan Goteborg 0 : 0 Trực tiếp Kalmar Tày 22:00 - 09-08 BÓNG ĐÁ Bundesliga Wolfsberger AC VS Sắp diễn ra Salzburg Chim Nhỏ 23:30 - 09-08 BÓNG ĐÁ First Division A Anderlecht VS Sắp diễn ra RAAL La Louviere Pháo Thủ 00:00 - 10-08 BÓNG ĐÁ Primeira Liga FC Porto VS Sắp diễn ra Alverca Ken 00:15 - 10-08 BÓNG ĐÁ First Division A Antwerp VS Sắp diễn ra Beveren Tày 01:15 - 10-08 BÓNG ĐÁ Ekstraklasa Jagiellonia VS Sắp diễn ra Widzew Lodz Chim Nhỏ",
     "match_name": "Jagiellonia VS Widzew Lodz",
     "home_name": "Jagiellonia",
     "away_name": "Widzew Lodz",
@@ -1964,10 +1902,10 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/jagiellonia-vs-widzew-lodz-10-08-2026-780170",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-09T21:02:12.199349+07:00",
+    "scan_time_iso": "2026-08-09T21:06:40.105993+07:00",
     "kickoff_iso": "2026-08-10T01:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 253,
+    "minutes_to_kickoff": 248,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",

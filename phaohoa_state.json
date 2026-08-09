@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-09T21:02:12.120254+07:00",
+  "updated_at": "2026-08-09T21:06:40.027682+07:00",
   "matches": {
     "718665": {
       "url": "https://phaohoa1.live/truc-tiep/sjk-vs-gnistan-07-08-2026-718665",
@@ -447,9 +447,9 @@
       "url": "https://phaohoa1.live/truc-tiep/zwolle-vs-ajax-09-08-2026-805956",
       "match_name": "Zwolle vs Ajax",
       "kickoff_iso": "2026-08-09T19:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-09T21:02:12.119980+07:00",
-      "next_scan_at": "2026-08-09T21:07:12.119980+07:00",
+      "minutes_to_kickoff": -96,
+      "last_scan_at": "2026-08-09T21:06:40.027479+07:00",
+      "next_scan_at": "2026-08-09T21:11:40.027479+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -461,9 +461,9 @@
       "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-dortmund-09-08-2026-770307",
       "match_name": "Arsenal vs Dortmund",
       "kickoff_iso": "2026-08-09T20:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-09T21:02:12.119980+07:00",
-      "next_scan_at": "2026-08-09T21:07:12.119980+07:00",
+      "minutes_to_kickoff": -66,
+      "last_scan_at": "2026-08-09T21:06:40.027479+07:00",
+      "next_scan_at": "2026-08-09T21:11:40.027479+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -475,9 +475,9 @@
       "url": "https://phaohoa1.live/truc-tiep/liverpool-vs-monaco-09-08-2026-767106",
       "match_name": "Liverpool vs Monaco",
       "kickoff_iso": "2026-08-09T20:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-09T21:02:12.119980+07:00",
-      "next_scan_at": "2026-08-09T21:07:12.119980+07:00",
+      "minutes_to_kickoff": -36,
+      "last_scan_at": "2026-08-09T21:06:40.027479+07:00",
+      "next_scan_at": "2026-08-09T21:11:40.027479+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -489,9 +489,9 @@
       "url": "https://phaohoa1.live/truc-tiep/goteborg-vs-kalmar-09-08-2026-715569",
       "match_name": "Goteborg vs Kalmar",
       "kickoff_iso": "2026-08-09T21:30:00+07:00",
-      "minutes_to_kickoff": 28,
-      "last_scan_at": "2026-08-09T21:02:12.119980+07:00",
-      "next_scan_at": "2026-08-09T21:07:12.119980+07:00",
+      "minutes_to_kickoff": 24,
+      "last_scan_at": "2026-08-09T21:06:40.027479+07:00",
+      "next_scan_at": "2026-08-09T21:11:40.027479+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
