@@ -1,527 +1,5 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/benfica-vs-academico-viseu-10-08-2026-803645",
-    "raw_title": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken",
-    "card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
-        "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
-        "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
-        "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
-        "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
-        "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
-        "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
-        "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
-        "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 75,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Benfica min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-        "score": 75,
-        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Benfica 75' 2-2 02:30 - 10/08/2026 Academico Viseu relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 50,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Academico Viseu min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg"
-    ],
-    "blv": "Pháo Thủ Lv12 26 phút trước hi Beo King",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Benfica vs Academico Viseu",
-    "home_name": "Benfica",
-    "away_name": "Academico Viseu",
-    "time": "02:30",
-    "date": "10/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/benfica-vs-academico-viseu-10-08-2026-803645",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.461162+07:00",
-    "kickoff_iso": "2026-08-10T02:30:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -95,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 2,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa7",
-        "family_key": "phaohoa7",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3247886017-1786305970-20260809T210512.ts?volcDst=MTAuMTMuOC4xNDc",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/moreirense-vs-braga-10-08-2026-803647",
-    "raw_title": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ",
-    "card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
-        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
-        "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
-        "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
-        "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
-        "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
-        "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
-        "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
-        "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
-        "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
-        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 75,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Moreirense min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-        "score": 75,
-        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Moreirense 74' 1-2 02:30 - 10/08/2026 Braga relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 50,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Braga min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Moreirense vs Braga",
-    "home_name": "Moreirense",
-    "away_name": "Braga",
-    "time": "02:30",
-    "date": "10/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/moreirense-vs-braga-10-08-2026-803647",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-10T04:05:23.465960+07:00",
-    "kickoff_iso": "2026-08-10T02:30:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -95,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 2,
-    "_scan_total": 2,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2312226624-1786295398-20260809T210450.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-metalist-1925-10-08-2026-795406",
     "raw_title": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ",
     "card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ",
@@ -541,117 +19,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -659,7 +137,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Polissya Zhytomyr VS Metalist 1925",
     "home_name": "Polissya Zhytomyr",
     "away_name": "Metalist 1925",
@@ -667,10 +145,10 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-metalist-1925-10-08-2026-795406",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.469016+07:00",
+    "scan_time_iso": "2026-08-10T04:30:54.874057+07:00",
     "kickoff_iso": "2026-08-10T19:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 925,
+    "minutes_to_kickoff": 899,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -699,117 +177,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -817,7 +295,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Karpaty Lviv VS LNZ Cherkasy",
     "home_name": "Karpaty Lviv",
     "away_name": "LNZ Cherkasy",
@@ -825,10 +303,10 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/karpaty-lviv-vs-lnz-cherkasy-10-08-2026-795404",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.472000+07:00",
+    "scan_time_iso": "2026-08-10T04:30:54.877457+07:00",
     "kickoff_iso": "2026-08-10T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1075,
+    "minutes_to_kickoff": 1049,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -857,117 +335,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -975,7 +453,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Botev Vratsa VS Slavia Sofia",
     "home_name": "Botev Vratsa",
     "away_name": "Slavia Sofia",
@@ -983,10 +461,10 @@
     "date": "10/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/botev-vratsa-vs-slavia-sofia-10-08-2026-774507",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.475019+07:00",
+    "scan_time_iso": "2026-08-10T04:30:54.880835+07:00",
     "kickoff_iso": "2026-08-10T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1135,
+    "minutes_to_kickoff": 1109,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1015,117 +493,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1133,7 +611,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Sirius VS Brommapojkarna",
     "home_name": "Sirius",
     "away_name": "Brommapojkarna",
@@ -1141,10 +619,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sirius-vs-brommapojkarna-11-08-2026-715575",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.477845+07:00",
+    "scan_time_iso": "2026-08-10T04:30:54.884005+07:00",
     "kickoff_iso": "2026-08-11T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1195,
+    "minutes_to_kickoff": 1169,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1173,117 +651,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1291,7 +769,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Vasteras SK VS Djurgarden",
     "home_name": "Vasteras SK",
     "away_name": "Djurgarden",
@@ -1299,10 +777,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/vasteras-sk-vs-djurgarden-11-08-2026-715576",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-10T04:05:23.480766+07:00",
+    "scan_time_iso": "2026-08-10T04:30:54.887256+07:00",
     "kickoff_iso": "2026-08-11T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1195,
+    "minutes_to_kickoff": 1169,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1316,11 +794,12 @@
     "raw_title": "01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin",
     "card_text": "01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg"
     ],
     "logo_candidates": [
       {
@@ -1330,117 +809,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1448,18 +927,18 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "CFR Cluj VS U. Cluj",
     "home_name": "CFR Cluj",
     "away_name": "U. Cluj",
     "time": "01:30",
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/cfr-cluj-vs-u-cluj-11-08-2026-774997",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-10T04:05:23.483927+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-10T04:30:54.890446+07:00",
     "kickoff_iso": "2026-08-11T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1285,
+    "minutes_to_kickoff": 1259,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1473,11 +952,12 @@
     "raw_title": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
     "card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg"
     ],
     "logo_candidates": [
       {
@@ -1487,117 +967,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.99,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6001.jpg",
-        "score": 64.98,
-        "context": "Academico Viseu max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Academico Viseu min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5997.jpg",
-        "score": 64.94,
-        "context": "Moreirense max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Moreirense min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_156.jpg",
-        "score": 64.93,
-        "context": "Braga max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Braga min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
-        "score": 64.89,
+        "score": 64.99,
         "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
-        "score": 39.88,
+        "score": 39.98,
         "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.97,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
-        "score": 4.84,
+        "score": 4.94,
         "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
-        "score": 4.83,
+        "score": 4.93,
         "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.82,
+        "score": 4.92,
         "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
-        "score": 4.79,
+        "score": 4.89,
         "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
-        "score": 4.78,
+        "score": 4.88,
         "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
+        "score": 4.87,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
-        "score": 4.74,
+        "score": 4.84,
         "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
-        "score": 4.73,
+        "score": 4.83,
         "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 4.69,
+        "score": 4.79,
         "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
-        "score": 4.68,
+        "score": 4.78,
         "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 4.67,
+        "score": 4.77,
         "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1605,18 +1085,332 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:30 - 10-08 BÓNG ĐÁ Primeira Liga Benfica 2 : 2 75' Academico Viseu Ken 02:30 - 10-08 BÓNG ĐÁ Primeira Liga Moreirense 1 : 2 73' Braga Pháo Thủ 19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
     "match_name": "Santa Clara VS Nacional",
     "home_name": "Santa Clara",
     "away_name": "Nacional",
     "time": "02:15",
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-10T04:05:23.486694+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-10T04:30:54.893629+07:00",
     "kickoff_iso": "2026-08-11T02:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1330,
+    "minutes_to_kickoff": 1304,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
+    "raw_title": "16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken",
+    "card_text": "16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+        "score": 64.99,
+        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
+        "score": 39.98,
+        "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
+        "score": 4.94,
+        "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
+        "score": 4.93,
+        "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.92,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
+        "score": 4.89,
+        "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
+        "score": 4.88,
+        "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.87,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
+        "score": 4.84,
+        "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
+        "score": 4.83,
+        "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
+        "score": 4.79,
+        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
+        "score": 4.78,
+        "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.77,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Ken",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
+    "match_name": "Adelaide United VS Công An Hà Nội",
+    "home_name": "Adelaide United",
+    "away_name": "Công An Hà Nội",
+    "time": "16:30",
+    "date": "11/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-10T04:30:54.896968+07:00",
+    "kickoff_iso": "2026-08-11T16:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 2159,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-09-08-2026-095228",
+    "raw_title": "16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
+    "card_text": "16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+        "score": 64.99,
+        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Polissya Zhytomyr min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7774.jpg",
+        "score": 39.98,
+        "context": "Metalist 1925 max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Metalist 1925 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 39.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7820.jpg",
+        "score": 4.94,
+        "context": "Karpaty Lviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Karpaty Lviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_19481.jpg",
+        "score": 4.93,
+        "context": "LNZ Cherkasy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] LNZ Cherkasy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.92,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2169.jpg",
+        "score": 4.89,
+        "context": "Botev Vratsa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Botev Vratsa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2168.jpg",
+        "score": 4.88,
+        "context": "Slavia Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Slavia Sofia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 4.87,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7357.jpg",
+        "score": 4.84,
+        "context": "Sirius max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sirius min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7382.jpg",
+        "score": 4.83,
+        "context": "Brommapojkarna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Brommapojkarna min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
+        "score": 4.79,
+        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_189.jpg",
+        "score": 4.78,
+        "context": "Djurgarden max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Djurgarden min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.77,
+        "context": "Văn Minh size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Văn Minh flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_120.jpg",
+        "score": 4.74,
+        "context": "CFR Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] CFR Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6175.jpg",
+        "score": 4.73,
+        "context": "U. Cluj max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] U. Cluj min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+        "score": 4.69,
+        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
+        "score": 4.68,
+        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Kevin",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "19:30 - 10-08 BÓNG ĐÁ Premier League Polissya Zhytomyr VS Sắp diễn ra Metalist 1925 Pháo Thủ 22:00 - 10-08 BÓNG ĐÁ Premier League Karpaty Lviv VS Sắp diễn ra LNZ Cherkasy Tày 23:00 - 10-08 BÓNG ĐÁ First League Botev Vratsa VS Sắp diễn ra Slavia Sofia Chim Nhỏ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Sirius VS Sắp diễn ra Brommapojkarna Pháo Thủ 00:00 - 11-08 BÓNG ĐÁ Allsvenskan Vasteras SK VS Sắp diễn ra Djurgarden Văn Minh 01:30 - 11-08 BÓNG ĐÁ Liga I CFR Cluj VS Sắp diễn ra U. Cluj Kevin 02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara VS Sắp diễn ra Nacional Tày 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin",
+    "match_name": "Adelaide United VS Công An Hà Nội",
+    "home_name": "Adelaide United",
+    "away_name": "Công An Hà Nội",
+    "time": "16:30",
+    "date": "11/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-09-08-2026-095228",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-10T04:30:54.900356+07:00",
+    "kickoff_iso": "2026-08-11T16:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 2159,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
