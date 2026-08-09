@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-09T14:31:30.214116+07:00",
+  "updated_at": "2026-08-09T14:42:20.965228+07:00",
   "matches": {
     "4d43439ae4da": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-philippines",
@@ -459,9 +459,9 @@
       "url": "https://phaohoa1.live/truc-tiep/philippines-vs-indonesia",
       "match_name": "Philippines vs Indonesia",
       "kickoff_iso": "2026-08-09T13:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-09T14:31:30.213979+07:00",
-      "next_scan_at": "2026-08-09T14:36:30.213979+07:00",
+      "minutes_to_kickoff": -102,
+      "last_scan_at": "2026-08-09T14:42:20.965164+07:00",
+      "next_scan_at": "2026-08-09T14:47:20.965164+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
