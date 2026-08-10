@@ -1,299 +1,5 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648",
-    "raw_title": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ",
-    "card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
-        "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
-        "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
-        "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
-        "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
-        "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
-        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
-        "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
-        "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
-        "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
-        "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
-        "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 75,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Santa Clara min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-        "score": 75,
-        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Santa Clara 15' 0-0 02:15 - 11/08/2026 Nacional relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 50,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Nacional min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg"
-    ],
-    "blv": "Tày lắm rồi đấy nhá. Dơ. Nhớp Doanh Nhân",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Santa Clara vs Nacional",
-    "home_name": "Santa Clara",
-    "away_name": "Nacional",
-    "time": "02:15",
-    "date": "11/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.436129+07:00",
-    "kickoff_iso": "2026-08-11T02:15:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -16,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 1,
-    "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 404,
-        "statuses": [
-          404
-        ],
-        "content_type": "",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 106,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 404,
-          "content_type": "",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "HTTP 404",
-          "playable": false,
-          "state": "dead",
-          "kind": "m3u8",
-          "detail": "HTTP 404",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: HTTP 404"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "803648",
-        "family_key": "803648",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-mexico",
     "raw_title": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa",
     "card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa",
@@ -307,123 +13,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -431,7 +137,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Trung Quốc VS Mexico",
     "home_name": "Trung Quốc",
     "away_name": "Mexico",
@@ -439,15 +145,31 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-mexico",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.439458+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.954083+07:00",
     "kickoff_iso": "2026-08-11T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 269,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 239,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/8b7a6f04c438.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 1,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -465,123 +187,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -589,7 +311,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Adelaide United VS Công An Hà Nội",
     "home_name": "Adelaide United",
     "away_name": "Công An Hà Nội",
@@ -597,10 +319,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.443025+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.957564+07:00",
     "kickoff_iso": "2026-08-11T16:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 839,
+    "minutes_to_kickoff": 809,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -623,123 +345,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -747,7 +469,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Adelaide United VS Công An Hà Nội",
     "home_name": "Adelaide United",
     "away_name": "Công An Hà Nội",
@@ -755,10 +477,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-09-08-2026-095228",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.446565+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.961039+07:00",
     "kickoff_iso": "2026-08-11T16:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 839,
+    "minutes_to_kickoff": 809,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -781,123 +503,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -905,7 +627,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Gangwon VS Gamba Osaka",
     "home_name": "Gangwon",
     "away_name": "Gamba Osaka",
@@ -913,10 +635,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gamba-osaka-11-08-2026-788096",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.449823+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.964211+07:00",
     "kickoff_iso": "2026-08-11T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 899,
+    "minutes_to_kickoff": 869,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -939,123 +661,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1063,7 +785,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Kairat Almaty VS Levski Sofia",
     "home_name": "Kairat Almaty",
     "away_name": "Levski Sofia",
@@ -1071,10 +793,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kairat-almaty-vs-levski-sofia-11-08-2026-829345",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.453134+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.967486+07:00",
     "kickoff_iso": "2026-08-11T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1169,
+    "minutes_to_kickoff": 1139,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1090,130 +812,130 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1221,7 +943,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Pháp VS Italy",
     "home_name": "Pháp",
     "away_name": "Italy",
@@ -1229,10 +951,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/phap-vs-italy",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.456233+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.970497+07:00",
     "kickoff_iso": "2026-08-11T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1199,
+    "minutes_to_kickoff": 1169,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1246,131 +968,132 @@
     "raw_title": "23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ",
     "card_text": "23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1378,18 +1101,18 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Bodo/Glimt VS Royale Union SG",
     "home_name": "Bodo/Glimt",
     "away_name": "Royale Union SG",
     "time": "23:00",
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/bodo-glimt-vs-royale-union-sg-11-08-2026-785366",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-11T02:31:26.459468+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-11T03:01:05.973799+07:00",
     "kickoff_iso": "2026-08-11T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1229,
+    "minutes_to_kickoff": 1199,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1412,123 +1135,123 @@
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
-        "score": 64.99,
-        "context": "Santa Clara max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Santa Clara min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
-        "score": 64.98,
-        "context": "Nacional max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nacional min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.95,
+        "score": -15.0,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 39.92,
+        "score": 39.97,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
-        "score": 34.93,
+        "score": 34.98,
         "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
-        "score": 4.89,
+        "score": 4.94,
         "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
-        "score": 4.88,
+        "score": 4.93,
         "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.87,
+        "score": 4.92,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.82,
+        "score": 4.87,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.79,
+        "score": 4.84,
         "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
-        "score": 4.78,
+        "score": 4.83,
         "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
-        "score": 4.74,
+        "score": 4.79,
         "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-        "score": 4.73,
+        "score": 4.78,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 4.69,
+        "score": 4.74,
         "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
-        "score": 4.63,
+        "score": 4.68,
         "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
-        "score": 4.59,
+        "score": 4.64,
         "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
-        "score": 4.58,
+        "score": 4.63,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1536,7 +1259,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
     "match_name": "Al Jazira VS Al Ittihad",
     "home_name": "Al Jazira",
     "away_name": "Al Ittihad",
@@ -1544,10 +1267,168 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-jazira-vs-al-ittihad-11-08-2026-788095",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:31:26.462726+07:00",
+    "scan_time_iso": "2026-08-11T03:01:05.976979+07:00",
     "kickoff_iso": "2026-08-11T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1229,
+    "minutes_to_kickoff": 1199,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/sabah-baku-vs-aarhus-11-08-2026-829372",
+    "raw_title": "23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
+    "card_text": "23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": -15.0,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
+        "score": 64.99,
+        "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 64.95,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 39.97,
+        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",
+        "score": 34.98,
+        "context": "Mexico max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Mexico min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1052.jpg",
+        "score": 4.94,
+        "context": "Adelaide United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Adelaide United min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",
+        "score": 4.93,
+        "context": "Công An Hà Nội max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Công An Hà Nội min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 4.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 4.84,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_411.jpg",
+        "score": 4.83,
+        "context": "Gamba Osaka max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gamba Osaka min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 4.82,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.79,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
+        "score": 4.78,
+        "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
+        "score": 4.74,
+        "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_215.jpg",
+        "score": 4.69,
+        "context": "Bodo/Glimt max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Bodo/Glimt min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1373.jpg",
+        "score": 4.68,
+        "context": "Royale Union SG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Royale Union SG min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7826.jpg",
+        "score": 4.64,
+        "context": "Al Jazira max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Jazira min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg",
+        "score": 4.63,
+        "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1305.jpg",
+        "score": 4.59,
+        "context": "Sabah Baku max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sabah Baku min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Tày",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Sabah Baku VS Sắp diễn ra Aarhus Tày",
+    "match_name": "Sabah Baku VS Aarhus",
+    "home_name": "Sabah Baku",
+    "away_name": "Aarhus",
+    "time": "23:00",
+    "date": "11/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/sabah-baku-vs-aarhus-11-08-2026-829372",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-11T03:01:05.980141+07:00",
+    "kickoff_iso": "2026-08-11T23:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 1199,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
