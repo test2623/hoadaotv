@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648",
-    "raw_title": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ",
-    "card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "raw_title": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ",
+    "card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
@@ -97,6 +97,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -126,12 +132,6 @@
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5999.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5998.jpg",
@@ -144,7 +144,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
         "score": 75,
-        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Santa Clara ĐANG DIỄN RA 0-0 02:15 - 11/08/2026 Nacional relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Santa Clara 15' 0-0 02:15 - 11/08/2026 Nacional relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -168,73 +168,35 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.875890+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.436129+07:00",
     "kickoff_iso": "2026-08-11T02:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 13,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -16,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
     "_scan_total": 1,
     "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2314685560-1786388022-20260810T190125.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-    ],
+    "streams": [],
+    "stream_urls": [],
     "errors": [
-      "TimeoutError:APIRequestContext.get: Timeout 8000ms exceeded.\nCall log:\n  - → GET https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7\n    - Referer: https://phaohoa1.live/truc-tiep/santa-clara-vs-nacional-11-08-2026-803648\n    - cookie: _ga=GA1.1.1374844202.1786388465; _ga_RW5QPRV9PD=GS2.1.s1786388464$o1$g0$t1786388474$j50$l0$h0\n",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -249,10 +211,50 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 404,
+        "statuses": [
+          404
+        ],
+        "content_type": "",
+        "sources": [
+          "request/xhr",
+          "previous-playlist",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 106,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa4",
+        "family_key": "phaohoa4",
+        "quality_rank": 40,
+        "probe": {
+          "status": 404,
+          "content_type": "",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
+          "error": "HTTP 404",
+          "playable": false,
+          "state": "dead",
+          "kind": "m3u8",
+          "detail": "HTTP 404",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: HTTP 404"
+      },
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/803648.m3u8",
         "referer": "https://phaohoa1.live/",
@@ -288,7 +290,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "stream",
+    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
@@ -389,6 +391,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -417,19 +425,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "KaKa",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Trung Quốc VS Mexico",
     "home_name": "Trung Quốc",
     "away_name": "Mexico",
@@ -437,10 +439,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-mexico",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.878530+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.439458+07:00",
     "kickoff_iso": "2026-08-11T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 298,
+    "minutes_to_kickoff": 269,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -547,6 +549,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -575,19 +583,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Ken",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Adelaide United VS Công An Hà Nội",
     "home_name": "Adelaide United",
     "away_name": "Công An Hà Nội",
@@ -595,10 +597,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.881694+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.443025+07:00",
     "kickoff_iso": "2026-08-11T16:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 868,
+    "minutes_to_kickoff": 839,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -705,6 +707,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -733,19 +741,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Kevin",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Adelaide United VS Công An Hà Nội",
     "home_name": "Adelaide United",
     "away_name": "Công An Hà Nội",
@@ -753,10 +755,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-09-08-2026-095228",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.884622+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.446565+07:00",
     "kickoff_iso": "2026-08-11T16:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 868,
+    "minutes_to_kickoff": 839,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -863,6 +865,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -891,19 +899,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Gangwon VS Gamba Osaka",
     "home_name": "Gangwon",
     "away_name": "Gamba Osaka",
@@ -911,10 +913,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gamba-osaka-11-08-2026-788096",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.887290+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.449823+07:00",
     "kickoff_iso": "2026-08-11T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 928,
+    "minutes_to_kickoff": 899,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -928,10 +930,11 @@
     "raw_title": "22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin",
     "card_text": "22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg"
     ],
     "logo_candidates": [
@@ -1020,6 +1023,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -1048,30 +1057,24 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Kevin",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Kairat Almaty VS Levski Sofia",
     "home_name": "Kairat Almaty",
     "away_name": "Levski Sofia",
     "time": "22:00",
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kairat-almaty-vs-levski-sofia-11-08-2026-829345",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-11T02:01:45.889709+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-11T02:31:26.453134+07:00",
     "kickoff_iso": "2026-08-11T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1198,
+    "minutes_to_kickoff": 1169,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1178,6 +1181,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -1206,19 +1215,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "KaKa",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Pháp VS Italy",
     "home_name": "Pháp",
     "away_name": "Italy",
@@ -1226,10 +1229,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/phap-vs-italy",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.891920+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.456233+07:00",
     "kickoff_iso": "2026-08-11T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1228,
+    "minutes_to_kickoff": 1199,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1335,6 +1338,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -1363,19 +1372,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Bodo/Glimt VS Royale Union SG",
     "home_name": "Bodo/Glimt",
     "away_name": "Royale Union SG",
@@ -1383,10 +1386,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/bodo-glimt-vs-royale-union-sg-11-08-2026-785366",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-11T02:01:45.894243+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.459468+07:00",
     "kickoff_iso": "2026-08-11T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1258,
+    "minutes_to_kickoff": 1229,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1493,6 +1496,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_245.jpg",
+        "score": 4.74,
+        "context": "Kairat Almaty max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Kairat Almaty min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_2164.jpg",
         "score": 4.73,
         "context": "Levski Sofia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Levski Sofia min-w-0 text-center",
@@ -1521,19 +1530,13 @@
         "score": 4.58,
         "context": "Al Ittihad max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ittihad min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
-        "score": -0.04,
-        "context": "FB88 max-h-full max-w-full object-contain rounded-md group/partner flex h-6 max-w-[85px] items-center justify-end overflow-hidden transition hover:scale-105 sm:h-7 sm:max-w-[100px] flex shrink-0 items-center",
-        "source": "home-card"
       }
     ],
     "blv": "Ken",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 Trực tiếp Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
+    "page_card_text": "02:15 - 11-08 BÓNG ĐÁ Primeira Liga Santa Clara 0 : 0 15' Nacional Pháo Thủ 07:00 - 11-08 BÓNG CHUYỀN U17 World Championship Trung Quốc VS Sắp diễn ra Mexico KaKa 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Ken 16:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Adelaide United VS Sắp diễn ra Công An Hà Nội Kevin 17:30 - 11-08 BÓNG ĐÁ AFC Champions League Elite Gangwon VS Sắp diễn ra Gamba Osaka Pháo Thủ 22:00 - 11-08 BÓNG ĐÁ UEFA Champions League Kairat Almaty VS Sắp diễn ra Levski Sofia Kevin 22:30 - 11-08 BÓNG CHUYỀN Giao Hữu Pháp VS Sắp diễn ra Italy KaKa 23:00 - 11-08 BÓNG ĐÁ UEFA Champions League Bodo/Glimt VS Sắp diễn ra Royale Union SG Pháo Thủ 23:00 - 11-08 BÓNG ĐÁ AFC Champions League Elite Al Jazira VS Sắp diễn ra Al Ittihad Ken",
     "match_name": "Al Jazira VS Al Ittihad",
     "home_name": "Al Jazira",
     "away_name": "Al Ittihad",
@@ -1541,10 +1544,10 @@
     "date": "11/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-jazira-vs-al-ittihad-11-08-2026-788095",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-11T02:01:45.896607+07:00",
+    "scan_time_iso": "2026-08-11T02:31:26.462726+07:00",
     "kickoff_iso": "2026-08-11T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1258,
+    "minutes_to_kickoff": 1229,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
