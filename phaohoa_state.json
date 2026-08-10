@@ -1,36 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-10T17:31:05.573801+07:00",
+  "updated_at": "2026-08-10T18:01:07.309533+07:00",
   "matches": {
-    "759554": {
-      "url": "https://phaohoa1.live/truc-tiep/juventus-vs-inter-08-08-2026-759554",
-      "match_name": "Juventus vs Inter",
-      "kickoff_iso": "2026-08-08T18:00:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-08T20:02:09.107305+07:00",
-      "next_scan_at": "2026-08-08T20:07:09.107305+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "809602": {
-      "url": "https://phaohoa1.live/truc-tiep/darmstadt-vs-holstein-kiel-08-08-2026-809602",
-      "match_name": "Darmstadt vs Holstein Kiel",
-      "kickoff_iso": "2026-08-08T18:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-08T19:31:49.506615+07:00",
-      "next_scan_at": "2026-08-08T19:36:49.506615+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "763692": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-ac-milan-08-08-2026-763692",
       "match_name": "Chelsea vs AC Milan",
@@ -435,9 +407,21 @@
       "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-metalist-1925-10-08-2026-795406",
       "match_name": "10-08 Premier League Polissya Zhytomyr VS Metalist 1925 Tày",
       "kickoff_iso": "2026-08-10T19:30:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-08-10T17:31:05.573729+07:00",
-      "next_scan_at": "2026-08-10T17:51:05.573729+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-10T18:01:07.309453+07:00",
+      "next_scan_at": "2026-08-10T18:21:07.309453+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "795404": {
+      "url": "https://phaohoa1.live/truc-tiep/karpaty-lviv-vs-lnz-cherkasy-10-08-2026-795404",
+      "match_name": "10-08 Premier League Karpaty Lviv VS LNZ Cherkasy Tày",
+      "kickoff_iso": "2026-08-10T22:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-10T18:01:07.309453+07:00",
+      "next_scan_at": "2026-08-10T18:46:07.309453+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
