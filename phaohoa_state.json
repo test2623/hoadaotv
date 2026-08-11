@@ -1,20 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-11T19:01:36.963619+07:00",
+  "updated_at": "2026-08-11T19:31:46.439666+07:00",
   "matches": {
-    "805956": {
-      "url": "https://phaohoa1.live/truc-tiep/zwolle-vs-ajax-09-08-2026-805956",
-      "match_name": "Zwolle vs Ajax",
-      "kickoff_iso": "2026-08-09T19:30:00+07:00",
-      "minutes_to_kickoff": -122,
-      "last_scan_at": "2026-08-09T21:32:59.029300+07:00",
-      "next_scan_at": "2026-08-09T21:37:59.029300+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
     "770307": {
       "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-dortmund-09-08-2026-770307",
       "match_name": "Arsenal vs Dortmund",
@@ -283,9 +271,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gamba-osaka-11-08-2026-788096",
       "match_name": "Gangwon vs Gamba Osaka",
       "kickoff_iso": "2026-08-11T17:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-11T19:01:36.963390+07:00",
-      "next_scan_at": "2026-08-11T19:06:36.963390+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-11T19:31:46.439572+07:00",
+      "next_scan_at": "2026-08-11T19:36:46.439572+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -309,9 +297,9 @@
       "url": "https://phaohoa1.live/truc-tiep/phap-vs-italy",
       "match_name": "11-08 Giao Hữu Pháp VS Italy KaKa",
       "kickoff_iso": "2026-08-11T22:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-11T18:31:33.062527+07:00",
-      "next_scan_at": "2026-08-11T19:16:33.062527+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-11T19:31:46.439572+07:00",
+      "next_scan_at": "2026-08-11T20:16:46.439572+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
