@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-olympiacos-piraeus-12-08-2026-785368",
-    "raw_title": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin",
-    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "raw_title": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin",
+    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5466.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5466.jpg",
@@ -150,7 +150,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Nijmegen 72' 1-1 00:30 - 12/08/2026 Olympiacos Piraeus relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Nijmegen BREAK TIME 1-1 00:30 - 12/08/2026 Olympiacos Piraeus relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5466.jpg",
@@ -168,10 +168,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-olympiacos-piraeus-12-08-2026-785368",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.321549+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.133851+07:00",
     "kickoff_iso": "2026-08-12T00:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
+    "minutes_to_kickoff": -122,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -179,13 +179,13 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/785368.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
       },
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/785368.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "HEAD~1:phaohoa_live.m3u"
@@ -229,7 +229,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2828677037-1786465898-20260811T190122.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2828677037-1786466731-20260811T193133.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -303,7 +303,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/celje-116-vs-ararat-armenia-128-11-08-2026",
     "raw_title": "01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken",
-    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_116.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_116.jpg",
@@ -469,10 +469,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/celje-116-vs-ararat-armenia-128-11-08-2026",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.326844+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.139536+07:00",
     "kickoff_iso": "2026-08-12T01:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -47,
+    "minutes_to_kickoff": -77,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -480,10 +480,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/956f509fe7b9.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/956f509fe7b9.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
@@ -502,6 +508,7 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -523,7 +530,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3252287605-1786456703-20260811T190125.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3252287605-1786457565-20260811T193133.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -597,7 +604,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/sturm-graz-1236-vs-fenerbahce-7694-11-08-2026",
     "raw_title": "01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày",
-    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1236.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_1236.jpg",
@@ -763,10 +770,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sturm-graz-1236-vs-fenerbahce-7694-11-08-2026",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.332210+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.145298+07:00",
     "kickoff_iso": "2026-08-12T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -774,13 +781,13 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/8a4f013e3c9f.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
       },
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/8a4f013e3c9f.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "HEAD~1:phaohoa_live.m3u"
@@ -804,17 +811,16 @@
           "request/xhr",
           "previous-playlist",
           "response",
-          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "FHD",
+        "quality": "",
         "parent_url": "",
-        "candidate_score": 231,
+        "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa8",
         "family_key": "phaohoa8",
-        "quality_rank": 40,
+        "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -824,7 +830,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2316239286-1786468551-20260811T190125.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2316239286-1786469436-20260811T193133.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -898,7 +904,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
     "raw_title": "01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa",
-    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
@@ -1043,10 +1049,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-ukraine",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T02:02:05.336294+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.149725+07:00",
     "kickoff_iso": "2026-08-12T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1054,10 +1060,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/e28321e49fc2.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/e28321e49fc2.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 4,
@@ -1077,6 +1089,7 @@
         "sources": [
           "request/xhr",
           "response",
+          "previous-playlist",
           "dom/performance"
         ],
         "quality": "",
@@ -1096,7 +1109,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2316442642-1786473123-20260811T190154.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2316442642-1786473990-20260811T193204.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1169,8 +1182,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/lyon-vs-sparta-prague-12-08-2026-785367",
-    "raw_title": "02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ",
-    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "raw_title": "02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ",
+    "card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
@@ -1318,7 +1331,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_3_KMC3EVb.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Lyon 1' 0-0 02:00 - 12/08/2026 Sparta Prague relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain UEFA CHAMPIONS LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CHAMPIONS LEAGUE Lyon 32' 1-0 02:00 - 12/08/2026 Sparta Prague relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
@@ -1336,10 +1349,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/lyon-vs-sparta-prague-12-08-2026-785367",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.341146+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.154954+07:00",
     "kickoff_iso": "2026-08-12T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1347,16 +1360,22 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/785367.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
       },
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/785367.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "HEAD~1:phaohoa_live.m3u"
+      },
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 5,
@@ -1376,6 +1395,7 @@
         "sources": [
           "request/xhr",
           "response",
+          "previous-playlist",
           "dom/performance"
         ],
         "quality": "",
@@ -1395,7 +1415,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2316252288-1786465074-20260811T190140.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2316252288-1786465374-20260811T193148.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1489,7 +1509,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3252287605-1786456703-20260811T190125.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3252287605-1786457565-20260811T193133.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1640,7 +1660,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "match_name": "Nhật Bản VS Brazil",
     "home_name": "Nhật Bản",
     "away_name": "Brazil",
@@ -1648,10 +1668,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-brazil",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T02:02:05.344100+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.158212+07:00",
     "kickoff_iso": "2026-08-12T07:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 328,
+    "minutes_to_kickoff": 298,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1798,7 +1818,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "match_name": "East Bengal VS Al Arabi",
     "home_name": "East Bengal",
     "away_name": "Al Arabi",
@@ -1806,10 +1826,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/east-bengal-vs-al-arabi-12-08-2026-820996",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T02:02:05.347079+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.161481+07:00",
     "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1108,
+    "minutes_to_kickoff": 1078,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1955,7 +1975,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "match_name": "Arkadag VS Goa",
     "home_name": "Arkadag",
     "away_name": "Goa",
@@ -1963,10 +1983,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arkadag-vs-goa-12-08-2026-820997",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.349711+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.164342+07:00",
     "kickoff_iso": "2026-08-12T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1198,
+    "minutes_to_kickoff": 1168,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -2112,7 +2132,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 72' Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 0 : 0 1' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
+    "page_card_text": "00:30 - 12-08 BÓNG ĐÁ UEFA Champions League Nijmegen 1 : 1 Break Time Olympiacos Piraeus Kevin 01:15 - 12-08 BÓNG ĐÁ UEFA Champions League Celje 0 : 0 Trực tiếp Ararat-Armenia Ken 01:30 - 12-08 BÓNG ĐÁ UEFA Champions League Sturm Graz 0 : 0 Trực tiếp Fenerbahce Tày 01:30 - 12-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Ukraine KaKa 02:00 - 12-08 BÓNG ĐÁ UEFA Champions League Lyon 1 : 0 31' Sparta Prague Pháo Thủ 07:30 - 12-08 BÓNG CHUYỀN U17 World Championship Nhật Bản VS Sắp diễn ra Brazil KaKa 20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal VS Sắp diễn ra Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag VS Sắp diễn ra Goa Tày 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy VS Sắp diễn ra Ukraine KaKa",
     "match_name": "Italy VS Ukraine",
     "home_name": "Italy",
     "away_name": "Ukraine",
@@ -2120,10 +2140,10 @@
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/italy-vs-ukraine",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T02:02:05.352355+07:00",
+    "scan_time_iso": "2026-08-12T02:32:14.167192+07:00",
     "kickoff_iso": "2026-08-12T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1228,
+    "minutes_to_kickoff": 1198,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
