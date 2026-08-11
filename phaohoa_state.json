@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-11T18:01:39.379096+07:00",
+  "updated_at": "2026-08-11T18:11:27.920722+07:00",
   "matches": {
     "764902": {
       "url": "https://phaohoa1.live/truc-tiep/johor-dt-vs-chelsea-09-08-2026-764902",
@@ -269,9 +269,9 @@
       "url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
       "match_name": "Adelaide United vs Công An Hà Nội",
       "kickoff_iso": "2026-08-11T16:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-11T18:01:39.378963+07:00",
-      "next_scan_at": "2026-08-11T18:06:39.378963+07:00",
+      "minutes_to_kickoff": -101,
+      "last_scan_at": "2026-08-11T18:11:27.920606+07:00",
+      "next_scan_at": "2026-08-11T18:16:27.920606+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -283,9 +283,9 @@
       "url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-09-08-2026-095228",
       "match_name": "Adelaide United vs Công An Hà Nội",
       "kickoff_iso": "2026-08-11T16:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-11T18:01:39.378963+07:00",
-      "next_scan_at": "2026-08-11T18:06:39.378963+07:00",
+      "minutes_to_kickoff": -101,
+      "last_scan_at": "2026-08-11T18:11:27.920606+07:00",
+      "next_scan_at": "2026-08-11T18:16:27.920606+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -297,9 +297,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gamba-osaka-11-08-2026-788096",
       "match_name": "Gangwon vs Gamba Osaka",
       "kickoff_iso": "2026-08-11T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-11T18:01:39.378963+07:00",
-      "next_scan_at": "2026-08-11T18:06:39.378963+07:00",
+      "minutes_to_kickoff": -41,
+      "last_scan_at": "2026-08-11T18:11:27.920606+07:00",
+      "next_scan_at": "2026-08-11T18:16:27.920606+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
