@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/leeds-vs-manchester-united-13-08-2026-758918",
     "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -79,21 +79,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -103,33 +115,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
@@ -168,10 +168,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/leeds-vs-manchester-united-13-08-2026-758918",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.869202+07:00",
+    "scan_time_iso": "2026-08-13T01:39:13.573729+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -9,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -179,10 +179,16 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
@@ -201,17 +207,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa4",
         "family_key": "phaohoa4",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -221,7 +229,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2318335680-1786558336-20260812T183110.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2318335680-1786558407-20260812T183816.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -250,8 +258,7 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: WebSocket connection to 'wss://phaohoa1.live/ws/live/football/' failed: Error during WebSocket handshake: Unexpected response code: 522"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -295,8 +302,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-como-13-08-2026-770674",
-    "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -373,21 +380,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -397,33 +416,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
@@ -432,7 +439,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Arsenal ĐANG DIỄN RA 0-0 01:30 - 13/08/2026 Como relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Arsenal 6' 0-0 01:30 - 13/08/2026 Como relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -462,10 +469,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-como-13-08-2026-770674",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.872873+07:00",
+    "scan_time_iso": "2026-08-13T01:39:13.578402+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -9,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -482,7 +489,7 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/770674.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
@@ -523,7 +530,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3164779951-1786558007-20260812T183137.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3164779951-1786558197-20260812T183834.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -597,7 +604,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-phap",
     "raw_title": "01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
@@ -674,21 +681,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -698,33 +717,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
@@ -742,10 +749,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-phap",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.876067+07:00",
+    "scan_time_iso": "2026-08-13T01:39:13.582346+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -9,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -762,7 +769,7 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/a8c3f0070d52.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
@@ -803,7 +810,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2318296833-1786557926-20260812T183137.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2318296833-1786558131-20260812T183835.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -875,290 +882,9 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
-    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_303.jpg",
-        "score": -3.3700000000000045,
-        "context": "Club Leon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Club Leon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": 65,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
-        "score": 64.99,
-        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
-        "score": 64.98,
-        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
-        "score": 64.94,
-        "context": "Arsenal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Arsenal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.93,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.92,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.9,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
-        "score": 64.88,
-        "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.87,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
-        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
-        "score": 4.89,
-        "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
-        "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "PSG VS Aston Villa",
-    "home_name": "PSG",
-    "away_name": "Aston Villa",
-    "time": "02:00",
-    "date": "13/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.879263+07:00",
-    "kickoff_iso": "2026-08-13T02:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
-      }
-    ],
-    "_scan_index": 4,
-    "_scan_total": 6,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "previous-playlist",
-          "dom/performance"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 223,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa7",
-        "family_key": "phaohoa7",
-        "quality_rank": 0,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3255720113-1786554186-20260812T183200.ts?volcDst=MTAuMTMuOC4xNDc",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: WebSocket connection to 'wss://phaohoa1.live/ws/chat/global/' failed: Error during WebSocket handshake: Unexpected response code: 522",
-      "console/error: [useLiveChat] WebSocket error: Event"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "794451",
-        "family_key": "794451",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-real-madrid-13-08-2026-775706",
-    "raw_title": "02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày",
-    "card_text": "02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày",
+    "raw_title": "02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -1235,21 +961,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1259,44 +997,26 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 87,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 02:00 - 13-08 BÓNG ĐÁ Club Friendlies grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
@@ -1315,27 +1035,25 @@
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Real Madrid min-w-0 text-center",
         "source": "detail-match"
       },
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
       "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg"
     ],
-    "blv": "Tày",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
-    "match_name": "Dep. La Coruna VS Real Madrid",
+    "match_name": "Dep La Coruna vs Real Madrid",
     "home_name": "Dep. La Coruna",
     "away_name": "Real Madrid",
     "time": "02:00",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-real-madrid-13-08-2026-775706",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T01:32:11.882321+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-13T01:39:13.587305+07:00",
     "kickoff_iso": "2026-08-13T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
+    "minutes_to_kickoff": 21,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1343,13 +1061,19 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/775706.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/775706.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 5,
+    "_scan_index": 4,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -1365,17 +1089,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa8",
         "family_key": "phaohoa8",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1385,7 +1111,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2318367789-1786559499-20260812T183202.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2318367789-1786559708-20260812T183900.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1457,15 +1183,15 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
-    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin",
-    "card_text": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin",
+    "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
+    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media/tournaments/icons/tournament_372.png",
-    "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_372.png",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media/tournaments/icons/tournament_372.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg"
     ],
     "logo_candidates": [
@@ -1536,21 +1262,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1560,83 +1298,42 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
+        "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 75,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_372.png",
-        "score": 75,
-        "context": "size-5 object-contain UEFA SUPER CUP flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA SUPER CUP PSG SẮP DIỄN RA VS 02:00 - 13/08/2026 Aston Villa TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 09 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 50,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Aston Villa min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 50,
-        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 KEVIN flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_372.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-      "https://phaohoa1.live/media/commentators/avatars/signal-2026-07-17-063900.jpeg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
     ],
-    "blv": "Kevin",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
-    "match_name": "PSG VS Aston Villa",
+    "match_name": "Psg vs Aston Villa",
     "home_name": "PSG",
     "away_name": "Aston Villa",
     "time": "02:00",
     "date": "13/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T01:32:11.885221+07:00",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-13T01:39:13.591524+07:00",
     "kickoff_iso": "2026-08-13T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
+    "minutes_to_kickoff": 21,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1644,17 +1341,67 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 6,
+    "_scan_index": 5,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "previous-playlist",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3255720113-1786554381-20260812T183901.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1678,7 +1425,7 @@
     "scan_decision": "browser-fallback",
     "rejected_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
         "referer": "https://phaohoa1.live/",
         "origin": "https://phaohoa1.live",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -1693,13 +1440,13 @@
         "candidate_score": 90,
         "observed_active": false,
         "high_confidence_observed": false,
-        "channel_key": "141514",
-        "family_key": "141514",
+        "channel_key": "794451",
+        "family_key": "794451",
         "quality_rank": 0,
         "probe": {
           "status": 0,
           "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/794451.m3u8",
           "error": "URLError: <urlopen error [Errno 111] Connection refused>",
           "playable": false,
           "state": "invalid",
@@ -1712,19 +1459,20 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
-    "raw_title": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày",
-    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày",
+    "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
+    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-    "away_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg"
     ],
     "logo_candidates": [
       {
@@ -1794,21 +1542,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1818,33 +1578,294 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
+        "score": 4.77,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
+    ],
+    "blv": "",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Psg vs Aston Villa",
+    "home_name": "PSG",
+    "away_name": "Aston Villa",
+    "time": "02:00",
+    "date": "13/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-13T01:39:13.595590+07:00",
+    "kickoff_iso": "2026-08-13T02:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 21,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 6,
+    "_scan_total": 6,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa2",
+        "family_key": "phaohoa2",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2831244966-1786559696-20260812T183901.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "141514",
+        "family_key": "141514",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
+    "raw_title": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày",
+    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_303.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_303.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_303.jpg",
+        "score": -3.3700000000000045,
+        "context": "Club Leon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Club Leon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": 65,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.99,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 64.98,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
+        "score": 64.94,
+        "context": "Arsenal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Arsenal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
+        "score": 64.93,
+        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Como min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.92,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.9,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
+        "score": 64.88,
+        "context": "Pháp max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Pháp min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 64.87,
+        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
+        "score": 64.84,
+        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 64.83,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
+        "score": 64.72,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
+        "score": 4.89,
+        "context": "Ba Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ba Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+        "score": 4.79,
+        "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.77,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1852,23 +1873,23 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Thổ Nhĩ Kì VS Nhật Bản",
     "home_name": "Thổ Nhĩ Kì",
     "away_name": "Nhật Bản",
     "time": "04:00",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.887405+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-13T01:39:13.598506+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 148,
+    "minutes_to_kickoff": 141,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-16m",
+    "delta_reason": "delta-wait-9m",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
@@ -1952,21 +1973,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1976,33 +2009,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -2010,7 +2031,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Inter Miami VS Club Leon",
     "home_name": "Inter Miami",
     "away_name": "Club Leon",
@@ -2018,10 +2039,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.889509+07:00",
+    "scan_time_iso": "2026-08-13T01:39:13.601226+07:00",
     "kickoff_iso": "2026-08-13T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 298,
+    "minutes_to_kickoff": 291,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -2109,21 +2130,33 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
-        "score": 64.83,
-        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-        "score": 39.78,
+        "score": 64.83,
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
+        "score": 64.78,
+        "context": "Aston Villa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Aston Villa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.72,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
+        "score": 39.68,
+        "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -2133,33 +2166,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.82,
+        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
-        "score": 4.84,
+        "score": 4.79,
         "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] PSG min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
         "score": 4.77,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
-        "score": 4.69,
-        "context": "Thổ Nhĩ Kì max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thổ Nhĩ Kì min-w-0 text-center",
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -2167,7 +2188,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 Trực tiếp Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna VS Sắp diễn ra Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG VS Sắp diễn ra Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 5' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 Trực tiếp Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Ba Lan VS Thái Lan",
     "home_name": "Ba Lan",
     "away_name": "Thái Lan",
@@ -2175,10 +2196,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T01:32:11.891604+07:00",
+    "scan_time_iso": "2026-08-13T01:39:13.603896+07:00",
     "kickoff_iso": "2026-08-13T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 328,
+    "minutes_to_kickoff": 321,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
