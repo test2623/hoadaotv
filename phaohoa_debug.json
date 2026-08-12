@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/east-bengal-vs-al-arabi-12-08-2026-820996",
-    "raw_title": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ",
-    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "raw_title": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
@@ -67,6 +67,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -79,9 +121,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -89,75 +131,9 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5174.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
-        "score": 75,
-        "context": "East Bengal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] East Bengal min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5174.jpg",
-        "score": 50,
-        "context": "Al Arabi max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Arabi min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_11.png",
-        "score": 40,
-        "context": "size-5 object-contain AFC CHAMPIONS LEAGUE TWO flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs AFC CHAMPIONS LEAGUE TWO East Bengal 90+ 1-1 20:30 - 12/08/2026 Al Arabi relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5174.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_11.png"
+      }
     ],
-    "blv": "max story Hưng1998💤 Lv19 4 phút trước Ú",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -167,103 +143,23 @@
     "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/east-bengal-vs-al-arabi-12-08-2026-820996",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T22:31:31.475451+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-12T23:01:03.905046+07:00",
     "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -122,
+    "minutes_to_kickoff": -151,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2317923709-1786541713-20260812T153033.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/arkadag-vs-goa-12-08-2026-820997",
-    "raw_title": "22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin",
-    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "raw_title": "22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31430.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31430.jpg",
@@ -328,6 +224,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -340,9 +278,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -350,52 +288,7 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31430.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_404.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31430.jpg"
+      }
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -404,146 +297,26 @@
     "match_name": "Arkadag vs Goa",
     "home_name": "Arkadag",
     "away_name": "Goa",
-    "time": "22:00",
+    "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arkadag-vs-goa-12-08-2026-820997",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T22:31:31.479773+07:00",
-    "kickoff_iso": "2026-08-12T22:00:00+07:00",
+    "scan_time_iso": "2026-08-12T23:01:03.909308+07:00",
+    "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -151,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/820997.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
-      }
-    ],
-    "_scan_index": 2,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa2",
-        "family_key": "phaohoa2",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2830865782-1786546619-20260812T153056.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/820997.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "820997",
-        "family_key": "820997",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/820997.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/italy-vs-ukraine",
     "raw_title": "22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa",
-    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
@@ -608,6 +381,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -620,9 +435,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -630,66 +445,7 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_7oS7OkG.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
-        "score": 70,
-        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Italy min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_7oS7OkG.jpg",
-        "score": 45,
-        "context": "Ukraine max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Ukraine min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_7oS7OkG.jpg"
+      }
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -698,138 +454,26 @@
     "match_name": "Italy vs Ukraine",
     "home_name": "Italy",
     "away_name": "Ukraine",
-    "time": "22:30",
+    "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/italy-vs-ukraine",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T22:31:31.484337+07:00",
-    "kickoff_iso": "2026-08-12T22:30:00+07:00",
+    "scan_time_iso": "2026-08-12T23:01:03.913464+07:00",
+    "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -151,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/3f924fd1fd35.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 3,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "dom/performance"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 223,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa6",
-        "family_key": "phaohoa6",
-        "quality_rank": 0,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2318074286-1786547876-20260812T153056.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/3f924fd1fd35.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "3f924fd1fd35",
-        "family_key": "3f924fd1fd35",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/3f924fd1fd35.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
+    "sport_group": "Bóng chuyền",
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-debrecen-12-08-2026-829887",
-    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken",
-    "card_text": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken",
+    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
@@ -894,6 +538,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -906,9 +592,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -916,179 +602,35 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 75,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] FC Copenhagen min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 50,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Debrecen min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 40,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE FC Copenhagen SẮP DIỄN RA VS 23:00 - 12/08/2026 Debrecen TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 50 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:p",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
+      }
     ],
-    "blv": "max story Hưng1998💤 Lv19 4 phút trước Ú",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
-    "match_name": "FC Copenhagen VS Debrecen",
+    "match_name": "FC Copenhagen vs Debrecen",
     "home_name": "FC Copenhagen",
     "away_name": "Debrecen",
-    "time": "23:00",
+    "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-debrecen-12-08-2026-829887",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T22:31:31.488511+07:00",
-    "kickoff_iso": "2026-08-12T23:00:00+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-12T23:01:03.917736+07:00",
+    "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -151,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829887.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 4,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829887.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "829887",
-        "family_key": "829887",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/829887.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/sk-rapid-vs-paide-12-08-2026-829891",
-    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ",
-    "card_text": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ",
+    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
@@ -1153,6 +695,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -1165,9 +749,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1175,186 +759,35 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 75,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] SK Rapid min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 50,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Paide min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 50,
-        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 CHIM NHỎ flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 40,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE SK Rapid SẮP DIỄN RA VS 23:00 - 12/08/2026 Paide TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 50 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:p",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-      "https://phaohoa1.live/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
+      }
     ],
-    "blv": "max story Hưng1998💤 Lv19 4 phút trước Ú",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
-    "match_name": "SK Rapid VS Paide",
+    "match_name": "SK Rapid vs Paide",
     "home_name": "SK Rapid",
     "away_name": "Paide",
-    "time": "23:00",
+    "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sk-rapid-vs-paide-12-08-2026-829891",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T22:31:31.492808+07:00",
-    "kickoff_iso": "2026-08-12T23:00:00+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-12T23:01:03.921989+07:00",
+    "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -151,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829891.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 5,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829891.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "829891",
-        "family_key": "829891",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/829891.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/gks-katowice-vs-hapoel-tel-aviv-12-08-2026-829963",
-    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày",
-    "card_text": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày",
+    "raw_title": "23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày",
+    "card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
@@ -1419,6 +852,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -1431,9 +906,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1441,172 +916,28 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 75,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] GKS Katowice min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 50,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 40,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE GKS Katowice SẮP DIỄN RA VS 23:00 - 12/08/2026 Hapoel Tel Aviv TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 50 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
+      }
     ],
-    "blv": "max story Hưng1998💤 Lv19 4 phút trước Ú",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
-    "match_name": "GKS Katowice VS Hapoel Tel Aviv",
+    "match_name": "Gks Katowice vs Hapoel Tel Aviv",
     "home_name": "GKS Katowice",
     "away_name": "Hapoel Tel Aviv",
-    "time": "23:00",
+    "time": "20:30",
     "date": "12/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gks-katowice-vs-hapoel-tel-aviv-12-08-2026-829963",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-12T22:31:31.497133+07:00",
-    "kickoff_iso": "2026-08-12T23:00:00+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-12T23:01:03.926470+07:00",
+    "kickoff_iso": "2026-08-12T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -151,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829963.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 6,
-    "_scan_total": 9,
-    "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/829963.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "829963",
-        "family_key": "829963",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/829963.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
+    "scan_window_reason": "too-old",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1615,11 +946,12 @@
     "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ",
     "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_31289.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg"
     ],
     "logo_candidates": [
       {
@@ -1677,6 +1009,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -1689,9 +1063,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1699,87 +1073,30 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "match_name": "Leeds VS Manchester United",
     "home_name": "Leeds",
     "away_name": "Manchester United",
     "time": "01:30",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/leeds-vs-manchester-united-13-08-2026-758918",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T22:31:31.500050+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-12T23:01:03.929636+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 149,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 7,
-    "_scan_total": 9,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-15m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1850,6 +1167,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -1862,9 +1221,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1872,55 +1231,13 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "match_name": "Arsenal VS Como",
     "home_name": "Arsenal",
     "away_name": "Como",
@@ -1928,31 +1245,16 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-como-13-08-2026-770674",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T22:31:31.502844+07:00",
+    "scan_time_iso": "2026-08-12T23:01:03.932546+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 149,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/770674.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 8,
-    "_scan_total": 9,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-15m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -2023,6 +1325,48 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
+        "score": 64.83,
+        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
+        "score": 64.79,
+        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
+        "score": 64.78,
+        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.77,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
+        "score": 64.74,
+        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.73,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
+        "score": 64.69,
+        "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Leeds min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
         "score": 59.89,
         "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Italy min-w-0 text-center",
@@ -2035,9 +1379,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4561.jpg",
-        "score": 39.83,
-        "context": "Debrecen max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Debrecen min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg",
+        "score": 39.68,
+        "context": "Manchester United max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Manchester United min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -2045,55 +1389,13 @@
         "score": 4.93,
         "context": "Goa max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Goa min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_118.jpg",
-        "score": 4.79,
-        "context": "SK Rapid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] SK Rapid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3466.jpg",
-        "score": 4.78,
-        "context": "Paide max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Paide min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 4.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5820.jpg",
-        "score": 4.74,
-        "context": "GKS Katowice max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] GKS Katowice min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 4.73,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.72,
-        "context": "Tày size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Tày flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
       }
     ],
     "blv": "KaKa",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 1 : 1 90+ Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 29' Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen VS Sắp diễn ra Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid VS Sắp diễn ra Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice VS Sắp diễn ra Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
+    "page_card_text": "20:30 - 12-08 BÓNG ĐÁ AFC Champions League Two East Bengal 2 : 1 112' Al Arabi Pháo Thủ 22:00 - 12-08 BÓNG ĐÁ AFC Champions League Two Arkadag 0 : 0 Giải lao Goa Kevin 22:30 - 12-08 BÓNG CHUYỀN Giao Hữu Italy 0 : 0 Trực tiếp Ukraine KaKa 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League FC Copenhagen 0 : 0 Trực tiếp Debrecen Ken 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League SK Rapid 0 : 0 1' Paide Chim Nhỏ 23:00 - 12-08 BÓNG ĐÁ UEFA Conference League GKS Katowice 0 : 0 Trực tiếp Hapoel Tel Aviv Tày 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds VS Sắp diễn ra Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal VS Sắp diễn ra Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Pháp KaKa",
     "match_name": "Ba Lan VS Pháp",
     "home_name": "Ba Lan",
     "away_name": "Pháp",
@@ -2101,31 +1403,16 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-phap",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-12T22:31:31.505653+07:00",
+    "scan_time_iso": "2026-08-12T23:01:03.935451+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 178,
+    "minutes_to_kickoff": 149,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/a8c3f0070d52.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 9,
-    "_scan_total": 9,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-15m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   }
