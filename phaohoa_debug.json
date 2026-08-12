@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/leeds-vs-manchester-united-13-08-2026-758918",
     "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -157,7 +157,7 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_102.jpg"
     ],
-    "blv": "",
+    "blv": "Kevin 5 phút trước Fanpage Facebook Phi",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -167,11 +167,11 @@
     "time": "01:30",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/leeds-vs-manchester-united-13-08-2026-758918",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T02:02:13.464426+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-13T02:37:06.540598+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -67,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -183,16 +183,10 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -229,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2318335680-1786558631-20260812T190110.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2318335680-1786559059-20260812T193609.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -261,49 +255,15 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "758918",
-        "family_key": "758918",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/758918.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-como-13-08-2026-770674",
-    "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "raw_title": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -439,7 +399,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Arsenal 29' 0-0 01:30 - 13/08/2026 Como relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Arsenal 47' 1-1 01:30 - 13/08/2026 Como relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -469,10 +429,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-como-13-08-2026-770674",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T02:02:13.469388+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.545595+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -67,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -487,7 +447,7 @@
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -501,8 +461,8 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "request/xhr",
           "previous-playlist",
+          "request/xhr",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -524,7 +484,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3164779951-1786558844-20260812T190128.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3164779951-1786559819-20260812T193622.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -564,7 +524,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-phap",
     "raw_title": "01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4kCzOp7.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
@@ -709,10 +669,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-phap",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T02:02:13.473806+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.549913+07:00",
     "kickoff_iso": "2026-08-13T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -67,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -727,7 +687,7 @@
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -764,7 +724,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2318296833-1786558796-20260812T190133.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2318296833-1786559801-20260812T193622.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -803,8 +763,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-real-madrid-13-08-2026-775706",
-    "raw_title": "02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "raw_title": "02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
     "home_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
@@ -940,7 +900,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
         "score": 87,
-        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Dep. La Coruna 1' 0-0 02:00 - 13/08/2026 Real Madrid relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain CLUB FRIENDLIES flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs CLUB FRIENDLIES Dep. La Coruna 37' 0-0 02:00 - 13/08/2026 Real Madrid relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -955,25 +915,11 @@
         "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Real Madrid min-w-0 text-center",
         "source": "detail-match"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/bbf979959eee26b960a4fd08df6cbc3a.png",
-        "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Hiếu đẹp trai nhất pháo hoa các blv ko có tuổi Lv10 2 phút trước Xl anh phi em sang Real xem đây chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 dế nước Lv1 2 phút trước đang coi tận 2 trang đây vừa real vừa phi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
       "https://phaohoa1.live/media/tournaments/icons/tournament_355_Gr2A2JO.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/bbf979959eee26b960a4fd08df6cbc3a.png",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg"
     ],
-    "blv": "chiếu cố Ô Lì Sít Lv12 3 phút trước Trận",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -983,11 +929,11 @@
     "time": "02:00",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-real-madrid-13-08-2026-775706",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T02:02:13.479488+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-13T02:37:06.555371+07:00",
     "kickoff_iso": "2026-08-13T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -37,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -999,16 +945,10 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/775706.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 4,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1044,7 +984,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2318367789-1786560392-20260812T190200.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2318367789-1786561423-20260812T193656.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1076,49 +1016,15 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/775706.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "775706",
-        "family_key": "775706",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/775706.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
-    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
@@ -1252,7 +1158,7 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
     ],
-    "blv": "chiếu cố Ô Lì Sít Lv12 3 phút trước Trận",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -1262,11 +1168,11 @@
     "time": "02:00",
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-13-08-2026-794451",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T02:02:13.483893+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-13T02:37:06.559847+07:00",
     "kickoff_iso": "2026-08-13T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -37,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1281,7 +1187,7 @@
       }
     ],
     "_scan_index": 5,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1317,7 +1223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3255720113-1786555038-20260812T190201.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3255720113-1786556040-20260812T193655.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1357,7 +1263,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
     "raw_title": "02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin",
-    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
@@ -1491,7 +1397,7 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
     ],
-    "blv": "chiếu cố Ô Lì Sít Lv12 3 phút trước Trận",
+    "blv": "Kevin 6 phút trước Fanpage Facebook Phi",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
@@ -1502,10 +1408,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-aston-villa-11-08-2026-141514",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T02:02:13.488289+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.564498+07:00",
     "kickoff_iso": "2026-08-13T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -37,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1522,11 +1428,11 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/141514.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 6,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1562,7 +1468,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2831244966-1786560295-20260812T190159.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2831244966-1786561243-20260812T193656.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1771,7 +1677,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Thổ Nhĩ Kì VS Nhật Bản",
     "home_name": "Thổ Nhĩ Kì",
     "away_name": "Nhật Bản",
@@ -1779,10 +1685,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T02:02:13.491527+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.567765+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 118,
+    "minutes_to_kickoff": 83,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
@@ -1797,7 +1703,7 @@
       }
     ],
     "_scan_index": 7,
-    "_scan_total": 7,
+    "_scan_total": 8,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -1944,7 +1850,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Inter Miami VS Club Leon",
     "home_name": "Inter Miami",
     "away_name": "Club Leon",
@@ -1952,15 +1858,31 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T02:02:13.494486+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.570768+07:00",
     "kickoff_iso": "2026-08-13T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 268,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 233,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/749513.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 8,
+    "_scan_total": 8,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -2101,7 +2023,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 0 : 0 29' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 1' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
+    "page_card_text": "01:30 - 13-08 BÓNG ĐÁ Club Friendlies Leeds 0 : 0 Trực tiếp Manchester United Pháo Thủ 01:30 - 13-08 BÓNG ĐÁ Club Friendlies Arsenal 1 : 1 47' Como Chim Nhỏ 01:30 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan 0 : 0 Trực tiếp Pháp KaKa 02:00 - 13-08 BÓNG ĐÁ Club Friendlies Dep. La Coruna 0 : 0 36' Real Madrid Tày 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 1 : 0 35' Aston Villa Ken 02:00 - 13-08 BÓNG ĐÁ UEFA Super Cup PSG 0 : 0 Trực tiếp Aston Villa Kevin 04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami VS Sắp diễn ra Club Leon Chim Nhỏ 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan VS Sắp diễn ra Thái Lan KaKa",
     "match_name": "Ba Lan VS Thái Lan",
     "home_name": "Ba Lan",
     "away_name": "Thái Lan",
@@ -2109,10 +2031,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T02:02:13.497421+07:00",
+    "scan_time_iso": "2026-08-13T02:37:06.573850+07:00",
     "kickoff_iso": "2026-08-13T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 298,
+    "minutes_to_kickoff": 263,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
