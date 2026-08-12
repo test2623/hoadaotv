@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-12T18:01:00.443449+07:00",
+  "updated_at": "2026-08-12T18:30:56.857191+07:00",
   "matches": {
     "795406": {
       "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-metalist-1925-10-08-2026-795406",
@@ -297,9 +297,9 @@
       "url": "https://phaohoa1.live/truc-tiep/east-bengal-vs-al-arabi-12-08-2026-820996",
       "match_name": "12-08 AFC Champions League Two East Bengal VS Al Arabi Pháo Thủ",
       "kickoff_iso": "2026-08-12T20:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-08-12T17:31:11.310489+07:00",
-      "next_scan_at": "2026-08-12T18:16:11.310489+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-08-12T18:30:56.857086+07:00",
+      "next_scan_at": "2026-08-12T18:50:56.857086+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -312,6 +312,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-08-12T18:01:00.443380+07:00",
       "next_scan_at": "2026-08-12T18:46:00.443380+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "3f924fd1fd35": {
+      "url": "https://phaohoa1.live/truc-tiep/italy-vs-ukraine",
+      "match_name": "12-08 Giao Hữu Italy VS Ukraine KaKa",
+      "kickoff_iso": "2026-08-12T22:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-12T18:30:56.857086+07:00",
+      "next_scan_at": "2026-08-12T19:15:56.857086+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
