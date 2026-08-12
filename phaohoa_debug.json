@@ -147,10 +147,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.683667+07:00",
+    "scan_time_iso": "2026-08-13T06:25:34.992730+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -122,
+    "minutes_to_kickoff": -146,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -167,7 +167,7 @@
         "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
@@ -194,7 +194,9 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "console/error: WebSocket connection to 'wss://phaohoa1.live/ws/chat/global/' failed: Error during WebSocket handshake: Unexpected response code: 522",
+      "console/error: [useLiveChat] WebSocket error: Event"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -437,10 +439,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.688644+07:00",
+    "scan_time_iso": "2026-08-13T06:25:34.995396+07:00",
     "kickoff_iso": "2026-08-13T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
+    "minutes_to_kickoff": 4,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -457,8 +459,51 @@
     "_scan_index": 2,
     "_scan_total": 3,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3256570706-1786576759-20260812T232517.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -474,49 +519,10 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+      "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 404,
-        "statuses": [
-          404
-        ],
-        "content_type": "",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 106,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa7",
-        "family_key": "phaohoa7",
-        "quality_rank": 40,
-        "probe": {
-          "status": 404,
-          "content_type": "",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "HTTP 404",
-          "playable": false,
-          "state": "dead",
-          "kind": "m3u8",
-          "detail": "HTTP 404",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "HTTP 404"
-      },
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/749513.m3u8",
         "referer": "https://phaohoa1.live/",
@@ -552,7 +558,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -703,10 +709,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.693089+07:00",
+    "scan_time_iso": "2026-08-13T06:25:34.997779+07:00",
     "kickoff_iso": "2026-08-13T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 58,
+    "minutes_to_kickoff": 34,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -744,7 +750,8 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "console/error: Failed to load resource: the server responded with a status of 522 ()"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -970,10 +977,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T06:01:37.696287+07:00",
+    "scan_time_iso": "2026-08-13T06:25:34.999454+07:00",
     "kickoff_iso": "2026-08-13T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 898,
+    "minutes_to_kickoff": 874,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1127,10 +1134,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-italy",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.699200+07:00",
+    "scan_time_iso": "2026-08-13T06:25:35.000989+07:00",
     "kickoff_iso": "2026-08-13T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 958,
+    "minutes_to_kickoff": 934,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1285,10 +1292,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tobol-vs-partizan-13-08-2026-829977",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T06:01:37.702269+07:00",
+    "scan_time_iso": "2026-08-13T06:25:35.002636+07:00",
     "kickoff_iso": "2026-08-13T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 988,
+    "minutes_to_kickoff": 964,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1443,10 +1450,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/qarabag-vs-dyn-kyiv-13-08-2026-829972",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T06:01:37.705361+07:00",
+    "scan_time_iso": "2026-08-13T06:25:35.004273+07:00",
     "kickoff_iso": "2026-08-13T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1018,
+    "minutes_to_kickoff": 994,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1600,10 +1607,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/abha-vs-al-hazem-13-08-2026-825098",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.708298+07:00",
+    "scan_time_iso": "2026-08-13T06:25:35.005817+07:00",
     "kickoff_iso": "2026-08-13T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1033,
+    "minutes_to_kickoff": 1009,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1757,10 +1764,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/pafos-vs-salzburg-14-08-2026-829863",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T06:01:37.711140+07:00",
+    "scan_time_iso": "2026-08-13T06:25:35.007356+07:00",
     "kickoff_iso": "2026-08-14T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1078,
+    "minutes_to_kickoff": 1054,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
