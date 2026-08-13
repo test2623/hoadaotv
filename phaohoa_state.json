@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-13T23:02:16.306192+07:00",
+  "updated_at": "2026-08-13T23:12:57.529550+07:00",
   "matches": {
     "785368": {
       "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-olympiacos-piraeus-12-08-2026-785368",
@@ -311,9 +311,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tobol-vs-partizan-13-08-2026-829977",
       "match_name": "Tobol vs Partizan",
       "kickoff_iso": "2026-08-13T22:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-13T23:02:16.305990+07:00",
-      "next_scan_at": "2026-08-13T23:07:16.305990+07:00",
+      "minutes_to_kickoff": -42,
+      "last_scan_at": "2026-08-13T23:12:57.529398+07:00",
+      "next_scan_at": "2026-08-13T23:17:57.529398+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -325,9 +325,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-italy",
       "match_name": "Ba Lan vs Italy",
       "kickoff_iso": "2026-08-13T23:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-13T23:02:16.305990+07:00",
-      "next_scan_at": "2026-08-13T23:07:16.305990+07:00",
+      "minutes_to_kickoff": -12,
+      "last_scan_at": "2026-08-13T23:12:57.529398+07:00",
+      "next_scan_at": "2026-08-13T23:17:57.529398+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -339,9 +339,9 @@
       "url": "https://phaohoa1.live/truc-tiep/qarabag-vs-dyn-kyiv-13-08-2026-829972",
       "match_name": "Qarabag vs Dyn. Kyiv",
       "kickoff_iso": "2026-08-13T23:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-13T23:02:16.305990+07:00",
-      "next_scan_at": "2026-08-13T23:07:16.305990+07:00",
+      "minutes_to_kickoff": -12,
+      "last_scan_at": "2026-08-13T23:12:57.529398+07:00",
+      "next_scan_at": "2026-08-13T23:17:57.529398+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -351,14 +351,16 @@
     },
     "825098": {
       "url": "https://phaohoa1.live/truc-tiep/abha-vs-al-hazem-13-08-2026-825098",
-      "match_name": "13-08 Saudi Pro League Abha VS Al Hazem Chim Nhỏ",
+      "match_name": "Abha vs Al Hazem",
       "kickoff_iso": "2026-08-13T23:15:00+07:00",
-      "minutes_to_kickoff": 13,
-      "last_scan_at": "2026-08-13T23:02:16.305990+07:00",
-      "next_scan_at": "2026-08-13T23:07:16.305990+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 2,
+      "last_scan_at": "2026-08-13T23:12:57.529398+07:00",
+      "next_scan_at": "2026-08-13T23:17:57.529398+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "829863": {
