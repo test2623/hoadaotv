@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-13T08:01:09.120378+07:00",
+  "updated_at": "2026-08-13T08:31:40.109919+07:00",
   "matches": {
     "788094": {
       "url": "https://phaohoa1.live/truc-tiep/adelaide-united-vs-cong-an-ha-noi-11-08-2026-788094",
@@ -381,9 +381,9 @@
       "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
       "match_name": "Inter Miami vs Club Leon",
       "kickoff_iso": "2026-08-13T06:30:00+07:00",
-      "minutes_to_kickoff": 5,
-      "last_scan_at": "2026-08-13T06:25:34.969897+07:00",
-      "next_scan_at": "2026-08-13T06:30:34.969897+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-13T08:31:40.109834+07:00",
+      "next_scan_at": "2026-08-13T08:36:40.109834+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -395,12 +395,14 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
       "match_name": "Ba Lan vs Thái Lan",
       "kickoff_iso": "2026-08-13T07:00:00+07:00",
-      "minutes_to_kickoff": 35,
-      "last_scan_at": "2026-08-13T06:25:34.969897+07:00",
-      "next_scan_at": "2026-08-13T06:35:34.969897+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-13T08:31:40.109834+07:00",
+      "next_scan_at": "2026-08-13T08:36:40.109834+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
