@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-13T16:43:21.316632+07:00",
+  "updated_at": "2026-08-13T17:01:03.626881+07:00",
   "matches": {
     "788096": {
       "url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gamba-osaka-11-08-2026-788096",
@@ -376,6 +376,18 @@
         "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "736670": {
+      "url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
+      "match_name": "13-08 Super League Andijan VS Neftchi Fargona Chim Nhỏ",
+      "kickoff_iso": "2026-08-13T21:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-13T17:01:03.626810+07:00",
+      "next_scan_at": "2026-08-13T17:46:03.626810+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
