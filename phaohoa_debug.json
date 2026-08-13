@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
     "raw_title": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày",
-    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
@@ -43,12 +43,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -58,6 +52,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -144,10 +144,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.537167+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.159050+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -211,
+    "minutes_to_kickoff": -241,
     "timing_state": "past",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -158,8 +158,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
-    "raw_title": "06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken",
-    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "raw_title": "06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken",
+    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
@@ -200,12 +200,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -215,6 +209,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -301,10 +301,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.541909+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.162980+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -211,
+    "minutes_to_kickoff": -241,
     "timing_state": "past",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -316,7 +316,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
     "raw_title": "07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa",
-    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_uiH5uS2.jpg",
@@ -357,12 +357,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -372,6 +366,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -458,10 +458,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.546586+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.166820+07:00",
     "kickoff_iso": "2026-08-13T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -211,
+    "minutes_to_kickoff": -241,
     "timing_state": "past",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -514,12 +514,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -529,6 +523,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -608,7 +608,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Andijan VS Neftchi Fargona",
     "home_name": "Andijan",
     "away_name": "Neftchi Fargona",
@@ -616,10 +616,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T07:30:56.549806+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.169669+07:00",
     "kickoff_iso": "2026-08-13T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 809,
+    "minutes_to_kickoff": 779,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -671,12 +671,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -686,6 +680,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -765,7 +765,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Ba Lan VS Italy",
     "home_name": "Ba Lan",
     "away_name": "Italy",
@@ -773,10 +773,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-italy",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.552730+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.172284+07:00",
     "kickoff_iso": "2026-08-13T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 869,
+    "minutes_to_kickoff": 839,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -829,12 +829,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -844,6 +838,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -923,7 +923,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Tobol VS Partizan",
     "home_name": "Tobol",
     "away_name": "Partizan",
@@ -931,10 +931,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tobol-vs-partizan-13-08-2026-829977",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T07:30:56.555826+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.175005+07:00",
     "kickoff_iso": "2026-08-13T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 899,
+    "minutes_to_kickoff": 869,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -987,12 +987,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1002,6 +996,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1081,7 +1081,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Qarabag VS Dyn. Kyiv",
     "home_name": "Qarabag",
     "away_name": "Dyn. Kyiv",
@@ -1089,10 +1089,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/qarabag-vs-dyn-kyiv-13-08-2026-829972",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-13T07:30:56.558971+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.177768+07:00",
     "kickoff_iso": "2026-08-13T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 929,
+    "minutes_to_kickoff": 899,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1144,12 +1144,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1159,6 +1153,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1238,7 +1238,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Abha VS Al Hazem",
     "home_name": "Abha",
     "away_name": "Al Hazem",
@@ -1246,10 +1246,10 @@
     "date": "13/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/abha-vs-al-hazem-13-08-2026-825098",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.561990+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.180398+07:00",
     "kickoff_iso": "2026-08-13T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 944,
+    "minutes_to_kickoff": 914,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1301,12 +1301,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.88,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
         "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1316,6 +1310,12 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/FC_Andijon_logo.png",
         "score": 64.84,
         "context": "Andijan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Andijan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 59.88,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1395,7 +1395,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 1 : 0 Giải lao Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
+    "page_card_text": "04:00 - 13-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Nhật Bản Tày 06:30 - 13-08 BÓNG ĐÁ Leagues Cup Inter Miami 2 : 2 61' Club Leon Ken 07:00 - 13-08 BÓNG CHUYỀN U17 World Championship Ba Lan 0 : 0 Trực tiếp Thái Lan KaKa 21:00 - 13-08 BÓNG ĐÁ Super League Andijan VS Sắp diễn ra Neftchi Fargona Chim Nhỏ 22:00 - 13-08 BÓNG CHUYỀN Giao Hữu Ba Lan VS Sắp diễn ra Italy KaKa 22:30 - 13-08 BÓNG ĐÁ UEFA Conference League Tobol VS Sắp diễn ra Partizan Pháo Thủ 23:00 - 13-08 BÓNG ĐÁ UEFA Conference League Qarabag VS Sắp diễn ra Dyn. Kyiv Tày 23:15 - 13-08 BÓNG ĐÁ Saudi Pro League Abha VS Sắp diễn ra Al Hazem Chim Nhỏ 00:00 - 14-08 BÓNG ĐÁ UEFA Europa League Pafos VS Sắp diễn ra Salzburg Ken",
     "match_name": "Pafos VS Salzburg",
     "home_name": "Pafos",
     "away_name": "Salzburg",
@@ -1403,10 +1403,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/pafos-vs-salzburg-14-08-2026-829863",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-13T07:30:56.564898+07:00",
+    "scan_time_iso": "2026-08-13T08:01:09.182973+07:00",
     "kickoff_iso": "2026-08-14T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 989,
+    "minutes_to_kickoff": 959,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
