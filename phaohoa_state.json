@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T03:07:50.040010+07:00",
+  "updated_at": "2026-08-15T03:31:39.024412+07:00",
   "matches": {
     "48027a99c995": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
@@ -355,9 +355,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-vitoria-guimaraes-15-08-2026-803649",
       "match_name": "Sporting Cp vs Vitoria Guimaraes",
       "kickoff_iso": "2026-08-15T02:15:00+07:00",
-      "minutes_to_kickoff": -52,
-      "last_scan_at": "2026-08-15T03:07:50.039868+07:00",
-      "next_scan_at": "2026-08-15T03:12:50.039868+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-15T03:31:39.024329+07:00",
+      "next_scan_at": "2026-08-15T03:36:39.024329+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -369,13 +369,13 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-dai-loan",
       "match_name": "15-08 U17 World Championship Thái Lan VS Đài Loan Tày",
       "kickoff_iso": "2026-08-15T04:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-15T03:02:01.667708+07:00",
-      "next_scan_at": "2026-08-15T03:22:01.667708+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-15T03:31:39.024329+07:00",
+      "next_scan_at": "2026-08-15T03:41:39.024329+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "2177a6c6d3d7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
