@@ -1,20 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T03:31:39.024412+07:00",
+  "updated_at": "2026-08-15T04:01:41.897317+07:00",
   "matches": {
-    "48027a99c995": {
-      "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-nhat-ban",
-      "match_name": "Thổ Nhĩ Kì vs Nhật Bản",
-      "kickoff_iso": "2026-08-13T04:00:00+07:00",
-      "minutes_to_kickoff": -145,
-      "last_scan_at": "2026-08-13T06:25:34.969897+07:00",
-      "next_scan_at": "2026-08-13T06:30:34.969897+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
     "749513": {
       "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
       "match_name": "Inter Miami vs Club Leon",
@@ -355,9 +343,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-vitoria-guimaraes-15-08-2026-803649",
       "match_name": "Sporting Cp vs Vitoria Guimaraes",
       "kickoff_iso": "2026-08-15T02:15:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-08-15T03:31:39.024329+07:00",
-      "next_scan_at": "2026-08-15T03:36:39.024329+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-08-15T04:01:41.897137+07:00",
+      "next_scan_at": "2026-08-15T04:06:41.897137+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -381,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
       "match_name": "15-08 U17 World Championship Thổ Nhĩ Kì VS Hàn Quốc KaKa",
       "kickoff_iso": "2026-08-15T07:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-15T03:02:01.667708+07:00",
-      "next_scan_at": "2026-08-15T03:47:01.667708+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-15T04:01:41.897137+07:00",
+      "next_scan_at": "2026-08-15T04:46:41.897137+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
