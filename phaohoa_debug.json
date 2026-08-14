@@ -1,270 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/elfsborg-vs-vasteras-sk-15-08-2026-715580",
-    "raw_title": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_307_vAWvTRg.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_307_vAWvTRg.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
-        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
-        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
-        "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
-        "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
-        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
-        "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
-        "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
-        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
-        "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
-        "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
-        "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 75,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Elfsborg min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_307_vAWvTRg.png",
-        "score": 75,
-        "context": "size-5 object-contain ALLSVENSKAN flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs ALLSVENSKAN Elfsborg 73' 2-0 00:00 - 15/08/2026 Vasteras SK relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 50,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Vasteras SK min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_307_vAWvTRg.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Elfsborg vs Vasteras SK",
-    "home_name": "Elfsborg",
-    "away_name": "Vasteras SK",
-    "time": "00:00",
-    "date": "15/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/elfsborg-vs-vasteras-sk-15-08-2026-715580",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.734930+07:00",
-    "kickoff_iso": "2026-08-15T00:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 6,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa8",
-        "family_key": "phaohoa8",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2321884094-1786728659-20260814T183125.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 (Not Found)"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/al-ettifaq-vs-al-riyadh-15-08-2026-825102",
-    "raw_title": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "raw_title": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ",
+    "card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
@@ -281,117 +19,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
@@ -412,7 +150,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
         "score": 40,
-        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Ettifaq 30' 1-0 01:00 - 15/08/2026 Al Riyadh relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Ettifaq GIẢI LAO 1-1 01:00 - 15/08/2026 Al Riyadh relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
@@ -430,10 +168,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-ettifaq-vs-al-riyadh-15-08-2026-825102",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.738177+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.957495+07:00",
     "kickoff_iso": "2026-08-15T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -445,15 +183,9 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825102.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 2,
+    "_scan_index": 1,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -491,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2322010071-1786730042-20260814T183054.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2322010071-1786730361-20260814T190123.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -523,49 +255,15 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825102.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "825102",
-        "family_key": "825102",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/825102.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/al-hilal-vs-al-faisaly-15-08-2026-825103",
-    "raw_title": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "raw_title": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken",
+    "card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
@@ -582,117 +280,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
@@ -713,7 +411,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
         "score": 40,
-        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Hilal 28' 2-0 01:00 - 15/08/2026 Al-Faisaly relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Hilal GIẢI LAO 3-0 01:00 - 15/08/2026 Al-Faisaly relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
@@ -731,10 +429,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-hilal-vs-al-faisaly-15-08-2026-825103",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.741374+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.962391+07:00",
     "kickoff_iso": "2026-08-15T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -746,15 +444,9 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825103.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 3,
+    "_scan_index": 2,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -792,7 +484,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3261069239-1786726202-20260814T183121.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3261069239-1786727075-20260814T190129.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -824,41 +516,7 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825103.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "825103",
-        "family_key": "825103",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/825103.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
@@ -866,7 +524,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/croatia-vs-trung-quoc",
     "raw_title": "01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
@@ -883,117 +541,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
@@ -1011,15 +669,8 @@
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Trung Quốc min-w-0 text-center",
         "source": "detail-match"
       },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 40,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 HT 4 phút trước ôi sao thế croatia ơiii chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -1032,10 +683,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/croatia-vs-trung-quoc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.744396+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.966898+07:00",
     "kickoff_iso": "2026-08-15T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1047,15 +698,9 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/d3b0d0e7b7b0.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 4,
+    "_scan_index": 3,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -1093,7 +738,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2321986477-1786730471-20260814T183153.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2321986477-1786731348-20260814T190133.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1125,49 +770,15 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/d3b0d0e7b7b0.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "d3b0d0e7b7b0",
-        "family_key": "d3b0d0e7b7b0",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/d3b0d0e7b7b0.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/galatasaray-vs-corum-15-08-2026-795632",
-    "raw_title": "01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "raw_title": "01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ",
+    "card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
@@ -1184,117 +795,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
@@ -1309,7 +920,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_322.png",
         "score": 75,
-        "context": "size-5 object-contain SÜPER LIG flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SÜPER LIG Galatasaray 1' 0-0 01:30 - 15/08/2026 Corum relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SÜPER LIG flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SÜPER LIG Galatasaray 30' 0-0 01:30 - 15/08/2026 Corum relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -1333,10 +944,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/galatasaray-vs-corum-15-08-2026-795632",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.747503+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.971598+07:00",
     "kickoff_iso": "2026-08-15T01:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1353,10 +964,10 @@
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/795632.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~1:phaohoa_live.m3u"
+        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 5,
+    "_scan_index": 4,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -1372,18 +983,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa5",
         "family_key": "phaohoa5",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1393,7 +1005,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3168632184-1786731488-20260814T183154.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3168632184-1786732327-20260814T190159.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1467,7 +1079,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-vitoria-guimaraes-15-08-2026-803649",
     "raw_title": "02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin",
-    "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
@@ -1484,117 +1096,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
@@ -1633,10 +1245,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-vitoria-guimaraes-15-08-2026-803649",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.750771+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.976534+07:00",
     "kickoff_iso": "2026-08-15T02:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 43,
+    "minutes_to_kickoff": 13,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -1644,13 +1256,19 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803649.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803649.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 6,
+    "_scan_index": 5,
     "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
@@ -1666,6 +1284,7 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -1687,8 +1306,8 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2835609168-1786727410-20260814T183151.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 200,
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2835609168-1786728266-20260814T190157.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
         },
@@ -1765,10 +1384,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png"
     ],
     "logo_candidates": [
       {
@@ -1778,117 +1397,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -1896,7 +1515,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "page_card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "match_name": "Thái Lan VS Đài Loan",
     "home_name": "Thái Lan",
     "away_name": "Đài Loan",
@@ -1904,16 +1523,31 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-dai-loan",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T01:32:09.752740+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.979449+07:00",
     "kickoff_iso": "2026-08-15T04:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 148,
+    "minutes_to_kickoff": 118,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/8cf9ae988085.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 6,
+    "_scan_total": 6,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -1936,117 +1570,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -2054,7 +1688,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "page_card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "match_name": "Thổ Nhĩ Kì VS Hàn Quốc",
     "home_name": "Thổ Nhĩ Kì",
     "away_name": "Hàn Quốc",
@@ -2062,10 +1696,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.754673+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.982275+07:00",
     "kickoff_iso": "2026-08-15T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 328,
+    "minutes_to_kickoff": 298,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -2081,9 +1715,9 @@
     "raw_time": "",
     "logo": "",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png"
     ],
     "logo_candidates": [
       {
@@ -2093,117 +1727,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
-        "score": 64.99,
-        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7341.jpg",
-        "score": 64.98,
-        "context": "Vasteras SK max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vasteras SK min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.94,
+        "score": 64.99,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
-        "score": 64.93,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.92,
+        "score": 64.97,
         "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.89,
+        "score": 64.94,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
-        "score": 64.88,
+        "score": 64.93,
         "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.85,
+        "score": 64.9,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.84,
+        "score": 64.89,
         "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
-        "score": 64.83,
+        "score": 64.88,
         "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.82,
+        "score": 64.87,
         "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
-        "score": 64.79,
+        "score": 64.84,
         "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
-        "score": 64.78,
+        "score": 64.83,
         "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.77,
+        "score": 64.82,
         "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
-        "score": 64.74,
+        "score": 64.79,
         "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
-        "score": 64.73,
+        "score": 64.78,
         "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.72,
+        "score": 64.77,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
-        "score": 64.69,
+        "score": 64.74,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
-        "score": 64.63,
+        "score": 64.68,
         "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       }
     ],
@@ -2211,7 +1845,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg 2 : 0 73' Vasteras SK Tày 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 0 30' Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 2 : 0 28' Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 Trực tiếp Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày",
+    "page_card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
     "match_name": "Mito VS Gamba Osaka",
     "home_name": "Mito",
     "away_name": "Gamba Osaka",
@@ -2219,10 +1853,167 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/mito-vs-gamba-osaka-15-08-2026-807485",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T01:32:09.756485+07:00",
+    "scan_time_iso": "2026-08-15T02:02:11.984925+07:00",
     "kickoff_iso": "2026-08-15T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 868,
+    "minutes_to_kickoff": 838,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/urawa-reds-vs-sanfrecce-hiroshima-15-08-2026-807491",
+    "raw_title": "17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
+    "card_text": "17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 64.99,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Ettifaq min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al-Riyadh_SC.svg.webp",
+        "score": 64.98,
+        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Riyadh min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.97,
+        "context": "Pháo Thủ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Pháo Thủ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 64.94,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6333_chkqLsE.jpg",
+        "score": 64.93,
+        "context": "Al-Faisaly max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Al-Faisaly min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.9,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN status-popover-trigger relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
+        "score": 64.89,
+        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Croatia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
+        "score": 64.88,
+        "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Trung Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 64.87,
+        "context": "KaKa size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] KaKa flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_192.jpg",
+        "score": 64.84,
+        "context": "Galatasaray max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Galatasaray min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/%C3%87orum_F.K._crest.svg.webp",
+        "score": 64.83,
+        "context": "Corum max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Corum min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.82,
+        "context": "Chim Nhỏ size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Chim Nhỏ flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_177.jpg",
+        "score": 64.79,
+        "context": "Sporting CP max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Sporting CP min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6005.jpg",
+        "score": 64.78,
+        "context": "Vitoria Guimaraes max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Vitoria Guimaraes min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.77,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 64.74,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_South_Korea.svg.webp",
+        "score": 64.68,
+        "context": "Hàn Quốc max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Hàn Quốc min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 39.73,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
+        "score": 4.92,
+        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Pháo Thủ",
+    "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Ettifaq 1 : 1 Giải lao Al Riyadh Pháo Thủ 01:00 - 15-08 BÓNG ĐÁ Saudi Pro League Al Hilal 3 : 0 Giải lao Al-Faisaly Ken 01:00 - 15-08 BÓNG CHUYỀN U17 World Championship Croatia 0 : 0 Trực tiếp Trung Quốc KaKa 01:30 - 15-08 BÓNG ĐÁ Süper Lig Galatasaray 0 : 0 30' Corum Chim Nhỏ 02:15 - 15-08 BÓNG ĐÁ Primeira Liga Sporting CP 0 : 0 Trực tiếp Vitoria Guimaraes Kevin 04:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thái Lan VS Sắp diễn ra Đài Loan Tày 07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì VS Sắp diễn ra Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ",
+    "match_name": "Urawa Reds VS Sanfrecce Hiroshima",
+    "home_name": "Urawa Reds",
+    "away_name": "Sanfrecce Hiroshima",
+    "time": "17:00",
+    "date": "15/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/urawa-reds-vs-sanfrecce-hiroshima-15-08-2026-807491",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-15T02:02:11.987724+07:00",
+    "kickoff_iso": "2026-08-15T17:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 898,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
