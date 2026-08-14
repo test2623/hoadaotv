@@ -103,12 +103,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -131,6 +125,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Tày",
@@ -145,31 +145,16 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/verdy-vs-kashiwa-reysol-14-08-2026-807483",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.639448+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.489669+07:00",
     "kickoff_iso": "2026-08-14T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 179,
+    "minutes_to_kickoff": 149,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/807483.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 1,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-14m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -277,12 +262,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -305,6 +284,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
@@ -319,10 +304,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/shandong-taishan-vs-qingdao-hainiu-14-08-2026-742946",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.642737+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.492800+07:00",
     "kickoff_iso": "2026-08-14T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 274,
+    "minutes_to_kickoff": 244,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -435,12 +420,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -463,6 +442,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
@@ -477,10 +462,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/wuhan-three-towns-vs-shanghai-port-14-08-2026-742947",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.646117+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.495223+07:00",
     "kickoff_iso": "2026-08-14T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 274,
+    "minutes_to_kickoff": 244,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -593,12 +578,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -621,6 +600,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Tày",
@@ -635,10 +620,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/orenburg-vs-lokomotiv-moscow-14-08-2026-781406",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.649245+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.497474+07:00",
     "kickoff_iso": "2026-08-14T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 419,
+    "minutes_to_kickoff": 389,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -750,12 +735,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -778,6 +757,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "KaKa",
@@ -792,10 +777,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-14T14:01:15.652415+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.499571+07:00",
     "kickoff_iso": "2026-08-14T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 479,
+    "minutes_to_kickoff": 449,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -811,10 +796,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5088.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5088.jpg"
     ],
     "logo_candidates": [
       {
@@ -908,12 +893,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -936,6 +915,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Ken",
@@ -950,10 +935,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/marseille-vs-atl-madrid-14-08-2026-826151",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.655558+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.501796+07:00",
     "kickoff_iso": "2026-08-14T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 509,
+    "minutes_to_kickoff": 479,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1066,12 +1051,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1094,6 +1073,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Kevin",
@@ -1108,10 +1093,10 @@
     "date": "14/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/braunschweig-vs-bochum-14-08-2026-809610",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-14T14:01:15.658615+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.504016+07:00",
     "kickoff_iso": "2026-08-14T23:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 569,
+    "minutes_to_kickoff": 539,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1125,10 +1110,11 @@
     "raw_title": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg VS Sắp diễn ra Vasteras SK Tày",
     "card_text": "00:00 - 15-08 BÓNG ĐÁ Allsvenskan Elfsborg VS Sắp diễn ra Vasteras SK Tày",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5088.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_5088.jpg"
     ],
     "logo_candidates": [
@@ -1223,12 +1209,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1251,6 +1231,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Tày",
@@ -1264,11 +1250,11 @@
     "time": "00:00",
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/elfsborg-vs-vasteras-sk-15-08-2026-715580",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-14T14:01:15.661946+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-14T14:31:17.506224+07:00",
     "kickoff_iso": "2026-08-15T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 599,
+    "minutes_to_kickoff": 569,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1380,12 +1366,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/43bf43c332f9d4bb5b14da0db6b12471.png",
-        "score": 4.73,
-        "context": "Atl. Madrid max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Atl. Madrid min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.72,
         "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
@@ -1408,6 +1388,12 @@
         "score": 4.67,
         "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7346.jpg",
+        "score": 4.64,
+        "context": "Elfsborg max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Elfsborg min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
@@ -1422,10 +1408,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-ettifaq-vs-al-riyadh-15-08-2026-825102",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-14T14:01:15.665050+07:00",
+    "scan_time_iso": "2026-08-14T14:31:17.508398+07:00",
     "kickoff_iso": "2026-08-15T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 659,
+    "minutes_to_kickoff": 629,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
