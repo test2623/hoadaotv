@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T05:01:04.458300+07:00",
+  "updated_at": "2026-08-15T05:31:05.245728+07:00",
   "matches": {
     "749513": {
       "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-club-leon-13-08-2026-749513",
@@ -369,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
       "match_name": "Tho Nhi Ki vs Han Quoc",
       "kickoff_iso": "2026-08-15T07:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-08-15T05:01:04.458201+07:00",
-      "next_scan_at": "2026-08-15T05:21:04.458201+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-15T05:31:05.245636+07:00",
+      "next_scan_at": "2026-08-15T05:51:05.245636+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
