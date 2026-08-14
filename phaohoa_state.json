@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-14T22:26:26.226522+07:00",
+  "updated_at": "2026-08-14T22:31:33.469908+07:00",
   "matches": {
-    "3f924fd1fd35": {
-      "url": "https://phaohoa1.live/truc-tiep/italy-vs-ukraine",
-      "match_name": "Italy vs Ukraine",
-      "kickoff_iso": "2026-08-12T22:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-13T00:32:13.043545+07:00",
-      "next_scan_at": "2026-08-13T00:37:13.043545+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "829887": {
       "url": "https://phaohoa1.live/truc-tiep/fc-copenhagen-vs-debrecen-12-08-2026-829887",
       "match_name": "FC Copenhagen vs Debrecen",
@@ -369,9 +355,9 @@
       "url": "https://phaohoa1.live/truc-tiep/orenburg-vs-lokomotiv-moscow-14-08-2026-781406",
       "match_name": "Orenburg vs Lokomotiv Moscow",
       "kickoff_iso": "2026-08-14T21:00:00+07:00",
-      "minutes_to_kickoff": -86,
-      "last_scan_at": "2026-08-14T22:26:26.226388+07:00",
-      "next_scan_at": "2026-08-14T22:31:26.226388+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-14T22:31:33.469807+07:00",
+      "next_scan_at": "2026-08-14T22:36:33.469807+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -383,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
       "match_name": "Italy vs Mỹ",
       "kickoff_iso": "2026-08-14T22:00:00+07:00",
-      "minutes_to_kickoff": -26,
-      "last_scan_at": "2026-08-14T22:26:26.226388+07:00",
-      "next_scan_at": "2026-08-14T22:31:26.226388+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-14T22:31:33.469807+07:00",
+      "next_scan_at": "2026-08-14T22:36:33.469807+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -397,9 +383,9 @@
       "url": "https://phaohoa1.live/truc-tiep/marseille-vs-atl-madrid-14-08-2026-826151",
       "match_name": "Marseille vs Atl. Madrid",
       "kickoff_iso": "2026-08-14T22:30:00+07:00",
-      "minutes_to_kickoff": 4,
-      "last_scan_at": "2026-08-14T22:26:26.226388+07:00",
-      "next_scan_at": "2026-08-14T22:31:26.226388+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-14T22:31:33.469807+07:00",
+      "next_scan_at": "2026-08-14T22:36:33.469807+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
