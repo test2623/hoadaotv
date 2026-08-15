@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T20:31:55.608898+07:00",
+  "updated_at": "2026-08-15T21:01:51.945632+07:00",
   "matches": {
-    "736670": {
-      "url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
-      "match_name": "Andijan vs Neftchi Fargona",
-      "kickoff_iso": "2026-08-13T21:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-13T22:31:52.093021+07:00",
-      "next_scan_at": "2026-08-13T22:36:52.093021+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "829977": {
       "url": "https://phaohoa1.live/truc-tiep/tobol-vs-partizan-13-08-2026-829977",
       "match_name": "Tobol vs Partizan",
@@ -411,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-real-sociedad-15-08-2026-821408",
       "match_name": "Chelsea vs Real Sociedad",
       "kickoff_iso": "2026-08-15T20:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-15T20:31:55.608737+07:00",
-      "next_scan_at": "2026-08-15T20:36:55.608737+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:06:51.945322+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -425,9 +411,9 @@
       "url": "https://phaohoa1.live/truc-tiep/singapore-vs-thai-lan-15-08-2026-839167",
       "match_name": "Singapore vs Thái Lan",
       "kickoff_iso": "2026-08-15T20:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-15T20:31:55.608737+07:00",
-      "next_scan_at": "2026-08-15T20:36:55.608737+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:06:51.945322+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -439,9 +425,9 @@
       "url": "https://phaohoa1.live/truc-tiep/bayern-munich-vs-rb-leipzig-15-08-2026-764903",
       "match_name": "Bayern Munich vs Rb Leipzig",
       "kickoff_iso": "2026-08-15T20:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-15T20:31:55.608737+07:00",
-      "next_scan_at": "2026-08-15T20:36:55.608737+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:06:51.945322+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -453,25 +439,25 @@
       "url": "https://phaohoa1.live/truc-tiep/manchester-united-vs-ac-milan-15-08-2026-758919",
       "match_name": "15-08 Club Friendlies Manchester United VS AC Milan A Heo",
       "kickoff_iso": "2026-08-15T21:45:00+07:00",
-      "minutes_to_kickoff": 84,
-      "last_scan_at": "2026-08-15T20:21:32.908295+07:00",
-      "next_scan_at": "2026-08-15T20:41:32.908295+07:00",
+      "minutes_to_kickoff": 43,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:11:51.945322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "171950": {
       "url": "https://phaohoa1.live/truc-tiep/manchester-united-vs-ac-milan-13-08-2026-171950",
       "match_name": "15-08 Club Friendlies Manchester United VS AC Milan Kevin",
       "kickoff_iso": "2026-08-15T21:45:00+07:00",
-      "minutes_to_kickoff": 84,
-      "last_scan_at": "2026-08-15T20:21:32.908295+07:00",
-      "next_scan_at": "2026-08-15T20:41:32.908295+07:00",
+      "minutes_to_kickoff": 43,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:11:51.945322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "825104": {
       "url": "https://phaohoa1.live/truc-tiep/al-taawon-vs-al-khaleej-15-08-2026-825104",
@@ -489,9 +475,9 @@
       "url": "https://phaohoa1.live/truc-tiep/utrecht-vs-az-alkmaar-15-08-2026-805960",
       "match_name": "15-08 Eredivisie Utrecht VS AZ Alkmaar Chim Nhỏ",
       "kickoff_iso": "2026-08-15T23:45:00+07:00",
-      "minutes_to_kickoff": 224,
-      "last_scan_at": "2026-08-15T20:02:00.662602+07:00",
-      "next_scan_at": "2026-08-15T20:47:00.662602+07:00",
+      "minutes_to_kickoff": 164,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:46:51.945322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -504,6 +490,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-08-15T20:31:55.608737+07:00",
       "next_scan_at": "2026-08-15T21:16:55.608737+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "825105": {
+      "url": "https://phaohoa1.live/truc-tiep/al-ittihad-vs-al-kholood-16-08-2026-825105",
+      "match_name": "16-08 Saudi Pro League Al Ittihad VS Al Kholood Pháo Thủ",
+      "kickoff_iso": "2026-08-16T01:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-15T21:01:51.945322+07:00",
+      "next_scan_at": "2026-08-15T21:46:51.945322+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
