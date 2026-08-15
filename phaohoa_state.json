@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T06:50:24.093606+07:00",
+  "updated_at": "2026-08-15T07:01:29.018709+07:00",
   "matches": {
-    "19a94ccce1bb": {
-      "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-thai-lan",
-      "match_name": "Ba Lan vs Thái Lan",
-      "kickoff_iso": "2026-08-13T07:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-13T08:31:40.109834+07:00",
-      "next_scan_at": "2026-08-13T08:36:40.109834+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "736670": {
       "url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
       "match_name": "Andijan vs Neftchi Fargona",
@@ -355,9 +341,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
       "match_name": "Thổ Nhĩ Kì vs Hàn Quốc",
       "kickoff_iso": "2026-08-15T07:00:00+07:00",
-      "minutes_to_kickoff": 10,
-      "last_scan_at": "2026-08-15T06:50:24.093542+07:00",
-      "next_scan_at": "2026-08-15T06:55:24.093542+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-15T07:01:29.018614+07:00",
+      "next_scan_at": "2026-08-15T07:06:29.018614+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
