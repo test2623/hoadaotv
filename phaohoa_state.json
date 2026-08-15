@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T00:01:31.830737+07:00",
+  "updated_at": "2026-08-16T00:31:55.945212+07:00",
   "matches": {
     "825099": {
       "url": "https://phaohoa1.live/truc-tiep/al-diriyah-vs-al-ahli-sc-14-08-2026-825099",
@@ -397,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/al-taawon-vs-al-khaleej-15-08-2026-825104",
       "match_name": "Al Taawon vs Al Khaleej",
       "kickoff_iso": "2026-08-15T23:15:00+07:00",
-      "minutes_to_kickoff": -46,
-      "last_scan_at": "2026-08-16T00:01:31.830589+07:00",
-      "next_scan_at": "2026-08-16T00:06:31.830589+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-16T00:31:55.944996+07:00",
+      "next_scan_at": "2026-08-16T00:36:55.944996+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -411,9 +411,9 @@
       "url": "https://phaohoa1.live/truc-tiep/utrecht-vs-az-alkmaar-15-08-2026-805960",
       "match_name": "Utrecht vs Az Alkmaar",
       "kickoff_iso": "2026-08-15T23:45:00+07:00",
-      "minutes_to_kickoff": -16,
-      "last_scan_at": "2026-08-16T00:01:31.830589+07:00",
-      "next_scan_at": "2026-08-16T00:06:31.830589+07:00",
+      "minutes_to_kickoff": -46,
+      "last_scan_at": "2026-08-16T00:31:55.944996+07:00",
+      "next_scan_at": "2026-08-16T00:36:55.944996+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -425,9 +425,9 @@
       "url": "https://phaohoa1.live/truc-tiep/alaves-vs-getafe-16-08-2026-798806",
       "match_name": "Alaves vs Getafe",
       "kickoff_iso": "2026-08-16T00:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-16T00:01:31.830589+07:00",
-      "next_scan_at": "2026-08-16T00:06:31.830589+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-16T00:31:55.944996+07:00",
+      "next_scan_at": "2026-08-16T00:36:55.944996+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -439,25 +439,25 @@
       "url": "https://phaohoa1.live/truc-tiep/al-ittihad-vs-al-kholood-16-08-2026-825105",
       "match_name": "16-08 Saudi Pro League Al Ittihad VS Al Kholood Pháo Thủ",
       "kickoff_iso": "2026-08-16T01:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-15T23:55:18.985247+07:00",
-      "next_scan_at": "2026-08-16T00:15:18.985247+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-16T00:31:55.944996+07:00",
+      "next_scan_at": "2026-08-16T00:41:55.944996+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "825106": {
       "url": "https://phaohoa1.live/truc-tiep/al-nassr-vs-al-fateh-16-08-2026-825106",
       "match_name": "16-08 Saudi Pro League Al Nassr VS Al Fateh A Heo",
       "kickoff_iso": "2026-08-16T01:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-15T23:55:18.985247+07:00",
-      "next_scan_at": "2026-08-16T00:15:18.985247+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-08-16T00:31:55.944996+07:00",
+      "next_scan_at": "2026-08-16T00:41:55.944996+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "798807": {
       "url": "https://phaohoa1.live/truc-tiep/sevilla-vs-rayo-vallecano-16-08-2026-798807",
