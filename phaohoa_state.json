@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T04:31:45.576581+07:00",
+  "updated_at": "2026-08-16T04:41:50.771889+07:00",
   "matches": {
     "807483": {
       "url": "https://phaohoa1.live/truc-tiep/verdy-vs-kashiwa-reysol-14-08-2026-807483",
@@ -409,9 +409,9 @@
       "url": "https://phaohoa1.live/truc-tiep/sevilla-vs-rayo-vallecano-16-08-2026-798807",
       "match_name": "Sevilla vs Rayo Vallecano",
       "kickoff_iso": "2026-08-16T02:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-16T04:31:45.576487+07:00",
-      "next_scan_at": "2026-08-16T04:36:45.576487+07:00",
+      "minutes_to_kickoff": -131,
+      "last_scan_at": "2026-08-16T04:41:50.771791+07:00",
+      "next_scan_at": "2026-08-16T04:46:50.771791+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -435,11 +435,11 @@
     },
     "e888388be010": {
       "url": "https://phaohoa1.live/truc-tiep/my-vs-trung-quoc",
-      "match_name": "Mỹ vs Trung Quốc",
+      "match_name": "My vs Trung Quoc",
       "kickoff_iso": "2026-08-16T04:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-16T04:31:45.576487+07:00",
-      "next_scan_at": "2026-08-16T04:36:45.576487+07:00",
+      "minutes_to_kickoff": -41,
+      "last_scan_at": "2026-08-16T04:41:50.771791+07:00",
+      "next_scan_at": "2026-08-16T04:46:50.771791+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -451,9 +451,9 @@
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki",
       "match_name": "16-08 U17 World Championship Đài Loan VS Thổ Nhĩ Kì KaKa",
       "kickoff_iso": "2026-08-16T07:00:00+07:00",
-      "minutes_to_kickoff": 189,
-      "last_scan_at": "2026-08-16T03:51:06.657760+07:00",
-      "next_scan_at": "2026-08-16T04:36:06.657760+07:00",
+      "minutes_to_kickoff": 139,
+      "last_scan_at": "2026-08-16T04:41:50.771791+07:00",
+      "next_scan_at": "2026-08-16T05:26:50.771791+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
