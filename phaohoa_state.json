@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T06:31:26.039095+07:00",
+  "updated_at": "2026-08-16T06:40:24.788642+07:00",
   "matches": {
     "807483": {
       "url": "https://phaohoa1.live/truc-tiep/verdy-vs-kashiwa-reysol-14-08-2026-807483",
@@ -451,9 +451,9 @@
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki",
       "match_name": "Đài Loan vs Thổ Nhĩ Kì",
       "kickoff_iso": "2026-08-16T07:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-16T06:31:26.039003+07:00",
-      "next_scan_at": "2026-08-16T06:36:26.039003+07:00",
+      "minutes_to_kickoff": 20,
+      "last_scan_at": "2026-08-16T06:40:24.788563+07:00",
+      "next_scan_at": "2026-08-16T06:45:24.788563+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
