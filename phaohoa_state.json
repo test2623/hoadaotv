@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-15T17:50:35.625786+07:00",
+  "updated_at": "2026-08-15T18:01:33.890609+07:00",
   "matches": {
     "736670": {
       "url": "https://phaohoa1.live/truc-tiep/andijan-vs-neftchi-fargona-13-08-2026-736670",
@@ -369,9 +369,9 @@
       "url": "https://phaohoa1.live/truc-tiep/urawa-reds-vs-sanfrecce-hiroshima-15-08-2026-807491",
       "match_name": "Urawa Reds vs Sanfrecce Hiroshima",
       "kickoff_iso": "2026-08-15T17:00:00+07:00",
-      "minutes_to_kickoff": -50,
-      "last_scan_at": "2026-08-15T17:50:35.625493+07:00",
-      "next_scan_at": "2026-08-15T17:55:35.625493+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-15T18:01:33.890502+07:00",
+      "next_scan_at": "2026-08-15T18:06:33.890502+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -383,9 +383,9 @@
       "url": "https://phaohoa1.live/truc-tiep/vissel-kobe-vs-fc-tokyo-15-08-2026-807492",
       "match_name": "Vissel Kobe vs FC Tokyo",
       "kickoff_iso": "2026-08-15T17:00:00+07:00",
-      "minutes_to_kickoff": -50,
-      "last_scan_at": "2026-08-15T17:50:35.625493+07:00",
-      "next_scan_at": "2026-08-15T17:55:35.625493+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-15T18:01:33.890502+07:00",
+      "next_scan_at": "2026-08-15T18:06:33.890502+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -397,9 +397,9 @@
       "url": "https://phaohoa1.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-15-08-2026-742951",
       "match_name": "15-08 Chinese Super League Zhejiang Professional VS Chengdu Rongcheng Văn Minh",
       "kickoff_iso": "2026-08-15T18:35:00+07:00",
-      "minutes_to_kickoff": 45,
-      "last_scan_at": "2026-08-15T17:50:35.625493+07:00",
-      "next_scan_at": "2026-08-15T18:00:35.625493+07:00",
+      "minutes_to_kickoff": 34,
+      "last_scan_at": "2026-08-15T18:01:33.890502+07:00",
+      "next_scan_at": "2026-08-15T18:11:33.890502+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
