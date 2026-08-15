@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
     "raw_title": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa",
-    "card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
@@ -92,7 +92,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -145,10 +145,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T08:31:30.643775+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.893332+07:00",
     "kickoff_iso": "2026-08-15T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
+    "minutes_to_kickoff": -122,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -178,18 +178,19 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa6",
         "family_key": "phaohoa6",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -199,7 +200,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2322485058-1786753933-20260815T013118.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2322485058-1786754826-20260815T020146.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -211,6 +212,7 @@
       "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
     ],
     "errors": [
+      "TimeoutError:APIRequestContext.get: Timeout 8000ms exceeded.\nCall log:\n  - → GET https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\n    - accept: */*\n    - accept-encoding: gzip,deflate,br\n    - Accept-Language: vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7\n    - Referer: https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc\n    - cookie: _ga=GA1.1.516168787.1786759271; _ga_RW5QPRV9PD=GS2.1.s1786759270$o1$g0$t1786759280$j50$l0$h0\n",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -225,7 +227,8 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: the server responded with a status of 522 ()"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [],
@@ -327,7 +330,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -371,7 +374,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Mito VS Gamba Osaka",
     "home_name": "Mito",
     "away_name": "Gamba Osaka",
@@ -379,10 +382,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/mito-vs-gamba-osaka-15-08-2026-807485",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T08:31:30.646954+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.895534+07:00",
     "kickoff_iso": "2026-08-15T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 448,
+    "minutes_to_kickoff": 418,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -485,7 +488,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -529,7 +532,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Urawa Reds VS Sanfrecce Hiroshima",
     "home_name": "Urawa Reds",
     "away_name": "Sanfrecce Hiroshima",
@@ -537,10 +540,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/urawa-reds-vs-sanfrecce-hiroshima-15-08-2026-807491",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T08:31:30.650263+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.897829+07:00",
     "kickoff_iso": "2026-08-15T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 508,
+    "minutes_to_kickoff": 478,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -551,8 +554,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/vissel-kobe-vs-fc-tokyo-15-08-2026-807492",
-    "raw_title": "17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken",
-    "card_text": "17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken",
+    "raw_title": "17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo",
+    "card_text": "17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_383.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_383.jpg",
@@ -643,7 +646,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -683,11 +686,11 @@
         "source": "home-card"
       }
     ],
-    "blv": "Ken",
+    "blv": "A Heo",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Vissel Kobe VS FC Tokyo",
     "home_name": "Vissel Kobe",
     "away_name": "FC Tokyo",
@@ -695,10 +698,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/vissel-kobe-vs-fc-tokyo-15-08-2026-807492",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T08:31:30.653508+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.900092+07:00",
     "kickoff_iso": "2026-08-15T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 508,
+    "minutes_to_kickoff": 478,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -801,7 +804,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -845,7 +848,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Zhejiang Professional VS Chengdu Rongcheng",
     "home_name": "Zhejiang Professional",
     "away_name": "Chengdu Rongcheng",
@@ -853,10 +856,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-15-08-2026-742951",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T08:31:30.656943+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.902471+07:00",
     "kickoff_iso": "2026-08-15T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 603,
+    "minutes_to_kickoff": 573,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -959,7 +962,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1003,7 +1006,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Chelsea VS Real Sociedad",
     "home_name": "Chelsea",
     "away_name": "Real Sociedad",
@@ -1011,10 +1014,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/chelsea-vs-real-sociedad-15-08-2026-821408",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-15T08:31:30.660163+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.904691+07:00",
     "kickoff_iso": "2026-08-15T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 688,
+    "minutes_to_kickoff": 658,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1114,7 +1117,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1158,7 +1161,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Singapore VS Thái Lan",
     "home_name": "Singapore",
     "away_name": "Thái Lan",
@@ -1166,10 +1169,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/singapore-vs-thai-lan-15-08-2026-839167",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T08:31:30.665546+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.908339+07:00",
     "kickoff_iso": "2026-08-15T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 688,
+    "minutes_to_kickoff": 658,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1269,7 +1272,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1313,7 +1316,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Bayern Munich VS RB Leipzig",
     "home_name": "Bayern Munich",
     "away_name": "RB Leipzig",
@@ -1321,10 +1324,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/bayern-munich-vs-rb-leipzig-15-08-2026-764903",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T08:31:30.670887+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.912121+07:00",
     "kickoff_iso": "2026-08-15T20:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 718,
+    "minutes_to_kickoff": 688,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1335,8 +1338,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/manchester-united-vs-ac-milan-15-08-2026-758919",
-    "raw_title": "21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
-    "card_text": "21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "raw_title": "21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
+    "card_text": "21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "raw_time": "",
     "logo": "",
     "home_logo": "",
@@ -1424,7 +1427,7 @@
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.82,
-        "context": "Ken size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Ken flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Ken flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
+        "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1464,11 +1467,11 @@
         "source": "home-card"
       }
     ],
-    "blv": "Ken",
+    "blv": "A Heo",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo Ken 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan Ken",
+    "page_card_text": "07:00 - 15-08 BÓNG CHUYỀN U17 World Championship Thổ Nhĩ Kì 0 : 0 Trực tiếp Hàn Quốc KaKa 16:00 - 15-08 BÓNG ĐÁ J1 League Mito VS Sắp diễn ra Gamba Osaka Tày 17:00 - 15-08 BÓNG ĐÁ J1 League Urawa Reds VS Sắp diễn ra Sanfrecce Hiroshima Pháo Thủ 17:00 - 15-08 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra FC Tokyo A Heo 18:35 - 15-08 BÓNG ĐÁ Chinese Super League Zhejiang Professional VS Sắp diễn ra Chengdu Rongcheng Văn Minh 20:00 - 15-08 BÓNG ĐÁ Club Friendlies Chelsea VS Sắp diễn ra Real Sociedad Chim Nhỏ 20:00 - 15-08 BÓNG ĐÁ ASEAN Championship Singapore VS Sắp diễn ra Thái Lan Tày 20:30 - 15-08 BÓNG ĐÁ Club Friendlies Bayern Munich VS Sắp diễn ra RB Leipzig Pháo Thủ 21:45 - 15-08 BÓNG ĐÁ Club Friendlies Manchester United VS Sắp diễn ra AC Milan A Heo",
     "match_name": "Manchester United VS AC Milan",
     "home_name": "Manchester United",
     "away_name": "AC Milan",
@@ -1476,10 +1479,10 @@
     "date": "15/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/manchester-united-vs-ac-milan-15-08-2026-758919",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-15T08:31:30.676215+07:00",
+    "scan_time_iso": "2026-08-15T09:01:56.916008+07:00",
     "kickoff_iso": "2026-08-15T21:45:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 793,
+    "minutes_to_kickoff": 763,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
