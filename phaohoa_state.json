@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T21:53:27.545181+07:00",
+  "updated_at": "2026-08-16T22:02:09.034460+07:00",
   "matches": {
-    "68cbf63dbff8": {
-      "url": "https://phaohoa1.live/truc-tiep/italy-vs-my",
-      "match_name": "Italy vs Mỹ",
-      "kickoff_iso": "2026-08-14T22:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-14T23:01:44.435035+07:00",
-      "next_scan_at": "2026-08-14T23:06:44.435035+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "826151": {
       "url": "https://phaohoa1.live/truc-tiep/marseille-vs-atl-madrid-14-08-2026-826151",
       "match_name": "Marseille vs Atl. Madrid",
@@ -505,9 +491,9 @@
       "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-manchester-city-16-08-2026-794450",
       "match_name": "Arsenal vs Manchester City",
       "kickoff_iso": "2026-08-16T21:00:00+07:00",
-      "minutes_to_kickoff": -52,
-      "last_scan_at": "2026-08-16T21:53:27.544953+07:00",
-      "next_scan_at": "2026-08-16T21:58:27.544953+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:07:09.034302+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -519,9 +505,9 @@
       "url": "https://phaohoa1.live/truc-tiep/basel-vs-barcelona-16-08-2026-838175",
       "match_name": "Basel vs Barcelona",
       "kickoff_iso": "2026-08-16T21:30:00+07:00",
-      "minutes_to_kickoff": -23,
-      "last_scan_at": "2026-08-16T21:53:27.544953+07:00",
-      "next_scan_at": "2026-08-16T21:58:27.544953+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:07:09.034302+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -533,9 +519,9 @@
       "url": "https://phaohoa1.live/truc-tiep/racing-santander-vs-villarreal-16-08-2026-798808",
       "match_name": "Racing Santander vs Villarreal",
       "kickoff_iso": "2026-08-16T22:00:00+07:00",
-      "minutes_to_kickoff": 7,
-      "last_scan_at": "2026-08-16T21:53:27.544953+07:00",
-      "next_scan_at": "2026-08-16T21:58:27.544953+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:07:09.034302+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -545,14 +531,16 @@
     },
     "829878": {
       "url": "https://phaohoa1.live/truc-tiep/schalke-vs-real-madrid-16-08-2026-829878",
-      "match_name": "16-08 Club Friendlies Schalke VS Real Madrid Người Lửa",
+      "match_name": "Schalke vs Real Madrid",
       "kickoff_iso": "2026-08-16T22:00:00+07:00",
-      "minutes_to_kickoff": 7,
-      "last_scan_at": "2026-08-16T21:53:27.544953+07:00",
-      "next_scan_at": "2026-08-16T21:58:27.544953+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -2,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:07:09.034302+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2"
+      ],
       "scan_decision": "browser-fallback"
     },
     "819140": {
@@ -586,6 +574,30 @@
       "minutes_to_kickoff": 149,
       "last_scan_at": "2026-08-16T21:32:00.035035+07:00",
       "next_scan_at": "2026-08-16T22:17:00.035035+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "795639": {
+      "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-eyupspor-17-08-2026-795639",
+      "match_name": "17-08 Süper Lig Besiktas VS Eyupspor Tày",
+      "kickoff_iso": "2026-08-17T01:30:00+07:00",
+      "minutes_to_kickoff": 209,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:47:09.034302+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "794444": {
+      "url": "https://phaohoa1.live/truc-tiep/lens-vs-psg-17-08-2026-794444",
+      "match_name": "17-08 Trophée des Champions Lens VS PSG Kevin",
+      "kickoff_iso": "2026-08-17T01:45:00+07:00",
+      "minutes_to_kickoff": 224,
+      "last_scan_at": "2026-08-16T22:02:09.034302+07:00",
+      "next_scan_at": "2026-08-16T22:47:09.034302+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
