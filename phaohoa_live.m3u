@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-c15418233172-1" tvg-name="[06:00 17/08] My vs Tho Nhi Ki" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/my-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[06:00 17/08] My vs Tho Nhi Ki
-http://127.0.0.1:9/__phaohoa_metadata__/c15418233172.m3u8
+#EXTINF:-1 tvg-id="phaohoa-c15418233172-1" tvg-name="[06:00 17/08] My vs Tho Nhi Ki" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/my-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[06:00 17/08] My vs Tho Nhi Ki [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="phaohoa-718676-1" tvg-name="[22:00 17/08] Gnistan VS Ilves [BLV Văn Minh]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/gnistan-vs-ilves-17-08-2026-718676" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg" phaohoa-blv="Văn Minh",[22:00 17/08] Gnistan VS Ilves [BLV Văn Minh]
 http://127.0.0.1:9/__phaohoa_metadata__/718676.m3u8
 #EXTINF:-1 tvg-id="phaohoa-795415-1" tvg-name="[22:00 17/08] Polissya Zhytomyr VS FK Zorya Luhansk [BLV Pháo Thủ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-fk-zorya-luhansk-17-08-2026-795415" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg" phaohoa-blv="Pháo Thủ",[22:00 17/08] Polissya Zhytomyr VS FK Zorya Luhansk [BLV Pháo Thủ]
