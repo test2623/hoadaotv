@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T01:01:58.893410+07:00",
+  "updated_at": "2026-08-17T01:31:49.916753+07:00",
   "matches": {
-    "795632": {
-      "url": "https://phaohoa1.live/truc-tiep/galatasaray-vs-corum-15-08-2026-795632",
-      "match_name": "Galatasaray vs Corum",
-      "kickoff_iso": "2026-08-15T01:30:00+07:00",
-      "minutes_to_kickoff": -97,
-      "last_scan_at": "2026-08-15T03:07:50.039868+07:00",
-      "next_scan_at": "2026-08-15T03:12:50.039868+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "803649": {
       "url": "https://phaohoa1.live/truc-tiep/sporting-cp-vs-vitoria-guimaraes-15-08-2026-803649",
       "match_name": "Sporting Cp vs Vitoria Guimaraes",
@@ -463,9 +449,9 @@
       "url": "https://phaohoa1.live/truc-tiep/kv-mechelen-vs-st-liege-16-08-2026-819140",
       "match_name": "KV Mechelen vs St. Liege",
       "kickoff_iso": "2026-08-16T23:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-17T01:01:58.893237+07:00",
-      "next_scan_at": "2026-08-17T01:06:58.893237+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-17T01:31:49.916563+07:00",
+      "next_scan_at": "2026-08-17T01:36:49.916563+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -477,9 +463,9 @@
       "url": "https://phaohoa1.live/truc-tiep/espanyol-vs-levante-17-08-2026-798809",
       "match_name": "Espanyol vs Levante",
       "kickoff_iso": "2026-08-17T00:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-17T01:01:58.893237+07:00",
-      "next_scan_at": "2026-08-17T01:06:58.893237+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-17T01:31:49.916563+07:00",
+      "next_scan_at": "2026-08-17T01:36:49.916563+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -491,9 +477,9 @@
       "url": "https://phaohoa1.live/truc-tiep/liverpool-vs-como-1",
       "match_name": "Liverpool vs Como 1",
       "kickoff_iso": "2026-08-17T00:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-17T01:01:58.893237+07:00",
-      "next_scan_at": "2026-08-17T01:06:58.893237+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-17T01:31:49.916563+07:00",
+      "next_scan_at": "2026-08-17T01:36:49.916563+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -515,23 +501,25 @@
     },
     "794444": {
       "url": "https://phaohoa1.live/truc-tiep/lens-vs-psg-17-08-2026-794444",
-      "match_name": "17-08 Trophée des Champions Lens VS PSG Kevin",
+      "match_name": "Lens vs Psg",
       "kickoff_iso": "2026-08-17T01:45:00+07:00",
-      "minutes_to_kickoff": 43,
-      "last_scan_at": "2026-08-17T01:01:58.893237+07:00",
-      "next_scan_at": "2026-08-17T01:11:58.893237+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-08-17T01:31:49.916563+07:00",
+      "next_scan_at": "2026-08-17T01:36:49.916563+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     },
     "803655": {
       "url": "https://phaohoa1.live/truc-tiep/braga-vs-gil-vicente-17-08-2026-803655",
       "match_name": "17-08 Primeira Liga Braga VS Gil Vicente Pháo Thủ",
       "kickoff_iso": "2026-08-17T02:30:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-08-17T01:01:58.893237+07:00",
-      "next_scan_at": "2026-08-17T01:21:58.893237+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-08-17T01:31:49.916563+07:00",
+      "next_scan_at": "2026-08-17T01:51:49.916563+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
