@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki",
     "raw_title": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa",
-    "card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",
     "home_logo": "",
@@ -43,8 +43,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -57,24 +75,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -145,10 +145,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-16T07:01:42.136457+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.884834+07:00",
     "kickoff_iso": "2026-08-16T07:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -32,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -160,12 +160,6 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/80c1cdfefe0a.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
@@ -183,20 +177,19 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "previous-playlist",
           "request/xhr",
           "response",
-          "quality/FHD",
+          "previous-playlist",
           "dom/performance"
         ],
-        "quality": "FHD",
+        "quality": "",
         "parent_url": "",
-        "candidate_score": 231,
+        "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa6",
         "family_key": "phaohoa6",
-        "quality_rank": 40,
+        "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -206,7 +199,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2324488965-1786838025-20260816T000130.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2324488965-1786838905-20260816T003123.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -232,52 +225,21 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/80c1cdfefe0a.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "80c1cdfefe0a",
-        "family_key": "80c1cdfefe0a",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/80c1cdfefe0a.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
+    "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/nashville-sc-vs-inter-miami-16-08-2026-711564",
-    "raw_title": "07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo",
-    "card_text": "07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo",
+    "raw_title": "07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo",
+    "card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg",
@@ -319,8 +281,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -333,24 +313,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -419,7 +381,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
         "score": 75,
-        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Nashville SC SẮP DIỄN RA VS 07:30 - 16/08/2026 Inter Miami TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 46 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Nashville SC ĐANG DIỄN RA 0-0 07:30 - 16/08/2026 Inter Miami relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -429,41 +391,40 @@
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000001594_YMxGXyH.jpg",
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
         "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Ngủ đi gái gú j chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none -)))) chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000057631.jpg",
         "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none nãy mỹ nhả hay gì vậy :)) chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none @kaka chào nha chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg",
       "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/1000001594_YMxGXyH.jpg",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000057631.jpg"
     ],
-    "blv": "A Heo",
+    "blv": "",
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
-    "match_name": "Nashville SC VS Inter Miami",
+    "match_name": "Nashville SC vs Inter Miami",
     "home_name": "Nashville SC",
     "away_name": "Inter Miami",
     "time": "07:30",
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nashville-sc-vs-inter-miami-16-08-2026-711564",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-16T07:01:42.141054+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-16T07:31:34.889696+07:00",
     "kickoff_iso": "2026-08-16T07:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -2,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
@@ -478,8 +439,51 @@
     "_scan_index": 2,
     "_scan_total": 2,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3264913963-1786839547-20260816T003125.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -495,7 +499,8 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: the server responded with a status of 522 ()"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -534,7 +539,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -582,8 +587,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -596,24 +619,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -675,7 +680,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Ulsan HD VS Gangwon",
     "home_name": "Ulsan HD",
     "away_name": "Gangwon",
@@ -683,10 +688,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-16T07:01:42.144140+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.892322+07:00",
     "kickoff_iso": "2026-08-16T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 628,
+    "minutes_to_kickoff": 598,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -740,8 +745,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -754,24 +777,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -833,7 +838,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Hannover VS Wolfsburg",
     "home_name": "Hannover",
     "away_name": "Wolfsburg",
@@ -841,10 +846,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/hannover-vs-wolfsburg-16-08-2026-809617",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-16T07:01:42.147201+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.894926+07:00",
     "kickoff_iso": "2026-08-16T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 688,
+    "minutes_to_kickoff": 658,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -898,8 +903,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -912,24 +935,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -991,7 +996,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Beveren VS Anderlecht",
     "home_name": "Beveren",
     "away_name": "Anderlecht",
@@ -999,10 +1004,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/beveren-vs-anderlecht-16-08-2026-819138",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-16T07:01:42.150322+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.897543+07:00",
     "kickoff_iso": "2026-08-16T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 688,
+    "minutes_to_kickoff": 658,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1056,8 +1061,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1070,24 +1093,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1149,7 +1154,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/42 hover:border-red-500/65 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Feyenoord VS G.A. Eagles",
     "home_name": "Feyenoord",
     "away_name": "G.A. Eagles",
@@ -1157,10 +1162,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/feyenoord-vs-g-a-eagles-16-08-2026-805964",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-16T07:01:42.153449+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.900166+07:00",
     "kickoff_iso": "2026-08-16T19:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 748,
+    "minutes_to_kickoff": 718,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1211,8 +1216,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1225,24 +1248,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1304,7 +1309,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Malaysia VS Việt Nam",
     "home_name": "Malaysia",
     "away_name": "Việt Nam",
@@ -1312,10 +1317,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-16-08-2026-839168",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-16T07:01:42.158732+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.904567+07:00",
     "kickoff_iso": "2026-08-16T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 778,
+    "minutes_to_kickoff": 748,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1366,8 +1371,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1380,24 +1403,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1459,7 +1464,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Malaysia VS Việt Nam",
     "home_name": "Malaysia",
     "away_name": "Việt Nam",
@@ -1467,10 +1472,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-14-08-2026-160734",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-16T07:01:42.164028+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.908951+07:00",
     "kickoff_iso": "2026-08-16T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 778,
+    "minutes_to_kickoff": 748,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1521,8 +1526,26 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7953.jpg",
-        "score": 39.93,
+        "score": 64.93,
         "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Inter Miami min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
+        "score": 64.89,
+        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
+        "score": 39.88,
+        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 39.87,
+        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1535,24 +1558,6 @@
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
         "score": 4.92,
         "context": "A Heo size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] A Heo flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg",
-        "score": 4.89,
-        "context": "Ulsan HD max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Ulsan HD min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg",
-        "score": 4.88,
-        "context": "Gangwon max-h-full max-w-full object-contain mx-auto grid size-[70px] place-items-center sm:size-[96px] Gangwon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.87,
-        "context": "Kevin size-9 rounded-full border border-white/80 object-cover shadow-[0_6px_14px_rgba(0,0,0,.14)] Kevin flex min-w-0 items-center gap-2 rounded-full bg-red-600 py-1.5 pl-1.5 pr-4 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 flex-wrap items-center justify-start gap-2",
         "source": "home-card"
       },
       {
@@ -1614,7 +1619,7 @@
     "sport_hint": "group relative block min-h-[260px] overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC VS Sắp diễn ra Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
+    "page_card_text": "07:00 - 16-08 BÓNG CHUYỀN U17 World Championship Đài Loan 0 : 0 Trực tiếp Thổ Nhĩ Kì KaKa 07:30 - 16-08 BÓNG ĐÁ MLS Nashville SC 0 : 0 Trực tiếp Inter Miami A Heo 17:30 - 16-08 BÓNG ĐÁ K League 1 Ulsan HD VS Sắp diễn ra Gangwon Kevin 18:30 - 16-08 BÓNG ĐÁ 2. Bundesliga Hannover VS Sắp diễn ra Wolfsburg Văn Minh 18:30 - 16-08 BÓNG ĐÁ First Division A Beveren VS Sắp diễn ra Anderlecht Chim Nhỏ 19:30 - 16-08 BÓNG ĐÁ Eredivisie Feyenoord VS Sắp diễn ra G.A. Eagles Tày 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam Người Lửa 20:00 - 16-08 BÓNG ĐÁ ASEAN Championship Malaysia VS Sắp diễn ra Việt Nam A Heo 21:00 - 16-08 BÓNG ĐÁ Community Shield Arsenal VS Sắp diễn ra Manchester City Kevin",
     "match_name": "Arsenal VS Manchester City",
     "home_name": "Arsenal",
     "away_name": "Manchester City",
@@ -1622,10 +1627,10 @@
     "date": "16/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/arsenal-vs-manchester-city-16-08-2026-794450",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-16T07:01:42.169238+07:00",
+    "scan_time_iso": "2026-08-16T07:31:34.913327+07:00",
     "kickoff_iso": "2026-08-16T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 838,
+    "minutes_to_kickoff": 808,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",

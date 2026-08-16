@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-711564-1" tvg-name="[07:30 16/08] Nashville SC VS Inter Miami [BLV A Heo]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nashville-sc-vs-inter-miami-16-08-2026-711564" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_332.png" phaohoa-blv="A Heo",[07:30 16/08] Nashville SC VS Inter Miami [BLV A Heo]
-http://127.0.0.1:9/__phaohoa_metadata__/711564.m3u8
+#EXTINF:-1 tvg-id="phaohoa-711564-1" tvg-name="[07:30 16/08] Nashville SC vs Inter Miami" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nashville-sc-vs-inter-miami-16-08-2026-711564" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7955.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_332.png",[07:30 16/08] Nashville SC vs Inter Miami [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-id="phaohoa-728370-1" tvg-name="[17:30 16/08] Ulsan HD VS Gangwon [BLV Kevin]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_379.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5171.jpg" phaohoa-blv="Kevin",[17:30 16/08] Ulsan HD VS Gangwon [BLV Kevin]
 http://127.0.0.1:9/__phaohoa_metadata__/728370.m3u8
 #EXTINF:-1 tvg-id="phaohoa-819138-1" tvg-name="[18:30 16/08] Beveren VS Anderlecht [BLV Chim Nhỏ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/beveren-vs-anderlecht-16-08-2026-819138" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_1371.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_1371.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_1361.jpg" phaohoa-blv="Chim Nhỏ",[18:30 16/08] Beveren VS Anderlecht [BLV Chim Nhỏ]
@@ -15,7 +20,7 @@ http://127.0.0.1:9/__phaohoa_metadata__/839168.m3u8
 http://127.0.0.1:9/__phaohoa_metadata__/160734.m3u8
 #EXTINF:-1 tvg-id="phaohoa-794450-1" tvg-name="[21:00 16/08] Arsenal VS Manchester City [BLV Kevin]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/arsenal-vs-manchester-city-16-08-2026-794450" tvg-logo="https://phaohoa1.live/favicon.ico" phaohoa-blv="Kevin",[21:00 16/08] Arsenal VS Manchester City [BLV Kevin]
 http://127.0.0.1:9/__phaohoa_metadata__/794450.m3u8
-#EXTINF:-1 tvg-id="phaohoa-80c1cdfefe0a-1" tvg-name="[07:00 16/08] Dai Loan vs Tho Nhi Ki" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[07:00 16/08] Dai Loan vs Tho Nhi Ki [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-80c1cdfefe0a-1" tvg-name="[07:00 16/08] Dai Loan vs Tho Nhi Ki" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[07:00 16/08] Dai Loan vs Tho Nhi Ki [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
