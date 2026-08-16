@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T02:41:32.034761+07:00",
+  "updated_at": "2026-08-17T03:01:38.603703+07:00",
   "matches": {
     "8cf9ae988085": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-dai-loan",
@@ -475,9 +475,9 @@
       "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-eyupspor-17-08-2026-795639",
       "match_name": "Besiktas vs Eyupspor",
       "kickoff_iso": "2026-08-17T01:30:00+07:00",
-      "minutes_to_kickoff": -30,
-      "last_scan_at": "2026-08-17T02:01:20.851544+07:00",
-      "next_scan_at": "2026-08-17T02:06:20.851544+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-17T03:01:38.603550+07:00",
+      "next_scan_at": "2026-08-17T03:06:38.603550+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -489,9 +489,9 @@
       "url": "https://phaohoa1.live/truc-tiep/lens-vs-psg-17-08-2026-794444",
       "match_name": "Lens vs Psg",
       "kickoff_iso": "2026-08-17T01:45:00+07:00",
-      "minutes_to_kickoff": -16,
-      "last_scan_at": "2026-08-17T02:01:20.851544+07:00",
-      "next_scan_at": "2026-08-17T02:06:20.851544+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-17T03:01:38.603550+07:00",
+      "next_scan_at": "2026-08-17T03:06:38.603550+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -515,13 +515,27 @@
       "url": "https://phaohoa1.live/truc-tiep/my-vs-tho-nhi-ki",
       "match_name": "17-08 U17 World Championship Mỹ VS Thổ Nhĩ Kì KaKa",
       "kickoff_iso": "2026-08-17T06:00:00+07:00",
-      "minutes_to_kickoff": 240,
-      "last_scan_at": "2026-08-17T02:01:20.851544+07:00",
-      "next_scan_at": "2026-08-17T02:46:20.851544+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-17T03:01:38.603550+07:00",
+      "next_scan_at": "2026-08-17T03:46:38.603550+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
+    },
+    "803653": {
+      "url": "https://phaohoa1.live/truc-tiep/famalicao-vs-maritimo-17-08-2026-803653",
+      "match_name": "Famalicao vs Maritimo",
+      "kickoff_iso": "2026-08-17T02:30:00+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-17T03:01:38.603550+07:00",
+      "next_scan_at": "2026-08-17T03:06:38.603550+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
     }
   }
 }
