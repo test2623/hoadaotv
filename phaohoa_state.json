@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T06:01:29.300767+07:00",
+  "updated_at": "2026-08-17T06:31:25.695844+07:00",
   "matches": {
     "2177a6c6d3d7": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-han-quoc",
@@ -503,9 +503,9 @@
       "url": "https://phaohoa1.live/truc-tiep/my-vs-tho-nhi-ki",
       "match_name": "Mỹ vs Thổ Nhĩ Kì",
       "kickoff_iso": "2026-08-17T06:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-17T06:01:29.300627+07:00",
-      "next_scan_at": "2026-08-17T06:06:29.300627+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-17T06:31:25.695773+07:00",
+      "next_scan_at": "2026-08-17T06:36:25.695773+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
