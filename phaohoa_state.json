@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T20:32:03.438152+07:00",
+  "updated_at": "2026-08-16T20:43:16.704054+07:00",
   "matches": {
     "781406": {
       "url": "https://phaohoa1.live/truc-tiep/orenburg-vs-lokomotiv-moscow-14-08-2026-781406",
@@ -477,9 +477,9 @@
       "url": "https://phaohoa1.live/truc-tiep/feyenoord-vs-g-a-eagles-16-08-2026-805964",
       "match_name": "Feyenoord vs G.A. Eagles",
       "kickoff_iso": "2026-08-16T19:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-16T20:32:03.437874+07:00",
-      "next_scan_at": "2026-08-16T20:37:03.437874+07:00",
+      "minutes_to_kickoff": -72,
+      "last_scan_at": "2026-08-16T20:43:16.703881+07:00",
+      "next_scan_at": "2026-08-16T20:48:16.703881+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -491,9 +491,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-16-08-2026-839168",
       "match_name": "Malaysia vs Việt Nam",
       "kickoff_iso": "2026-08-16T20:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-16T20:32:03.437874+07:00",
-      "next_scan_at": "2026-08-16T20:37:03.437874+07:00",
+      "minutes_to_kickoff": -42,
+      "last_scan_at": "2026-08-16T20:43:16.703881+07:00",
+      "next_scan_at": "2026-08-16T20:48:16.703881+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -505,9 +505,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-14-08-2026-160734",
       "match_name": "Malaysia vs Việt Nam",
       "kickoff_iso": "2026-08-16T20:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-16T20:32:03.437874+07:00",
-      "next_scan_at": "2026-08-16T20:37:03.437874+07:00",
+      "minutes_to_kickoff": -42,
+      "last_scan_at": "2026-08-16T20:43:16.703881+07:00",
+      "next_scan_at": "2026-08-16T20:48:16.703881+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -519,9 +519,9 @@
       "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-manchester-city-16-08-2026-794450",
       "match_name": "Arsenal vs Manchester City",
       "kickoff_iso": "2026-08-16T21:00:00+07:00",
-      "minutes_to_kickoff": 28,
-      "last_scan_at": "2026-08-16T20:32:03.437874+07:00",
-      "next_scan_at": "2026-08-16T20:37:03.437874+07:00",
+      "minutes_to_kickoff": 17,
+      "last_scan_at": "2026-08-16T20:43:16.703881+07:00",
+      "next_scan_at": "2026-08-16T20:48:16.703881+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
