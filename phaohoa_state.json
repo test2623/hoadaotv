@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-16T16:30:56.800082+07:00",
+  "updated_at": "2026-08-16T16:47:34.155099+07:00",
   "matches": {
     "807483": {
       "url": "https://phaohoa1.live/truc-tiep/verdy-vs-kashiwa-reysol-14-08-2026-807483",
@@ -477,13 +477,13 @@
       "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370",
       "match_name": "16-08 K League 1 Ulsan HD VS Gangwon Kevin",
       "kickoff_iso": "2026-08-16T17:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-16T16:30:56.799970+07:00",
-      "next_scan_at": "2026-08-16T16:50:56.799970+07:00",
+      "minutes_to_kickoff": 43,
+      "last_scan_at": "2026-08-16T16:47:34.154963+07:00",
+      "next_scan_at": "2026-08-16T16:57:34.154963+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "809617": {
       "url": "https://phaohoa1.live/truc-tiep/hannover-vs-wolfsburg-16-08-2026-809617",
@@ -525,9 +525,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-16-08-2026-839168",
       "match_name": "16-08 ASEAN Championship Malaysia VS Việt Nam Người Lửa",
       "kickoff_iso": "2026-08-16T20:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-16T16:00:59.886576+07:00",
-      "next_scan_at": "2026-08-16T16:45:59.886576+07:00",
+      "minutes_to_kickoff": 193,
+      "last_scan_at": "2026-08-16T16:47:34.154963+07:00",
+      "next_scan_at": "2026-08-16T17:32:34.154963+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -537,9 +537,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaysia-vs-viet-nam-14-08-2026-160734",
       "match_name": "16-08 ASEAN Championship Malaysia VS Việt Nam A Heo",
       "kickoff_iso": "2026-08-16T20:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-16T16:00:59.886576+07:00",
-      "next_scan_at": "2026-08-16T16:45:59.886576+07:00",
+      "minutes_to_kickoff": 193,
+      "last_scan_at": "2026-08-16T16:47:34.154963+07:00",
+      "next_scan_at": "2026-08-16T17:32:34.154963+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
