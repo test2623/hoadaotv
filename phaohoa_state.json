@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T03:31:45.599989+07:00",
+  "updated_at": "2026-08-17T03:50:16.483922+07:00",
   "matches": {
     "8cf9ae988085": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-dai-loan",
@@ -515,9 +515,9 @@
       "url": "https://phaohoa1.live/truc-tiep/my-vs-tho-nhi-ki",
       "match_name": "17-08 U17 World Championship Mỹ VS Thổ Nhĩ Kì KaKa",
       "kickoff_iso": "2026-08-17T06:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-08-17T03:01:38.603550+07:00",
-      "next_scan_at": "2026-08-17T03:46:38.603550+07:00",
+      "minutes_to_kickoff": 130,
+      "last_scan_at": "2026-08-17T03:50:16.483831+07:00",
+      "next_scan_at": "2026-08-17T04:35:16.483831+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -527,9 +527,9 @@
       "url": "https://phaohoa1.live/truc-tiep/famalicao-vs-maritimo-17-08-2026-803653",
       "match_name": "Famalicao vs Maritimo",
       "kickoff_iso": "2026-08-17T02:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-17T03:31:45.599906+07:00",
-      "next_scan_at": "2026-08-17T03:36:45.599906+07:00",
+      "minutes_to_kickoff": -80,
+      "last_scan_at": "2026-08-17T03:50:16.483831+07:00",
+      "next_scan_at": "2026-08-17T03:55:16.483831+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
