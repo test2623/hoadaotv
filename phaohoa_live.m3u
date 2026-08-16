@@ -20,10 +20,5 @@ http://127.0.0.1:9/__phaohoa_metadata__/839168.m3u8
 http://127.0.0.1:9/__phaohoa_metadata__/160734.m3u8
 #EXTINF:-1 tvg-id="phaohoa-794450-1" tvg-name="[21:00 16/08] Arsenal VS Manchester City [BLV Kevin]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/arsenal-vs-manchester-city-16-08-2026-794450" tvg-logo="https://phaohoa1.live/favicon.ico" phaohoa-blv="Kevin",[21:00 16/08] Arsenal VS Manchester City [BLV Kevin]
 http://127.0.0.1:9/__phaohoa_metadata__/794450.m3u8
-#EXTINF:-1 tvg-id="phaohoa-80c1cdfefe0a-1" tvg-name="[07:00 16/08] Dai Loan vs Tho Nhi Ki" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[07:00 16/08] Dai Loan vs Tho Nhi Ki [M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-id="phaohoa-80c1cdfefe0a-1" tvg-name="[07:00 16/08] Dai Loan vs Tho Nhi Ki" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/dai-loan-vs-tho-nhi-ki" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[07:00 16/08] Dai Loan vs Tho Nhi Ki
+http://127.0.0.1:9/__phaohoa_metadata__/80c1cdfefe0a.m3u8
