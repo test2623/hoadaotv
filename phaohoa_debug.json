@@ -91,12 +91,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -131,6 +125,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
@@ -145,10 +145,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T06:31:05.352420+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.876858+07:00",
     "kickoff_iso": "2026-08-18T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 724,
+    "minutes_to_kickoff": 708,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -249,12 +249,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -289,6 +283,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Kevin + Tày",
@@ -303,10 +303,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T06:31:05.358380+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.879357+07:00",
     "kickoff_iso": "2026-08-18T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 809,
+    "minutes_to_kickoff": 793,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -407,12 +407,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -447,6 +441,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
@@ -461,10 +461,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T06:31:05.363757+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.881731+07:00",
     "kickoff_iso": "2026-08-18T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 989,
+    "minutes_to_kickoff": 973,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -478,11 +478,10 @@
     "raw_title": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày",
     "card_text": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+    "home_logo": "",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png"
     ],
     "logo_candidates": [
@@ -565,12 +564,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -605,6 +598,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "",
@@ -619,10 +618,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T06:31:05.367459+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.884401+07:00",
     "kickoff_iso": "2026-08-18T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1004,
+    "minutes_to_kickoff": 988,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -723,12 +722,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -763,6 +756,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Pháo Thủ",
@@ -777,10 +776,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-najma-vs-al-ittihad-18-08-2026-791880",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T06:31:05.370754+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.887071+07:00",
     "kickoff_iso": "2026-08-18T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1004,
+    "minutes_to_kickoff": 988,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -880,12 +879,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -920,6 +913,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
@@ -934,10 +933,10 @@
     "date": "19/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/din-zagreb-vs-viking-19-08-2026-841013",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T06:31:05.373838+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.889305+07:00",
     "kickoff_iso": "2026-08-19T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1169,
+    "minutes_to_kickoff": 1153,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1037,12 +1036,6 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
-        "score": 4.75,
-        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
         "score": 4.74,
         "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
@@ -1077,6 +1070,12 @@
         "score": 4.63,
         "context": "Al Diriyah max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Diriyah min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",
+        "score": 4.62,
+        "context": "Al Nassr max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Nassr min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "",
@@ -1091,10 +1090,10 @@
     "date": "19/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T06:31:05.377526+07:00",
+    "scan_time_iso": "2026-08-18T06:46:30.891988+07:00",
     "kickoff_iso": "2026-08-19T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1169,
+    "minutes_to_kickoff": 1153,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
