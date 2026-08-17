@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T03:31:50.531520+07:00",
+  "updated_at": "2026-08-18T03:59:46.093009+07:00",
   "matches": {
     "e888388be010": {
       "url": "https://phaohoa1.live/truc-tiep/my-vs-trung-quoc",
@@ -391,9 +391,9 @@
       "url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
       "match_name": "Casa Pia vs Benfica",
       "kickoff_iso": "2026-08-18T02:15:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-08-18T03:31:50.531434+07:00",
-      "next_scan_at": "2026-08-18T03:36:50.531434+07:00",
+      "minutes_to_kickoff": -104,
+      "last_scan_at": "2026-08-18T03:59:46.092960+07:00",
+      "next_scan_at": "2026-08-18T04:04:46.092960+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
