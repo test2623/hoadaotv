@@ -1,266 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
-    "raw_title": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ",
-    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_604.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
-        "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
-        "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
-        "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
-        "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
-        "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
-        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
-        "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
-        "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
-        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
-        "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 75,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Raed min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
-        "score": 75,
-        "context": "size-5 object-contain KING'S CUP flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs KING'S CUP Al Raed 85' 0-2 01:00 - 18/08/2026 Al Hilal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 50,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Hilal min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Al Raed vs Al Hilal",
-    "home_name": "Al Raed",
-    "away_name": "Al Hilal",
-    "time": "01:00",
-    "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:47:33.370020+07:00",
-    "kickoff_iso": "2026-08-18T01:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -108,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 2,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "previous-playlist",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa4",
-        "family_key": "phaohoa4",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2327598931-1786985771-20260817T194718.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-elche-18-08-2026-798811",
-    "raw_title": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin",
-    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "raw_title": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin",
+    "card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
@@ -277,142 +19,142 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
+        "score": 64.99,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
+        "score": 64.98,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
+        "score": 64.97,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
+        "score": 64.93,
         "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
+        "score": 64.92,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
+        "score": 64.91,
         "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
+        "score": 64.87,
         "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
+        "score": 64.79,
         "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
+        "score": 39.86,
         "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 39.85,
         "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
+        "score": 4.81,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
+        "score": 4.8,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
+        "score": 4.75,
         "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
+        "score": 4.74,
         "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
+        "score": 4.73,
         "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
+        "score": 4.69,
         "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
       {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
-        "score": 75,
-        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Dep. La Coruna 45+ 1-0 02:00 - 18/08/2026 Elche relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 70,
+        "score": 75,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Dep. La Coruna min-w-0 text-center",
         "source": "detail-match"
       },
       {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+        "score": 75,
+        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Dep. La Coruna GIẢI LAO 1-0 02:00 - 18/08/2026 Elche relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 45,
+        "score": 50,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Elche min-w-0 text-center",
         "source": "detail-match"
       },
-      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg"
     ],
     "blv": "",
@@ -426,10 +168,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-elche-18-08-2026-798811",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:47:33.375374+07:00",
+    "scan_time_iso": "2026-08-18T03:01:36.828514+07:00",
     "kickoff_iso": "2026-08-18T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -48,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -441,17 +183,11 @@
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/798811.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 2,
+    "_scan_index": 1,
     "_scan_total": 2,
-    "time_source": "home-card",
+    "time_source": "json-ld/startDate",
     "streams": [
       {
         "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
@@ -464,8 +200,8 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "previous-playlist",
           "request/xhr",
+          "previous-playlist",
           "response",
           "quality/FHD",
           "dom/performance"
@@ -487,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2843052349-1786993483-20260817T194721.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2843052349-1786993849-20260817T200122.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -516,9 +252,266 @@
       "console/error: Failed to load resource: net::ERR_FAILED"
     ],
     "scan_decision": "browser-fallback",
+    "rejected_streams": [],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
+    "raw_title": "02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ",
+    "card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
+        "score": 64.99,
+        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
+        "score": 64.98,
+        "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+        "score": 64.93,
+        "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 64.92,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.91,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
+        "score": 64.87,
+        "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
+        "score": 64.79,
+        "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
+        "score": 39.86,
+        "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 39.85,
+        "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
+        "score": 4.81,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
+        "score": 4.8,
+        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
+        "score": 4.75,
+        "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
+        "score": 4.74,
+        "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.73,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
+        "score": 4.69,
+        "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
+        "score": 75,
+        "context": "size-5 object-contain PRIMEIRA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PRIMEIRA LIGA Casa Pia 45' 0-2 02:15 - 18/08/2026 Benfica relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+        "score": 70,
+        "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Casa Pia min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 45,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Benfica min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media/tournaments/icons/tournament_266.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg"
+    ],
+    "blv": "",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Casa Pia vs Benfica",
+    "home_name": "Casa Pia",
+    "away_name": "Benfica",
+    "time": "02:15",
+    "date": "18/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-18T03:01:36.833767+07:00",
+    "kickoff_iso": "2026-08-18T02:15:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -47,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803656.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 2,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3174566128-1786994596-20260817T200127.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED"
+    ],
+    "scan_decision": "browser-fallback",
     "rejected_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/798811.m3u8",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/803656.m3u8",
         "referer": "https://phaohoa1.live/",
         "origin": "https://phaohoa1.live",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -533,13 +526,13 @@
         "candidate_score": 90,
         "observed_active": false,
         "high_confidence_observed": false,
-        "channel_key": "798811",
-        "family_key": "798811",
+        "channel_key": "803656",
+        "family_key": "803656",
         "quality_rank": 0,
         "probe": {
           "status": 0,
           "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/798811.m3u8",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/803656.m3u8",
           "error": "URLError: <urlopen error [Errno 111] Connection refused>",
           "playable": false,
           "state": "invalid",
@@ -556,165 +549,7 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
-    "raw_title": "18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh",
-    "card_text": "18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
-        "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
-        "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
-        "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
-        "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
-        "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
-        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
-        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
-        "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
-        "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
-        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
-        "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
-        "source": "home-card"
-      }
-    ],
-    "blv": "Văn Minh",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "match_name": "Shanghai Shenhua VS Beijing Guoan",
-    "home_name": "Shanghai Shenhua",
-    "away_name": "Beijing Guoan",
-    "time": "18:35",
-    "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T02:47:33.378761+07:00",
-    "kickoff_iso": "2026-08-18T18:35:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 947,
-    "timing_state": "future",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
+    "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
     "raw_title": "20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày",
     "card_text": "20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày",
     "raw_time": "",
@@ -733,136 +568,136 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
+        "score": 64.99,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
+        "score": 64.98,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
+        "score": 64.97,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
+        "score": 64.93,
         "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
+        "score": 64.92,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
+        "score": 64.91,
         "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
+        "score": 64.87,
         "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
+        "score": 64.79,
         "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
+        "score": 39.86,
         "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 39.85,
         "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
+        "score": 4.81,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
+        "score": 4.8,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
+        "score": 4.75,
         "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
+        "score": 4.74,
         "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
+        "score": 4.73,
         "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
+        "score": 4.69,
         "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       }
     ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "blv": "Kevin + Tày",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "match_name": "18-08 ASEAN Championship Thái Lan VS Singapore Kevin + Tày",
-    "home_name": "18-08 ASEAN Championship Thái Lan",
-    "away_name": "Singapore Kevin + Tày",
+    "page_card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "match_name": "Thái Lan VS Singapore",
+    "home_name": "Thái Lan",
+    "away_name": "Singapore",
     "time": "20:00",
     "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:47:33.382573+07:00",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-18T03:01:36.837072+07:00",
     "kickoff_iso": "2026-08-18T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1032,
+    "minutes_to_kickoff": 1018,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -872,7 +707,7 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
+    "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
     "raw_title": "22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa",
     "card_text": "22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa",
     "raw_time": "",
@@ -891,136 +726,136 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
+        "score": 64.99,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
+        "score": 64.98,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
+        "score": 64.97,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
+        "score": 64.93,
         "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
+        "score": 64.92,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
+        "score": 64.91,
         "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
+        "score": 64.87,
         "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
+        "score": 64.79,
         "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
+        "score": 39.86,
         "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 39.85,
         "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
+        "score": 4.81,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
+        "score": 4.8,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
+        "score": 4.75,
         "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
+        "score": 4.74,
         "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
+        "score": 4.73,
         "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
+        "score": 4.69,
         "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       }
     ],
-    "blv": "KaKa",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "match_name": "Buxoro VS Neftchi Fargona",
-    "home_name": "Buxoro",
-    "away_name": "Neftchi Fargona",
+    "page_card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "match_name": "18-08 Super League Buxoro VS Neftchi Fargona KaKa",
+    "home_name": "18-08 Super League Buxoro",
+    "away_name": "Neftchi Fargona KaKa",
     "time": "22:00",
     "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T02:47:33.385797+07:00",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-18T03:01:36.840698+07:00",
     "kickoff_iso": "2026-08-18T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1152,
+    "minutes_to_kickoff": 1138,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1030,15 +865,16 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
-    "raw_title": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày",
-    "card_text": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày",
+    "url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
+    "raw_title": "23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ",
+    "card_text": "23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg"
     ],
     "logo_candidates": [
       {
@@ -1048,136 +884,136 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
+        "score": 64.99,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
+        "score": 64.98,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
+        "score": 64.97,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
+        "score": 64.93,
         "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
+        "score": 64.92,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
+        "score": 64.91,
         "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
+        "score": 64.87,
         "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
+        "score": 64.79,
         "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
+        "score": 39.86,
         "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 39.85,
         "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
+        "score": 4.81,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
+        "score": 4.8,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
+        "score": 4.75,
         "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
+        "score": 4.74,
         "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
+        "score": 4.73,
         "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
+        "score": 4.69,
         "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       }
     ],
-    "blv": "Tày",
+    "blv": "Chim Nhỏ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "match_name": "Al Jabalain VS Al Ettifaq",
-    "home_name": "Al Jabalain",
-    "away_name": "Al Ettifaq",
-    "time": "23:15",
+    "page_card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "match_name": "Heidenheim VS Bayern Munich",
+    "home_name": "Heidenheim",
+    "away_name": "Bayern Munich",
+    "time": "23:00",
     "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:47:33.388875+07:00",
-    "kickoff_iso": "2026-08-18T23:15:00+07:00",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-18T03:01:36.843958+07:00",
+    "kickoff_iso": "2026-08-18T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1227,
+    "minutes_to_kickoff": 1198,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1187,15 +1023,15 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
+    "url": "https://phaohoa1.live/truc-tiep/al-najma-vs-al-ittihad-18-08-2026-791880",
     "raw_title": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "card_text": "23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "raw_time": "",
     "logo": "",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg"
     ],
     "logo_candidates": [
       {
@@ -1205,136 +1041,293 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-        "score": 64.99,
-        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Raed min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.98,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.93,
+        "score": 64.99,
         "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 64.92,
+        "score": 64.98,
         "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.91,
+        "score": 64.97,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
-        "score": 64.87,
+        "score": 64.93,
         "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.86,
+        "score": 64.92,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
+        "score": 64.91,
         "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
-        "score": 64.81,
+        "score": 64.87,
         "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
-        "score": 64.73,
+        "score": 64.79,
         "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
-        "score": 39.8,
+        "score": 39.86,
         "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 39.85,
         "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
-        "score": 4.75,
+        "score": 4.81,
         "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
-        "score": 4.74,
+        "score": 4.8,
         "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
-        "score": 4.69,
+        "score": 4.75,
         "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
-        "score": 4.68,
+        "score": 4.74,
         "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 4.67,
+        "score": 4.73,
         "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
-        "score": 4.63,
+        "score": 4.69,
         "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Pháo Thủ",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "match_name": "Al Najma VS Al Ittihad",
+    "home_name": "Al Najma",
+    "away_name": "Al Ittihad",
+    "time": "23:15",
+    "date": "18/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-najma-vs-al-ittihad-18-08-2026-791880",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-18T03:01:36.847076+07:00",
+    "kickoff_iso": "2026-08-18T23:15:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 1213,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
+    "raw_title": "01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "card_text": "01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
+        "score": 64.99,
+        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
+        "score": 64.98,
+        "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Elche min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6018.jpg",
+        "score": 64.93,
+        "context": "Casa Pia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Casa Pia min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 64.92,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.91,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_381.jpg",
+        "score": 64.87,
+        "context": "Shanghai Shenhua max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Shanghai Shenhua min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/aae2f218-9c9b-4686-911a-c1c52868cfd1.png",
+        "score": 64.79,
+        "context": "Kevin + Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin + Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin + Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_375.jpg",
+        "score": 39.86,
+        "context": "Beijing Guoan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Beijing Guoan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 39.85,
+        "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_480.jpg",
+        "score": 4.81,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_483.jpg",
+        "score": 4.8,
+        "context": "Singapore max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Singapore min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10546.jpg",
+        "score": 4.75,
+        "context": "Buxoro max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Buxoro min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_10543.jpg",
+        "score": 4.74,
+        "context": "Neftchi Fargona max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Neftchi Fargona min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.73,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3917.jpg",
+        "score": 4.69,
+        "context": "Heidenheim max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Heidenheim min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_72.jpg",
+        "score": 4.68,
+        "context": "Bayern Munich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bayern Munich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Al_Jabalain_Logo.png",
+        "score": 4.63,
+        "context": "Al Jabalain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Jabalain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
+        "score": 4.62,
+        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
         "source": "home-card"
       }
     ],
     "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 2 85' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 45+ Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 31' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
-    "match_name": "18-08 King's Cup Al Najma VS Al Ittihad Pháo Thủ",
-    "home_name": "18-08 King's Cup Al Najma",
-    "away_name": "Al Ittihad Pháo Thủ",
-    "time": "23:15",
-    "date": "18/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
+    "page_card_text": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 Giải lao Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 45' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ 01:00 - 19-08 BÓNG ĐÁ King's Cup Al Diriyah VS Sắp diễn ra Al Nassr Kevin",
+    "match_name": "19-08 King's Cup Al Diriyah VS Al Nassr Kevin",
+    "home_name": "19-08 King's Cup Al Diriyah",
+    "away_name": "Al Nassr Kevin",
+    "time": "01:00",
+    "date": "19/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:47:33.392412+07:00",
-    "kickoff_iso": "2026-08-18T23:15:00+07:00",
+    "scan_time_iso": "2026-08-18T03:01:36.850471+07:00",
+    "kickoff_iso": "2026-08-19T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1227,
+    "minutes_to_kickoff": 1318,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
