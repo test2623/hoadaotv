@@ -1,15 +1,15 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
-    "raw_title": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ",
-    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "raw_title": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ",
+    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_604.png"
     ],
     "logo_candidates": [
       {
@@ -134,7 +134,28 @@
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
+        "score": 75,
+        "context": "Al Raed max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Raed min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
+        "score": 75,
+        "context": "size-5 object-contain KING'S CUP flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs KING'S CUP Al Raed 69' 0-1 01:00 - 18/08/2026 Al Hilal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 45,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Hilal min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_6334.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_604.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -147,10 +168,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:01:36.808429+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.684275+07:00",
     "kickoff_iso": "2026-08-18T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -62,
+    "minutes_to_kickoff": -91,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -182,16 +203,17 @@
           "previous-playlist",
           "request/xhr",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa4",
         "family_key": "phaohoa4",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -201,7 +223,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2327598931-1786984596-20260817T190117.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2327598931-1786985358-20260817T193118.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -237,15 +259,15 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-elche-18-08-2026-798811",
-    "raw_title": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin",
-    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "raw_title": "02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin",
+    "card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg"
     ],
     "logo_candidates": [
       {
@@ -370,28 +392,7 @@
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 75,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Dep. La Coruna min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
-        "score": 75,
-        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Dep. La Coruna ĐANG DIỄN RA 0-0 02:00 - 18/08/2026 Elche relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg",
-        "score": 50,
-        "context": "Elche max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Elche min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -404,26 +405,32 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-elche-18-08-2026-798811",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:01:36.813234+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.688505+07:00",
     "kickoff_iso": "2026-08-18T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
+    "minutes_to_kickoff": -31,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
+    "delta_reason": "near-or-live",
     "_previous_streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      },
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/798811.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 2,
     "_scan_total": 2,
-    "time_source": "json-ld/startDate",
+    "time_source": "home-card",
     "streams": [
       {
         "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
@@ -436,19 +443,19 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
+          "previous-playlist",
           "request/xhr",
           "response",
-          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "FHD",
+        "quality": "",
         "parent_url": "",
-        "candidate_score": 231,
+        "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa2",
         "family_key": "phaohoa2",
-        "quality_rank": 40,
+        "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -458,7 +465,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2843052349-1786992191-20260817T190127.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2843052349-1786993032-20260817T193114.ts?volcDst=MTAuMTMuOC4xNDg",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -664,7 +671,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "match_name": "Shanghai Shenhua VS Beijing Guoan",
     "home_name": "Shanghai Shenhua",
     "away_name": "Beijing Guoan",
@@ -672,10 +679,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T02:01:36.816216+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.691557+07:00",
     "kickoff_iso": "2026-08-18T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 993,
+    "minutes_to_kickoff": 964,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -822,7 +829,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "match_name": "18-08 ASEAN Championship Thái Lan VS Singapore Kevin + Tày",
     "home_name": "18-08 ASEAN Championship Thái Lan",
     "away_name": "Singapore Kevin + Tày",
@@ -830,10 +837,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:01:36.819501+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.694983+07:00",
     "kickoff_iso": "2026-08-18T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1078,
+    "minutes_to_kickoff": 1049,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -980,7 +987,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "match_name": "Buxoro VS Neftchi Fargona",
     "home_name": "Buxoro",
     "away_name": "Neftchi Fargona",
@@ -988,10 +995,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-18T02:01:36.822317+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.697889+07:00",
     "kickoff_iso": "2026-08-18T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1198,
+    "minutes_to_kickoff": 1169,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1137,7 +1144,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "match_name": "Al Jabalain VS Al Ettifaq",
     "home_name": "Al Jabalain",
     "away_name": "Al Ettifaq",
@@ -1145,10 +1152,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:01:36.824995+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.700671+07:00",
     "kickoff_iso": "2026-08-18T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1273,
+    "minutes_to_kickoff": 1244,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1294,7 +1301,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/85 shadow-[0_0_0_1px_rgba(239,68,68,.22),0_18px_42px_rgba(220,38,38,.16)] | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 Giải lao Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 0 : 0 Trực tiếp Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 0 Trực tiếp Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
+    "page_card_text": "01:00 - 18-08 BÓNG ĐÁ King's Cup Al Raed 0 : 1 69' Al Hilal Pháo Thủ 02:00 - 18-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 29' Elche Kevin 02:15 - 18-08 BÓNG ĐÁ Primeira Liga Casa Pia 0 : 2 15' Benfica Chim Nhỏ 18:35 - 18-08 BÓNG ĐÁ Chinese Super League Shanghai Shenhua VS Sắp diễn ra Beijing Guoan Văn Minh 20:00 - 18-08 BÓNG ĐÁ ASEAN Championship Thái Lan VS Sắp diễn ra Singapore Kevin + Tày 22:00 - 18-08 BÓNG ĐÁ Super League Buxoro VS Sắp diễn ra Neftchi Fargona KaKa 23:00 - 18-08 BÓNG ĐÁ Club Friendlies Heidenheim VS Sắp diễn ra Bayern Munich Chim Nhỏ 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Jabalain VS Sắp diễn ra Al Ettifaq Tày 23:15 - 18-08 BÓNG ĐÁ King's Cup Al Najma VS Sắp diễn ra Al Ittihad Pháo Thủ",
     "match_name": "18-08 King's Cup Al Najma VS Al Ittihad Pháo Thủ",
     "home_name": "18-08 King's Cup Al Najma",
     "away_name": "Al Ittihad Pháo Thủ",
@@ -1302,10 +1309,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-18T02:01:36.828025+07:00",
+    "scan_time_iso": "2026-08-18T02:31:28.703827+07:00",
     "kickoff_iso": "2026-08-18T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1273,
+    "minutes_to_kickoff": 1244,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
