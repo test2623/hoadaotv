@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T18:31:02.315252+07:00",
+  "updated_at": "2026-08-17T18:45:35.551840+07:00",
   "matches": {
-    "742951": {
-      "url": "https://phaohoa1.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-15-08-2026-742951",
-      "match_name": "Zhejiang Professional vs Chengdu Rongcheng",
-      "kickoff_iso": "2026-08-15T18:35:00+07:00",
-      "minutes_to_kickoff": -116,
-      "last_scan_at": "2026-08-15T20:31:55.608737+07:00",
-      "next_scan_at": "2026-08-15T20:36:55.608737+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "821408": {
       "url": "https://phaohoa1.live/truc-tiep/chelsea-vs-real-sociedad-15-08-2026-821408",
       "match_name": "Chelsea vs Real Sociedad",
