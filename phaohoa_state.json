@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T22:53:56.405019+07:00",
+  "updated_at": "2026-08-17T23:01:34.883728+07:00",
   "matches": {
     "825104": {
       "url": "https://phaohoa1.live/truc-tiep/al-taawon-vs-al-khaleej-15-08-2026-825104",
@@ -403,9 +403,9 @@
       "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-fk-zorya-luhansk-17-08-2026-795415",
       "match_name": "Polissya Zhytomyr vs Fk Zorya Luhansk",
       "kickoff_iso": "2026-08-17T22:00:00+07:00",
-      "minutes_to_kickoff": -53,
-      "last_scan_at": "2026-08-17T22:53:56.404861+07:00",
-      "next_scan_at": "2026-08-17T22:58:56.404861+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-17T23:01:34.883608+07:00",
+      "next_scan_at": "2026-08-17T23:06:34.883608+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -417,9 +417,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gnistan-vs-ilves-17-08-2026-718676",
       "match_name": "Gnistan vs Ilves",
       "kickoff_iso": "2026-08-17T22:00:00+07:00",
-      "minutes_to_kickoff": -53,
-      "last_scan_at": "2026-08-17T22:53:56.404861+07:00",
-      "next_scan_at": "2026-08-17T22:58:56.404861+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-17T23:01:34.883608+07:00",
+      "next_scan_at": "2026-08-17T23:06:34.883608+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -441,14 +441,16 @@
     },
     "791884": {
       "url": "https://phaohoa1.live/truc-tiep/al-taee-vs-al-qadsiah-17-08-2026-791884",
-      "match_name": "17-08 King's Cup Al Taee VS Al Qadsiah Chim Nhỏ",
+      "match_name": "Al Taee vs Al Qadsiah",
       "kickoff_iso": "2026-08-17T23:15:00+07:00",
-      "minutes_to_kickoff": 22,
-      "last_scan_at": "2026-08-17T22:53:56.404861+07:00",
-      "next_scan_at": "2026-08-17T23:03:56.404861+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-08-17T23:01:34.883608+07:00",
+      "next_scan_at": "2026-08-17T23:06:34.883608+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "779580": {
