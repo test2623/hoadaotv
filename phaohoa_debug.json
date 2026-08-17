@@ -6,10 +6,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_352_JvVPtO0.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_352_JvVPtO0.png"
     ],
     "logo_candidates": [
       {
@@ -131,7 +131,59 @@
         "score": 4.56,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
-      }
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+        "score": 75,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 22:00 - 17-08 BÓNG ĐÁ Veikkausliiga grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
+        "score": 75,
+        "context": "Gnistan max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Gnistan min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_352_JvVPtO0.png",
+        "score": 75,
+        "context": "size-5 object-contain VEIKKAUSLIIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs VEIKKAUSLIIGA Gnistan SẮP DIỄN RA VS 22:00 - 17/08/2026 Ilves TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 52 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg",
+        "score": 50,
+        "context": "Ilves max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Ilves min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 50,
+        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 VĂN MINH flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 50,
+        "context": "Văn Minh size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Văn Minh flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Văn Minh flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000008506.jpg",
+        "score": 15,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Phạm Trung Kiên Lv16 14 giờ trước Cho bà số 8 đánh 1 mình đi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3541.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_352_JvVPtO0.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3551.jpg",
+      "https://phaohoa1.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+      "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000008506.jpg"
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -145,16 +197,82 @@
     "date": "17/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gnistan-vs-ilves-17-08-2026-718676",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-17T21:00:59.815972+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.969494+07:00",
     "kickoff_iso": "2026-08-17T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 59,
+    "minutes_to_kickoff": 29,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/718676.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 4,
+    "time_source": "json-ld/startDate",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/718676.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "718676",
+        "family_key": "718676",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/718676.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -290,7 +408,45 @@
         "score": 4.56,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
-      }
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+        "score": 75,
+        "context": "Polissya Zhytomyr max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Polissya Zhytomyr min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
+        "score": 50,
+        "context": "FK Zorya Luhansk max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] FK Zorya Luhansk min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 50,
+        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 PHÁO THỦ flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+        "score": 40,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 22:00 - 17-08 BÓNG ĐÁ Premier League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_325.png",
+        "score": 40,
+        "context": "size-5 object-contain PREMIER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PREMIER LEAGUE Polissya Zhytomyr SẮP DIỄN RA VS 22:00 - 17/08/2026 FK Zorya Luhansk TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 53 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7780.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_157.jpg",
+      "https://phaohoa1.live/media/commentators/avatars/photo_6246769060473409763_y.jpg",
+      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_325.png"
     ],
     "blv": "Pháo Thủ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] border bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
@@ -304,16 +460,82 @@
     "date": "17/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-fk-zorya-luhansk-17-08-2026-795415",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-17T21:00:59.819262+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.977433+07:00",
     "kickoff_iso": "2026-08-17T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 59,
+    "minutes_to_kickoff": 29,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/795415.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 4,
+    "time_source": "json-ld/startDate",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/795415.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "795415",
+        "family_key": "795415",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/795415.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -463,16 +685,31 @@
     "date": "17/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-taee-vs-al-qadsiah-17-08-2026-791884",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-17T21:00:59.822436+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.982817+07:00",
     "kickoff_iso": "2026-08-17T23:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 134,
+    "minutes_to_kickoff": 104,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/791884.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 3,
+    "_scan_total": 4,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -622,16 +859,31 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-anwar-vs-al-ahli-sc-17-08-2026-791875",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-17T21:00:59.825949+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.986937+07:00",
     "kickoff_iso": "2026-08-18T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 179,
+    "minutes_to_kickoff": 149,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-15m",
-    "scan_attempted": false,
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/791875.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 4,
+    "_scan_total": 4,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -781,31 +1033,16 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-17T21:00:59.829294+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.990493+07:00",
     "kickoff_iso": "2026-08-18T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 239,
+    "minutes_to_kickoff": 209,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/791883.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 1,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-14m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -955,10 +1192,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/casa-pia-vs-benfica-18-08-2026-803656",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-17T21:00:59.832403+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.993685+07:00",
     "kickoff_iso": "2026-08-18T02:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 314,
+    "minutes_to_kickoff": 284,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1112,10 +1349,10 @@
     "date": "18/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/brondby-vs-sonderjyske-18-08-2026-779580",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-17T21:00:59.835993+07:00",
+    "scan_time_iso": "2026-08-17T21:31:27.997415+07:00",
     "kickoff_iso": "2026-08-18T18:35:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1294,
+    "minutes_to_kickoff": 1264,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
