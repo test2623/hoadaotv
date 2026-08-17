@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-17T20:56:20.118671+07:00",
+  "updated_at": "2026-08-17T21:00:59.788971+07:00",
   "matches": {
     "758919": {
       "url": "https://phaohoa1.live/truc-tiep/manchester-united-vs-ac-milan-15-08-2026-758919",
@@ -482,6 +482,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-08-17T20:01:12.250137+07:00",
       "next_scan_at": "2026-08-17T20:46:12.250137+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791883": {
+      "url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
+      "match_name": "18-08 King's Cup Al Raed VS Al Hilal Pháo Thủ",
+      "kickoff_iso": "2026-08-18T01:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-17T21:00:59.788909+07:00",
+      "next_scan_at": "2026-08-17T21:45:59.788909+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
