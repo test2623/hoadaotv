@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T18:56:32.132494+07:00",
+  "updated_at": "2026-08-18T19:01:33.456664+07:00",
   "matches": {
     "805964": {
       "url": "https://phaohoa1.live/truc-tiep/feyenoord-vs-g-a-eagles-16-08-2026-805964",
@@ -337,9 +337,9 @@
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
       "match_name": "Shanghai Shenhua vs Beijing Guoan",
       "kickoff_iso": "2026-08-18T18:35:00+07:00",
-      "minutes_to_kickoff": -21,
-      "last_scan_at": "2026-08-18T18:56:32.132388+07:00",
-      "next_scan_at": "2026-08-18T19:01:32.132388+07:00",
+      "minutes_to_kickoff": -26,
+      "last_scan_at": "2026-08-18T19:01:33.456549+07:00",
+      "next_scan_at": "2026-08-18T19:06:33.456549+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -361,11 +361,11 @@
     },
     "836774": {
       "url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
-      "match_name": "Heidenheim vs Bayern Munich",
-      "kickoff_iso": "2026-08-18T18:35:00+07:00",
-      "minutes_to_kickoff": 214,
-      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
-      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "match_name": "18-08 Club Friendlies Heidenheim VS Bayern Munich Chim Nhỏ",
+      "kickoff_iso": "2026-08-18T23:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-18T19:01:33.456549+07:00",
+      "next_scan_at": "2026-08-18T19:46:33.456549+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
