@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T22:01:39.744538+07:00",
+  "updated_at": "2026-08-18T22:31:45.502746+07:00",
   "matches": {
     "819140": {
       "url": "https://phaohoa1.live/truc-tiep/kv-mechelen-vs-st-liege-16-08-2026-819140",
@@ -253,9 +253,9 @@
       "url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
       "match_name": "Buxoro vs Neftchi Fargona",
       "kickoff_iso": "2026-08-18T22:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-18T22:01:39.744294+07:00",
-      "next_scan_at": "2026-08-18T22:06:39.744294+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-18T22:31:45.502655+07:00",
+      "next_scan_at": "2026-08-18T22:36:45.502655+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -267,13 +267,13 @@
       "url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
       "match_name": "18-08 Club Friendlies Heidenheim VS Bayern Munich Chim Nhỏ",
       "kickoff_iso": "2026-08-18T23:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-08-18T22:01:39.744294+07:00",
-      "next_scan_at": "2026-08-18T22:21:39.744294+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-18T22:31:45.502655+07:00",
+      "next_scan_at": "2026-08-18T22:41:45.502655+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "791879": {
       "url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
@@ -291,13 +291,13 @@
       "url": "https://phaohoa1.live/truc-tiep/al-najma-vs-al-ittihad-18-08-2026-791880",
       "match_name": "18-08 King's Cup Al Najma VS Al Ittihad Văn Minh",
       "kickoff_iso": "2026-08-18T23:15:00+07:00",
-      "minutes_to_kickoff": 74,
-      "last_scan_at": "2026-08-18T22:01:39.744294+07:00",
-      "next_scan_at": "2026-08-18T22:21:39.744294+07:00",
+      "minutes_to_kickoff": 44,
+      "last_scan_at": "2026-08-18T22:31:45.502655+07:00",
+      "next_scan_at": "2026-08-18T22:41:45.502655+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "791877": {
       "url": "https://phaohoa1.live/truc-tiep/al-diriyah-vs-al-nassr-19-08-2026-791877",
