@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T15:30:58.557634+07:00",
+  "updated_at": "2026-08-18T16:01:18.129990+07:00",
   "matches": {
     "728370": {
       "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370",
@@ -377,11 +377,11 @@
     },
     "742909": {
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
-      "match_name": "Shanghai Shenhua vs Beijing Guoan",
+      "match_name": "18-08 Chinese Super League Shanghai Shenhua VS Beijing Guoan Pháo Thủ",
       "kickoff_iso": "2026-08-18T18:35:00+07:00",
-      "minutes_to_kickoff": 214,
-      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
-      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "minutes_to_kickoff": 154,
+      "last_scan_at": "2026-08-18T16:01:18.129884+07:00",
+      "next_scan_at": "2026-08-18T16:46:18.129884+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -461,11 +461,11 @@
     },
     "839169": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
-      "match_name": "Thai Lan vs Singapore",
-      "kickoff_iso": "2026-08-18T18:35:00+07:00",
-      "minutes_to_kickoff": 214,
-      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
-      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "match_name": "18-08 ASEAN Championship Thái Lan VS Singapore Kevin + Tày",
+      "kickoff_iso": "2026-08-18T20:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-18T16:01:18.129884+07:00",
+      "next_scan_at": "2026-08-18T16:46:18.129884+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
