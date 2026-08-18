@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T17:01:11.534873+07:00",
+  "updated_at": "2026-08-18T17:31:03.628659+07:00",
   "matches": {
-    "728370": {
-      "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370",
-      "match_name": "Ulsan Hd vs Gangwon",
-      "kickoff_iso": "2026-08-16T17:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-16T19:31:56.432850+07:00",
-      "next_scan_at": "2026-08-16T19:36:56.432850+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "809617": {
       "url": "https://phaohoa1.live/truc-tiep/hannover-vs-wolfsburg-16-08-2026-809617",
       "match_name": "Hannover vs Wolfsburg",
@@ -379,9 +365,9 @@
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
       "match_name": "18-08 Chinese Super League Shanghai Shenhua VS Beijing Guoan Pháo Thủ",
       "kickoff_iso": "2026-08-18T18:35:00+07:00",
-      "minutes_to_kickoff": 94,
-      "last_scan_at": "2026-08-18T17:01:11.534752+07:00",
-      "next_scan_at": "2026-08-18T17:21:11.534752+07:00",
+      "minutes_to_kickoff": 64,
+      "last_scan_at": "2026-08-18T17:31:03.628562+07:00",
+      "next_scan_at": "2026-08-18T17:51:03.628562+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
