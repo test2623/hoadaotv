@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T14:31:01.121365+07:00",
+  "updated_at": "2026-08-18T15:01:30.528640+07:00",
   "matches": {
     "728370": {
       "url": "https://phaohoa1.live/truc-tiep/ulsan-hd-vs-gangwon-16-08-2026-728370",
@@ -374,6 +374,114 @@
         "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "742909": {
+      "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
+      "match_name": "Shanghai Shenhua vs Beijing Guoan",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "736679": {
+      "url": "https://phaohoa1.live/truc-tiep/buxoro-vs-neftchi-fargona-18-08-2026-736679",
+      "match_name": "Buxoro vs Neftchi Fargona",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "836774": {
+      "url": "https://phaohoa1.live/truc-tiep/heidenheim-vs-bayern-munich-18-08-2026-836774",
+      "match_name": "Heidenheim vs Bayern Munich",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791879": {
+      "url": "https://phaohoa1.live/truc-tiep/al-jabalain-vs-al-ettifaq-18-08-2026-791879",
+      "match_name": "Al Jabalain vs Al Ettifaq",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791880": {
+      "url": "https://phaohoa1.live/truc-tiep/al-najma-vs-al-ittihad-18-08-2026-791880",
+      "match_name": "Al Najma vs Al Ittihad",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791877": {
+      "url": "https://phaohoa1.live/truc-tiep/al-diriyah-vs-al-nassr-19-08-2026-791877",
+      "match_name": "Al Diriyah vs Al Nassr",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "841013": {
+      "url": "https://phaohoa1.live/truc-tiep/din-zagreb-vs-viking-19-08-2026-841013",
+      "match_name": "Din Zagreb vs Viking",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "839169": {
+      "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
+      "match_name": "Thai Lan vs Singapore",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "841014": {
+      "url": "https://phaohoa1.live/truc-tiep/levski-sofia-vs-aek-athens-19-08-2026-841014",
+      "match_name": "Levski Sofia vs Aek Athens",
+      "kickoff_iso": "2026-08-18T18:35:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-18T15:01:30.528435+07:00",
+      "next_scan_at": "2026-08-18T15:46:30.528435+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
