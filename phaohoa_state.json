@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-18T21:01:36.063567+07:00",
+  "updated_at": "2026-08-18T21:06:20.232448+07:00",
   "matches": {
     "838175": {
       "url": "https://phaohoa1.live/truc-tiep/basel-vs-barcelona-16-08-2026-838175",
@@ -367,9 +367,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-singapore-18-08-2026-839169",
       "match_name": "Thái Lan vs Singapore",
       "kickoff_iso": "2026-08-18T20:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-18T21:01:36.063317+07:00",
-      "next_scan_at": "2026-08-18T21:06:36.063317+07:00",
+      "minutes_to_kickoff": -66,
+      "last_scan_at": "2026-08-18T21:06:20.232396+07:00",
+      "next_scan_at": "2026-08-18T21:11:20.232396+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
