@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-791888-1" tvg-name="[23:15 19/08] Damac vs Al Taawon" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/damac-vs-al-taawon-19-08-2026-791888" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6336.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6336.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_604.png",[23:15 19/08] Damac vs Al Taawon [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-791888-1" tvg-name="[23:15 19/08] Damac vs Al Taawon" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/damac-vs-al-taawon-19-08-2026-791888" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6336.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6336.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_368.jpg",[23:15 19/08] Damac vs Al Taawon [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="phaohoa-791889-1" tvg-name="[23:30 19/08] Jeddah vs Al Kholood" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/jeddah-vs-al-kholood-19-08-2026-791889" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6318.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6318.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_604.png",[23:30 19/08] Jeddah vs Al Kholood [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-791889-1" tvg-name="[23:30 19/08] Jeddah vs Al Kholood" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/jeddah-vs-al-kholood-19-08-2026-791889" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6318.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6318.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/Al_Kholood_Club_Logo.svg.webp",[23:30 19/08] Jeddah vs Al Kholood [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
