@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-19T14:27:42.379491+07:00",
+  "updated_at": "2026-08-19T14:31:43.742982+07:00",
   "matches": {
     "795415": {
       "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-fk-zorya-luhansk-17-08-2026-795415",
@@ -262,6 +262,18 @@
       "minutes_to_kickoff": 207,
       "last_scan_at": "2026-08-19T14:02:42.175795+07:00",
       "next_scan_at": "2026-08-19T14:47:42.175795+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "0723cd7a0e3a": {
+      "url": "https://phaohoa1.live/truc-tiep/italy-vs-romania",
+      "match_name": "19-08 U17 World Championship Italy VS Romania KaKa",
+      "kickoff_iso": "2026-08-19T18:30:00+07:00",
+      "minutes_to_kickoff": 238,
+      "last_scan_at": "2026-08-19T14:31:43.742883+07:00",
+      "next_scan_at": "2026-08-19T15:16:43.742883+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
