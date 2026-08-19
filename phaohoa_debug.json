@@ -38,7 +38,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -91,27 +91,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -131,6 +113,24 @@
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "A Heo",
@@ -145,15 +145,15 @@
     "date": "20/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/philadelphia-union-vs-inter-miami-20-08-2026-711577",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-20T04:35:25.137749+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.900246+07:00",
     "kickoff_iso": "2026-08-20T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 115,
+    "minutes_to_kickoff": 104,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-wait-19m",
+    "delta_reason": "delta-wait-8m",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
@@ -196,7 +196,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -249,27 +249,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -289,6 +271,24 @@
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
         "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
       }
     ],
     "blv": "KaKa",
@@ -303,10 +303,10 @@
     "date": "20/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-20T04:35:25.140520+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.902859+07:00",
     "kickoff_iso": "2026-08-20T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 805,
+    "minutes_to_kickoff": 794,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -354,7 +354,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -407,27 +407,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -446,6 +428,24 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -461,10 +461,10 @@
     "date": "20/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kairat-almaty-vs-anderlecht-21-08-2026-844989",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-20T04:35:25.143565+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.905748+07:00",
     "kickoff_iso": "2026-08-20T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1045,
+    "minutes_to_kickoff": 1034,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -478,12 +478,11 @@
     "raw_title": "23:00 - 20-08 BÓNG ĐÁ UEFA Europa League Mjallby VS Sắp diễn ra Salzburg Kevin",
     "card_text": "23:00 - 20-08 BÓNG ĐÁ UEFA Europa League Mjallby VS Sắp diễn ra Salzburg Kevin",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg"
     ],
     "logo_candidates": [
       {
@@ -512,7 +511,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -565,27 +564,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -604,6 +585,24 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -619,10 +618,10 @@
     "date": "20/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-wakra-vs-qatar-sc-20-08-2026-803268",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-20T04:35:25.146796+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.908775+07:00",
     "kickoff_iso": "2026-08-20T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1105,
+    "minutes_to_kickoff": 1094,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -638,10 +637,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg"
     ],
     "logo_candidates": [
       {
@@ -670,7 +669,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -723,27 +722,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -762,6 +743,24 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -777,10 +776,10 @@
     "date": "20/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-turku-vs-fc-copenhagen-21-08-2026-844915",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-20T04:35:25.149776+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.911730+07:00",
     "kickoff_iso": "2026-08-20T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1105,
+    "minutes_to_kickoff": 1094,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -794,10 +793,11 @@
     "raw_title": "00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso VS Sắp diễn ra Brighton A Heo",
     "card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso VS Sắp diễn ra Brighton A Heo",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg"
     ],
     "logo_candidates": [
@@ -827,7 +827,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -880,27 +880,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -919,6 +901,24 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -933,11 +933,11 @@
     "time": "00:00",
     "date": "21/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/tromso-vs-brighton-21-08-2026-844919",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-20T04:35:25.152455+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-20T04:45:46.914511+07:00",
     "kickoff_iso": "2026-08-21T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1165,
+    "minutes_to_kickoff": 1154,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -951,11 +951,12 @@
     "raw_title": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha VS Sắp diễn ra Al Hilal Pháo Thủ",
     "card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha VS Sắp diễn ra Al Hilal Pháo Thủ",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_302.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg"
     ],
     "logo_candidates": [
       {
@@ -984,7 +985,7 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg",
-        "score": 39.69,
+        "score": 34.69,
         "context": "Inter Turku max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter Turku min-w-0 text-center",
         "source": "home-card"
       },
@@ -1037,27 +1038,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7354.jpg",
-        "score": 4.75,
-        "context": "Mjallby max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Mjallby min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_74.jpg",
-        "score": 4.74,
-        "context": "Salzburg max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Salzburg min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
         "score": 4.73,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",
-        "score": 4.68,
-        "context": "FC Copenhagen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Copenhagen min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1076,6 +1059,24 @@
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
         "score": 4.62,
         "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
+        "score": 4.57,
+        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 4.51,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 4.5,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1091,10 +1092,10 @@
     "date": "21/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/mjallby-vs-salzburg-21-08-2026-844764",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-20T04:35:25.155618+07:00",
+    "scan_time_iso": "2026-08-20T04:45:46.917913+07:00",
     "kickoff_iso": "2026-08-21T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 1225,
+    "minutes_to_kickoff": 1214,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
