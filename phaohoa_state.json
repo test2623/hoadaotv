@@ -1,50 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-19T22:04:16.477249+07:00",
+  "updated_at": "2026-08-20T00:33:49.012938+07:00",
   "matches": {
-    "791875": {
-      "url": "https://phaohoa1.live/truc-tiep/al-anwar-vs-al-ahli-sc-17-08-2026-791875",
-      "match_name": "Al Anwar vs Al Ahli SC",
-      "kickoff_iso": "2026-08-17T23:00:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-18T01:01:34.533824+07:00",
-      "next_scan_at": "2026-08-18T01:06:34.533824+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "791884": {
-      "url": "https://phaohoa1.live/truc-tiep/al-taee-vs-al-qadsiah-17-08-2026-791884",
-      "match_name": "Al Taee vs Al Qadsiah",
-      "kickoff_iso": "2026-08-17T23:15:00+07:00",
-      "minutes_to_kickoff": -106,
-      "last_scan_at": "2026-08-18T01:01:34.533824+07:00",
-      "next_scan_at": "2026-08-18T01:06:34.533824+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "779580": {
-      "url": "https://phaohoa1.live/truc-tiep/brondby-vs-sonderjyske-18-08-2026-779580",
-      "match_name": "Brondby vs Sonderjyske",
-      "kickoff_iso": "2026-08-18T00:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-18T01:31:35.080258+07:00",
-      "next_scan_at": "2026-08-18T01:36:35.080258+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "791883": {
       "url": "https://phaohoa1.live/truc-tiep/al-raed-vs-al-hilal-18-08-2026-791883",
       "match_name": "Al Raed vs Al Hilal",
@@ -311,15 +269,17 @@
     },
     "791888": {
       "url": "https://phaohoa1.live/truc-tiep/damac-vs-al-taawon-19-08-2026-791888",
-      "match_name": "19-08 King's Cup Damac VS Al Taawon KaKa",
+      "match_name": "Damac vs Al Taawon",
       "kickoff_iso": "2026-08-19T23:15:00+07:00",
-      "minutes_to_kickoff": 71,
-      "last_scan_at": "2026-08-19T22:04:16.477010+07:00",
-      "next_scan_at": "2026-08-19T22:24:16.477010+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": -78,
+      "last_scan_at": "2026-08-20T00:33:49.012834+07:00",
+      "next_scan_at": "2026-08-20T00:38:49.012834+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "736680": {
       "url": "https://phaohoa1.live/truc-tiep/mashal-muborak-vs-andijan-19-08-2026-736680",
@@ -337,23 +297,25 @@
     },
     "791889": {
       "url": "https://phaohoa1.live/truc-tiep/jeddah-vs-al-kholood-19-08-2026-791889",
-      "match_name": "20-08 UEFA Champions League Celtic VS LASK Pháo Thủ",
-      "kickoff_iso": "2026-08-20T02:00:00+07:00",
-      "minutes_to_kickoff": 236,
-      "last_scan_at": "2026-08-19T22:04:16.477010+07:00",
-      "next_scan_at": "2026-08-19T22:49:16.477010+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "Jeddah vs Al Kholood",
+      "kickoff_iso": "2026-08-19T23:30:00+07:00",
+      "minutes_to_kickoff": -63,
+      "last_scan_at": "2026-08-20T00:33:49.012834+07:00",
+      "next_scan_at": "2026-08-20T00:38:49.012834+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "826155": {
       "url": "https://phaohoa1.live/truc-tiep/barcelona-vs-al-ahly-20-08-2026-826155",
-      "match_name": "20-08 Club Friendlies Barcelona VS Al Ahly A Heo",
-      "kickoff_iso": "2026-08-20T01:00:00+07:00",
-      "minutes_to_kickoff": 176,
-      "last_scan_at": "2026-08-19T22:04:16.477010+07:00",
-      "next_scan_at": "2026-08-19T22:49:16.477010+07:00",
+      "match_name": "20-08 La Liga Atl. Madrid VS Malaga Kevin",
+      "kickoff_iso": "2026-08-20T02:00:00+07:00",
+      "minutes_to_kickoff": 87,
+      "last_scan_at": "2026-08-20T00:33:49.012834+07:00",
+      "next_scan_at": "2026-08-20T00:53:49.012834+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -378,6 +340,30 @@
       "minutes_to_kickoff": 236,
       "last_scan_at": "2026-08-19T22:04:16.477010+07:00",
       "next_scan_at": "2026-08-19T22:49:16.477010+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "6aae6b4dda9d": {
+      "url": "https://phaohoa1.live/truc-tiep/celtic-127-vs-lask-166-19-08-2026",
+      "match_name": "20-08 UEFA Champions League Celtic VS LASK Pháo Thủ",
+      "kickoff_iso": "2026-08-20T02:00:00+07:00",
+      "minutes_to_kickoff": 87,
+      "last_scan_at": "2026-08-20T00:33:49.012834+07:00",
+      "next_scan_at": "2026-08-20T00:53:49.012834+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "841019": {
+      "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-bodo-glimt-20-08-2026-841019",
+      "match_name": "20-08 UEFA Champions League Nijmegen VS Bodo/Glimt Tày",
+      "kickoff_iso": "2026-08-20T02:00:00+07:00",
+      "minutes_to_kickoff": 87,
+      "last_scan_at": "2026-08-20T00:33:49.012834+07:00",
+      "next_scan_at": "2026-08-20T00:53:49.012834+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
