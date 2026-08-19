@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-19T19:01:43.398528+07:00",
+  "updated_at": "2026-08-19T19:31:35.827543+07:00",
   "matches": {
     "795415": {
       "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-fk-zorya-luhansk-17-08-2026-795415",
@@ -285,35 +285,63 @@
     },
     "839170": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-malaysia-19-08-2026-839170",
-      "match_name": "19-08 ASEAN Championship Việt Nam VS Malaysia Người Lửa",
+      "match_name": "Việt Nam vs Malaysia",
       "kickoff_iso": "2026-08-19T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-19T18:55:22.344432+07:00",
-      "next_scan_at": "2026-08-19T19:15:22.344432+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-19T19:31:35.827421+07:00",
+      "next_scan_at": "2026-08-19T19:36:35.827421+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "742913": {
       "url": "https://phaohoa1.live/truc-tiep/shanghai-port-vs-dalian-yingbo-12-07-2026-742913",
-      "match_name": "19-08 ASEAN Championship Việt Nam VS Malaysia A Heo",
-      "kickoff_iso": "2026-08-19T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-19T18:55:22.344432+07:00",
-      "next_scan_at": "2026-08-19T19:15:22.344432+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "Shanghai Port vs Dalian Yingbo",
+      "kickoff_iso": "2026-08-19T18:35:00+07:00",
+      "minutes_to_kickoff": -56,
+      "last_scan_at": "2026-08-19T19:31:35.827421+07:00",
+      "next_scan_at": "2026-08-19T19:36:35.827421+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "105559": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-malaysia-18-08-2026-105559",
       "match_name": "19-08 ASEAN Championship Việt Nam VS Malaysia Kevin",
       "kickoff_iso": "2026-08-19T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-19T18:55:22.344432+07:00",
-      "next_scan_at": "2026-08-19T19:15:22.344432+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-19T19:31:35.827421+07:00",
+      "next_scan_at": "2026-08-19T19:41:35.827421+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "105558": {
+      "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-malaysia-18-08-2026-105558",
+      "match_name": "19-08 Super League Mashal Muborak VS Andijan Văn Minh",
+      "kickoff_iso": "2026-08-19T22:00:00+07:00",
+      "minutes_to_kickoff": 149,
+      "last_scan_at": "2026-08-19T19:31:35.827421+07:00",
+      "next_scan_at": "2026-08-19T20:16:35.827421+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "791888": {
+      "url": "https://phaohoa1.live/truc-tiep/damac-vs-al-taawon-19-08-2026-791888",
+      "match_name": "19-08 King's Cup Damac VS Al Taawon KaKa",
+      "kickoff_iso": "2026-08-19T23:15:00+07:00",
+      "minutes_to_kickoff": 224,
+      "last_scan_at": "2026-08-19T19:31:35.827421+07:00",
+      "next_scan_at": "2026-08-19T20:16:35.827421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
