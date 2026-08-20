@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="phaohoa-f56f5ab4c9db-1" tvg-name="[18:00 20/08] Brazil vs Mexico" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/brazil-vs-mexico" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_RsNoEng.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_RsNoEng.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg",[18:00 20/08] Brazil vs Mexico [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="phaohoa-803268-1" tvg-name="[21:15 20/08] Al Wakra VS Qatar SC [BLV Văn Minh]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/al-wakra-vs-qatar-sc-20-08-2026-803268" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6061_oV2JM2t.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6061_oV2JM2t.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6057.jpg" phaohoa-blv="Văn Minh",[21:15 20/08] Al Wakra VS Qatar SC [BLV Văn Minh]
 http://127.0.0.1:9/__phaohoa_metadata__/803268.m3u8
 #EXTINF:-1 tvg-id="phaohoa-844989-1" tvg-name="[23:00 20/08] 20-08 UEFA Conference League Inter Turku VS FC Copenhagen Tày" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/kairat-almaty-vs-anderlecht-21-08-2026-844989" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3542.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_175.jpg",[23:00 20/08] 20-08 UEFA Conference League Inter Turku VS FC Copenhagen Tày
@@ -11,5 +17,3 @@ http://127.0.0.1:9/__phaohoa_metadata__/844763.m3u8
 http://127.0.0.1:9/__phaohoa_metadata__/825107.m3u8
 #EXTINF:-1 tvg-id="phaohoa-844915-1" tvg-name="[01:30 21/08] 21-08 UEFA Conference League Atalanta VS Hapoel Tel Aviv Kevin" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/inter-turku-vs-fc-copenhagen-21-08-2026-844915" tvg-logo="https://phaohoa1.live/favicon.ico",[01:30 21/08] 21-08 UEFA Conference League Atalanta VS Hapoel Tel Aviv Kevin
 http://127.0.0.1:9/__phaohoa_metadata__/844915.m3u8
-#EXTINF:-1 tvg-id="phaohoa-f56f5ab4c9db-1" tvg-name="[18:00 20/08] Brazil VS Mexico [BLV bát giới bị bắt rồi à ae ༺ Duy Linh ༻ 🇻]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/brazil-vs-mexico" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_RsNoEng.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_RsNoEng.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_vhHosxe.jpg" phaohoa-blv="bát giới bị bắt rồi à ae ༺ Duy Linh ༻ 🇻",[18:00 20/08] Brazil VS Mexico [BLV bát giới bị bắt rồi à ae ༺ Duy Linh ༻ 🇻]
-http://127.0.0.1:9/__phaohoa_metadata__/f56f5ab4c9db.m3u8
