@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T00:56:58.201326+07:00",
+  "updated_at": "2026-08-21T01:01:36.316969+07:00",
   "matches": {
-    "791877": {
-      "url": "https://phaohoa1.live/truc-tiep/al-diriyah-vs-al-nassr-19-08-2026-791877",
-      "match_name": "Al Diriyah vs Al Nassr",
-      "kickoff_iso": "2026-08-19T01:00:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-08-19T02:32:12.107407+07:00",
-      "next_scan_at": "2026-08-19T02:37:12.107407+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "841013": {
       "url": "https://phaohoa1.live/truc-tiep/din-zagreb-vs-viking-19-08-2026-841013",
       "match_name": "Din. Zagreb vs Viking",
@@ -339,9 +325,9 @@
       "url": "https://phaohoa1.live/truc-tiep/tromso-vs-brighton-21-08-2026-844919",
       "match_name": "Tromso vs Brighton",
       "kickoff_iso": "2026-08-21T00:00:00+07:00",
-      "minutes_to_kickoff": -56,
-      "last_scan_at": "2026-08-21T00:56:58.201169+07:00",
-      "next_scan_at": "2026-08-21T01:01:58.201169+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-21T01:01:36.316856+07:00",
+      "next_scan_at": "2026-08-21T01:06:36.316856+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -353,9 +339,9 @@
       "url": "https://phaohoa1.live/truc-tiep/atalanta-vs-hapoel-tel-aviv-21-08-2026-841817",
       "match_name": "Atalanta vs Hapoel Tel Aviv",
       "kickoff_iso": "2026-08-21T01:30:00+07:00",
-      "minutes_to_kickoff": 34,
-      "last_scan_at": "2026-08-21T00:56:58.201169+07:00",
-      "next_scan_at": "2026-08-21T01:06:58.201169+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-21T01:01:36.316856+07:00",
+      "next_scan_at": "2026-08-21T01:06:36.316856+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -367,9 +353,9 @@
       "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-kauno-zalgiris-21-08-2026-844763",
       "match_name": "Besiktas vs Kauno Zalgiris",
       "kickoff_iso": "2026-08-21T00:00:00+07:00",
-      "minutes_to_kickoff": -56,
-      "last_scan_at": "2026-08-21T00:56:58.201169+07:00",
-      "next_scan_at": "2026-08-21T01:01:58.201169+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-21T01:01:36.316856+07:00",
+      "next_scan_at": "2026-08-21T01:06:36.316856+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
