@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-20T14:31:00.243084+07:00",
+  "updated_at": "2026-08-20T15:01:11.357019+07:00",
   "matches": {
     "742909": {
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
@@ -353,9 +353,9 @@
       "url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
       "match_name": "20-08 U17 World Championship Brazil VS Mexico KaKa",
       "kickoff_iso": "2026-08-20T18:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-20T14:01:10.626865+07:00",
-      "next_scan_at": "2026-08-20T14:46:10.626865+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-20T15:01:11.356920+07:00",
+      "next_scan_at": "2026-08-20T15:46:11.356920+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
