@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-20T17:57:58.159768+07:00",
+  "updated_at": "2026-08-20T18:01:34.777946+07:00",
   "matches": {
     "742909": {
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
@@ -353,9 +353,9 @@
       "url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
       "match_name": "Brazil vs Mexico",
       "kickoff_iso": "2026-08-20T18:00:00+07:00",
-      "minutes_to_kickoff": 2,
-      "last_scan_at": "2026-08-20T17:57:58.159708+07:00",
-      "next_scan_at": "2026-08-20T18:02:58.159708+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-20T18:01:34.777883+07:00",
+      "next_scan_at": "2026-08-20T18:06:34.777883+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
