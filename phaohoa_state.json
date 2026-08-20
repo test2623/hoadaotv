@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-20T18:01:34.777946+07:00",
+  "updated_at": "2026-08-20T18:31:25.292824+07:00",
   "matches": {
     "742909": {
       "url": "https://phaohoa1.live/truc-tiep/shanghai-shenhua-vs-beijing-guoan-11-07-2026-742909",
@@ -353,9 +353,9 @@
       "url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
       "match_name": "Brazil vs Mexico",
       "kickoff_iso": "2026-08-20T18:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-20T18:01:34.777883+07:00",
-      "next_scan_at": "2026-08-20T18:06:34.777883+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-20T18:31:25.292665+07:00",
+      "next_scan_at": "2026-08-20T18:36:25.292665+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -367,9 +367,9 @@
       "url": "https://phaohoa1.live/truc-tiep/al-wakra-vs-qatar-sc-20-08-2026-803268",
       "match_name": "20-08 Stars League Al Wakra VS Qatar SC Văn Minh",
       "kickoff_iso": "2026-08-20T21:15:00+07:00",
-      "minutes_to_kickoff": 224,
-      "last_scan_at": "2026-08-20T17:31:25.387170+07:00",
-      "next_scan_at": "2026-08-20T18:16:25.387170+07:00",
+      "minutes_to_kickoff": 164,
+      "last_scan_at": "2026-08-20T18:31:25.292665+07:00",
+      "next_scan_at": "2026-08-20T19:16:25.292665+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
