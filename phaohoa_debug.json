@@ -1,1048 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/besiktas-vs-kauno-zalgiris-21-08-2026-844763",
-    "raw_title": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ",
-    "card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
-        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
-        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
-        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
-        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
-        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
-        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 70,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Besiktas min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 45,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Kauno Zalgiris min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA EUROPA LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA EUROPA LEAGUE Besiktas 73' 3-0 00:00 - 21/08/2026 Kauno Zalgiris relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Besiktas vs Kauno Zalgiris",
-    "home_name": "Besiktas",
-    "away_name": "Kauno Zalgiris",
-    "time": "00:00",
-    "date": "21/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/besiktas-vs-kauno-zalgiris-21-08-2026-844763",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.060249+07:00",
-    "kickoff_iso": "2026-08-21T00:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 5,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "previous-playlist",
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa5",
-        "family_key": "phaohoa5",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3180495372-1787247439-20260820T183128.ts?volcDst=MTAuMTMuOC4xNDU",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/warning: [Icon] failed to load icon `lucide:bar-chart-3`",
-      "console/warning: [Icon] failed to load icon `lucide:message-circle`",
-      "console/warning: [Icon] failed to load icon `lucide:log-in`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:loader-circle`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/tromso-vs-brighton-21-08-2026-844919",
-    "raw_title": "00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo",
-    "card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
-        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
-        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
-        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
-        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
-        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
-        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Tromso vs Brighton",
-    "home_name": "Tromso",
-    "away_name": "Brighton",
-    "time": "00:00",
-    "date": "21/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/tromso-vs-brighton-21-08-2026-844919",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.063740+07:00",
-    "kickoff_iso": "2026-08-21T00:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -92,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 2,
-    "_scan_total": 5,
-    "time_source": "home-card",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "previous-playlist",
-          "request/xhr",
-          "response",
-          "dom/performance"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 223,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa7",
-        "family_key": "phaohoa7",
-        "quality_rank": 0,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3279212348-1787247604-20260820T183121.ts?volcDst=MTAuMTMuOC4xNDc",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/warning: [Icon] failed to load icon `lucide:bar-chart-3`",
-      "console/warning: [Icon] failed to load icon `lucide:message-circle`",
-      "console/warning: [Icon] failed to load icon `lucide:log-in`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:loader-circle`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/atalanta-vs-hapoel-tel-aviv-21-08-2026-841817",
-    "raw_title": "01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin",
-    "card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
-        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
-        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
-        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
-        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
-        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
-        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
-        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 75,
-        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Atalanta min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 50,
-        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Hapoel Tel Aviv min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
-        "score": 40,
-        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE Atalanta ĐANG DIỄN RA 0-0 01:30 - 21/08/2026 Hapoel Tel Aviv relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Atalanta vs Hapoel Tel Aviv",
-    "home_name": "Atalanta",
-    "away_name": "Hapoel Tel Aviv",
-    "time": "01:30",
-    "date": "21/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/atalanta-vs-hapoel-tel-aviv-21-08-2026-841817",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.068036+07:00",
-    "kickoff_iso": "2026-08-21T01:30:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -2,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      },
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/841817.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "HEAD~2:phaohoa_live.m3u"
-      }
-    ],
-    "_scan_index": 3,
-    "_scan_total": 5,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "previous-playlist",
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa2",
-        "family_key": "phaohoa2",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2850426654-1787244558-20260820T183122.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/warning: [Icon] failed to load icon `lucide:bar-chart-3`",
-      "console/warning: [Icon] failed to load icon `lucide:message-circle`",
-      "console/warning: [Icon] failed to load icon `lucide:log-in`",
-      "console/warning: [Icon] failed to load icon `lucide:message-square`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:loader-circle`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/841817.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "841817",
-        "family_key": "841817",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/841817.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/al-fayha-vs-al-hilal-21-08-2026-825107",
-    "raw_title": "02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày",
-    "card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
+    "raw_title": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ",
+    "card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
@@ -1059,117 +19,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
+        "score": 64.99,
         "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
+        "score": 64.98,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
+        "score": 64.97,
         "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
+        "score": 64.93,
         "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
+        "score": 64.92,
         "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
+        "score": 64.91,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
+        "score": 64.87,
         "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
+        "score": 64.86,
         "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
+        "score": 64.81,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
+        "score": 64.8,
         "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
+        "score": 64.75,
         "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
@@ -1190,7 +150,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
         "score": 40,
-        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Fayha 32' 0-1 01:00 - 21/08/2026 Al Hilal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Fayha GIẢI LAO 0-1 01:00 - 21/08/2026 Al Hilal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
@@ -1208,10 +168,10 @@
     "date": "21/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-fayha-vs-al-hilal-21-08-2026-825107",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.072343+07:00",
+    "scan_time_iso": "2026-08-21T02:02:19.979789+07:00",
     "kickoff_iso": "2026-08-21T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -32,
+    "minutes_to_kickoff": -62,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1219,14 +179,20 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825107.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825107.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
-    "_scan_index": 4,
-    "_scan_total": 5,
+    "_scan_index": 1,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -1240,19 +206,20 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
+          "previous-playlist",
           "request/xhr",
           "response",
-          "quality/FHD",
+          "quality/HD",
           "dom/performance"
         ],
-        "quality": "FHD",
+        "quality": "HD",
         "parent_url": "",
         "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa4",
         "family_key": "phaohoa4",
-        "quality_rank": 40,
+        "quality_rank": 30,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -1262,7 +229,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2334177431-1787249187-20260820T183150.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2334177431-1787249945-20260820T190204.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1287,9 +254,9 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
       "console/warning: [Icon] failed to load icon `lucide:message-square`",
       "console/warning: [Icon] failed to load icon `lucide:bar-chart-3`",
@@ -1297,114 +264,7 @@
       "console/warning: [Icon] failed to load icon `lucide:log-in`",
       "console/warning: [Icon] failed to load icon `lucide:message-square`",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:loader-circle`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`"
+      "console/warning: [Icon] failed to load icon `lucide:loader-circle`"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -1447,9 +307,276 @@
     "listed_in_playlist": true
   },
   {
+    "url": "https://phaohoa1.live/truc-tiep/atalanta-vs-hapoel-tel-aviv-21-08-2026-841817",
+    "raw_title": "01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin",
+    "card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 64.99,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 64.98,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.97,
+        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+        "score": 64.93,
+        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.92,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.91,
+        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
+        "score": 64.87,
+        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
+        "score": 64.86,
+        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 64.81,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
+        "score": 64.8,
+        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 64.75,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+        "score": 75,
+        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Atalanta min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 50,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png",
+        "score": 40,
+        "context": "size-5 object-contain UEFA CONFERENCE LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA CONFERENCE LEAGUE Atalanta 31' 0-0 01:30 - 21/08/2026 Hapoel Tel Aviv relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_683_KZjISh3.png"
+    ],
+    "blv": "",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Atalanta vs Hapoel Tel Aviv",
+    "home_name": "Atalanta",
+    "away_name": "Hapoel Tel Aviv",
+    "time": "01:30",
+    "date": "21/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/atalanta-vs-hapoel-tel-aviv-21-08-2026-841817",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-21T02:02:19.983519+07:00",
+    "kickoff_iso": "2026-08-21T01:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -32,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 3,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "previous-playlist",
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa2",
+        "family_key": "phaohoa2",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2850426654-1787245410-20260820T190208.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
+      "console/warning: [Icon] failed to load icon `lucide:message-square`",
+      "console/warning: [Icon] failed to load icon `lucide:bar-chart-3`",
+      "console/warning: [Icon] failed to load icon `lucide:message-circle`",
+      "console/warning: [Icon] failed to load icon `lucide:log-in`",
+      "console/warning: [Icon] failed to load icon `lucide:message-square`",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:loader-circle`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
     "url": "https://phaohoa1.live/truc-tiep/benfica-vs-aarhus-21-08-2026-844986",
-    "raw_title": "02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ",
-    "card_text": "02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ",
+    "raw_title": "02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ",
+    "card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
@@ -1466,117 +593,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
+        "score": 64.99,
         "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
+        "score": 64.98,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
+        "score": 64.97,
         "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
+        "score": 64.93,
         "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
+        "score": 64.92,
         "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
+        "score": 64.91,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
+        "score": 64.87,
         "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
+        "score": 64.86,
         "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
+        "score": 64.81,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
+        "score": 64.8,
         "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
+        "score": 64.75,
         "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
@@ -1595,61 +722,32 @@
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 50,
-        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 CHIM NHỎ flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 40,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png",
         "score": 40,
-        "context": "size-5 object-contain UEFA EUROPA LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA EUROPA LEAGUE Benfica SẮP DIỄN RA VS 02:00 - 21/08/2026 Aarhus TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 28 PHÚT 20 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/ChatGPT_Image_21_15_56_16_thg_8_2026.png",
-        "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 ❤️ Người Quỷ( Đệ kevin) ❤️ Lv11 25 phút trước chim còn nhớ em là ai không chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 vittrangnho 1 phút trước Chào Chim nhé chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "context": "size-5 object-contain UEFA EUROPA LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs UEFA EUROPA LEAGUE Benfica ĐANG DIỄN RA 0-0 02:00 - 21/08/2026 Aarhus relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-      "https://phaohoa1.live/media/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png",
-      "https://phaohoa1.live/media-thumb/avatar/avatars/ChatGPT_Image_21_15_56_16_thg_8_2026.png",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_4_g08IpV6.png"
     ],
-    "blv": "Pháo Thủ Lv14 32 phút trước ô hay sao qc",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "match_name": "Benfica VS Aarhus",
+    "match_name": "Benfica vs Aarhus",
     "home_name": "Benfica",
     "away_name": "Aarhus",
     "time": "02:00",
     "date": "21/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/benfica-vs-aarhus-21-08-2026-844986",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-21T01:32:04.076105+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-21T02:02:19.986946+07:00",
     "kickoff_iso": "2026-08-21T02:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 28,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -2,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
@@ -1661,11 +759,54 @@
         "history_source": "working-tree"
       }
     ],
-    "_scan_index": 5,
-    "_scan_total": 5,
+    "_scan_index": 3,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3180683504-1787252180-20260820T190206.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -1680,8 +821,6 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
       "console/warning: [Icon] failed to load icon `lucide:panels-top-left`",
       "console/warning: [Icon] failed to load icon `lucide:message-square`",
@@ -1689,115 +828,10 @@
       "console/warning: [Icon] failed to load icon `lucide:message-circle`",
       "console/warning: [Icon] failed to load icon `lucide:log-in`",
       "console/warning: [Icon] failed to load icon `lucide:message-square`",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:loader-circle`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`",
-      "console/warning: [Icon] failed to load icon `lucide:heart`",
-      "console/warning: [Icon] failed to load icon `lucide:reply`"
+      "console/warning: [Icon] failed to load icon `lucide:loader-circle`"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -1836,19 +870,19 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
-    "raw_title": "13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa",
-    "card_text": "13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa",
+    "url": "https://phaohoa1.live/truc-tiep/rayo-vallecano-vs-alaves-21-08-2026-798816",
+    "raw_title": "09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày",
+    "card_text": "09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày",
     "raw_time": "",
-    "logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg"
     ],
     "logo_candidates": [
       {
@@ -1858,136 +892,136 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
+        "score": 64.99,
         "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
+        "score": 64.98,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
+        "score": 64.97,
         "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
+        "score": 64.93,
         "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
+        "score": 64.92,
         "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
+        "score": 64.91,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
+        "score": 64.87,
         "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
+        "score": 64.86,
         "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
+        "score": 64.81,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
+        "score": 64.8,
         "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
+        "score": 64.75,
         "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
         "source": "home-card"
       }
     ],
-    "blv": "KaKa",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "match_name": "Thái Lan VS Úc",
-    "home_name": "Thái Lan",
-    "away_name": "Úc",
-    "time": "13:00",
+    "page_card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "match_name": "21-08 Vô Địch Châu Á Đài Loan VS Iran Tày",
+    "home_name": "21-08 Vô Địch Châu Á Đài Loan",
+    "away_name": "Iran Tày",
+    "time": "09:00",
     "date": "21/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/rayo-vallecano-vs-alaves-21-08-2026-798816",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.078501+07:00",
-    "kickoff_iso": "2026-08-21T13:00:00+07:00",
+    "scan_time_iso": "2026-08-21T02:02:19.989258+07:00",
+    "kickoff_iso": "2026-08-21T09:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 688,
+    "minutes_to_kickoff": 418,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1997,15 +1031,16 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/rayo-vallecano-vs-alaves-21-08-2026-798816",
-    "raw_title": "17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "card_text": "17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
+    "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
+    "raw_title": "13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa",
+    "card_text": "13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp"
     ],
     "logo_candidates": [
       {
@@ -2015,117 +1050,431 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_187.jpg",
-        "score": 64.99,
-        "context": "Besiktas max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Besiktas min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/kauno-zalgiris-football.webp",
-        "score": 64.98,
-        "context": "Kauno Zalgiris max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kauno Zalgiris min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5634.jpg",
-        "score": 64.93,
-        "context": "Tromso max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Tromso min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg",
-        "score": 64.92,
-        "context": "Brighton max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brighton min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
-        "score": 64.87,
+        "score": 64.99,
         "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 64.86,
+        "score": 64.98,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.85,
+        "score": 64.97,
         "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
-        "score": 64.81,
+        "score": 64.93,
         "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
-        "score": 64.8,
+        "score": 64.92,
         "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.79,
+        "score": 64.91,
         "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
-        "score": 64.75,
+        "score": 64.87,
         "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
-        "score": 64.74,
+        "score": 64.86,
         "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
-        "score": 64.69,
+        "score": 64.81,
         "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.64,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
-        "score": 39.68,
+        "score": 64.8,
         "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/IMG_0881.jpg",
-        "score": 4.91,
-        "context": "A Heo size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] A Heo flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] A Heo flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
-        "score": 4.63,
+        "score": 64.75,
         "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "KaKa",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "match_name": "Thái Lan VS Úc",
+    "home_name": "Thái Lan",
+    "away_name": "Úc",
+    "time": "13:00",
+    "date": "21/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-21T02:02:19.991362+07:00",
+    "kickoff_iso": "2026-08-21T13:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 658,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng chuyền",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-hong-kong",
+    "raw_title": "17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa",
+    "card_text": "17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 64.99,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 64.98,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.97,
+        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+        "score": 64.93,
+        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.92,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.91,
+        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
+        "score": 64.87,
+        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
+        "score": 64.86,
+        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 64.81,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
+        "score": 64.8,
+        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 64.75,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "KaKa",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "match_name": "Nhật Bản VS Hong Kong",
+    "home_name": "Nhật Bản",
+    "away_name": "Hong Kong",
+    "time": "17:30",
+    "date": "21/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-hong-kong",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-21T02:02:19.993437+07:00",
+    "kickoff_iso": "2026-08-21T17:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 928,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng chuyền",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
+    "raw_title": "18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "card_text": "18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-fayha-logo-footylogos-320.webp",
+        "score": 64.99,
+        "context": "Al Fayha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Fayha min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 64.98,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.97,
+        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_85.jpg",
+        "score": 64.93,
+        "context": "Atalanta max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atalanta min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4804.jpg",
+        "score": 64.92,
+        "context": "Hapoel Tel Aviv max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Hapoel Tel Aviv min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.91,
+        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",
+        "score": 64.87,
+        "context": "Rayo Vallecano max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Rayo Vallecano min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Deportivo_Alaves_logo_2020.svg.webp",
+        "score": 64.86,
+        "context": "Alaves max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Alaves min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_147.jpg",
+        "score": 64.81,
+        "context": "Benfica max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Benfica min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_250.jpg",
+        "score": 64.8,
+        "context": "Aarhus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Aarhus min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.79,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 64.76,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_the_Republic_of_China.svg.webp",
+        "score": 64.75,
+        "context": "Đài Loan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đài Loan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 34.74,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.85,
+        "context": "Tày size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Tày flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Tày flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 4.69,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 4.67,
+        "context": "KaKa size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] KaKa flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] KaKa flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5055.jpg",
+        "score": 4.63,
+        "context": "Kashiwa Reysol max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kashiwa Reysol min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_5089.jpg",
+        "score": 4.62,
+        "context": "V-Varen Nagasaki max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] V-Varen Nagasaki min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -2133,21 +1482,21 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "00:00 - 21-08 BÓNG ĐÁ UEFA Europa League Besiktas 3 : 0 72' Kauno Zalgiris Chim Nhỏ 00:00 - 21-08 BÓNG ĐÁ UEFA Conference League Tromso 0 : 0 72' Brighton A Heo 01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 0 30' Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 Trực tiếp Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica VS Sắp diễn ra Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày",
-    "match_name": "21-08 J1 League Kashiwa Reysol VS V-Varen Nagasaki Tày",
-    "home_name": "21-08 J1 League Kashiwa Reysol",
-    "away_name": "V-Varen Nagasaki Tày",
-    "time": "17:00",
+    "page_card_text": "01:00 - 21-08 BÓNG ĐÁ Saudi Pro League Al Fayha 0 : 1 Giải lao Al Hilal Pháo Thủ 01:30 - 21-08 BÓNG ĐÁ UEFA Conference League Atalanta 0 : 0 31' Hapoel Tel Aviv Kevin 02:00 - 21-08 BÓNG ĐÁ La Liga Rayo Vallecano 0 : 0 Trực tiếp Alaves Tày 02:00 - 21-08 BÓNG ĐÁ UEFA Europa League Benfica 0 : 0 Trực tiếp Aarhus Chim Nhỏ 09:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iran Tày 13:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Úc KaKa 17:00 - 21-08 BÓNG ĐÁ J1 League Kashiwa Reysol VS Sắp diễn ra V-Varen Nagasaki Tày 17:30 - 21-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hong Kong KaKa 18:00 - 21-08 BÓNG CHUYỀN Vô Địch Châu Âu Pháp VS Sắp diễn ra Slovakia Chim Nhỏ",
+    "match_name": "21-08 Vô Địch Châu Âu Pháp VS Slovakia Chim Nhỏ",
+    "home_name": "21-08 Vô Địch Châu Âu Pháp",
+    "away_name": "Slovakia Chim Nhỏ",
+    "time": "18:00",
     "date": "21/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/rayo-vallecano-vs-alaves-21-08-2026-798816",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-21T01:32:04.081235+07:00",
-    "kickoff_iso": "2026-08-21T17:00:00+07:00",
+    "scan_time_iso": "2026-08-21T02:02:19.995794+07:00",
+    "kickoff_iso": "2026-08-21T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 928,
+    "minutes_to_kickoff": 958,
     "timing_state": "future",
     "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
+    "sport_group": "Bóng chuyền",
     "scan_window_reason": "too-early",
     "scan_attempted": false,
     "playlist_mode": "metadata-only",
