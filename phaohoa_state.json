@@ -1,50 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T01:31:38.341989+07:00",
+  "updated_at": "2026-08-22T02:01:45.898413+07:00",
   "matches": {
-    "798812": {
-      "url": "https://phaohoa1.live/truc-tiep/atl-madrid-vs-malaga-20-08-2026-798812",
-      "match_name": "Atl. Madrid vs Malaga",
-      "kickoff_iso": "2026-08-20T02:00:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-08-20T03:32:13.859840+07:00",
-      "next_scan_at": "2026-08-20T03:37:13.859840+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "841020": {
-      "url": "https://phaohoa1.live/truc-tiep/slovan-bratislava-vs-celje-20-08-2026-841020",
-      "match_name": "Slovan Bratislava vs Celje",
-      "kickoff_iso": "2026-08-20T02:00:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-08-20T03:32:13.859840+07:00",
-      "next_scan_at": "2026-08-20T03:37:13.859840+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "6aae6b4dda9d": {
-      "url": "https://phaohoa1.live/truc-tiep/celtic-127-vs-lask-166-19-08-2026",
-      "match_name": "Celtic 127 vs Lask 166 19 08 2026",
-      "kickoff_iso": "2026-08-20T02:00:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-08-20T03:32:13.859840+07:00",
-      "next_scan_at": "2026-08-20T03:37:13.859840+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "841019": {
       "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-bodo-glimt-20-08-2026-841019",
       "match_name": "20-08 MLS Philadelphia Union VS Inter Miami A Heo",
@@ -393,9 +351,9 @@
       "url": "https://phaohoa1.live/truc-tiep/marseille-vs-strasbourg-22-08-2026-809907",
       "match_name": "Marseille vs Strasbourg",
       "kickoff_iso": "2026-08-22T01:45:00+07:00",
-      "minutes_to_kickoff": 14,
-      "last_scan_at": "2026-08-22T01:31:38.341870+07:00",
-      "next_scan_at": "2026-08-22T01:36:38.341870+07:00",
+      "minutes_to_kickoff": -16,
+      "last_scan_at": "2026-08-22T02:01:45.898310+07:00",
+      "next_scan_at": "2026-08-22T02:06:45.898310+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -419,9 +377,9 @@
       "url": "https://phaohoa1.live/truc-tiep/al-qadsiah-vs-al-ittihad-22-08-2026-825111",
       "match_name": "Al Qadsiah vs Al Ittihad",
       "kickoff_iso": "2026-08-22T01:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-22T01:31:38.341870+07:00",
-      "next_scan_at": "2026-08-22T01:36:38.341870+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-08-22T02:01:45.898310+07:00",
+      "next_scan_at": "2026-08-22T02:06:45.898310+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -431,14 +389,16 @@
     },
     "812650": {
       "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-coventry-22-08-2026-812650",
-      "match_name": "22-08 Premier League Arsenal VS Coventry A Heo",
+      "match_name": "Arsenal vs Coventry",
       "kickoff_iso": "2026-08-22T02:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-22T01:31:38.341870+07:00",
-      "next_scan_at": "2026-08-22T01:41:38.341870+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-08-22T02:01:45.898310+07:00",
+      "next_scan_at": "2026-08-22T02:06:45.898310+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
