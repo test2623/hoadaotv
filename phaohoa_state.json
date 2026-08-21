@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T11:31:08.802067+07:00",
+  "updated_at": "2026-08-21T12:01:00.987732+07:00",
   "matches": {
     "829601": {
       "url": "https://phaohoa1.live/truc-tiep/anyang-vs-jeju-sk-19-08-2026-829601",
@@ -379,9 +379,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
       "match_name": "21-08 Vô Địch Châu Á Thái Lan VS Úc KaKa",
       "kickoff_iso": "2026-08-21T13:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-08-21T11:31:08.801972+07:00",
-      "next_scan_at": "2026-08-21T11:51:08.801972+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-08-21T12:01:00.987625+07:00",
+      "next_scan_at": "2026-08-21T12:21:00.987625+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
