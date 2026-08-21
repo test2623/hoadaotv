@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T09:01:33.243938+07:00",
+  "updated_at": "2026-08-21T09:31:27.049841+07:00",
   "matches": {
     "829601": {
       "url": "https://phaohoa1.live/truc-tiep/anyang-vs-jeju-sk-19-08-2026-829601",
@@ -367,9 +367,9 @@
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
       "match_name": "Đài Loan vs Iran",
       "kickoff_iso": "2026-08-21T09:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-21T09:01:33.243819+07:00",
-      "next_scan_at": "2026-08-21T09:06:33.243819+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-21T09:31:27.049752+07:00",
+      "next_scan_at": "2026-08-21T09:36:27.049752+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
