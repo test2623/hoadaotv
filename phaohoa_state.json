@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T15:31:10.190294+07:00",
+  "updated_at": "2026-08-21T16:01:05.457539+07:00",
   "matches": {
     "829601": {
       "url": "https://phaohoa1.live/truc-tiep/anyang-vs-jeju-sk-19-08-2026-829601",
@@ -391,9 +391,9 @@
       "url": "https://phaohoa1.live/truc-tiep/kashiwa-reysol-vs-v-varen-nagasaki-21-08-2026-807493",
       "match_name": "21-08 J1 League Kashiwa Reysol VS V-Varen Nagasaki Tày",
       "kickoff_iso": "2026-08-21T17:00:00+07:00",
-      "minutes_to_kickoff": 122,
-      "last_scan_at": "2026-08-21T14:58:20.920162+07:00",
-      "next_scan_at": "2026-08-21T15:43:20.920162+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-08-21T16:01:05.457355+07:00",
+      "next_scan_at": "2026-08-21T16:21:05.457355+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -413,11 +413,23 @@
     },
     "eb525b80a66a": {
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-hong-kong",
+      "match_name": "21-08 Vô Địch Châu Á Nhật Bản VS Hong Kong KaKa",
+      "kickoff_iso": "2026-08-21T17:30:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-21T16:01:05.457355+07:00",
+      "next_scan_at": "2026-08-21T16:21:05.457355+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "f20b5ff67814": {
+      "url": "https://phaohoa1.live/truc-tiep/ao-vs-serbia",
       "match_name": "21-08 Vô Địch Châu Âu Áo VS Serbia A Heo",
       "kickoff_iso": "2026-08-21T19:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-21T15:01:35.128565+07:00",
-      "next_scan_at": "2026-08-21T15:46:35.128565+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-08-21T16:01:05.457355+07:00",
+      "next_scan_at": "2026-08-21T16:46:05.457355+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
