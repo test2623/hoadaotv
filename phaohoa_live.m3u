@@ -13,7 +13,7 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="phaohoa-812650-1" tvg-name="[02:00 22/08] Arsenal vs Coventry" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/arsenal-vs-coventry-22-08-2026-812650" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3094.jpg",[02:00 22/08] Arsenal vs Coventry [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-812650-1" tvg-name="[02:00 22/08] Arsenal vs Coventry" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/arsenal-vs-coventry-22-08-2026-812650" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_141.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3094.jpg",[02:00 22/08] Arsenal vs Coventry [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
