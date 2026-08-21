@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T05:30:56.586442+07:00",
+  "updated_at": "2026-08-22T05:54:59.765939+07:00",
   "matches": {
     "841019": {
       "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-bodo-glimt-20-08-2026-841019",
@@ -407,9 +407,9 @@
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-han-quoc",
       "match_name": "22-08 Vô Địch Châu Á Việt Nam VS Hàn Quốc KaKa",
       "kickoff_iso": "2026-08-22T09:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-22T05:01:13.357657+07:00",
-      "next_scan_at": "2026-08-22T05:46:13.357657+07:00",
+      "minutes_to_kickoff": 185,
+      "last_scan_at": "2026-08-22T05:54:59.765840+07:00",
+      "next_scan_at": "2026-08-22T06:39:59.765840+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
