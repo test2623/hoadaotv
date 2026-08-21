@@ -1,34 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T06:01:10.538985+07:00",
+  "updated_at": "2026-08-22T06:30:56.715731+07:00",
   "matches": {
-    "841019": {
-      "url": "https://phaohoa1.live/truc-tiep/nijmegen-vs-bodo-glimt-20-08-2026-841019",
-      "match_name": "20-08 MLS Philadelphia Union VS Inter Miami A Heo",
-      "kickoff_iso": "2026-08-20T06:30:00+07:00",
-      "minutes_to_kickoff": 178,
-      "last_scan_at": "2026-08-20T03:32:13.859840+07:00",
-      "next_scan_at": "2026-08-20T04:17:13.859840+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "711577": {
-      "url": "https://phaohoa1.live/truc-tiep/philadelphia-union-vs-inter-miami-20-08-2026-711577",
-      "match_name": "Philadelphia Union vs Inter Miami",
-      "kickoff_iso": "2026-08-20T06:30:00+07:00",
-      "minutes_to_kickoff": -121,
-      "last_scan_at": "2026-08-20T08:31:31.429859+07:00",
-      "next_scan_at": "2026-08-20T08:36:31.429859+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "f56f5ab4c9db": {
       "url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
       "match_name": "Brazil vs Mexico",
