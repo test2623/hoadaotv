@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T14:58:20.920301+07:00",
+  "updated_at": "2026-08-21T15:01:35.128704+07:00",
   "matches": {
     "829601": {
       "url": "https://phaohoa1.live/truc-tiep/anyang-vs-jeju-sk-19-08-2026-829601",
@@ -379,9 +379,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
       "match_name": "Thái Lan vs Úc",
       "kickoff_iso": "2026-08-21T13:00:00+07:00",
-      "minutes_to_kickoff": -118,
-      "last_scan_at": "2026-08-21T14:58:20.920162+07:00",
-      "next_scan_at": "2026-08-21T15:03:20.920162+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-08-21T15:01:35.128565+07:00",
+      "next_scan_at": "2026-08-21T15:06:35.128565+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -406,6 +406,18 @@
       "minutes_to_kickoff": 182,
       "last_scan_at": "2026-08-21T14:58:20.920162+07:00",
       "next_scan_at": "2026-08-21T15:43:20.920162+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "eb525b80a66a": {
+      "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-hong-kong",
+      "match_name": "21-08 Vô Địch Châu Âu Áo VS Serbia A Heo",
+      "kickoff_iso": "2026-08-21T19:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-08-21T15:01:35.128565+07:00",
+      "next_scan_at": "2026-08-21T15:46:35.128565+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
