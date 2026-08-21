@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T13:01:35.429104+07:00",
+  "updated_at": "2026-08-21T13:31:28.650977+07:00",
   "matches": {
     "829601": {
       "url": "https://phaohoa1.live/truc-tiep/anyang-vs-jeju-sk-19-08-2026-829601",
@@ -379,9 +379,9 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
       "match_name": "Thái Lan vs Úc",
       "kickoff_iso": "2026-08-21T13:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-21T13:01:35.428944+07:00",
-      "next_scan_at": "2026-08-21T13:06:35.428944+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-21T13:31:28.650886+07:00",
+      "next_scan_at": "2026-08-21T13:36:28.650886+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
