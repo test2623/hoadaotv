@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T22:22:08.570483+07:00",
+  "updated_at": "2026-08-21T22:31:47.753156+07:00",
   "matches": {
     "105559": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-malaysia-18-08-2026-105559",
@@ -363,9 +363,9 @@
       "url": "https://phaohoa1.live/truc-tiep/al-gharafa-vs-al-shahaniya-21-08-2026-803270",
       "match_name": "Al Gharafa vs Al Shahaniya",
       "kickoff_iso": "2026-08-21T21:15:00+07:00",
-      "minutes_to_kickoff": -66,
-      "last_scan_at": "2026-08-21T22:22:08.570331+07:00",
-      "next_scan_at": "2026-08-21T22:27:08.570331+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T22:36:47.752858+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -389,11 +389,11 @@
     },
     "1aa286a91458": {
       "url": "https://phaohoa1.live/truc-tiep/bulgaria-vs-ukraine",
-      "match_name": "21-08 Vô Địch Châu Âu Thổ Nhĩ Kì VS Latvia KaKa",
+      "match_name": "Bulgaria vs Ukraine",
       "kickoff_iso": "2026-08-21T22:00:00+07:00",
-      "minutes_to_kickoff": -22,
-      "last_scan_at": "2026-08-21T22:22:08.570331+07:00",
-      "next_scan_at": "2026-08-21T22:27:08.570331+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T22:36:47.752858+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -403,35 +403,39 @@
     },
     "ced1c58db812": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-latvia",
-      "match_name": "22-08 La Liga Real Betis VS Real Sociedad Kevin",
-      "kickoff_iso": "2026-08-22T02:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-08-21T22:01:41.346945+07:00",
-      "next_scan_at": "2026-08-21T22:46:41.346945+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "21-08 Saudi Pro League Al Hazem VS Al Diriyah Pháo Thủ",
+      "kickoff_iso": "2026-08-21T23:00:00+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T22:36:47.752858+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "825108": {
       "url": "https://phaohoa1.live/truc-tiep/al-riyadh-vs-al-nassr-21-08-2026-825108",
       "match_name": "21-08 Saudi Pro League Al Riyadh VS Al Nassr Kevin",
       "kickoff_iso": "2026-08-21T23:00:00+07:00",
-      "minutes_to_kickoff": 39,
-      "last_scan_at": "2026-08-21T22:22:08.570331+07:00",
-      "next_scan_at": "2026-08-21T22:32:08.570331+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T22:36:47.752858+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     },
     "825109": {
       "url": "https://phaohoa1.live/truc-tiep/al-hazem-vs-al-diriyah-21-08-2026-825109",
-      "match_name": "21-08 Saudi Pro League Al Hazem VS Al Diriyah Pháo Thủ",
-      "kickoff_iso": "2026-08-21T23:15:00+07:00",
-      "minutes_to_kickoff": 74,
-      "last_scan_at": "2026-08-21T22:01:41.346945+07:00",
-      "next_scan_at": "2026-08-21T22:21:41.346945+07:00",
+      "match_name": "22-08 Premier League Arsenal VS Coventry A Heo",
+      "kickoff_iso": "2026-08-22T02:00:00+07:00",
+      "minutes_to_kickoff": 209,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T23:16:47.752858+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -444,6 +448,30 @@
       "minutes_to_kickoff": 224,
       "last_scan_at": "2026-08-21T22:01:41.346945+07:00",
       "next_scan_at": "2026-08-21T22:46:41.346945+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "798817": {
+      "url": "https://phaohoa1.live/truc-tiep/real-betis-vs-real-sociedad-22-08-2026-798817",
+      "match_name": "22-08 La Liga Real Betis VS Real Sociedad Kevin",
+      "kickoff_iso": "2026-08-22T02:00:00+07:00",
+      "minutes_to_kickoff": 209,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T23:16:47.752858+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "825111": {
+      "url": "https://phaohoa1.live/truc-tiep/al-qadsiah-vs-al-ittihad-22-08-2026-825111",
+      "match_name": "22-08 Saudi Pro League Al Qadsiah VS Al Ittihad Văn Minh",
+      "kickoff_iso": "2026-08-22T01:00:00+07:00",
+      "minutes_to_kickoff": 149,
+      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
+      "next_scan_at": "2026-08-21T23:16:47.752858+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
