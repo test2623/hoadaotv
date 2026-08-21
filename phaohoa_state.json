@@ -1,48 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-21T23:02:11.940605+07:00",
+  "updated_at": "2026-08-21T23:31:36.748239+07:00",
   "matches": {
-    "105559": {
-      "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-malaysia-18-08-2026-105559",
-      "match_name": "19-08 King's Cup Damac VS Al Taawon KaKa",
-      "kickoff_iso": "2026-08-19T23:15:00+07:00",
-      "minutes_to_kickoff": 134,
-      "last_scan_at": "2026-08-19T21:01:46.947335+07:00",
-      "next_scan_at": "2026-08-19T21:46:46.947335+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "791888": {
-      "url": "https://phaohoa1.live/truc-tiep/damac-vs-al-taawon-19-08-2026-791888",
-      "match_name": "Damac vs Al Taawon",
-      "kickoff_iso": "2026-08-19T23:15:00+07:00",
-      "minutes_to_kickoff": -107,
-      "last_scan_at": "2026-08-20T01:02:06.480324+07:00",
-      "next_scan_at": "2026-08-20T01:07:06.480324+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "791889": {
-      "url": "https://phaohoa1.live/truc-tiep/jeddah-vs-al-kholood-19-08-2026-791889",
-      "match_name": "Jeddah vs Al Kholood",
-      "kickoff_iso": "2026-08-19T23:30:00+07:00",
-      "minutes_to_kickoff": -92,
-      "last_scan_at": "2026-08-20T01:02:06.480324+07:00",
-      "next_scan_at": "2026-08-20T01:07:06.480324+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "826155": {
       "url": "https://phaohoa1.live/truc-tiep/barcelona-vs-al-ahly-20-08-2026-826155",
       "match_name": "Barcelona vs Al Ahly",
@@ -391,9 +351,9 @@
       "url": "https://phaohoa1.live/truc-tiep/bulgaria-vs-ukraine",
       "match_name": "Bulgaria vs Ukraine",
       "kickoff_iso": "2026-08-21T22:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-08-21T23:02:11.940410+07:00",
-      "next_scan_at": "2026-08-21T23:07:11.940410+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-21T23:36:36.748038+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -403,25 +363,23 @@
     },
     "ced1c58db812": {
       "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-latvia",
-      "match_name": "Thổ Nhĩ Kì vs Latvia",
-      "kickoff_iso": "2026-08-21T23:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-08-21T23:02:11.940410+07:00",
-      "next_scan_at": "2026-08-21T23:07:11.940410+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
+      "match_name": "22-08 Saudi Pro League Al Qadsiah VS Al Ittihad Văn Minh",
+      "kickoff_iso": "2026-08-22T01:00:00+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-21T23:51:36.748038+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     },
     "825108": {
       "url": "https://phaohoa1.live/truc-tiep/al-riyadh-vs-al-nassr-21-08-2026-825108",
-      "match_name": "21-08 Saudi Pro League Al Hazem VS Al Diriyah Pháo Thủ",
+      "match_name": "Al Riyadh vs Al Nassr",
       "kickoff_iso": "2026-08-21T23:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-08-21T23:02:11.940410+07:00",
-      "next_scan_at": "2026-08-21T23:07:11.940410+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-21T23:36:36.748038+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -431,23 +389,25 @@
     },
     "825109": {
       "url": "https://phaohoa1.live/truc-tiep/al-hazem-vs-al-diriyah-21-08-2026-825109",
-      "match_name": "22-08 Premier League Arsenal VS Coventry A Heo",
-      "kickoff_iso": "2026-08-22T02:00:00+07:00",
-      "minutes_to_kickoff": 209,
-      "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
-      "next_scan_at": "2026-08-21T23:16:47.752858+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "Al Hazem vs Al Diriyah",
+      "kickoff_iso": "2026-08-21T23:15:00+07:00",
+      "minutes_to_kickoff": -16,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-21T23:36:36.748038+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "809907": {
       "url": "https://phaohoa1.live/truc-tiep/marseille-vs-strasbourg-22-08-2026-809907",
       "match_name": "22-08 Ligue 1 Marseille VS Strasbourg Chim Nhỏ",
       "kickoff_iso": "2026-08-22T01:45:00+07:00",
-      "minutes_to_kickoff": 224,
-      "last_scan_at": "2026-08-21T22:01:41.346945+07:00",
-      "next_scan_at": "2026-08-21T22:46:41.346945+07:00",
+      "minutes_to_kickoff": 134,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-22T00:16:36.748038+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -472,6 +432,18 @@
       "minutes_to_kickoff": 149,
       "last_scan_at": "2026-08-21T22:31:47.752858+07:00",
       "next_scan_at": "2026-08-21T23:16:47.752858+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "812650": {
+      "url": "https://phaohoa1.live/truc-tiep/arsenal-vs-coventry-22-08-2026-812650",
+      "match_name": "22-08 Premier League Arsenal VS Coventry A Heo",
+      "kickoff_iso": "2026-08-22T02:00:00+07:00",
+      "minutes_to_kickoff": 149,
+      "last_scan_at": "2026-08-21T23:31:36.748038+07:00",
+      "next_scan_at": "2026-08-22T00:16:36.748038+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
