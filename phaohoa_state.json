@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T02:16:40.049114+07:00",
+  "updated_at": "2026-08-23T02:44:29.267504+07:00",
   "matches": {
     "066e75c4ae21": {
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
@@ -471,9 +471,9 @@
       "url": "https://phaohoa1.live/truc-tiep/dortmund-vs-bayern-munich-23-08-2026-794449",
       "match_name": "Dortmund vs Bayern Munich",
       "kickoff_iso": "2026-08-23T01:30:00+07:00",
-      "minutes_to_kickoff": -46,
-      "last_scan_at": "2026-08-23T02:16:40.048986+07:00",
-      "next_scan_at": "2026-08-23T02:21:40.048986+07:00",
+      "minutes_to_kickoff": -73,
+      "last_scan_at": "2026-08-23T02:44:29.267293+07:00",
+      "next_scan_at": "2026-08-23T02:49:29.267293+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -485,9 +485,9 @@
       "url": "https://phaohoa1.live/truc-tiep/toulouse-vs-lyon-23-08-2026-809911",
       "match_name": "Toulouse vs Lyon",
       "kickoff_iso": "2026-08-23T01:45:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-23T02:16:40.048986+07:00",
-      "next_scan_at": "2026-08-23T02:21:40.048986+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-23T02:44:29.267293+07:00",
+      "next_scan_at": "2026-08-23T02:49:29.267293+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -499,9 +499,9 @@
       "url": "https://phaohoa1.live/truc-tiep/al-ahli-sc-vs-abha-23-08-2026-825114",
       "match_name": "Al Ahli SC vs Abha",
       "kickoff_iso": "2026-08-23T01:00:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-08-23T02:16:40.048986+07:00",
-      "next_scan_at": "2026-08-23T02:21:40.048986+07:00",
+      "minutes_to_kickoff": -103,
+      "last_scan_at": "2026-08-23T02:44:29.267293+07:00",
+      "next_scan_at": "2026-08-23T02:49:29.267293+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -511,11 +511,11 @@
     },
     "807855": {
       "url": "https://phaohoa1.live/truc-tiep/genoa-vs-napoli-23-08-2026-807855",
-      "match_name": "23-08 La Liga Espanyol VS Real Madrid Tày",
+      "match_name": "Genoa vs Napoli",
       "kickoff_iso": "2026-08-23T01:45:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-23T02:16:40.048986+07:00",
-      "next_scan_at": "2026-08-23T02:21:40.048986+07:00",
+      "minutes_to_kickoff": -59,
+      "last_scan_at": "2026-08-23T02:44:29.267293+07:00",
+      "next_scan_at": "2026-08-23T02:49:29.267293+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -530,6 +530,18 @@
       "minutes_to_kickoff": 76,
       "last_scan_at": "2026-08-23T01:15:23.903315+07:00",
       "next_scan_at": "2026-08-23T01:35:23.903315+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "711590": {
+      "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-toronto-fc-23-08-2026-711590",
+      "match_name": "23-08 MLS Inter Miami VS Toronto FC A Heo",
+      "kickoff_iso": "2026-08-23T06:30:00+07:00",
+      "minutes_to_kickoff": 227,
+      "last_scan_at": "2026-08-23T02:44:29.267293+07:00",
+      "next_scan_at": "2026-08-23T03:29:29.267293+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
