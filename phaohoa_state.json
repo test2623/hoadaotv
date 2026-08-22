@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T04:42:56.704960+07:00",
+  "updated_at": "2026-08-23T05:11:07.474284+07:00",
   "matches": {
     "066e75c4ae21": {
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
@@ -539,9 +539,21 @@
       "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-toronto-fc-23-08-2026-711590",
       "match_name": "23-08 MLS Inter Miami VS Toronto FC A Heo",
       "kickoff_iso": "2026-08-23T06:30:00+07:00",
-      "minutes_to_kickoff": 107,
-      "last_scan_at": "2026-08-23T04:42:56.704857+07:00",
-      "next_scan_at": "2026-08-23T05:02:56.704857+07:00",
+      "minutes_to_kickoff": 79,
+      "last_scan_at": "2026-08-23T05:11:07.474167+07:00",
+      "next_scan_at": "2026-08-23T05:31:07.474167+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "b393769485b1": {
+      "url": "https://phaohoa1.live/truc-tiep/kazakhstan-vs-uc",
+      "match_name": "23-08 Vô Địch Châu Á Kazakhstan VS Úc Tày",
+      "kickoff_iso": "2026-08-23T09:00:00+07:00",
+      "minutes_to_kickoff": 229,
+      "last_scan_at": "2026-08-23T05:11:07.474167+07:00",
+      "next_scan_at": "2026-08-23T05:56:07.474167+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
