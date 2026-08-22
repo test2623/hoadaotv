@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-toronto-fc-23-08-2026-711590",
-    "raw_title": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo",
-    "card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo",
+    "raw_title": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo",
+    "card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
@@ -25,15 +25,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -126,12 +132,6 @@
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
@@ -144,7 +144,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
         "score": 75,
-        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Inter Miami SẮP DIỄN RA VS 06:30 - 23/08/2026 Toronto FC TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 18 PHÚT 59 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
+        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Inter Miami ĐANG DIỄN RA 0-0 06:30 - 23/08/2026 Toronto FC relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -153,28 +153,48 @@
         "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Toronto FC min-w-0 text-center",
         "source": "detail-match"
       },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/81f8f7c0-9ecb-4e1d-84e8-32c9e13000c2.png",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none má bắn chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_2026-08-09_205232.png",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none =)) chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1439_i91H6AZ.gif",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Delay nữa chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
       "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/81f8f7c0-9ecb-4e1d-84e8-32c9e13000c2.png",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/Screenshot_2026-08-09_205232.png",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1439_i91H6AZ.gif"
     ],
-    "blv": "A Heo",
+    "blv": "chứ buồn ngủ quá r jo le be 2 giờ trước",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
-    "match_name": "Inter Miami VS Toronto FC",
+    "match_name": "Inter Miami vs Toronto FC",
     "home_name": "Inter Miami",
     "away_name": "Toronto FC",
     "time": "06:30",
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-toronto-fc-23-08-2026-711590",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-23T06:11:21.158441+07:00",
+    "scan_time_iso": "2026-08-23T06:42:26.989558+07:00",
     "kickoff_iso": "2026-08-23T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 19,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -12,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
@@ -187,10 +207,53 @@
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 2,
+    "_scan_total": 1,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3286436973-1787441175-20260822T234218.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -357,7 +420,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -385,15 +448,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -485,19 +554,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "Kazakhstan VS Úc",
     "home_name": "Kazakhstan",
     "away_name": "Úc",
@@ -505,31 +568,16 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kazakhstan-vs-uc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T06:11:21.161118+07:00",
+    "scan_time_iso": "2026-08-23T06:42:26.992347+07:00",
     "kickoff_iso": "2026-08-23T09:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 169,
+    "minutes_to_kickoff": 138,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/b393769485b1.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 2,
-    "_scan_total": 2,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-14m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -559,15 +607,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -659,19 +713,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "Machida VS Urawa Reds",
     "home_name": "Machida",
     "away_name": "Urawa Reds",
@@ -679,10 +727,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/machida-vs-urawa-reds-23-08-2026-807502",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-23T06:11:21.163855+07:00",
+    "scan_time_iso": "2026-08-23T06:42:26.995304+07:00",
     "kickoff_iso": "2026-08-23T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 679,
+    "minutes_to_kickoff": 648,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -717,15 +765,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -817,19 +871,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "23-08 Vô Địch Châu Á Nhật Bản VS Hàn Quốc KaKa",
     "home_name": "23-08 Vô Địch Châu Á Nhật Bản",
     "away_name": "Hàn Quốc KaKa",
@@ -837,10 +885,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iraq",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T06:11:21.167384+07:00",
+    "scan_time_iso": "2026-08-23T06:42:26.998811+07:00",
     "kickoff_iso": "2026-08-23T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 679,
+    "minutes_to_kickoff": 648,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -875,15 +923,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -975,19 +1029,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "Bồ Đào Nha VS Bỉ",
     "home_name": "Bồ Đào Nha",
     "away_name": "Bỉ",
@@ -995,10 +1043,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/bo-dao-nha-vs-bi",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-23T06:11:21.170199+07:00",
+    "scan_time_iso": "2026-08-23T06:42:27.001901+07:00",
     "kickoff_iso": "2026-08-23T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 739,
+    "minutes_to_kickoff": 708,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1032,15 +1080,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1132,19 +1186,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "Angers VS Lille",
     "home_name": "Angers",
     "away_name": "Lille",
@@ -1152,10 +1200,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/angers-vs-lille-23-08-2026-809913",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T06:11:21.172705+07:00",
+    "scan_time_iso": "2026-08-23T06:42:27.004628+07:00",
     "kickoff_iso": "2026-08-23T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 829,
+    "minutes_to_kickoff": 798,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1189,15 +1237,21 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
+        "score": 64.98,
+        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Toronto_FC_Logo.svg.webp",
-        "score": 39.98,
-        "context": "Toronto FC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Toronto FC min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 59.93,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1289,19 +1343,13 @@
         "score": 4.62,
         "context": "Groningen max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Groningen min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.61,
-        "context": "Pháo Thủ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Pháo Thủ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Pháo Thủ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
+    "page_card_text": "06:30 - 23-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Toronto FC A Heo 09:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Kazakhstan VS Sắp diễn ra Úc Tày 13:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Đài Loan VS Sắp diễn ra Iraq KaKa 17:30 - 23-08 BÓNG ĐÁ J1 League Machida VS Sắp diễn ra Urawa Reds Văn Minh 17:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Hàn Quốc KaKa 18:30 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Bồ Đào Nha VS Sắp diễn ra Bỉ Chim Nhỏ 19:30 - 23-08 BÓNG ĐÁ Eredivisie PSV VS Sắp diễn ra Groningen Pháo Thủ 20:00 - 23-08 BÓNG ĐÁ Ligue 1 Angers VS Sắp diễn ra Lille Văn Minh 20:00 - 23-08 BÓNG ĐÁ Premier League Brighton VS Sắp diễn ra Aston Villa A Heo",
     "match_name": "23-08 Premier League Brighton VS Aston Villa A Heo",
     "home_name": "23-08 Premier League Brighton",
     "away_name": "Aston Villa A Heo",
@@ -1309,10 +1357,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-han-quoc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T06:11:21.175579+07:00",
+    "scan_time_iso": "2026-08-23T06:42:27.007704+07:00",
     "kickoff_iso": "2026-08-23T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 829,
+    "minutes_to_kickoff": 798,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
