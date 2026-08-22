@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T15:54:58.730273+07:00",
+  "updated_at": "2026-08-22T16:17:53.162616+07:00",
   "matches": {
     "f56f5ab4c9db": {
       "url": "https://phaohoa1.live/truc-tiep/brazil-vs-mexico",
@@ -395,9 +395,9 @@
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-kazakhstan",
       "match_name": "Indonesia vs Kazakhstan",
       "kickoff_iso": "2026-08-22T14:00:00+07:00",
-      "minutes_to_kickoff": -115,
-      "last_scan_at": "2026-08-22T15:54:58.730100+07:00",
-      "next_scan_at": "2026-08-22T15:59:58.730100+07:00",
+      "minutes_to_kickoff": -137,
+      "last_scan_at": "2026-08-22T16:17:53.162421+07:00",
+      "next_scan_at": "2026-08-22T16:22:53.162421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -407,12 +407,14 @@
       "url": "https://phaohoa1.live/truc-tiep/kashima-antlers-vs-avispa-fukuoka-22-08-2026-807495",
       "match_name": "Kashima Antlers vs Avispa Fukuoka",
       "kickoff_iso": "2026-08-22T16:00:00+07:00",
-      "minutes_to_kickoff": 5,
-      "last_scan_at": "2026-08-22T15:54:58.730100+07:00",
-      "next_scan_at": "2026-08-22T15:59:58.730100+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -17,
+      "last_scan_at": "2026-08-22T16:17:53.162421+07:00",
+      "next_scan_at": "2026-08-22T16:22:53.162421+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
+      ],
       "scan_decision": "browser-fallback"
     },
     "812651": {
@@ -434,6 +436,30 @@
       "minutes_to_kickoff": 156,
       "last_scan_at": "2026-08-22T15:54:58.730100+07:00",
       "next_scan_at": "2026-08-22T16:39:58.730100+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "3d08d77fdd4d": {
+      "url": "https://phaohoa1.live/truc-tiep/italy-vs-montenegro",
+      "match_name": "22-08 Vô Địch Châu Âu Italy VS Montenegro Chim Nhỏ",
+      "kickoff_iso": "2026-08-22T19:59:00+07:00",
+      "minutes_to_kickoff": 222,
+      "last_scan_at": "2026-08-22T16:17:53.162421+07:00",
+      "next_scan_at": "2026-08-22T17:02:53.162421+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "172419": {
+      "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-viet-nam-20-08-2026-172419",
+      "match_name": "22-08 ASEAN Championship Thái Lan VS Việt Nam Kevin",
+      "kickoff_iso": "2026-08-22T20:00:00+07:00",
+      "minutes_to_kickoff": 223,
+      "last_scan_at": "2026-08-22T16:17:53.162421+07:00",
+      "next_scan_at": "2026-08-22T17:02:53.162421+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
