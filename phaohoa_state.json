@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T23:12:03.491798+07:00",
+  "updated_at": "2026-08-22T23:47:36.972719+07:00",
   "matches": {
     "844919": {
       "url": "https://phaohoa1.live/truc-tiep/tromso-vs-brighton-21-08-2026-844919",
@@ -473,21 +473,23 @@
       "url": "https://phaohoa1.live/truc-tiep/lens-vs-auxerre-22-08-2026-809908",
       "match_name": "Lens vs Auxerre",
       "kickoff_iso": "2026-08-22T22:15:00+07:00",
-      "minutes_to_kickoff": -57,
-      "last_scan_at": "2026-08-22T23:12:03.491608+07:00",
-      "next_scan_at": "2026-08-22T23:17:03.491608+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -92,
+      "last_scan_at": "2026-08-22T23:47:36.972484+07:00",
+      "next_scan_at": "2026-08-22T23:52:36.972484+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
+      ],
       "scan_decision": "browser-fallback"
     },
     "798818": {
       "url": "https://phaohoa1.live/truc-tiep/ath-bilbao-vs-sevilla-22-08-2026-798818",
       "match_name": "Ath Bilbao vs Sevilla",
       "kickoff_iso": "2026-08-22T22:00:00+07:00",
-      "minutes_to_kickoff": -72,
-      "last_scan_at": "2026-08-22T23:12:03.491608+07:00",
-      "next_scan_at": "2026-08-22T23:17:03.491608+07:00",
+      "minutes_to_kickoff": -107,
+      "last_scan_at": "2026-08-22T23:47:36.972484+07:00",
+      "next_scan_at": "2026-08-22T23:52:36.972484+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -497,11 +499,11 @@
     },
     "5b1d5994e98f": {
       "url": "https://phaohoa1.live/truc-tiep/hungary-vs-ba-lan",
-      "match_name": "22-08 Premier League Brentford VS Tottenham Người Lửa",
-      "kickoff_iso": "2026-08-22T23:30:00+07:00",
-      "minutes_to_kickoff": 18,
-      "last_scan_at": "2026-08-22T23:12:03.491608+07:00",
-      "next_scan_at": "2026-08-22T23:17:03.491608+07:00",
+      "match_name": "Hungary vs Ba Lan",
+      "kickoff_iso": "2026-08-22T23:00:00+07:00",
+      "minutes_to_kickoff": -47,
+      "last_scan_at": "2026-08-22T23:47:36.972484+07:00",
+      "next_scan_at": "2026-08-22T23:52:36.972484+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -511,14 +513,16 @@
     },
     "807853": {
       "url": "https://phaohoa1.live/truc-tiep/inter-vs-monza-22-08-2026-807853",
-      "match_name": "22-08 Serie A Inter VS Monza Chim Nhỏ",
+      "match_name": "Inter vs Monza",
       "kickoff_iso": "2026-08-22T23:30:00+07:00",
-      "minutes_to_kickoff": 18,
-      "last_scan_at": "2026-08-22T23:12:03.491608+07:00",
-      "next_scan_at": "2026-08-22T23:22:03.491608+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -17,
+      "last_scan_at": "2026-08-22T23:47:36.972484+07:00",
+      "next_scan_at": "2026-08-22T23:52:36.972484+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "812655": {
@@ -537,13 +541,13 @@
       "url": "https://phaohoa1.live/truc-tiep/valencia-vs-celta-vigo-23-08-2026-798819",
       "match_name": "23-08 La Liga Valencia VS Celta Vigo Tày",
       "kickoff_iso": "2026-08-23T00:30:00+07:00",
-      "minutes_to_kickoff": 79,
-      "last_scan_at": "2026-08-22T23:12:03.491608+07:00",
-      "next_scan_at": "2026-08-22T23:32:03.491608+07:00",
+      "minutes_to_kickoff": 43,
+      "last_scan_at": "2026-08-22T23:47:36.972484+07:00",
+      "next_scan_at": "2026-08-22T23:57:36.972484+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "794449": {
       "url": "https://phaohoa1.live/truc-tiep/dortmund-vs-bayern-munich-23-08-2026-794449",
