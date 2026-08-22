@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T03:46:18.464631+07:00",
+  "updated_at": "2026-08-23T04:12:36.440814+07:00",
   "matches": {
     "066e75c4ae21": {
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iran",
@@ -525,9 +525,9 @@
       "url": "https://phaohoa1.live/truc-tiep/espanyol-vs-real-madrid-23-08-2026-798820",
       "match_name": "Espanyol vs Real Madrid",
       "kickoff_iso": "2026-08-23T02:30:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-08-23T03:46:18.464551+07:00",
-      "next_scan_at": "2026-08-23T03:51:18.464551+07:00",
+      "minutes_to_kickoff": -102,
+      "last_scan_at": "2026-08-23T04:12:36.440763+07:00",
+      "next_scan_at": "2026-08-23T04:17:36.440763+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
