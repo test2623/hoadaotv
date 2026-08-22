@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-22T21:45:54.683523+07:00",
+  "updated_at": "2026-08-22T22:11:51.286682+07:00",
   "matches": {
     "844764": {
       "url": "https://phaohoa1.live/truc-tiep/mjallby-vs-salzburg-21-08-2026-844764",
@@ -14,20 +14,6 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "844989": {
-      "url": "https://phaohoa1.live/truc-tiep/kairat-almaty-vs-anderlecht-21-08-2026-844989",
-      "match_name": "Kairat Almaty vs Anderlecht",
-      "kickoff_iso": "2026-08-20T22:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-08-20T23:32:00.010623+07:00",
-      "next_scan_at": "2026-08-20T23:37:00.010623+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -473,9 +459,9 @@
       "url": "https://phaohoa1.live/truc-tiep/everton-vs-crystal-palace-22-08-2026-812652",
       "match_name": "Everton vs Crystal Palace",
       "kickoff_iso": "2026-08-22T21:00:00+07:00",
-      "minutes_to_kickoff": -45,
-      "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
-      "next_scan_at": "2026-08-22T21:50:54.683257+07:00",
+      "minutes_to_kickoff": -71,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:16:51.286476+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -485,11 +471,11 @@
     },
     "812653": {
       "url": "https://phaohoa1.live/truc-tiep/ipswich-vs-sunderland-22-08-2026-812653",
-      "match_name": "22-08 La Liga Ath Bilbao VS Sevilla Kevin",
+      "match_name": "Ipswich vs Sunderland",
       "kickoff_iso": "2026-08-22T21:00:00+07:00",
-      "minutes_to_kickoff": -45,
-      "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
-      "next_scan_at": "2026-08-22T21:50:54.683257+07:00",
+      "minutes_to_kickoff": -71,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:16:51.286476+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -501,9 +487,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nottingham-vs-leeds-22-08-2026-812654",
       "match_name": "Nottingham vs Leeds",
       "kickoff_iso": "2026-08-22T21:00:00+07:00",
-      "minutes_to_kickoff": -45,
-      "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
-      "next_scan_at": "2026-08-22T21:50:54.683257+07:00",
+      "minutes_to_kickoff": -71,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:16:51.286476+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -513,35 +499,37 @@
     },
     "809908": {
       "url": "https://phaohoa1.live/truc-tiep/lens-vs-auxerre-22-08-2026-809908",
-      "match_name": "22-08 Ligue 1 Lens VS Auxerre Văn Minh",
-      "kickoff_iso": "2026-08-22T22:15:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
-      "next_scan_at": "2026-08-22T21:55:54.683257+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
-    "798818": {
-      "url": "https://phaohoa1.live/truc-tiep/ath-bilbao-vs-sevilla-22-08-2026-798818",
-      "match_name": "22-08 Premier League Brentford VS Tottenham Người Lửa",
-      "kickoff_iso": "2026-08-22T23:30:00+07:00",
-      "minutes_to_kickoff": 105,
-      "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
-      "next_scan_at": "2026-08-22T22:05:54.683257+07:00",
+      "match_name": "23-08 La Liga Valencia VS Celta Vigo Tày",
+      "kickoff_iso": "2026-08-23T00:30:00+07:00",
+      "minutes_to_kickoff": 139,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:56:51.286476+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
     },
+    "798818": {
+      "url": "https://phaohoa1.live/truc-tiep/ath-bilbao-vs-sevilla-22-08-2026-798818",
+      "match_name": "Ath Bilbao vs Sevilla",
+      "kickoff_iso": "2026-08-22T22:00:00+07:00",
+      "minutes_to_kickoff": -11,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:16:51.286476+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
+      "scan_decision": "browser-fallback"
+    },
     "5b1d5994e98f": {
       "url": "https://phaohoa1.live/truc-tiep/hungary-vs-ba-lan",
       "match_name": "22-08 Vô Địch Châu Âu Hungary VS Ba Lan KaKa",
       "kickoff_iso": "2026-08-22T23:00:00+07:00",
-      "minutes_to_kickoff": 130,
-      "last_scan_at": "2026-08-22T20:50:44.544308+07:00",
-      "next_scan_at": "2026-08-22T21:35:44.544308+07:00",
+      "minutes_to_kickoff": 49,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:31:51.286476+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -554,6 +542,18 @@
       "minutes_to_kickoff": 105,
       "last_scan_at": "2026-08-22T21:45:54.683257+07:00",
       "next_scan_at": "2026-08-22T22:05:54.683257+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "812655": {
+      "url": "https://phaohoa1.live/truc-tiep/brentford-vs-tottenham-22-08-2026-812655",
+      "match_name": "22-08 Premier League Brentford VS Tottenham Người Lửa",
+      "kickoff_iso": "2026-08-22T23:30:00+07:00",
+      "minutes_to_kickoff": 79,
+      "last_scan_at": "2026-08-22T22:11:51.286476+07:00",
+      "next_scan_at": "2026-08-22T22:31:51.286476+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
