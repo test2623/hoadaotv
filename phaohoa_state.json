@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T23:14:26.104392+07:00",
+  "updated_at": "2026-08-23T23:50:00.141114+07:00",
   "matches": {
-    "825109": {
-      "url": "https://phaohoa1.live/truc-tiep/al-hazem-vs-al-diriyah-21-08-2026-825109",
-      "match_name": "Al Hazem vs Al Diriyah",
-      "kickoff_iso": "2026-08-21T23:15:00+07:00",
-      "minutes_to_kickoff": -106,
-      "last_scan_at": "2026-08-22T01:01:46.291314+07:00",
-      "next_scan_at": "2026-08-22T01:06:46.291314+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "809907": {
       "url": "https://phaohoa1.live/truc-tiep/marseille-vs-strasbourg-22-08-2026-809907",
       "match_name": "Marseille vs Strasbourg",
@@ -555,9 +541,9 @@
       "url": "https://phaohoa1.live/truc-tiep/newcastle-vs-liverpool-23-08-2026-812658",
       "match_name": "Newcastle vs Liverpool",
       "kickoff_iso": "2026-08-23T22:30:00+07:00",
-      "minutes_to_kickoff": -44,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:19:26.104122+07:00",
+      "minutes_to_kickoff": -79,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-23T23:55:00.140906+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -569,9 +555,9 @@
       "url": "https://phaohoa1.live/truc-tiep/atl-madrid-vs-villarreal-23-08-2026-798821",
       "match_name": "Atl. Madrid vs Villarreal",
       "kickoff_iso": "2026-08-23T22:00:00+07:00",
-      "minutes_to_kickoff": -73,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:19:26.104122+07:00",
+      "minutes_to_kickoff": -109,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-23T23:55:00.140906+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -583,9 +569,9 @@
       "url": "https://phaohoa1.live/truc-tiep/le-havre-vs-monaco-23-08-2026-809914",
       "match_name": "Le Havre vs Monaco",
       "kickoff_iso": "2026-08-23T22:15:00+07:00",
-      "minutes_to_kickoff": -58,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:19:26.104122+07:00",
+      "minutes_to_kickoff": -94,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-23T23:55:00.140906+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -621,9 +607,9 @@
       "url": "https://phaohoa1.live/truc-tiep/slovenia-vs-tho-nhi-ki",
       "match_name": "Slovenia vs Thổ Nhĩ Kì",
       "kickoff_iso": "2026-08-23T23:00:00+07:00",
-      "minutes_to_kickoff": -13,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:19:26.104122+07:00",
+      "minutes_to_kickoff": -49,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-23T23:55:00.140906+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -635,24 +621,26 @@
       "url": "https://phaohoa1.live/truc-tiep/getafe-vs-racing-santander-24-08-2026-798822",
       "match_name": "24-08 La Liga Getafe VS Racing Santander Văn Minh",
       "kickoff_iso": "2026-08-24T00:30:00+07:00",
-      "minutes_to_kickoff": 77,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:34:26.104122+07:00",
+      "minutes_to_kickoff": 40,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-24T00:00:00.140906+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "807857": {
       "url": "https://phaohoa1.live/truc-tiep/frosinone-vs-juventus-23-08-2026-807857",
-      "match_name": "23-08 Serie A Frosinone VS Juventus Kevin",
+      "match_name": "Frosinone vs Juventus",
       "kickoff_iso": "2026-08-23T23:30:00+07:00",
-      "minutes_to_kickoff": 16,
-      "last_scan_at": "2026-08-23T23:14:26.104122+07:00",
-      "next_scan_at": "2026-08-23T23:24:26.104122+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -20,
+      "last_scan_at": "2026-08-23T23:50:00.140906+07:00",
+      "next_scan_at": "2026-08-23T23:55:00.140906+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
