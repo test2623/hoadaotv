@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-805972-1" tvg-name="[19:30 23/08] Psv vs Groningen" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_150.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_150.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg",[19:30 23/08] Psv vs Groningen [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-805972-1" tvg-name="[19:30 23/08] Psv vs Groningen" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_150.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_150.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg",[19:30 23/08] Psv vs Groningen [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
@@ -13,7 +13,7 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 tvg-id="phaohoa-812656-1" tvg-name="[20:00 23/08] Brighton vs Aston Villa [BLV Kevin 1 phút trước https://www.facebook.]" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/brighton-vs-aston-villa-23-08-2026-812656" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg" phaohoa-blv="Kevin 1 phút trước https://www.facebook.",[20:00 23/08] Brighton vs Aston Villa [BLV Kevin 1 phút trước https://www.facebook.] [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-812656-1" tvg-name="[20:00 23/08] Brighton vs Aston Villa" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/brighton-vs-aston-villa-23-08-2026-812656" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3088_UHAISAx.jpg",[20:00 23/08] Brighton vs Aston Villa [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
@@ -27,9 +27,14 @@ https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="phaohoa-7df3aef45a66-1" tvg-name="[21:00 23/08] Nga vs Cuba" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nga-vs-cuba" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg",[21:00 23/08] Nga vs Cuba [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="phaohoa-812658-1" tvg-name="[22:30 23/08] Newcastle VS Liverpool [BLV Người Lửa]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/newcastle-vs-liverpool-23-08-2026-812658" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg" phaohoa-blv="Người Lửa",[22:30 23/08] Newcastle VS Liverpool [BLV Người Lửa]
 http://127.0.0.1:9/__phaohoa_metadata__/812658.m3u8
-#EXTINF:-1 tvg-id="phaohoa-7df3aef45a66-1" tvg-name="[21:00 23/08] Nga VS Cuba [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nga-vs-cuba" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg" phaohoa-blv="KaKa",[21:00 23/08] Nga VS Cuba [BLV KaKa]
-http://127.0.0.1:9/__phaohoa_metadata__/7df3aef45a66.m3u8
 #EXTINF:-1 tvg-id="phaohoa-2a6ebe411dd9-1" tvg-name="[23:00 23/08] 23-08 Vô Địch Châu Âu Slovenia VS Thổ Nhĩ Kì Tày" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/latvia-vs-duc" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5488.jpg",[23:00 23/08] 23-08 Vô Địch Châu Âu Slovenia VS Thổ Nhĩ Kì Tày
 http://127.0.0.1:9/__phaohoa_metadata__/2a6ebe411dd9.m3u8
