@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T03:12:05.337651+07:00",
+  "updated_at": "2026-08-24T03:46:02.172641+07:00",
   "matches": {
     "2025e6771bf6": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-han-quoc",
@@ -623,9 +623,9 @@
       "url": "https://phaohoa1.live/truc-tiep/elche-vs-barcelona-24-08-2026-798823",
       "match_name": "Elche vs Barcelona",
       "kickoff_iso": "2026-08-24T02:30:00+07:00",
-      "minutes_to_kickoff": -41,
-      "last_scan_at": "2026-08-24T03:12:05.337520+07:00",
-      "next_scan_at": "2026-08-24T03:17:05.337520+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-24T03:46:02.172574+07:00",
+      "next_scan_at": "2026-08-24T03:51:02.172574+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -663,9 +663,9 @@
       "url": "https://phaohoa1.live/truc-tiep/elche-vs-barcelona-22-08-2026-014220",
       "match_name": "Elche vs Barcelona",
       "kickoff_iso": "2026-08-24T02:30:00+07:00",
-      "minutes_to_kickoff": 14,
-      "last_scan_at": "2026-08-24T02:16:05.274480+07:00",
-      "next_scan_at": "2026-08-24T02:21:05.274480+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-08-24T03:46:02.172574+07:00",
+      "next_scan_at": "2026-08-24T03:51:02.172574+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
