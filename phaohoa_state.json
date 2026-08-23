@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T02:16:05.274660+07:00",
+  "updated_at": "2026-08-24T02:43:52.381931+07:00",
   "matches": {
     "2025e6771bf6": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-han-quoc",
@@ -595,9 +595,9 @@
       "url": "https://phaohoa1.live/truc-tiep/atalanta-vs-sassuolo-24-08-2026-807859",
       "match_name": "Atalanta vs Sassuolo",
       "kickoff_iso": "2026-08-24T01:45:00+07:00",
-      "minutes_to_kickoff": -30,
-      "last_scan_at": "2026-08-24T02:16:05.274480+07:00",
-      "next_scan_at": "2026-08-24T02:21:05.274480+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-24T02:43:52.381768+07:00",
+      "next_scan_at": "2026-08-24T02:48:52.381768+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -609,9 +609,9 @@
       "url": "https://phaohoa1.live/truc-tiep/torino-vs-ac-milan-24-08-2026-807860",
       "match_name": "Torino vs AC Milan",
       "kickoff_iso": "2026-08-24T01:45:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-08-24T02:16:05.274480+07:00",
-      "next_scan_at": "2026-08-24T02:21:05.274480+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-24T02:43:52.381768+07:00",
+      "next_scan_at": "2026-08-24T02:48:52.381768+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -621,23 +621,25 @@
     },
     "798823": {
       "url": "https://phaohoa1.live/truc-tiep/elche-vs-barcelona-24-08-2026-798823",
-      "match_name": "24-08 La Liga Elche VS Barcelona A Heo",
+      "match_name": "Elche vs Barcelona",
       "kickoff_iso": "2026-08-24T02:30:00+07:00",
-      "minutes_to_kickoff": 35,
-      "last_scan_at": "2026-08-24T01:55:17.680522+07:00",
-      "next_scan_at": "2026-08-24T02:05:17.680522+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -13,
+      "last_scan_at": "2026-08-24T02:43:52.381768+07:00",
+      "next_scan_at": "2026-08-24T02:48:52.381768+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+      ],
       "scan_decision": "browser-fallback"
     },
     "e744b93e5164": {
       "url": "https://phaohoa1.live/truc-tiep/my-vs-canada",
       "match_name": "24-08 NORCECA Championship Mỹ VS Canada KaKa",
       "kickoff_iso": "2026-08-24T05:00:00+07:00",
-      "minutes_to_kickoff": 186,
-      "last_scan_at": "2026-08-24T01:55:17.680522+07:00",
-      "next_scan_at": "2026-08-24T02:40:17.680522+07:00",
+      "minutes_to_kickoff": 137,
+      "last_scan_at": "2026-08-24T02:43:52.381768+07:00",
+      "next_scan_at": "2026-08-24T03:28:52.381768+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -647,9 +649,9 @@
       "url": "https://phaohoa1.live/truc-tiep/psg-vs-rennes-24-08-2026-809915",
       "match_name": "Psg vs Rennes",
       "kickoff_iso": "2026-08-24T01:45:00+07:00",
-      "minutes_to_kickoff": -30,
-      "last_scan_at": "2026-08-24T02:16:05.274480+07:00",
-      "next_scan_at": "2026-08-24T02:21:05.274480+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-24T02:43:52.381768+07:00",
+      "next_scan_at": "2026-08-24T02:48:52.381768+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
