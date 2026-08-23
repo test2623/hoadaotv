@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="phaohoa-c93e4dd41fdb-1" tvg-name="[23:30 24/08] 24-08 Serie A Bologna VS Lazio A Heo" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/ha-lan-vs-bo-dao-nha" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4983.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4983.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",[23:30 24/08] 24-08 Serie A Bologna VS Lazio A Heo
 http://127.0.0.1:9/__phaohoa_metadata__/c93e4dd41fdb.m3u8
-#EXTINF:-1 tvg-id="phaohoa-e744b93e5164-1" tvg-name="[05:00 24/08] My vs Canada [BLV Cataluña Libre Lv1 54 phút trước Fer mà]" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/my-vs-canada" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_DjGmoCf.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_DjGmoCf.jpg" phaohoa-blv="Cataluña Libre Lv1 54 phút trước Fer mà",[05:00 24/08] My vs Canada [BLV Cataluña Libre Lv1 54 phút trước Fer mà] [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-e744b93e5164-1" tvg-name="[05:00 24/08] My vs Canada" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/my-vs-canada" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_DjGmoCf.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_DjGmoCf.jpg",[05:00 24/08] My vs Canada [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
