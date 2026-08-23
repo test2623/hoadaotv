@@ -2,7 +2,7 @@
   {
     "url": "https://phaohoa1.live/truc-tiep/nga-vs-cuba",
     "raw_title": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa",
-    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
@@ -96,6 +96,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -119,18 +131,6 @@
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg"
     ],
@@ -145,10 +145,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nga-vs-cuba",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.079080+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.609519+07:00",
     "kickoff_iso": "2026-08-23T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -73,
+    "minutes_to_kickoff": -105,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -156,20 +156,20 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/7df3aef45a66.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
       },
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/7df3aef45a66.m3u8",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 7,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -183,19 +183,20 @@
         ],
         "content_type": "application/x-mpegurl",
         "sources": [
-          "request/xhr",
           "previous-playlist",
+          "request/xhr",
           "response",
+          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "",
+        "quality": "FHD",
         "parent_url": "",
-        "candidate_score": 223,
+        "candidate_score": 231,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa6",
         "family_key": "phaohoa6",
-        "quality_rank": 0,
+        "quality_rank": 40,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -205,7 +206,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2340860987-1787494849-20260823T151246.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2340860987-1787495682-20260823T154431.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -279,8 +280,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/atl-madrid-vs-villarreal-23-08-2026-798821",
-    "raw_title": "22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ",
-    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "raw_title": "22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ",
+    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/atletico-madrid.0e6714cc.png",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/atletico-madrid.0e6714cc.png",
@@ -375,6 +376,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -398,18 +411,6 @@
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/atletico-madrid.0e6714cc.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_162.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/atletico-madrid.0e6714cc.png",
@@ -422,7 +423,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
         "score": 75,
-        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Atl. Madrid 10' 0-0 22:00 - 23/08/2026 Villarreal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Atl. Madrid 42' 0-0 22:00 - 23/08/2026 Villarreal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
@@ -446,10 +447,10 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/atl-madrid-vs-villarreal-23-08-2026-798821",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.084320+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.614341+07:00",
     "kickoff_iso": "2026-08-23T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -13,
+    "minutes_to_kickoff": -45,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -464,7 +465,7 @@
       }
     ],
     "_scan_index": 2,
-    "_scan_total": 7,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -479,8 +480,8 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
-          "response",
           "previous-playlist",
+          "response",
           "dom/performance"
         ],
         "quality": "",
@@ -500,7 +501,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3186207837-1787496859-20260823T151246.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3186207837-1787497741-20260823T154431.ts?volcDst=MTAuMTMuOC4xNDU",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -527,7 +528,8 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()"
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [],
@@ -537,8 +539,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/newcastle-vs-liverpool-23-08-2026-812658",
-    "raw_title": "22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa",
-    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "raw_title": "22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa",
+    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3100.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3100.jpg",
@@ -633,6 +635,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -656,18 +670,6 @@
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
       },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3100.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3100.jpg",
@@ -686,7 +688,7 @@
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_152.png",
         "score": 40,
-        "context": "size-5 object-contain PREMIER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PREMIER LEAGUE Newcastle ĐANG DIỄN RA 0-0 22:30 - 23/08/2026 Liverpool relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain PREMIER LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs PREMIER LEAGUE Newcastle 12' 1-0 22:30 - 23/08/2026 Liverpool relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3100.jpg",
@@ -704,25 +706,31 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/newcastle-vs-liverpool-23-08-2026-812658",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.089490+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.619081+07:00",
     "kickoff_iso": "2026-08-23T22:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 17,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -15,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/812658.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/812658.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 3,
-    "_scan_total": 7,
+    "_scan_total": 6,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -737,18 +745,18 @@
         "content_type": "application/x-mpegurl",
         "sources": [
           "request/xhr",
+          "previous-playlist",
           "response",
-          "quality/FHD",
           "dom/performance"
         ],
-        "quality": "FHD",
+        "quality": "",
         "parent_url": "",
-        "candidate_score": 231,
+        "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
         "channel_key": "phaohoa1",
         "family_key": "phaohoa1",
-        "quality_rank": 40,
+        "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
@@ -758,7 +766,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa1/phaohoa1-ss-3288410655-1787497551-20260823T151239.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa1/phaohoa1-ss-3288410655-1787498508-20260823T154433.ts?volcDst=MTAuMTMuOC4xNDc",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -785,7 +793,8 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()"
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
@@ -829,14 +838,15 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/le-havre-vs-monaco-23-08-2026-809914",
-    "raw_title": "23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày",
-    "card_text": "23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày",
+    "raw_title": "23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày",
+    "card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg",
-    "away_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_168.png",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_oeLkAjM.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_168.png"
     ],
     "logo_candidates": [
       {
@@ -924,6 +934,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -947,50 +969,164 @@
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
       },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+        "score": 75,
+        "context": "Le Havre max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Le Havre min-w-0 text-center",
+        "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      }
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_168.png",
+        "score": 75,
+        "context": "size-5 object-contain LIGUE 1 flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LIGUE 1 Le Havre 29' 1-1 22:15 - 23/08/2026 Monaco relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 50,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Monaco min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3804.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_168.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg"
     ],
-    "blv": "",
+    "blv": "kaka Long chín ngón 3 phút trước Mu thì",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
-    "match_name": "23-08 Vô Địch Châu Âu Slovenia VS Thổ Nhĩ Kì Tày",
-    "home_name": "23-08 Vô Địch Châu Âu Slovenia",
-    "away_name": "Thổ Nhĩ Kì Tày",
-    "time": "23:00",
+    "match_name": "Le Havre vs Monaco",
+    "home_name": "Le Havre",
+    "away_name": "Monaco",
+    "time": "22:15",
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/le-havre-vs-monaco-23-08-2026-809914",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.092977+07:00",
-    "kickoff_iso": "2026-08-23T23:00:00+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-23T22:45:14.623855+07:00",
+    "kickoff_iso": "2026-08-23T22:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 47,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng chuyền",
+    "minutes_to_kickoff": -30,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809914.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
     "_scan_index": 4,
-    "_scan_total": 7,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
+    "_scan_total": 6,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa4",
+        "family_key": "phaohoa4",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2340713592-1787492757-20260823T154505.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809914.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "809914",
+        "family_key": "809914",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/809914.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -998,10 +1134,12 @@
     "raw_title": "23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa",
     "card_text": "23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa",
     "raw_time": "",
-    "logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
     "home_logo": "",
-    "away_logo": "",
-    "team_logos": [],
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg"
+    ],
     "logo_candidates": [
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
@@ -1088,6 +1226,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -1111,24 +1261,42 @@
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
       },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": 75,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
+        "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      }
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 70,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Thuỵ Điển min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 50,
+        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 KAKA flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 45,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Italy min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+      "https://phaohoa1.live/media/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg"
     ],
     "blv": "KaKa",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "match_name": "Thuỵ Điển VS Italy",
     "home_name": "Thuỵ Điển",
     "away_name": "Italy",
@@ -1136,23 +1304,84 @@
     "date": "23/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thuy-dien-vs-italy",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.098184+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.627337+07:00",
     "kickoff_iso": "2026-08-23T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 47,
+    "minutes_to_kickoff": 15,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/fcae87a8f6fb.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
     "_scan_index": 5,
-    "_scan_total": 7,
-    "time_source": "home-card",
+    "_scan_total": 6,
+    "time_source": "json-ld/startDate",
     "streams": [],
     "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/fcae87a8f6fb.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "fcae87a8f6fb",
+        "family_key": "fcae87a8f6fb",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/fcae87a8f6fb.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
     "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
@@ -1252,6 +1481,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -1274,25 +1515,13 @@
         "score": 4.63,
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "match_name": "Serbia VS Cộng Hoà Séc",
     "home_name": "Serbia",
     "away_name": "Cộng Hoà Séc",
@@ -1300,18 +1529,25 @@
     "date": "24/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/serbia-vs-cong-hoa-sec",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.103521+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.632191+07:00",
     "kickoff_iso": "2026-08-24T00:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 107,
+    "minutes_to_kickoff": 75,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
+    "delta_reason": "delta-due",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/b416a8336ada.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
     "_scan_index": 6,
-    "_scan_total": 7,
+    "_scan_total": 6,
     "time_source": "home-card",
     "streams": [],
     "stream_urls": [],
@@ -1416,6 +1652,18 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Sweden.svg.webp",
+        "score": 59.69,
+        "context": "Thuỵ Điển max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thuỵ Điển min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_p55YJlm.jpg",
+        "score": 34.68,
+        "context": "Italy max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Italy min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_HVc2T0n.jpg",
         "score": 4.99,
         "context": "Nga max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nga min-w-0 text-center",
@@ -1438,25 +1686,13 @@
         "score": 4.63,
         "context": "Frosinone max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Frosinone min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_96.jpg",
-        "score": 4.62,
-        "context": "Juventus max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Juventus min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 4.61,
-        "context": "Kevin size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Kevin flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Kevin flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 10' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 0 : 0 Trực tiếp Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 0 : 0 Trực tiếp Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia VS Sắp diễn ra Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
+    "page_card_text": "21:00 - 23-08 BÓNG CHUYỀN Giao Hữu Nga 0 : 0 Trực tiếp Cuba KaKa 22:00 - 23-08 BÓNG ĐÁ La Liga Atl. Madrid 0 : 0 42' Villarreal Chim Nhỏ 22:15 - 23-08 BÓNG ĐÁ Ligue 1 Le Havre 1 : 1 29' Monaco Pháo Thủ 22:30 - 23-08 BÓNG ĐÁ Premier League Newcastle 1 : 0 12' Liverpool Người Lửa 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Slovenia 0 : 0 Trực tiếp Thổ Nhĩ Kì Tày 23:00 - 23-08 BÓNG CHUYỀN Vô Địch Châu Âu Thuỵ Điển VS Sắp diễn ra Italy KaKa 23:30 - 23-08 BÓNG ĐÁ Serie A Frosinone VS Sắp diễn ra Juventus Kevin 00:00 - 24-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia VS Sắp diễn ra Cộng Hoà Séc Chim Nhỏ 00:30 - 24-08 BÓNG ĐÁ La Liga Getafe VS Sắp diễn ra Racing Santander Văn Minh",
     "match_name": "24-08 La Liga Getafe VS Racing Santander Văn Minh",
     "home_name": "24-08 La Liga Getafe",
     "away_name": "Racing Santander Văn Minh",
@@ -1464,24 +1700,16 @@
     "date": "24/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/slovenia-vs-tho-nhi-ki",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-23T22:12:58.109755+07:00",
+    "scan_time_iso": "2026-08-23T22:45:14.637518+07:00",
     "kickoff_iso": "2026-08-24T00:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 137,
+    "minutes_to_kickoff": 105,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 7,
-    "_scan_total": 7,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "delta_reason": "delta-wait-13m",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   }
