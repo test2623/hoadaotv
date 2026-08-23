@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T12:28:01.081082+07:00",
+  "updated_at": "2026-08-23T12:54:22.858700+07:00",
   "matches": {
     "b60eb863683b": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
@@ -553,12 +553,14 @@
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iraq",
       "match_name": "Đài Loan vs Iraq",
       "kickoff_iso": "2026-08-23T13:00:00+07:00",
-      "minutes_to_kickoff": 32,
-      "last_scan_at": "2026-08-23T12:28:01.080971+07:00",
-      "next_scan_at": "2026-08-23T12:38:01.080971+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 6,
+      "last_scan_at": "2026-08-23T12:54:22.858621+07:00",
+      "next_scan_at": "2026-08-23T12:59:22.858621+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
