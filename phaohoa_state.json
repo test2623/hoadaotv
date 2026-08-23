@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T20:52:59.969730+07:00",
+  "updated_at": "2026-08-23T21:14:27.279395+07:00",
   "matches": {
     "803270": {
       "url": "https://phaohoa1.live/truc-tiep/al-gharafa-vs-al-shahaniya-21-08-2026-803270",
@@ -14,20 +14,6 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "254eb01731e4": {
-      "url": "https://phaohoa1.live/truc-tiep/croatia-vs-italy",
-      "match_name": "Croatia vs Italy",
-      "kickoff_iso": "2026-08-21T21:00:00+07:00",
-      "minutes_to_kickoff": -81,
-      "last_scan_at": "2026-08-21T22:22:08.570331+07:00",
-      "next_scan_at": "2026-08-21T22:27:08.570331+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -527,9 +513,9 @@
       "url": "https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972",
       "match_name": "Psv vs Groningen",
       "kickoff_iso": "2026-08-23T19:30:00+07:00",
-      "minutes_to_kickoff": -82,
-      "last_scan_at": "2026-08-23T20:52:59.969533+07:00",
-      "next_scan_at": "2026-08-23T20:57:59.969533+07:00",
+      "minutes_to_kickoff": -103,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:19:27.279052+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -555,9 +541,9 @@
       "url": "https://phaohoa1.live/truc-tiep/latvia-vs-duc",
       "match_name": "23-08 Vô Địch Châu Âu Slovenia VS Thổ Nhĩ Kì Tày",
       "kickoff_iso": "2026-08-23T23:00:00+07:00",
-      "minutes_to_kickoff": 171,
-      "last_scan_at": "2026-08-23T20:09:50.679310+07:00",
-      "next_scan_at": "2026-08-23T20:54:50.679310+07:00",
+      "minutes_to_kickoff": 107,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:34:27.279052+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -567,9 +553,9 @@
       "url": "https://phaohoa1.live/truc-tiep/brighton-vs-aston-villa-23-08-2026-812656",
       "match_name": "Brighton vs Aston Villa",
       "kickoff_iso": "2026-08-23T20:00:00+07:00",
-      "minutes_to_kickoff": -53,
-      "last_scan_at": "2026-08-23T20:52:59.969533+07:00",
-      "next_scan_at": "2026-08-23T20:57:59.969533+07:00",
+      "minutes_to_kickoff": -74,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:19:27.279052+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -581,9 +567,9 @@
       "url": "https://phaohoa1.live/truc-tiep/angers-vs-lille-23-08-2026-809913",
       "match_name": "Angers vs Lille",
       "kickoff_iso": "2026-08-23T20:00:00+07:00",
-      "minutes_to_kickoff": -52,
-      "last_scan_at": "2026-08-23T20:52:59.969533+07:00",
-      "next_scan_at": "2026-08-23T20:57:59.969533+07:00",
+      "minutes_to_kickoff": -73,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:19:27.279052+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -595,9 +581,9 @@
       "url": "https://phaohoa1.live/truc-tiep/manchester-city-vs-bournemouth-23-08-2026-812657",
       "match_name": "Manchester City vs Bournemouth",
       "kickoff_iso": "2026-08-23T20:00:00+07:00",
-      "minutes_to_kickoff": -52,
-      "last_scan_at": "2026-08-23T20:52:59.969533+07:00",
-      "next_scan_at": "2026-08-23T20:57:59.969533+07:00",
+      "minutes_to_kickoff": -73,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:19:27.279052+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -609,9 +595,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nga-vs-cuba",
       "match_name": "Nga vs Cuba",
       "kickoff_iso": "2026-08-23T21:00:00+07:00",
-      "minutes_to_kickoff": 7,
-      "last_scan_at": "2026-08-23T20:52:59.969533+07:00",
-      "next_scan_at": "2026-08-23T20:57:59.969533+07:00",
+      "minutes_to_kickoff": -14,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:19:27.279052+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -623,9 +609,9 @@
       "url": "https://phaohoa1.live/truc-tiep/newcastle-vs-liverpool-23-08-2026-812658",
       "match_name": "23-08 Premier League Newcastle VS Liverpool Người Lửa",
       "kickoff_iso": "2026-08-23T22:30:00+07:00",
-      "minutes_to_kickoff": 141,
-      "last_scan_at": "2026-08-23T20:09:50.679310+07:00",
-      "next_scan_at": "2026-08-23T20:54:50.679310+07:00",
+      "minutes_to_kickoff": 77,
+      "last_scan_at": "2026-08-23T21:14:27.279052+07:00",
+      "next_scan_at": "2026-08-23T21:34:27.279052+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
