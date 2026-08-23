@@ -11,21 +11,25 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 #EXTVLCOPT:http-origin=https://phaohoa1.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 tvg-id="phaohoa-807860-1" tvg-name="[01:45 24/08] Torino vs AC Milan" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/torino-vs-ac-milan-24-08-2026-807860" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4973_5ELZ9aJ.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4973_5ELZ9aJ.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_207.png",[01:45 24/08] Torino vs AC Milan [M3U8]
+#EXTINF:-1 tvg-id="phaohoa-809915-1" tvg-name="[01:45 24/08] Psg vs Rennes" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/psg-vs-rennes-24-08-2026-809915" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_91.jpg",[01:45 24/08] Psg vs Rennes [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="phaohoa-807860-1" tvg-name="[01:45 24/08] Torino vs AC Milan" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/torino-vs-ac-milan-24-08-2026-807860" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4973_5ELZ9aJ.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_4973_5ELZ9aJ.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_207.png",[01:45 24/08] Torino vs AC Milan [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="phaohoa-798823-1" tvg-name="[02:30 24/08] Elche VS Barcelona [BLV A Heo]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/elche-vs-barcelona-24-08-2026-798823" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_302.png" phaohoa-blv="A Heo",[02:30 24/08] Elche VS Barcelona [BLV A Heo]
-http://127.0.0.1:9/__phaohoa_metadata__/798823.m3u8
-#EXTINF:-1 tvg-id="phaohoa-b416a8336ada-1" tvg-name="[00:00 24/08] Serbia vs Cong Hoa Sec" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/serbia-vs-cong-hoa-sec" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",[00:00 24/08] Serbia vs Cong Hoa Sec [M3U8]
+#EXTINF:-1 tvg-id="phaohoa-014220-1" tvg-name="[02:30 24/08] Elche vs Barcelona" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/elche-vs-barcelona-22-08-2026-014220" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7274.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_302.png",[02:30 24/08] Elche vs Barcelona [FHD M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="phaohoa-e744b93e5164-1" tvg-name="[05:00 24/08] Mỹ VS Canada [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/my-vs-canada" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-blv="KaKa",[05:00 24/08] Mỹ VS Canada [BLV KaKa]
-http://127.0.0.1:9/__phaohoa_metadata__/e744b93e5164.m3u8
-#EXTINF:-1 tvg-id="phaohoa-809915-1" tvg-name="[09:00 24/08] 24-08 Vô Địch Châu Á Việt Nam VS Hong Kong KaKa" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/psg-vs-rennes-24-08-2026-809915" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",[09:00 24/08] 24-08 Vô Địch Châu Á Việt Nam VS Hong Kong KaKa
-http://127.0.0.1:9/__phaohoa_metadata__/809915.m3u8
+#EXTINF:-1 tvg-id="phaohoa-443acc92a43c-1" tvg-name="[09:00 24/08] Việt Nam VS Hong Kong [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/viet-nam-vs-hong-kong" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_hdpF9Rm.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_y52YJOU.jpg" phaohoa-blv="KaKa",[09:00 24/08] Việt Nam VS Hong Kong [BLV KaKa]
+http://127.0.0.1:9/__phaohoa_metadata__/443acc92a43c.m3u8
+#EXTINF:-1 tvg-id="phaohoa-798823-1" tvg-name="[14:00 24/08] 24-08 Vô Địch Châu Á Thái Lan VS Indonesia Tày" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/elche-vs-barcelona-24-08-2026-798823" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7288.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7288.jpg",[14:00 24/08] 24-08 Vô Địch Châu Á Thái Lan VS Indonesia Tày
+http://127.0.0.1:9/__phaohoa_metadata__/798823.m3u8
