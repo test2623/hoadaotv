@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-23T09:18:50.005614+07:00",
+  "updated_at": "2026-08-23T10:27:59.917644+07:00",
   "matches": {
     "b60eb863683b": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-uc",
@@ -541,23 +541,21 @@
       "url": "https://phaohoa1.live/truc-tiep/kazakhstan-vs-uc",
       "match_name": "Kazakhstan vs Úc",
       "kickoff_iso": "2026-08-23T09:00:00+07:00",
-      "minutes_to_kickoff": -18,
-      "last_scan_at": "2026-08-23T09:18:50.005514+07:00",
-      "next_scan_at": "2026-08-23T09:23:50.005514+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
+      "minutes_to_kickoff": -88,
+      "last_scan_at": "2026-08-23T10:27:59.917490+07:00",
+      "next_scan_at": "2026-08-23T10:32:59.917490+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "01b402aa9e46": {
       "url": "https://phaohoa1.live/truc-tiep/dai-loan-vs-iraq",
       "match_name": "23-08 Vô Địch Châu Á Đài Loan VS Iraq KaKa",
       "kickoff_iso": "2026-08-23T13:00:00+07:00",
-      "minutes_to_kickoff": 222,
-      "last_scan_at": "2026-08-23T09:18:50.005514+07:00",
-      "next_scan_at": "2026-08-23T10:03:50.005514+07:00",
+      "minutes_to_kickoff": 153,
+      "last_scan_at": "2026-08-23T10:27:59.917490+07:00",
+      "next_scan_at": "2026-08-23T11:12:59.917490+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
