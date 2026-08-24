@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T04:51:11.467838+07:00",
+  "updated_at": "2026-08-25T05:15:22.226154+07:00",
   "matches": {
     "809911": {
       "url": "https://phaohoa1.live/truc-tiep/toulouse-vs-lyon-23-08-2026-809911",
@@ -578,6 +578,18 @@
         "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "ce1e881ea033": {
+      "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-kazakhstan",
+      "match_name": "25-08 Vô Địch Châu Á Thái Lan VS Kazakhstan Chim Nhỏ",
+      "kickoff_iso": "2026-08-25T09:00:00+07:00",
+      "minutes_to_kickoff": 225,
+      "last_scan_at": "2026-08-25T05:15:22.226045+07:00",
+      "next_scan_at": "2026-08-25T06:00:22.226045+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
