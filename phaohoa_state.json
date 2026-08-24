@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T20:29:20.008101+07:00",
+  "updated_at": "2026-08-24T21:11:06.127785+07:00",
   "matches": {
     "172419": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-viet-nam-20-08-2026-172419",
@@ -14,34 +14,6 @@
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
-    },
-    "812652": {
-      "url": "https://phaohoa1.live/truc-tiep/everton-vs-crystal-palace-22-08-2026-812652",
-      "match_name": "Everton vs Crystal Palace",
-      "kickoff_iso": "2026-08-22T21:00:00+07:00",
-      "minutes_to_kickoff": -103,
-      "last_scan_at": "2026-08-22T22:43:57.838361+07:00",
-      "next_scan_at": "2026-08-22T22:48:57.838361+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "812653": {
-      "url": "https://phaohoa1.live/truc-tiep/ipswich-vs-sunderland-22-08-2026-812653",
-      "match_name": "Ipswich vs Sunderland",
-      "kickoff_iso": "2026-08-22T21:00:00+07:00",
-      "minutes_to_kickoff": -103,
-      "last_scan_at": "2026-08-22T22:43:57.838361+07:00",
-      "next_scan_at": "2026-08-22T22:48:57.838361+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
     },
     "812654": {
       "url": "https://phaohoa1.live/truc-tiep/nottingham-vs-leeds-22-08-2026-812654",
@@ -609,9 +581,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-latvia",
       "match_name": "Ba Lan vs Latvia",
       "kickoff_iso": "2026-08-24T20:00:00+07:00",
-      "minutes_to_kickoff": -29,
-      "last_scan_at": "2026-08-24T20:29:20.007849+07:00",
-      "next_scan_at": "2026-08-24T20:34:20.007849+07:00",
+      "minutes_to_kickoff": -71,
+      "last_scan_at": "2026-08-24T21:11:06.127637+07:00",
+      "next_scan_at": "2026-08-24T21:16:06.127637+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -635,11 +607,11 @@
     },
     "736688": {
       "url": "https://phaohoa1.live/truc-tiep/kokand-1912-vs-buxoro-24-08-2026-736688",
-      "match_name": "24-08 Super League Kokand 1912 VS Buxoro Văn Minh",
+      "match_name": "Kokand 1912 vs Buxoro",
       "kickoff_iso": "2026-08-24T21:00:00+07:00",
-      "minutes_to_kickoff": 31,
-      "last_scan_at": "2026-08-24T20:29:20.007849+07:00",
-      "next_scan_at": "2026-08-24T20:39:20.007849+07:00",
+      "minutes_to_kickoff": -11,
+      "last_scan_at": "2026-08-24T21:11:06.127637+07:00",
+      "next_scan_at": "2026-08-24T21:16:06.127637+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -676,6 +648,18 @@
       "minutes_to_kickoff": 211,
       "last_scan_at": "2026-08-24T20:29:20.007849+07:00",
       "next_scan_at": "2026-08-24T21:14:20.007849+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "825117": {
+      "url": "https://phaohoa1.live/truc-tiep/al-ittihad-vs-al-hazem-25-08-2026-825117",
+      "match_name": "25-08 Saudi Pro League Al Ittihad VS Al Hazem Văn Minh",
+      "kickoff_iso": "2026-08-25T01:00:00+07:00",
+      "minutes_to_kickoff": 229,
+      "last_scan_at": "2026-08-24T21:11:06.127637+07:00",
+      "next_scan_at": "2026-08-24T21:56:06.127637+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
