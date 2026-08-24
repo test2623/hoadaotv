@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T03:56:21.975340+07:00",
+  "updated_at": "2026-08-25T04:20:05.514166+07:00",
   "matches": {
     "809911": {
       "url": "https://phaohoa1.live/truc-tiep/toulouse-vs-lyon-23-08-2026-809911",
@@ -555,9 +555,9 @@
       "url": "https://phaohoa1.live/truc-tiep/malaga-vs-dep-la-coruna-25-08-2026-798825",
       "match_name": "Malaga vs Dep. La Coruna",
       "kickoff_iso": "2026-08-25T02:30:00+07:00",
-      "minutes_to_kickoff": -86,
-      "last_scan_at": "2026-08-25T03:56:21.975277+07:00",
-      "next_scan_at": "2026-08-25T04:01:21.975277+07:00",
+      "minutes_to_kickoff": -109,
+      "last_scan_at": "2026-08-25T04:20:05.514102+07:00",
+      "next_scan_at": "2026-08-25T04:25:05.514102+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
