@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T15:10:48.093234+07:00",
+  "updated_at": "2026-08-24T16:11:39.993452+07:00",
   "matches": {
-    "807495": {
-      "url": "https://phaohoa1.live/truc-tiep/kashima-antlers-vs-avispa-fukuoka-22-08-2026-807495",
-      "match_name": "Kashima Antlers vs Avispa Fukuoka",
-      "kickoff_iso": "2026-08-22T16:00:00+07:00",
-      "minutes_to_kickoff": -107,
-      "last_scan_at": "2026-08-22T17:47:13.050039+07:00",
-      "next_scan_at": "2026-08-22T17:52:13.050039+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "812651": {
       "url": "https://phaohoa1.live/truc-tiep/hull-vs-manchester-united-22-08-2026-812651",
       "match_name": "Hull City vs Manchester United",
@@ -665,23 +651,33 @@
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
       "match_name": "Thái Lan vs Indonesia",
       "kickoff_iso": "2026-08-24T14:00:00+07:00",
-      "minutes_to_kickoff": -70,
-      "last_scan_at": "2026-08-24T15:10:48.093112+07:00",
-      "next_scan_at": "2026-08-24T15:15:48.093112+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
+      "minutes_to_kickoff": -131,
+      "last_scan_at": "2026-08-24T16:11:39.993296+07:00",
+      "next_scan_at": "2026-08-24T16:16:39.993296+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "440fd6d9736f": {
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
       "match_name": "24-08 Vô Địch Châu Á Trung Quốc VS Iran Tày",
       "kickoff_iso": "2026-08-24T18:30:00+07:00",
-      "minutes_to_kickoff": 200,
-      "last_scan_at": "2026-08-24T15:10:48.093112+07:00",
-      "next_scan_at": "2026-08-24T15:55:48.093112+07:00",
+      "minutes_to_kickoff": 139,
+      "last_scan_at": "2026-08-24T16:11:39.993296+07:00",
+      "next_scan_at": "2026-08-24T16:56:39.993296+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "47f983fc2ab9": {
+      "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-latvia",
+      "match_name": "24-08 Vô Địch Châu Âu Ba Lan VS Latvia KaKa",
+      "kickoff_iso": "2026-08-24T20:00:00+07:00",
+      "minutes_to_kickoff": 229,
+      "last_scan_at": "2026-08-24T16:11:39.993296+07:00",
+      "next_scan_at": "2026-08-24T16:56:39.993296+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
