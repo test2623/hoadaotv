@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T18:30:36.323424+07:00",
+  "updated_at": "2026-08-24T18:55:32.519649+07:00",
   "matches": {
     "3d08d77fdd4d": {
       "url": "https://phaohoa1.live/truc-tiep/italy-vs-montenegro",
@@ -635,9 +635,9 @@
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
       "match_name": "Trung Quốc vs Iran",
       "kickoff_iso": "2026-08-24T18:30:00+07:00",
-      "minutes_to_kickoff": 0,
-      "last_scan_at": "2026-08-24T18:30:36.323298+07:00",
-      "next_scan_at": "2026-08-24T18:35:36.323298+07:00",
+      "minutes_to_kickoff": -25,
+      "last_scan_at": "2026-08-24T18:55:32.519527+07:00",
+      "next_scan_at": "2026-08-24T19:00:32.519527+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -661,9 +661,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ha-lan-vs-bo-dao-nha",
       "match_name": "Hà Lan vs Bồ Đào Nha",
       "kickoff_iso": "2026-08-24T18:30:00+07:00",
-      "minutes_to_kickoff": 0,
-      "last_scan_at": "2026-08-24T18:30:36.323298+07:00",
-      "next_scan_at": "2026-08-24T18:35:36.323298+07:00",
+      "minutes_to_kickoff": -25,
+      "last_scan_at": "2026-08-24T18:55:32.519527+07:00",
+      "next_scan_at": "2026-08-24T19:00:32.519527+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
