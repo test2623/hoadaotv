@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-24T17:08:45.733610+07:00",
+  "updated_at": "2026-08-24T18:00:31.318994+07:00",
   "matches": {
     "812651": {
       "url": "https://phaohoa1.live/truc-tiep/hull-vs-manchester-united-22-08-2026-812651",
@@ -14,20 +14,6 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "807501": {
-      "url": "https://phaohoa1.live/truc-tiep/yokohama-f-marinos-vs-vissel-kobe-22-08-2026-807501",
-      "match_name": "Yokohama F. Marinos vs Vissel Kobe",
-      "kickoff_iso": "2026-08-22T17:30:00+07:00",
-      "minutes_to_kickoff": -108,
-      "last_scan_at": "2026-08-22T19:18:43.748133+07:00",
-      "next_scan_at": "2026-08-22T19:23:43.748133+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -663,21 +649,21 @@
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
       "match_name": "24-08 Vô Địch Châu Á Trung Quốc VS Iran Tày",
       "kickoff_iso": "2026-08-24T18:30:00+07:00",
-      "minutes_to_kickoff": 81,
-      "last_scan_at": "2026-08-24T17:08:45.733436+07:00",
-      "next_scan_at": "2026-08-24T17:28:45.733436+07:00",
+      "minutes_to_kickoff": 30,
+      "last_scan_at": "2026-08-24T18:00:31.318754+07:00",
+      "next_scan_at": "2026-08-24T18:10:31.318754+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "47f983fc2ab9": {
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-latvia",
       "match_name": "24-08 Vô Địch Châu Âu Ba Lan VS Latvia KaKa",
       "kickoff_iso": "2026-08-24T20:00:00+07:00",
-      "minutes_to_kickoff": 171,
-      "last_scan_at": "2026-08-24T17:08:45.733436+07:00",
-      "next_scan_at": "2026-08-24T17:53:45.733436+07:00",
+      "minutes_to_kickoff": 120,
+      "last_scan_at": "2026-08-24T18:00:31.318754+07:00",
+      "next_scan_at": "2026-08-24T18:20:31.318754+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -687,9 +673,9 @@
       "url": "https://phaohoa1.live/truc-tiep/ha-lan-vs-bo-dao-nha",
       "match_name": "24-08 Super League Kokand 1912 VS Buxoro Văn Minh",
       "kickoff_iso": "2026-08-24T21:00:00+07:00",
-      "minutes_to_kickoff": 231,
-      "last_scan_at": "2026-08-24T17:08:45.733436+07:00",
-      "next_scan_at": "2026-08-24T17:53:45.733436+07:00",
+      "minutes_to_kickoff": 180,
+      "last_scan_at": "2026-08-24T18:00:31.318754+07:00",
+      "next_scan_at": "2026-08-24T18:45:31.318754+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
