@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-f8ba6b1e6087-1" tvg-name="[23:00 24/08] Tho Nhi Ki vs Hungary" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-hungary" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[23:00 24/08] Tho Nhi Ki vs Hungary [FHD M3U8]
+#EXTINF:-1 tvg-id="phaohoa-f8ba6b1e6087-1" tvg-name="[23:00 24/08] Tho Nhi Ki vs Hungary" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-hungary" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg",[23:00 24/08] Tho Nhi Ki vs Hungary [M3U8]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://phaohoa1.live
@@ -13,13 +13,23 @@ https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="phaohoa-825116-1" tvg-name="[00:30 25/08] 25-08 La Liga Osasuna VS Levante Chim Nhỏ" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/neom-sc-vs-al-qadsiah-24-08-2026-825116" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7269.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7269.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7259.jpg",[00:30 25/08] 25-08 La Liga Osasuna VS Levante Chim Nhỏ
-http://127.0.0.1:9/__phaohoa_metadata__/825116.m3u8
+#EXTINF:-1 tvg-id="phaohoa-825116-1" tvg-name="[23:40 24/08] 25-08 La Liga Osasuna VS Levante Chim Nhỏ" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/neom-sc-vs-al-qadsiah-24-08-2026-825116" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7269.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7269.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7259.jpg",[23:40 24/08] 25-08 La Liga Osasuna VS Levante Chim Nhỏ [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-id="phaohoa-69b0f8a4726c-1" tvg-name="[00:00 25/08] Serbia vs Bulgaria" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/serbia-vs-bulgaria" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",[00:00 25/08] Serbia vs Bulgaria [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 tvg-id="phaohoa-825117-1" tvg-name="[01:00 25/08] Al Ittihad VS Al Hazem [BLV Văn Minh]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/al-ittihad-vs-al-hazem-25-08-2026-825117" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_6328_JmJ5TyE.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/al-hazem-logo-footylogos-320.webp" phaohoa-blv="Văn Minh",[01:00 25/08] Al Ittihad VS Al Hazem [BLV Văn Minh]
 http://127.0.0.1:9/__phaohoa_metadata__/825117.m3u8
 #EXTINF:-1 tvg-id="phaohoa-812659-1" tvg-name="[02:00 25/08] Fulham VS Chelsea [BLV Người Lửa]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/fulham-vs-chelsea-25-08-2026-812659" tvg-logo="https://phaohoa1.live/favicon.ico" phaohoa-blv="Người Lửa",[02:00 25/08] Fulham VS Chelsea [BLV Người Lửa]
 http://127.0.0.1:9/__phaohoa_metadata__/812659.m3u8
 #EXTINF:-1 tvg-id="phaohoa-798824-1" tvg-name="[02:30 25/08] 25-08 La Liga Malaga VS Dep. La Coruna Kevin" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/osasuna-vs-levante-25-08-2026-798824" tvg-logo="https://phaohoa1.live/favicon.ico",[02:30 25/08] 25-08 La Liga Malaga VS Dep. La Coruna Kevin
 http://127.0.0.1:9/__phaohoa_metadata__/798824.m3u8
-#EXTINF:-1 tvg-id="phaohoa-69b0f8a4726c-1" tvg-name="[00:00 25/08] Serbia VS Bulgaria [BLV KaKa]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/serbia-vs-bulgaria" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg" phaohoa-blv="KaKa",[00:00 25/08] Serbia VS Bulgaria [BLV KaKa]
-http://127.0.0.1:9/__phaohoa_metadata__/69b0f8a4726c.m3u8
