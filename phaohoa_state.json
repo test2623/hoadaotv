@@ -1,36 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T17:29:12.494886+07:00",
+  "updated_at": "2026-08-25T17:59:51.300539+07:00",
   "matches": {
-    "807502": {
-      "url": "https://phaohoa1.live/truc-tiep/machida-vs-urawa-reds-23-08-2026-807502",
-      "match_name": "Machida vs Urawa Reds",
-      "kickoff_iso": "2026-08-23T17:30:00+07:00",
-      "minutes_to_kickoff": -108,
-      "last_scan_at": "2026-08-23T19:19:14.471051+07:00",
-      "next_scan_at": "2026-08-23T19:24:14.471051+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "6b9dbe050120": {
-      "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-han-quoc",
-      "match_name": "Nhat Ban vs Han Quoc",
-      "kickoff_iso": "2026-08-23T17:30:00+07:00",
-      "minutes_to_kickoff": -108,
-      "last_scan_at": "2026-08-23T19:19:14.471051+07:00",
-      "next_scan_at": "2026-08-23T19:24:14.471051+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "805972": {
       "url": "https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972",
       "match_name": "Psv vs Groningen",
@@ -555,9 +527,9 @@
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-brazil",
       "match_name": "Nhật Bản vs Brazil",
       "kickoff_iso": "2026-08-25T16:30:00+07:00",
-      "minutes_to_kickoff": -59,
-      "last_scan_at": "2026-08-25T17:29:12.494781+07:00",
-      "next_scan_at": "2026-08-25T17:34:12.494781+07:00",
+      "minutes_to_kickoff": -89,
+      "last_scan_at": "2026-08-25T17:59:51.300390+07:00",
+      "next_scan_at": "2026-08-25T18:04:51.300390+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -581,9 +553,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gimcheon-sangmu-vs-jeonbuk-25-08-2026-728377",
       "match_name": "Gimcheon Sangmu vs Jeonbuk",
       "kickoff_iso": "2026-08-25T17:30:00+07:00",
-      "minutes_to_kickoff": 1,
-      "last_scan_at": "2026-08-25T17:29:12.494781+07:00",
-      "next_scan_at": "2026-08-25T17:34:12.494781+07:00",
+      "minutes_to_kickoff": -29,
+      "last_scan_at": "2026-08-25T17:59:51.300390+07:00",
+      "next_scan_at": "2026-08-25T18:04:51.300390+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -595,9 +567,9 @@
       "url": "https://phaohoa1.live/truc-tiep/hungary-vs-duc",
       "match_name": "25-08 Vô Địch Châu Âu Hungary VS Đức Tày",
       "kickoff_iso": "2026-08-25T20:00:00+07:00",
-      "minutes_to_kickoff": 182,
-      "last_scan_at": "2026-08-25T16:59:02.303212+07:00",
-      "next_scan_at": "2026-08-25T17:44:02.303212+07:00",
+      "minutes_to_kickoff": 121,
+      "last_scan_at": "2026-08-25T17:59:51.300390+07:00",
+      "next_scan_at": "2026-08-25T18:44:51.300390+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
