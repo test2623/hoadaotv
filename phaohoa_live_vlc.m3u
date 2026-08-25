@@ -1,34 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-4c429fd4d0da-1" tvg-name="[00:00 26/08] Thuy Dien vs Croatia" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/thuy-dien-vs-croatia" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",[00:00 26/08] Thuy Dien vs Croatia [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="phaohoa-825120-1" tvg-name="[01:00 26/08] Al Ettifaq vs Al Nassr" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/al-ettifaq-vs-al-nassr-26-08-2026-825120" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",[01:00 26/08] Al Ettifaq vs Al Nassr [M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-#EXTINF:-1 tvg-id="phaohoa-841803-1" tvg-name="[01:45 26/08] Southampton vs West Ham" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/southampton-vs-west-ham-26-08-2026-841803" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3072.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3072.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3081.jpg",[01:45 26/08] Southampton vs West Ham [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 tvg-id="phaohoa-841813-1" tvg-name="[02:00 26/08] Nottingham vs Leeds" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nottingham-vs-leeds-26-08-2026-841813" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3089.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3089.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",[02:00 26/08] Nottingham vs Leeds [M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="phaohoa-798813-1" tvg-name="[02:00 26/08] Valencia vs Real Betis" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/valencia-vs-real-betis-26-08-2026-798813" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_302.png",[02:00 26/08] Valencia vs Real Betis [M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa1.live
-#EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="phaohoa-825120-1" tvg-name="[00:00 26/08] Al Ettifaq vs Al Nassr" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/al-ettifaq-vs-al-nassr-26-08-2026-825120" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_371.jpg",[00:00 26/08] Al Ettifaq vs Al Nassr
+http://127.0.0.1:9/__phaohoa_metadata__/825120.m3u8
+#EXTINF:-1 tvg-id="phaohoa-841813-1" tvg-name="[00:00 26/08] Nottingham vs Leeds" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/nottingham-vs-leeds-26-08-2026-841813" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3089.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3089.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",[00:00 26/08] Nottingham vs Leeds
+http://127.0.0.1:9/__phaohoa_metadata__/841813.m3u8
+#EXTINF:-1 tvg-id="phaohoa-841803-1" tvg-name="[00:00 26/08] Southampton vs West Ham" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/southampton-vs-west-ham-26-08-2026-841803" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3072.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3072.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3081.jpg",[00:00 26/08] Southampton vs West Ham
+http://127.0.0.1:9/__phaohoa_metadata__/841803.m3u8
+#EXTINF:-1 tvg-id="phaohoa-798813-1" tvg-name="[00:00 26/08] Valencia vs Real Betis" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/valencia-vs-real-betis-26-08-2026-798813" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",[00:00 26/08] Valencia vs Real Betis
+http://127.0.0.1:9/__phaohoa_metadata__/798813.m3u8
+#EXTINF:-1 tvg-id="phaohoa-4c429fd4d0da-1" tvg-name="[00:00 26/08] Thuy Dien vs Croatia" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/thuy-dien-vs-croatia" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",[00:00 26/08] Thuy Dien vs Croatia
+http://127.0.0.1:9/__phaohoa_metadata__/4c429fd4d0da.m3u8
 #EXTINF:-1 tvg-id="phaohoa-7134944cc8c5-1" tvg-name="[09:00 26/08] Hàn Quốc VS Hong Kong [BLV Tày]" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/han-quoc-vs-hong-kong" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg" phaohoa-blv="Tày",[09:00 26/08] Hàn Quốc VS Hong Kong [BLV Tày]
 http://127.0.0.1:9/__phaohoa_metadata__/7134944cc8c5.m3u8
 #EXTINF:-1 tvg-id="phaohoa-841031-1" tvg-name="[14:00 26/08] 26-08 Vô Địch Châu Á Indonesia VS Úc Chim Nhỏ" group-title="Bóng chuyền" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/bodo-glimt-vs-nijmegen-26-08-2026-841031" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",[14:00 26/08] 26-08 Vô Địch Châu Á Indonesia VS Úc Chim Nhỏ
