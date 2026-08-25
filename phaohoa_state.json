@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T06:16:41.023863+07:00",
+  "updated_at": "2026-08-26T06:46:15.912327+07:00",
   "matches": {
     "443acc92a43c": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-hong-kong",
@@ -465,15 +465,15 @@
     },
     "e75600b230af": {
       "url": "https://phaohoa1.live/truc-tiep/cong-hoa-dominica-vs-my",
-      "match_name": "Cong Hoa Dominica vs My",
+      "match_name": "Cộng hòa Dominica vs Mỹ",
       "kickoff_iso": "2026-08-26T07:30:00+07:00",
-      "minutes_to_kickoff": 73,
-      "last_scan_at": "2026-08-26T06:16:41.023719+07:00",
-      "next_scan_at": "2026-08-26T06:36:41.023719+07:00",
+      "minutes_to_kickoff": 44,
+      "last_scan_at": "2026-08-26T06:46:15.912233+07:00",
+      "next_scan_at": "2026-08-26T06:56:15.912233+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "7134944cc8c5": {
       "url": "https://phaohoa1.live/truc-tiep/han-quoc-vs-hong-kong",
