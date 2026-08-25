@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T16:06:34.449846+07:00",
+  "updated_at": "2026-08-25T16:59:02.303375+07:00",
   "matches": {
     "807502": {
       "url": "https://phaohoa1.live/truc-tiep/machida-vs-urawa-reds-23-08-2026-807502",
@@ -553,14 +553,16 @@
     },
     "ef477f40489f": {
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-brazil",
-      "match_name": "25-08 Giao Hữu Nhật Bản VS Brazil Chim Nhỏ",
+      "match_name": "Nhật Bản vs Brazil",
       "kickoff_iso": "2026-08-25T16:30:00+07:00",
-      "minutes_to_kickoff": 24,
-      "last_scan_at": "2026-08-25T16:06:34.449711+07:00",
-      "next_scan_at": "2026-08-25T16:16:34.449711+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -29,
+      "last_scan_at": "2026-08-25T16:59:02.303212+07:00",
+      "next_scan_at": "2026-08-25T17:04:02.303212+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "9e2a1ecd9a0e": {
@@ -579,21 +581,21 @@
       "url": "https://phaohoa1.live/truc-tiep/gimcheon-sangmu-vs-jeonbuk-25-08-2026-728377",
       "match_name": "25-08 K League 1 Gimcheon Sangmu VS Jeonbuk Văn Minh",
       "kickoff_iso": "2026-08-25T17:30:00+07:00",
-      "minutes_to_kickoff": 84,
-      "last_scan_at": "2026-08-25T16:06:34.449711+07:00",
-      "next_scan_at": "2026-08-25T16:26:34.449711+07:00",
+      "minutes_to_kickoff": 31,
+      "last_scan_at": "2026-08-25T16:59:02.303212+07:00",
+      "next_scan_at": "2026-08-25T17:09:02.303212+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "0bdee6a0f127": {
       "url": "https://phaohoa1.live/truc-tiep/hungary-vs-duc",
       "match_name": "25-08 Vô Địch Châu Âu Hungary VS Đức Tày",
       "kickoff_iso": "2026-08-25T20:00:00+07:00",
-      "minutes_to_kickoff": 234,
-      "last_scan_at": "2026-08-25T16:06:34.449711+07:00",
-      "next_scan_at": "2026-08-25T16:51:34.449711+07:00",
+      "minutes_to_kickoff": 182,
+      "last_scan_at": "2026-08-25T16:59:02.303212+07:00",
+      "next_scan_at": "2026-08-25T17:44:02.303212+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
