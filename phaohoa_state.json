@@ -1,22 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T04:50:54.520933+07:00",
+  "updated_at": "2026-08-26T05:15:33.533952+07:00",
   "matches": {
-    "e744b93e5164": {
-      "url": "https://phaohoa1.live/truc-tiep/my-vs-canada",
-      "match_name": "Mỹ vs Canada",
-      "kickoff_iso": "2026-08-24T05:00:00+07:00",
-      "minutes_to_kickoff": -102,
-      "last_scan_at": "2026-08-24T06:42:54.301402+07:00",
-      "next_scan_at": "2026-08-24T06:47:54.301402+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
     "443acc92a43c": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-hong-kong",
       "match_name": "Việt Nam vs Hong Kong",
@@ -481,9 +467,21 @@
       "url": "https://phaohoa1.live/truc-tiep/cong-hoa-dominica-vs-my",
       "match_name": "Cong Hoa Dominica vs My",
       "kickoff_iso": "2026-08-26T07:30:00+07:00",
-      "minutes_to_kickoff": 192,
-      "last_scan_at": "2026-08-26T04:17:54.408296+07:00",
-      "next_scan_at": "2026-08-26T05:02:54.408296+07:00",
+      "minutes_to_kickoff": 134,
+      "last_scan_at": "2026-08-26T05:15:33.533805+07:00",
+      "next_scan_at": "2026-08-26T06:00:33.533805+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "7134944cc8c5": {
+      "url": "https://phaohoa1.live/truc-tiep/han-quoc-vs-hong-kong",
+      "match_name": "26-08 Vô Địch Châu Á Hàn Quốc VS Hong Kong Tày",
+      "kickoff_iso": "2026-08-26T09:00:00+07:00",
+      "minutes_to_kickoff": 224,
+      "last_scan_at": "2026-08-26T05:15:33.533805+07:00",
+      "next_scan_at": "2026-08-26T06:00:33.533805+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
