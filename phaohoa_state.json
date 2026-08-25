@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T18:26:56.990459+07:00",
+  "updated_at": "2026-08-25T18:52:54.517653+07:00",
   "matches": {
     "805972": {
       "url": "https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972",
@@ -14,20 +14,6 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "f83c55e88423": {
-      "url": "https://phaohoa1.live/truc-tiep/bo-dao-nha-vs-bi",
-      "match_name": "Bồ Đào Nha vs Bỉ",
-      "kickoff_iso": "2026-08-23T18:30:00+07:00",
-      "minutes_to_kickoff": -49,
-      "last_scan_at": "2026-08-23T19:19:14.471051+07:00",
-      "next_scan_at": "2026-08-23T19:24:14.471051+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -539,23 +525,25 @@
     },
     "9e2a1ecd9a0e": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-nhat-ban",
-      "match_name": "25-08 Vô Địch Châu Âu Italy VS Slovakia KaKa",
-      "kickoff_iso": "2026-08-25T21:00:00+07:00",
-      "minutes_to_kickoff": 154,
-      "last_scan_at": "2026-08-25T18:26:56.990279+07:00",
-      "next_scan_at": "2026-08-25T19:11:56.990279+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "Việt Nam vs Nhật Bản",
+      "kickoff_iso": "2026-08-25T17:30:00+07:00",
+      "minutes_to_kickoff": -82,
+      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
+      "next_scan_at": "2026-08-25T18:57:54.517501+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "728377": {
       "url": "https://phaohoa1.live/truc-tiep/gimcheon-sangmu-vs-jeonbuk-25-08-2026-728377",
       "match_name": "Gimcheon Sangmu vs Jeonbuk",
       "kickoff_iso": "2026-08-25T17:30:00+07:00",
-      "minutes_to_kickoff": -56,
-      "last_scan_at": "2026-08-25T18:26:56.990279+07:00",
-      "next_scan_at": "2026-08-25T18:31:56.990279+07:00",
+      "minutes_to_kickoff": -82,
+      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
+      "next_scan_at": "2026-08-25T18:57:54.517501+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -565,11 +553,11 @@
     },
     "0bdee6a0f127": {
       "url": "https://phaohoa1.live/truc-tiep/hungary-vs-duc",
-      "match_name": "25-08 Vô Địch Châu Âu Hungary VS Đức Tày",
-      "kickoff_iso": "2026-08-25T20:00:00+07:00",
-      "minutes_to_kickoff": 121,
-      "last_scan_at": "2026-08-25T17:59:51.300390+07:00",
-      "next_scan_at": "2026-08-25T18:44:51.300390+07:00",
+      "match_name": "25-08 Super League Lok. Tashkent VS Bunyodkor Văn Minh",
+      "kickoff_iso": "2026-08-25T22:00:00+07:00",
+      "minutes_to_kickoff": 188,
+      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
+      "next_scan_at": "2026-08-25T19:37:54.517501+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -582,6 +570,18 @@
       "minutes_to_kickoff": 214,
       "last_scan_at": "2026-08-25T18:26:56.990279+07:00",
       "next_scan_at": "2026-08-25T19:11:56.990279+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "b065fb70bc0f": {
+      "url": "https://phaohoa1.live/truc-tiep/italy-vs-slovakia",
+      "match_name": "25-08 Vô Địch Châu Âu Italy VS Slovakia KaKa",
+      "kickoff_iso": "2026-08-25T21:00:00+07:00",
+      "minutes_to_kickoff": 128,
+      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
+      "next_scan_at": "2026-08-25T19:37:54.517501+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
