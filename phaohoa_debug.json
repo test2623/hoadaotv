@@ -1,8 +1,8 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-kazakhstan",
-    "raw_title": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ",
-    "card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ",
+    "raw_title": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ",
+    "card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
@@ -24,26 +24,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -125,34 +131,57 @@
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
       },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
-      }
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+        "score": 75,
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Thái Lan min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+        "score": 45,
+        "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Kazakhstan min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Saika Phịch Ran Lv6 4 phút trước @Kza ăn 1 set thì VN ra chuồng gà giờ Nhật với Thái bít của nhất rồi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000058186.jpg",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Út Hưn Smile 🤲 Lv12 2 phút trước Thái chall gì dẫy chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000058186.jpg"
     ],
-    "blv": "Chim Nhỏ",
+    "blv": "Chim Nhỏ. Chúc Chim buổi sáng vui vẻ Xôi",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
-    "match_name": "Thái Lan VS Kazakhstan",
+    "match_name": "Thai Lan vs Kazakhstan",
     "home_name": "Thái Lan",
     "away_name": "Kazakhstan",
     "time": "09:00",
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-kazakhstan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-25T07:37:32.936517+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.530704+07:00",
     "kickoff_iso": "2026-08-25T09:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 82,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -13,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
+    "delta_reason": "near-or-live",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/ce1e881ea033.m3u8",
@@ -162,14 +191,110 @@
       }
     ],
     "_scan_index": 1,
-    "_scan_total": 1,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
+    "_scan_total": 2,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3189332340-1787622912-20260825T021223.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/ce1e881ea033.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "ce1e881ea033",
+        "family_key": "ce1e881ea033",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/ce1e881ea033.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -198,26 +323,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -298,19 +429,13 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
+    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "match_name": "Iran VS Iraq",
     "home_name": "Iran",
     "away_name": "Iraq",
@@ -318,15 +443,31 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/iran-vs-iraq",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-25T07:37:32.939526+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.533721+07:00",
     "kickoff_iso": "2026-08-25T13:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 322,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 227,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/6d24cf4bde1a.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 2,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -356,26 +497,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -456,19 +603,13 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
+    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "match_name": "Gimcheon Sangmu VS Jeonbuk",
     "home_name": "Gimcheon Sangmu",
     "away_name": "Jeonbuk",
@@ -476,10 +617,10 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gimcheon-sangmu-vs-jeonbuk-25-08-2026-728377",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-25T07:37:32.942722+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.536939+07:00",
     "kickoff_iso": "2026-08-25T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 592,
+    "minutes_to_kickoff": 497,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -514,26 +655,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -614,19 +761,13 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
+    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "match_name": "25-08 Vô Địch Châu Á Việt Nam VS Nhật Bản KaKa",
     "home_name": "25-08 Vô Địch Châu Á Việt Nam",
     "away_name": "Nhật Bản KaKa",
@@ -634,10 +775,10 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-brazil",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-25T07:37:32.946439+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.540615+07:00",
     "kickoff_iso": "2026-08-25T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 592,
+    "minutes_to_kickoff": 497,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -671,26 +812,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -771,19 +918,13 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
+    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "match_name": "Hungary VS Đức",
     "home_name": "Hungary",
     "away_name": "Đức",
@@ -791,10 +932,10 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/hungary-vs-duc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-25T07:37:32.949513+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.543483+07:00",
     "kickoff_iso": "2026-08-25T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 742,
+    "minutes_to_kickoff": 647,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -829,26 +970,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
         "score": 64.82,
         "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-7 rounded-full border border-white/80 object-cover shadow-[0_4px_10px_rgba(0,0,0,.14)] Chim Nhỏ flex shrink-0 items-center gap-1.5 rounded-full bg-red-600 py-1 pl-1 pr-3 shadow-[0_0_18px_rgba(220,38,38,.2)] Chim Nhỏ flex min-w-0 flex-1 items-center gap-2 overflow-hidden",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Kazakhstan.svg.webp",
-        "score": 34.98,
+        "score": 59.98,
         "context": "Kazakhstan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kazakhstan min-w-0 text-center",
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Iraq.svg.webp",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Iraq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iraq min-w-0 text-center",
         "source": "home-card"
       },
@@ -929,19 +1076,13 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
-        "score": -0.07,
-        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan VS Sắp diễn ra Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
+    "page_card_text": "09:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Thái Lan 0 : 0 Trực tiếp Kazakhstan Chim Nhỏ 13:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Iraq Tày 16:30 - 25-08 BÓNG CHUYỀN Giao Hữu Nhật Bản VS Sắp diễn ra Brazil Chim Nhỏ 17:30 - 25-08 BÓNG ĐÁ K League 1 Gimcheon Sangmu VS Sắp diễn ra Jeonbuk Văn Minh 17:30 - 25-08 BÓNG CHUYỀN Vô Địch Châu Á Việt Nam VS Sắp diễn ra Nhật Bản KaKa 20:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Hungary VS Sắp diễn ra Đức Tày 21:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Slovakia KaKa 22:00 - 25-08 BÓNG ĐÁ Super League Lok. Tashkent VS Sắp diễn ra Bunyodkor Văn Minh 23:00 - 25-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Slovenia KaKa",
     "match_name": "Lok. Tashkent VS Bunyodkor",
     "home_name": "Lok. Tashkent",
     "away_name": "Bunyodkor",
@@ -949,10 +1090,10 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/lok-tashkent-vs-bunyodkor-25-08-2026-736689",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-25T07:37:32.952857+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.546666+07:00",
     "kickoff_iso": "2026-08-25T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 862,
+    "minutes_to_kickoff": 767,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1021,10 +1162,10 @@
     "date": "25/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-nhat-ban",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-25T07:37:32.954491+07:00",
+    "scan_time_iso": "2026-08-25T09:12:34.548277+07:00",
     "kickoff_iso": "2026-08-25T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 922,
+    "minutes_to_kickoff": 827,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
