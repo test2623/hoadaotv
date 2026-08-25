@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-25T18:52:54.517653+07:00",
+  "updated_at": "2026-08-25T19:26:30.084078+07:00",
   "matches": {
     "805972": {
       "url": "https://phaohoa1.live/truc-tiep/psv-vs-groningen-23-08-2026-805972",
@@ -527,23 +527,21 @@
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-nhat-ban",
       "match_name": "Việt Nam vs Nhật Bản",
       "kickoff_iso": "2026-08-25T17:30:00+07:00",
-      "minutes_to_kickoff": -82,
-      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
-      "next_scan_at": "2026-08-25T18:57:54.517501+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
+      "minutes_to_kickoff": -116,
+      "last_scan_at": "2026-08-25T19:26:30.083956+07:00",
+      "next_scan_at": "2026-08-25T19:31:30.083956+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "728377": {
       "url": "https://phaohoa1.live/truc-tiep/gimcheon-sangmu-vs-jeonbuk-25-08-2026-728377",
       "match_name": "Gimcheon Sangmu vs Jeonbuk",
       "kickoff_iso": "2026-08-25T17:30:00+07:00",
-      "minutes_to_kickoff": -82,
-      "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
-      "next_scan_at": "2026-08-25T18:57:54.517501+07:00",
+      "minutes_to_kickoff": -116,
+      "last_scan_at": "2026-08-25T19:26:30.083956+07:00",
+      "next_scan_at": "2026-08-25T19:31:30.083956+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -582,6 +580,18 @@
       "minutes_to_kickoff": 128,
       "last_scan_at": "2026-08-25T18:52:54.517501+07:00",
       "next_scan_at": "2026-08-25T19:37:54.517501+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "4e7f38350a36": {
+      "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-slovenia",
+      "match_name": "25-08 Vô Địch Châu Âu Ba Lan VS Slovenia KaKa",
+      "kickoff_iso": "2026-08-25T23:00:00+07:00",
+      "minutes_to_kickoff": 214,
+      "last_scan_at": "2026-08-25T19:26:30.083956+07:00",
+      "next_scan_at": "2026-08-25T20:11:30.083956+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
