@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T18:55:26.941941+07:00",
+  "updated_at": "2026-08-26T19:29:12.366063+07:00",
   "matches": {
     "47f983fc2ab9": {
       "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-latvia",
@@ -453,9 +453,9 @@
       "url": "https://phaohoa1.live/truc-tiep/daejeon-vs-ulsan-hd-26-08-2026-728381",
       "match_name": "Daejeon vs Ulsan Hd",
       "kickoff_iso": "2026-08-26T17:30:00+07:00",
-      "minutes_to_kickoff": -85,
-      "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
-      "next_scan_at": "2026-08-26T19:00:26.941653+07:00",
+      "minutes_to_kickoff": -118,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T19:34:12.365775+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -466,52 +466,52 @@
     "9a3fe3d57f21": {
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-dai-loan",
       "match_name": "26-08 ASEAN Championship Việt Nam VS Thái Lan A Heo",
-      "kickoff_iso": "2026-08-26T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
-      "next_scan_at": "2026-08-26T19:15:26.941653+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "kickoff_iso": "2026-08-26T18:30:00+07:00",
+      "minutes_to_kickoff": -59,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T19:34:12.365775+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "849235": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan-26-08-2026-849235",
       "match_name": "26-08 ASEAN Championship Việt Nam VS Thái Lan Người Lửa",
       "kickoff_iso": "2026-08-26T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
-      "next_scan_at": "2026-08-26T19:15:26.941653+07:00",
+      "minutes_to_kickoff": 32,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T19:39:12.365775+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "728382": {
       "url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gwangju-fc-26-08-2026-728382",
       "match_name": "Gangwon vs Gwangju FC",
       "kickoff_iso": "2026-08-26T17:30:00+07:00",
-      "minutes_to_kickoff": -85,
-      "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
-      "next_scan_at": "2026-08-26T19:00:26.941653+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
-      ],
+      "minutes_to_kickoff": -118,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T19:34:12.365775+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "162813": {
       "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan-24-08-2026-162813",
       "match_name": "26-08 ASEAN Championship Việt Nam VS Thái Lan Kevin",
       "kickoff_iso": "2026-08-26T20:00:00+07:00",
-      "minutes_to_kickoff": 65,
-      "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
-      "next_scan_at": "2026-08-26T19:15:26.941653+07:00",
+      "minutes_to_kickoff": 31,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T19:39:12.365775+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "fdc890d987c8": {
       "url": "https://phaohoa1.live/truc-tiep/bi-vs-azerbaijan",
@@ -520,6 +520,18 @@
       "minutes_to_kickoff": 155,
       "last_scan_at": "2026-08-26T18:55:26.941653+07:00",
       "next_scan_at": "2026-08-26T19:40:26.941653+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "162812": {
+      "url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan-24-08-2026-162812",
+      "match_name": "26-08 Saudi Pro League Al-Faisaly VS Al Fateh Pháo Thủ",
+      "kickoff_iso": "2026-08-26T23:00:00+07:00",
+      "minutes_to_kickoff": 212,
+      "last_scan_at": "2026-08-26T19:29:12.365775+07:00",
+      "next_scan_at": "2026-08-26T20:14:12.365775+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
