@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T21:35:42.428442+07:00",
+  "updated_at": "2026-08-26T23:10:28.404245+07:00",
   "matches": {
     "807861": {
       "url": "https://phaohoa1.live/truc-tiep/bologna-vs-lazio-24-08-2026-807861",
@@ -15,18 +15,6 @@
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
       ],
-      "scan_decision": "browser-fallback"
-    },
-    "f8ba6b1e6087": {
-      "url": "https://phaohoa1.live/truc-tiep/tho-nhi-ki-vs-hungary",
-      "match_name": "Thổ Nhĩ Kì vs Hungary",
-      "kickoff_iso": "2026-08-24T23:00:00+07:00",
-      "minutes_to_kickoff": -115,
-      "last_scan_at": "2026-08-25T00:56:16.771951+07:00",
-      "next_scan_at": "2026-08-25T01:01:16.771951+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "69b0f8a4726c": {
@@ -519,9 +507,9 @@
       "url": "https://phaohoa1.live/truc-tiep/phap-vs-italy",
       "match_name": "Pháp vs Italy",
       "kickoff_iso": "2026-08-26T21:00:00+07:00",
-      "minutes_to_kickoff": -35,
-      "last_scan_at": "2026-08-26T21:35:42.428176+07:00",
-      "next_scan_at": "2026-08-26T21:40:42.428176+07:00",
+      "minutes_to_kickoff": -130,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:15:28.403989+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -531,23 +519,71 @@
     },
     "825122": {
       "url": "https://phaohoa1.live/truc-tiep/al-faisaly-vs-al-fateh-26-08-2026-825122",
-      "match_name": "26-08 Saudi Pro League Al-Faisaly VS Al Fateh Pháo Thủ",
+      "match_name": "Al Faisaly vs Al Fateh",
       "kickoff_iso": "2026-08-26T23:00:00+07:00",
-      "minutes_to_kickoff": 85,
-      "last_scan_at": "2026-08-26T21:35:42.428176+07:00",
-      "next_scan_at": "2026-08-26T21:55:42.428176+07:00",
+      "minutes_to_kickoff": -10,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:15:28.403989+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "845103": {
       "url": "https://phaohoa1.live/truc-tiep/sk-rapid-vs-hearts-26-08-2026-845103",
       "match_name": "26-08 UEFA Conference League SK Rapid VS Hearts Văn Minh",
       "kickoff_iso": "2026-08-26T23:45:00+07:00",
-      "minutes_to_kickoff": 130,
-      "last_scan_at": "2026-08-26T21:35:42.428176+07:00",
-      "next_scan_at": "2026-08-26T22:20:42.428176+07:00",
+      "minutes_to_kickoff": 35,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:20:28.403989+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "0ff0e860e391": {
+      "url": "https://phaohoa1.live/truc-tiep/duc-vs-tho-nhi-ki",
+      "match_name": "27-08 Vô Địch Châu Âu Serbia VS Hy Lạp KaKa",
+      "kickoff_iso": "2026-08-27T00:00:00+07:00",
+      "minutes_to_kickoff": 50,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:30:28.403989+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "847797": {
+      "url": "https://phaohoa1.live/truc-tiep/al-ahli-sc-vs-auckland-fc-27-08-2026-847797",
+      "match_name": "27-08 FIFA Intercontinental Cup Al Ahli SC VS Auckland FC Tiểu Mây",
+      "kickoff_iso": "2026-08-27T01:00:00+07:00",
+      "minutes_to_kickoff": 110,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:30:28.403989+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "841805": {
+      "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-charlton-27-08-2026-841805",
+      "match_name": "27-08 League Cup Tottenham VS Charlton Tày",
+      "kickoff_iso": "2026-08-27T01:45:00+07:00",
+      "minutes_to_kickoff": 155,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:55:28.403989+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "55b47ba368e8": {
+      "url": "https://phaohoa1.live/truc-tiep/serbia-vs-hy-lap",
+      "match_name": "27-08 La Liga Real Madrid VS Real Sociedad Người Lửa",
+      "kickoff_iso": "2026-08-27T02:00:00+07:00",
+      "minutes_to_kickoff": 170,
+      "last_scan_at": "2026-08-26T23:10:28.403989+07:00",
+      "next_scan_at": "2026-08-26T23:55:28.403989+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
