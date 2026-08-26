@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T17:59:22.766014+07:00",
+  "updated_at": "2026-08-26T18:27:59.194835+07:00",
   "matches": {
     "440fd6d9736f": {
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
@@ -481,9 +481,9 @@
       "url": "https://phaohoa1.live/truc-tiep/daejeon-vs-ulsan-hd-26-08-2026-728381",
       "match_name": "Daejeon vs Ulsan Hd",
       "kickoff_iso": "2026-08-26T17:30:00+07:00",
-      "minutes_to_kickoff": -29,
-      "last_scan_at": "2026-08-26T17:59:22.765743+07:00",
-      "next_scan_at": "2026-08-26T18:04:22.765743+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-26T18:27:59.194745+07:00",
+      "next_scan_at": "2026-08-26T18:32:59.194745+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -519,9 +519,9 @@
       "url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gwangju-fc-26-08-2026-728382",
       "match_name": "Gangwon vs Gwangju FC",
       "kickoff_iso": "2026-08-26T17:30:00+07:00",
-      "minutes_to_kickoff": -29,
-      "last_scan_at": "2026-08-26T17:59:22.765743+07:00",
-      "next_scan_at": "2026-08-26T18:04:22.765743+07:00",
+      "minutes_to_kickoff": -58,
+      "last_scan_at": "2026-08-26T18:27:59.194745+07:00",
+      "next_scan_at": "2026-08-26T18:32:59.194745+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
