@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-26T12:06:10.275844+07:00",
+  "updated_at": "2026-08-26T12:57:05.954926+07:00",
   "matches": {
     "e9a8be850222": {
       "url": "https://phaohoa1.live/truc-tiep/thai-lan-vs-indonesia",
@@ -481,9 +481,9 @@
       "url": "https://phaohoa1.live/truc-tiep/indonesia-vs-uc",
       "match_name": "26-08 Vô Địch Châu Á Indonesia VS Úc Chim Nhỏ",
       "kickoff_iso": "2026-08-26T14:00:00+07:00",
-      "minutes_to_kickoff": 150,
-      "last_scan_at": "2026-08-26T11:30:25.842687+07:00",
-      "next_scan_at": "2026-08-26T12:15:25.842687+07:00",
+      "minutes_to_kickoff": 63,
+      "last_scan_at": "2026-08-26T12:57:05.954784+07:00",
+      "next_scan_at": "2026-08-26T13:17:05.954784+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
