@@ -145,10 +145,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/indonesia-vs-uc",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-26T14:37:58.601665+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.396213+07:00",
     "kickoff_iso": "2026-08-26T14:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -38,
+    "minutes_to_kickoff": -91,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -156,60 +156,23 @@
     "delta_reason": "near-or-live",
     "_previous_streams": [
       {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/180d2e23d042.m3u8",
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
         "referer": "https://phaohoa1.live/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "history_source": "working-tree"
+      },
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/180d2e23d042.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "HEAD~1:phaohoa_live.m3u"
       }
     ],
     "_scan_index": 1,
     "_scan_total": 3,
     "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa5",
-        "family_key": "phaohoa5",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3191439118-1787728016-20260826T073744.ts?volcDst=MTAuMTMuOC4xNDU",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-    ],
+    "streams": [],
+    "stream_urls": [],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -227,10 +190,50 @@
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`"
+      "console/warning: [Icon] failed to load icon `lucide:pin`",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()"
     ],
     "scan_decision": "browser-fallback",
     "rejected_streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 404,
+        "statuses": [
+          404
+        ],
+        "content_type": "",
+        "sources": [
+          "request/xhr",
+          "previous-playlist",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 106,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 404,
+          "content_type": "",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "HTTP 404",
+          "playable": false,
+          "state": "dead",
+          "kind": "m3u8",
+          "detail": "HTTP 404",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: HTTP 404"
+      },
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/180d2e23d042.m3u8",
         "referer": "https://phaohoa1.live/",
@@ -266,7 +269,7 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "stream",
+    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
@@ -415,10 +418,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/daejeon-vs-ulsan-hd-26-08-2026-728381",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-26T14:37:58.604320+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.399868+07:00",
     "kickoff_iso": "2026-08-26T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 172,
+    "minutes_to_kickoff": 119,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng đá",
@@ -589,15 +592,15 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-dai-loan",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-26T14:37:58.607128+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.403725+07:00",
     "kickoff_iso": "2026-08-26T18:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 232,
+    "minutes_to_kickoff": 179,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
+    "delta_reason": "delta-due",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/9a3fe3d57f21.m3u8",
@@ -763,10 +766,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/gangwon-vs-gwangju-fc-26-08-2026-728382",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-26T14:37:58.610283+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.408114+07:00",
     "kickoff_iso": "2026-08-26T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 322,
+    "minutes_to_kickoff": 269,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -836,10 +839,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan-24-08-2026-162812",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-26T14:37:58.611669+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.409867+07:00",
     "kickoff_iso": "2026-08-26T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 322,
+    "minutes_to_kickoff": 269,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -994,10 +997,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/phap-vs-italy",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-26T14:37:58.614272+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.412974+07:00",
     "kickoff_iso": "2026-08-26T21:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 382,
+    "minutes_to_kickoff": 329,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1064,10 +1067,10 @@
     "date": "26/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-vs-thai-lan-26-08-2026-849235",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-26T14:37:58.616022+07:00",
+    "scan_time_iso": "2026-08-26T15:31:10.415175+07:00",
     "kickoff_iso": "2026-08-26T21:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 412,
+    "minutes_to_kickoff": 359,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
