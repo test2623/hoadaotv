@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-29T18:15:18.369709+07:00",
+  "updated_at": "2026-08-29T22:42:32.481821+07:00",
   "matches": {
     "844768": {
       "url": "https://phaohoa1.live/truc-tiep/ararat-armenia-vs-univ-craiova-27-08-2026-844768",
@@ -221,15 +221,17 @@
     },
     "812663": {
       "url": "https://phaohoa1.live/truc-tiep/coventry-vs-hull-city-29-08-2026-812663",
-      "match_name": "29-08 Premier League Coventry VS Hull City Kevin",
+      "match_name": "Coventry vs Hull City",
       "kickoff_iso": "2026-08-29T21:00:00+07:00",
-      "minutes_to_kickoff": 165,
-      "last_scan_at": "2026-08-29T18:15:18.369544+07:00",
-      "next_scan_at": "2026-08-29T19:00:18.369544+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": -102,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T22:47:32.481540+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "d08676131212": {
       "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-thai-lan",
@@ -256,6 +258,86 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "812662": {
+      "url": "https://phaohoa1.live/truc-tiep/bournemouth-vs-everton-29-08-2026-812662",
+      "match_name": "Bournemouth vs Everton",
+      "kickoff_iso": "2026-08-29T21:00:00+07:00",
+      "minutes_to_kickoff": -102,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T22:47:32.481540+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "314aae375bd5": {
+      "url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-my",
+      "match_name": "Ba Lan vs Mỹ",
+      "kickoff_iso": "2026-08-29T22:00:00+07:00",
+      "minutes_to_kickoff": -42,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T22:47:32.481540+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "812664": {
+      "url": "https://phaohoa1.live/truc-tiep/tottenham-vs-newcastle-29-08-2026-812664",
+      "match_name": "29-08 Premier League Tottenham VS Newcastle Người Lửa",
+      "kickoff_iso": "2026-08-29T23:30:00+07:00",
+      "minutes_to_kickoff": 49,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T23:02:32.481540+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "809917": {
+      "url": "https://phaohoa1.live/truc-tiep/strasbourg-vs-lens-29-08-2026-809917",
+      "match_name": "30-08 La Liga Real Sociedad VS Espanyol Tày",
+      "kickoff_iso": "2026-08-30T00:00:00+07:00",
+      "minutes_to_kickoff": 79,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T23:02:32.481540+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "807864": {
+      "url": "https://phaohoa1.live/truc-tiep/fiorentina-vs-frosinone-29-08-2026-807864",
+      "match_name": "Fiorentina vs Frosinone",
+      "kickoff_iso": "2026-08-29T23:30:00+07:00",
+      "minutes_to_kickoff": 48,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T22:52:32.481540+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "798828": {
+      "url": "https://phaohoa1.live/truc-tiep/levante-vs-real-betis-29-08-2026-798828",
+      "match_name": "Levante vs Real Betis",
+      "kickoff_iso": "2026-08-29T22:00:00+07:00",
+      "minutes_to_kickoff": -42,
+      "last_scan_at": "2026-08-29T22:42:32.481540+07:00",
+      "next_scan_at": "2026-08-29T22:47:32.481540+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
       ],
       "scan_decision": "browser-fallback"
     }
