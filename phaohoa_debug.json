@@ -1,15 +1,15 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-cf-montreal-30-08-2026-711606",
-    "raw_title": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ",
-    "card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ",
+    "raw_title": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ",
+    "card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_332.png"
     ],
     "logo_candidates": [
       {
@@ -25,26 +25,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -126,34 +132,65 @@
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
       },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
-      }
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+        "score": 75,
+        "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Inter Miami min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
+        "score": 75,
+        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Inter Miami ĐANG DIỄN RA 0-0 06:30 - 30/08/2026 CF Montreal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 50,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] CF Montreal min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Xiên 3 1 củ ăn đậm r chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000010289.jpg",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Kéo búa bao thôi chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000010289.jpg"
     ],
-    "blv": "Chim Nhỏ",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
-    "match_name": "Inter Miami VS CF Montreal",
+    "match_name": "Inter Miami vs CF Montreal",
     "home_name": "Inter Miami",
     "away_name": "CF Montreal",
     "time": "06:30",
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-cf-montreal-30-08-2026-711606",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-30T04:31:49.384719+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-30T06:41:57.022626+07:00",
     "kickoff_iso": "2026-08-30T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 118,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -12,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
+    "delta_reason": "near-or-live",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/711606.m3u8",
@@ -164,13 +201,110 @@
     ],
     "_scan_index": 1,
     "_scan_total": 1,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3198601374-1788045272-20260829T234146.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/711606.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "711606",
+        "family_key": "711606",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/711606.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -178,10 +312,11 @@
     "raw_title": "14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày",
     "card_text": "14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg"
     ],
     "logo_candidates": [
@@ -198,26 +333,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -298,30 +439,24 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "Iran VS Nhật Bản",
     "home_name": "Iran",
     "away_name": "Nhật Bản",
     "time": "14:15",
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/iran-vs-nhat-ban",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-30T04:31:49.387421+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-30T06:41:57.025919+07:00",
     "kickoff_iso": "2026-08-30T14:15:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 583,
+    "minutes_to_kickoff": 453,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -356,26 +491,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -456,19 +597,13 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "KaKa",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "Trung Quốc VS Thái Lan",
     "home_name": "Trung Quốc",
     "away_name": "Thái Lan",
@@ -476,10 +611,10 @@
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-thai-lan",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-30T04:31:49.390407+07:00",
+    "scan_time_iso": "2026-08-30T06:41:57.029303+07:00",
     "kickoff_iso": "2026-08-30T17:45:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 793,
+    "minutes_to_kickoff": 663,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -514,26 +649,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -614,19 +755,13 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "30-08 Premiership Aberdeen VS Rangers Văn Minh",
     "home_name": "30-08 Premiership Aberdeen",
     "away_name": "Rangers Văn Minh",
@@ -634,10 +769,10 @@
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/utrecht-vs-psv-30-08-2026-805980",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-30T04:31:49.393516+07:00",
+    "scan_time_iso": "2026-08-30T06:41:57.032887+07:00",
     "kickoff_iso": "2026-08-30T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 808,
+    "minutes_to_kickoff": 678,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -671,26 +806,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -771,19 +912,13 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "Slovenia VS Mỹ",
     "home_name": "Slovenia",
     "away_name": "Mỹ",
@@ -791,10 +926,10 @@
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/slovenia-vs-my",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-30T04:31:49.396158+07:00",
+    "scan_time_iso": "2026-08-30T06:41:57.035891+07:00",
     "kickoff_iso": "2026-08-30T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 868,
+    "minutes_to_kickoff": 738,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -810,10 +945,10 @@
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_3103.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png"
     ],
     "logo_candidates": [
       {
@@ -829,26 +964,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -929,19 +1070,13 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Kevin",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "Leeds VS Brentford",
     "home_name": "Leeds",
     "away_name": "Brentford",
@@ -949,10 +1084,10 @@
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/leeds-vs-brentford-30-08-2026-812666",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-30T04:31:49.398874+07:00",
+    "scan_time_iso": "2026-08-30T06:41:57.039075+07:00",
     "kickoff_iso": "2026-08-30T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 928,
+    "minutes_to_kickoff": 798,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -986,26 +1121,32 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
+        "score": 64.98,
+        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7954.jpg",
-        "score": 39.98,
-        "context": "CF Montreal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] CF Montreal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_4xNC98N.jpg",
-        "score": 4.92,
+        "score": 39.92,
         "context": "Nhật Bản max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nhật Bản min-w-0 text-center",
         "source": "home-card"
       },
@@ -1086,19 +1227,13 @@
         "score": 4.57,
         "context": "Leeds max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Leeds min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/brentford-logo-png-3.png",
-        "score": 4.56,
-        "context": "Brentford max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Brentford min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
+    "page_card_text": "06:30 - 30-08 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp CF Montreal Chim Nhỏ 14:15 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Nhật Bản Tày 17:15 - 30-08 BÓNG ĐÁ Eredivisie Utrecht VS Sắp diễn ra PSV Tiểu Mây 17:45 - 30-08 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Thái Lan KaKa 18:00 - 30-08 BÓNG ĐÁ Premiership Aberdeen VS Sắp diễn ra Rangers Văn Minh 19:00 - 30-08 BÓNG CHUYỀN Hubert Wagner Memorial Slovenia VS Sắp diễn ra Mỹ Chim Nhỏ 20:00 - 30-08 BÓNG ĐÁ Premier League Chelsea VS Sắp diễn ra Brighton Tày 20:00 - 30-08 BÓNG ĐÁ Premier League Leeds VS Sắp diễn ra Brentford Kevin 20:00 - 30-08 BÓNG ĐÁ Premier League Sunderland VS Sắp diễn ra Fulham Pháo Thủ",
     "match_name": "30-08 Premier League Sunderland VS Fulham Pháo Thủ",
     "home_name": "30-08 Premier League Sunderland",
     "away_name": "Fulham Pháo Thủ",
@@ -1106,10 +1241,10 @@
     "date": "30/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/aberdeen-vs-rangers-30-08-2026-803088",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-30T04:31:49.401898+07:00",
+    "scan_time_iso": "2026-08-30T06:41:57.042526+07:00",
     "kickoff_iso": "2026-08-30T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 928,
+    "minutes_to_kickoff": 798,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
