@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-31T00:51:01.029414+07:00",
+  "updated_at": "2026-08-31T03:15:55.906371+07:00",
   "matches": {
     "440fd6d9736f": {
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
@@ -305,15 +305,17 @@
     },
     "807869": {
       "url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
-      "match_name": "31-08 Serie A Cagliari VS Inter Kevin",
+      "match_name": "Cagliari vs Inter",
       "kickoff_iso": "2026-08-31T01:45:00+07:00",
-      "minutes_to_kickoff": 55,
-      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
-      "next_scan_at": "2026-08-31T01:11:01.029257+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": -90,
+      "last_scan_at": "2026-08-31T03:15:55.906217+07:00",
+      "next_scan_at": "2026-08-31T03:20:55.906217+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "798832": {
       "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-valencia-31-08-2026-798832",
@@ -364,6 +366,34 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "798833": {
+      "url": "https://phaohoa1.live/truc-tiep/celta-vigo-vs-ath-bilbao-31-08-2026-798833",
+      "match_name": "Celta Vigo vs Ath Bilbao",
+      "kickoff_iso": "2026-08-31T02:30:00+07:00",
+      "minutes_to_kickoff": -45,
+      "last_scan_at": "2026-08-31T03:15:55.906217+07:00",
+      "next_scan_at": "2026-08-31T03:20:55.906217+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "807870": {
+      "url": "https://phaohoa1.live/truc-tiep/lazio-vs-genoa-31-08-2026-807870",
+      "match_name": "Lazio vs Genoa",
+      "kickoff_iso": "2026-08-31T01:45:00+07:00",
+      "minutes_to_kickoff": -90,
+      "last_scan_at": "2026-08-31T03:15:55.906217+07:00",
+      "next_scan_at": "2026-08-31T03:20:55.906217+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
       ],
       "scan_decision": "browser-fallback"
     }

@@ -1,14 +1,14 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/napoli-vs-como-30-08-2026-807868",
-    "raw_title": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ",
-    "card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
+    "url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
+    "raw_title": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin",
+    "card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
     "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
       "https://phaohoa1.live/media/tournaments/icons/tournament_207.png"
     ],
     "logo_candidates": [
@@ -19,167 +19,753 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
+        "score": 64.99,
         "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
+        "score": 64.98,
         "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
+        "score": 64.97,
         "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
+        "score": 64.93,
         "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
+        "score": 64.92,
         "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
+        "score": 64.87,
         "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
+        "score": 64.86,
         "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
+        "score": 64.85,
         "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
         "score": 75,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Napoli min-w-0 text-center",
+        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Cagliari min-w-0 text-center",
         "source": "detail-match"
       },
       {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
         "score": 75,
-        "context": "size-5 object-contain SERIE A flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SERIE A Napoli 56' 1-2 23:30 - 30/08/2026 Como relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "context": "size-5 object-contain SERIE A flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SERIE A Cagliari 71' 0-1 01:45 - 31/08/2026 Inter relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
         "score": 50,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Como min-w-0 text-center",
+        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Inter min-w-0 text-center",
         "source": "detail-match"
       },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
       "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg"
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Napoli vs Como",
-    "home_name": "Napoli",
-    "away_name": "Como",
-    "time": "23:30",
-    "date": "30/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/napoli-vs-como-30-08-2026-807868",
+    "match_name": "Cagliari vs Inter",
+    "home_name": "Cagliari",
+    "away_name": "Inter",
+    "time": "01:45",
+    "date": "31/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T00:51:01.061478+07:00",
-    "kickoff_iso": "2026-08-30T23:30:00+07:00",
+    "scan_time_iso": "2026-08-31T03:15:55.948264+07:00",
+    "kickoff_iso": "2026-08-31T01:45:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -81,
+    "minutes_to_kickoff": -91,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/807869.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 3,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "dom/performance"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 223,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa2",
+        "family_key": "phaohoa2",
+        "quality_rank": 0,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2879050869-1788116846-20260830T201542.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/807869.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "807869",
+        "family_key": "807869",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/807869.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/lazio-vs-genoa-31-08-2026-807870",
+    "raw_title": "01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày",
+    "card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_207.png"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+        "score": 64.99,
+        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
+        "score": 64.98,
+        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+        "score": 64.93,
+        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+        "score": 64.92,
+        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.87,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
+        "score": 64.86,
+        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
+        "score": 64.85,
+        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+        "score": 75,
+        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Lazio min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
+        "score": 75,
+        "context": "size-5 object-contain SERIE A flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SERIE A Lazio 69' 1-0 01:45 - 31/08/2026 Genoa relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+        "score": 50,
+        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Genoa min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_207.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg"
+    ],
+    "blv": "",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Lazio vs Genoa",
+    "home_name": "Lazio",
+    "away_name": "Genoa",
+    "time": "01:45",
+    "date": "31/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/lazio-vs-genoa-31-08-2026-807870",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-31T03:15:55.953334+07:00",
+    "kickoff_iso": "2026-08-31T01:45:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -91,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/807870.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 3,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "dom/performance"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 223,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa8",
+        "family_key": "phaohoa8",
+        "quality_rank": 0,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2356780521-1788117333-20260830T201544.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/807870.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "807870",
+        "family_key": "807870",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/807870.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/celta-vigo-vs-ath-bilbao-31-08-2026-798833",
+    "raw_title": "02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ",
+    "card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+        "score": 64.99,
+        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
+        "score": 64.98,
+        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+        "score": 64.93,
+        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+        "score": 64.92,
+        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.87,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
+        "score": 64.86,
+        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
+        "score": 64.85,
+        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 75,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Celta Vigo min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+        "score": 75,
+        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Celta Vigo 44' 0-2 02:30 - 31/08/2026 Ath Bilbao relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 50,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Ath Bilbao min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg"
+    ],
+    "blv": "",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Celta Vigo vs Ath Bilbao",
+    "home_name": "Celta Vigo",
+    "away_name": "Ath Bilbao",
+    "time": "02:30",
+    "date": "31/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/celta-vigo-vs-ath-bilbao-31-08-2026-798833",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-31T03:15:55.958693+07:00",
+    "kickoff_iso": "2026-08-31T02:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -46,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "new-match",
     "_previous_streams": [],
-    "_scan_index": 1,
-    "_scan_total": 5,
+    "_scan_index": 3,
+    "_scan_total": 3,
     "time_source": "json-ld/startDate",
     "streams": [
       {
@@ -214,7 +800,7 @@
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2356569177-1788109041-20260830T175050.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2356569177-1788112860-20260830T201544.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -227,14 +813,14 @@
     ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Hydration completed but contains mismatches.",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -249,765 +835,18 @@
     "rejected_streams": [],
     "scan_attempted": true,
     "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/serbia-vs-croatia",
-    "raw_title": "00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa",
-    "card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
-        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
-        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
-        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
-        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
-        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
-        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 75,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Serbia min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 50,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Croatia min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Serbia vs Croatia",
-    "home_name": "Serbia",
-    "away_name": "Croatia",
-    "time": "00:00",
-    "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/serbia-vs-croatia",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T00:51:01.065703+07:00",
-    "kickoff_iso": "2026-08-31T00:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -51,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 2,
-    "_scan_total": 5,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa6",
-        "family_key": "phaohoa6",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa6/phaohoa6-ss-2356654074-1788110806-20260830T175050.ts?volcDst=MTAuMTMuOC4xNDQ",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Hydration completed but contains mismatches.",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
-    "raw_title": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin",
-    "card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
-        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
-        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
-        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
-        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
-        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
-        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      }
-    ],
-    "blv": "Kevin",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "match_name": "Cagliari VS Inter",
-    "home_name": "Cagliari",
-    "away_name": "Inter",
-    "time": "01:45",
-    "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-31T00:51:01.068361+07:00",
-    "kickoff_iso": "2026-08-31T01:45:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 54,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 3,
-    "_scan_total": 5,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-valencia-31-08-2026-798832",
-    "raw_title": "01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày",
-    "card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
-        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
-        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
-        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
-        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
-        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
-        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      }
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "match_name": "31-08 Serie A Lazio VS Genoa Tày",
-    "home_name": "31-08 Serie A Lazio",
-    "away_name": "Genoa Tày",
-    "time": "01:45",
-    "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-valencia-31-08-2026-798832",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T00:51:01.071300+07:00",
-    "kickoff_iso": "2026-08-31T01:45:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 54,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 4,
-    "_scan_total": 5,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
-    "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/monaco-vs-marseille-31-08-2026-809924",
-    "raw_title": "01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây",
-    "card_text": "01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
-        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
-        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
-        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
-        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
-        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
-        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      }
-    ],
-    "blv": "Tiểu Mây",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "match_name": "Monaco VS Marseille",
-    "home_name": "Monaco",
-    "away_name": "Marseille",
-    "time": "01:45",
-    "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/monaco-vs-marseille-31-08-2026-809924",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-08-31T00:51:01.074006+07:00",
-    "kickoff_iso": "2026-08-31T01:45:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 54,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 5,
-    "_scan_total": 5,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
     "raw_title": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày",
     "card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày",
     "raw_time": "",
-    "logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
     "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg"
     ],
     "logo_candidates": [
       {
@@ -1017,136 +856,136 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
+        "score": 64.99,
         "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
+        "score": 64.98,
         "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
+        "score": 64.97,
         "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
+        "score": 64.93,
         "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
+        "score": 64.92,
         "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
+        "score": 64.87,
         "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
+        "score": 64.86,
         "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
+        "score": 64.85,
         "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
         "source": "home-card"
       }
     ],
-    "blv": "Tày",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "match_name": "Japan U20 VS Kuwait U20",
-    "home_name": "Japan U20",
-    "away_name": "Kuwait U20",
+    "page_card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "match_name": "31-08 AFC U20 Asian Cup Japan U20 VS Kuwait U20 Tày",
+    "home_name": "31-08 AFC U20 Asian Cup Japan U20",
+    "away_name": "Kuwait U20 Tày",
     "time": "16:00",
     "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/monaco-vs-marseille-31-08-2026-809924",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T00:51:01.076708+07:00",
+    "scan_time_iso": "2026-08-31T03:15:55.962142+07:00",
     "kickoff_iso": "2026-08-31T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 909,
+    "minutes_to_kickoff": 764,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -1156,15 +995,16 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/lazio-vs-genoa-31-08-2026-807870",
+    "url": "https://phaohoa1.live/truc-tiep/indonesia-u20-vs-malaysia-u20",
     "raw_title": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
     "card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg"
     ],
     "logo_candidates": [
       {
@@ -1174,117 +1014,431 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_152_CGCCNup.jpg",
-        "score": 64.99,
-        "context": "Napoli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Napoli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_8239.jpg",
-        "score": 64.98,
-        "context": "Como max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Como min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 64.97,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
-        "score": 64.94,
-        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",
-        "score": 64.93,
-        "context": "Serbia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Serbia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_cIbmzlW.jpg",
-        "score": 64.92,
-        "context": "Croatia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Croatia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
-        "score": 64.91,
-        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7200.jpg",
-        "score": 64.87,
-        "context": "Dep. La Coruna max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Dep. La Coruna min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7272.jpg",
-        "score": 64.86,
-        "context": "Valencia max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Valencia min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.85,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
-        "score": 64.81,
+        "score": 64.99,
         "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
-        "score": 39.8,
+        "score": 64.98,
         "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 39.79,
+        "score": 64.97,
         "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
-        "score": 4.75,
+        "score": 64.93,
         "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
-        "score": 4.74,
+        "score": 64.92,
         "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.73,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
-        "score": 4.69,
+        "score": 64.87,
         "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
-        "score": 4.68,
+        "score": 64.86,
         "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.67,
+        "score": 64.85,
         "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Văn Minh",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "match_name": "Indonesia U20 VS Malaysia U20",
+    "home_name": "Indonesia U20",
+    "away_name": "Malaysia U20",
+    "time": "16:00",
+    "date": "31/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/indonesia-u20-vs-malaysia-u20",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-08-31T03:15:55.965378+07:00",
+    "kickoff_iso": "2026-08-31T16:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 764,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/viet-nam-u20-vs-trieu-tien-u20",
+    "raw_title": "19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin",
+    "card_text": "19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+        "score": 64.99,
+        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
+        "score": 64.98,
+        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+        "score": 64.93,
+        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+        "score": 64.92,
+        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.87,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
+        "score": 64.86,
+        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
+        "score": 64.85,
+        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
+        "source": "home-card"
+      }
+    ],
+    "blv": "Kevin",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "page_card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "match_name": "Việt Nam U20 VS Triều Tiên U20",
+    "home_name": "Việt Nam U20",
+    "away_name": "Triều Tiên U20",
+    "time": "19:00",
+    "date": "31/08",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-u20-vs-trieu-tien-u20",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-08-31T03:15:55.968674+07:00",
+    "kickoff_iso": "2026-08-31T19:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": 944,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
+    "playlist_mode": "metadata-only",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
+    "raw_title": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "card_text": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "raw_time": "",
+    "logo": "",
+    "home_logo": "",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4981.jpg",
+        "score": 64.99,
+        "context": "Cagliari max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Cagliari min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_79.jpg",
+        "score": 64.98,
+        "context": "Inter max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Inter min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_93.jpg",
+        "score": 64.93,
+        "context": "Lazio max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lazio min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4986.jpg",
+        "score": 64.92,
+        "context": "Genoa max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Genoa min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.87,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_83.jpg",
+        "score": 64.86,
+        "context": "Marseille max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Marseille min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
+        "score": 64.85,
+        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7290.jpg",
+        "score": 64.81,
+        "context": "Celta Vigo max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Celta Vigo min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7258.jpg",
+        "score": 64.8,
+        "context": "Ath Bilbao max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ath Bilbao min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.79,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Japan.svg.webp",
+        "score": 64.75,
+        "context": "Japan U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Japan U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26156.jpg",
+        "score": 34.74,
+        "context": "Kuwait U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kuwait U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
+        "score": 4.91,
+        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_30920.jpg",
+        "score": 4.69,
+        "context": "Indonesia U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Indonesia U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 4.67,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_9019.jpg",
+        "score": 4.63,
+        "context": "South Korea U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] South Korea U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_26084.jpg",
+        "score": 4.62,
+        "context": "Lebanon U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lebanon U20 min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Vietnam.svg.webp",
+        "score": 4.57,
+        "context": "Việt Nam U20 max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Việt Nam U20 min-w-0 text-center",
         "source": "home-card"
       }
     ],
@@ -1292,18 +1446,18 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:30 - 30-08 BÓNG ĐÁ Serie A Napoli 1 : 2 56' Como Pháo Thủ 00:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Serbia 0 : 0 Trực tiếp Croatia KaKa 00:30 - 31-08 BÓNG ĐÁ La Liga Dep. La Coruna 1 : 0 17' Valencia Chim Nhỏ 01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari VS Sắp diễn ra Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio VS Sắp diễn ra Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco VS Sắp diễn ra Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo VS Sắp diễn ra Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh",
-    "match_name": "31-08 AFC U20 Asian Cup Indonesia U20 VS Malaysia U20 Văn Minh",
-    "home_name": "31-08 AFC U20 Asian Cup Indonesia U20",
-    "away_name": "Malaysia U20 Văn Minh",
-    "time": "16:00",
+    "page_card_text": "01:45 - 31-08 BÓNG ĐÁ Serie A Cagliari 0 : 1 71' Inter Kevin 01:45 - 31-08 BÓNG ĐÁ Serie A Lazio 1 : 0 68' Genoa Tày 01:45 - 31-08 BÓNG ĐÁ Ligue 1 Monaco 2 : 0 69' Marseille Tiểu Mây 02:30 - 31-08 BÓNG ĐÁ La Liga Celta Vigo 0 : 2 43' Ath Bilbao Pháo Thủ 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "match_name": "31-08 AFC U20 Asian Cup Thái Lan U20 VS United Arab Emirates U20 Chim Nhỏ",
+    "home_name": "31-08 AFC U20 Asian Cup Thái Lan U20",
+    "away_name": "United Arab Emirates U20 Chim Nhỏ",
+    "time": "19:30",
     "date": "31/08",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/lazio-vs-genoa-31-08-2026-807870",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T00:51:01.079876+07:00",
-    "kickoff_iso": "2026-08-31T16:00:00+07:00",
+    "scan_time_iso": "2026-08-31T03:15:55.972451+07:00",
+    "kickoff_iso": "2026-08-31T19:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 909,
+    "minutes_to_kickoff": 974,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
