@@ -1,68 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-08-30T20:52:30.026279+07:00",
+  "updated_at": "2026-08-31T00:51:01.029414+07:00",
   "matches": {
-    "803276": {
-      "url": "https://phaohoa1.live/truc-tiep/al-ahli-doha-vs-lusail-28-08-2026-803276",
-      "match_name": "28-08 Stars League Al Ahli Doha VS Lusail Văn Minh",
-      "kickoff_iso": "2026-08-28T21:15:00+07:00",
-      "minutes_to_kickoff": 44,
-      "last_scan_at": "2026-08-28T20:31:30.605442+07:00",
-      "next_scan_at": "2026-08-28T20:41:30.605442+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
-    "25dbf88b27f3": {
-      "url": "https://phaohoa1.live/truc-tiep/slovenia-vs-hungary",
-      "match_name": "28-08 Hubert Wagner Memorial Mỹ VS Pháp Tày",
-      "kickoff_iso": "2026-08-28T22:30:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-08-28T20:31:30.605442+07:00",
-      "next_scan_at": "2026-08-28T20:51:30.605442+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "825124": {
-      "url": "https://phaohoa1.live/truc-tiep/al-riyadh-vs-neom-sc-28-08-2026-825124",
-      "match_name": "28-08 Saudi Pro League Al Riyadh VS Neom SC Pháo Thủ",
-      "kickoff_iso": "2026-08-28T22:50:00+07:00",
-      "minutes_to_kickoff": 139,
-      "last_scan_at": "2026-08-28T20:31:30.605442+07:00",
-      "next_scan_at": "2026-08-28T21:16:30.605442+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "809620": {
-      "url": "https://phaohoa1.live/truc-tiep/braunschweig-vs-hertha-berlin-28-08-2026-809620",
-      "match_name": "28-08 2. Bundesliga Braunschweig VS Hertha Berlin Kevin",
-      "kickoff_iso": "2026-08-28T23:30:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-08-28T20:31:30.605442+07:00",
-      "next_scan_at": "2026-08-28T21:16:30.605442+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "37884876ef13": {
-      "url": "https://phaohoa1.live/truc-tiep/my-vs-phap",
-      "match_name": "29-08 La Liga Racing Santander VS Elche Tiểu Mây",
-      "kickoff_iso": "2026-08-29T00:00:00+07:00",
-      "minutes_to_kickoff": 209,
-      "last_scan_at": "2026-08-28T20:31:30.605442+07:00",
-      "next_scan_at": "2026-08-28T21:16:30.605442+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
     "440fd6d9736f": {
       "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-iran",
       "match_name": "29-08 Vô Địch Châu Á Trung Quốc VS Iran KaKa",
@@ -362,6 +302,70 @@
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
+    },
+    "807869": {
+      "url": "https://phaohoa1.live/truc-tiep/cagliari-vs-inter-31-08-2026-807869",
+      "match_name": "31-08 Serie A Cagliari VS Inter Kevin",
+      "kickoff_iso": "2026-08-31T01:45:00+07:00",
+      "minutes_to_kickoff": 55,
+      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
+      "next_scan_at": "2026-08-31T01:11:01.029257+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "798832": {
+      "url": "https://phaohoa1.live/truc-tiep/dep-la-coruna-vs-valencia-31-08-2026-798832",
+      "match_name": "31-08 Serie A Lazio VS Genoa Tày",
+      "kickoff_iso": "2026-08-31T01:45:00+07:00",
+      "minutes_to_kickoff": 55,
+      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
+      "next_scan_at": "2026-08-31T01:11:01.029257+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "809924": {
+      "url": "https://phaohoa1.live/truc-tiep/monaco-vs-marseille-31-08-2026-809924",
+      "match_name": "31-08 Ligue 1 Monaco VS Marseille Tiểu Mây",
+      "kickoff_iso": "2026-08-31T01:45:00+07:00",
+      "minutes_to_kickoff": 55,
+      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
+      "next_scan_at": "2026-08-31T01:11:01.029257+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "36b3e1463ab3": {
+      "url": "https://phaohoa1.live/truc-tiep/serbia-vs-croatia",
+      "match_name": "Serbia vs Croatia",
+      "kickoff_iso": "2026-08-31T00:00:00+07:00",
+      "minutes_to_kickoff": -51,
+      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
+      "next_scan_at": "2026-08-31T00:56:01.029257+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "807868": {
+      "url": "https://phaohoa1.live/truc-tiep/napoli-vs-como-30-08-2026-807868",
+      "match_name": "Napoli vs Como",
+      "kickoff_iso": "2026-08-30T23:30:00+07:00",
+      "minutes_to_kickoff": -81,
+      "last_scan_at": "2026-08-31T00:51:01.029257+07:00",
+      "next_scan_at": "2026-08-31T00:56:01.029257+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
+      "scan_decision": "browser-fallback"
     }
   }
 }
