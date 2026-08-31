@@ -96,9 +96,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -136,7 +136,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "Japan U20 VS Kuwait U20",
     "home_name": "Japan U20",
     "away_name": "Kuwait U20",
@@ -144,15 +144,31 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.927216+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.668894+07:00",
     "kickoff_iso": "2026-08-31T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 481,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 139,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/44a04b36ba29.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 2,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -253,9 +269,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -293,7 +309,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "Indonesia U20 VS Malaysia U20",
     "home_name": "Indonesia U20",
     "away_name": "Malaysia U20",
@@ -301,15 +317,31 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/indonesia-u20-vs-malaysia-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.929832+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.670857+07:00",
     "kickoff_iso": "2026-08-31T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 481,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 139,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng đá",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/c5a7d95516d4.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 2,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -408,9 +440,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -448,7 +480,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "Việt Nam U20 VS Triều Tiên U20",
     "home_name": "Việt Nam U20",
     "away_name": "Triều Tiên U20",
@@ -456,10 +488,10 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/viet-nam-u20-vs-trieu-tien-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.934419+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.674260+07:00",
     "kickoff_iso": "2026-08-31T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 661,
+    "minutes_to_kickoff": 319,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -470,8 +502,8 @@
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/south-korea-u20-vs-lebanon-u20",
-    "raw_title": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
-    "card_text": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ",
+    "raw_title": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ",
+    "card_text": "19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_18083.jpg",
     "home_logo": "",
@@ -565,9 +597,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -605,18 +637,18 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
-    "match_name": "31-08 AFC U20 Asian Cup Thái Lan U20 VS United Arab Emirates U20 Chim Nhỏ",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "match_name": "31-08 AFC U20 Asian Cup Thái Lan U20 VS United Arab Emirates U20 Pháo Thủ",
     "home_name": "31-08 AFC U20 Asian Cup Thái Lan U20",
-    "away_name": "United Arab Emirates U20 Chim Nhỏ",
+    "away_name": "United Arab Emirates U20 Pháo Thủ",
     "time": "19:30",
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/south-korea-u20-vs-lebanon-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.937683+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.676694+07:00",
     "kickoff_iso": "2026-08-31T19:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 691,
+    "minutes_to_kickoff": 349,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -722,9 +754,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -762,7 +794,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "Hà Lan VS Slovenia",
     "home_name": "Hà Lan",
     "away_name": "Slovenia",
@@ -770,10 +802,10 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ha-lan-vs-slovenia",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.940682+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.678594+07:00",
     "kickoff_iso": "2026-08-31T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 721,
+    "minutes_to_kickoff": 379,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -880,9 +912,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -920,7 +952,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "Ba Lan VS Bồ Đào Nha",
     "home_name": "Ba Lan",
     "away_name": "Bồ Đào Nha",
@@ -928,10 +960,10 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ba-lan-vs-bo-dao-nha",
     "metadata_complete": true,
-    "scan_time_iso": "2026-08-31T07:59:10.944228+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.680643+07:00",
     "kickoff_iso": "2026-08-31T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 901,
+    "minutes_to_kickoff": 559,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -1037,9 +1069,9 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
         "score": 4.73,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
@@ -1077,7 +1109,7 @@
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Chim Nhỏ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
+    "page_card_text": "16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Kuwait U20 Tày 16:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Indonesia U20 VS Sắp diễn ra Malaysia U20 Văn Minh 17:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup South Korea U20 VS Sắp diễn ra Lebanon U20 Tiểu Mây 19:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Việt Nam U20 VS Sắp diễn ra Triều Tiên U20 Kevin 19:30 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Thái Lan U20 VS Sắp diễn ra United Arab Emirates U20 Pháo Thủ 20:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Hà Lan VS Sắp diễn ra Slovenia Tày 21:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Italy VS Sắp diễn ra Bulgaria KaKa 23:00 - 31-08 BÓNG CHUYỀN Vô Địch Châu Âu Ba Lan VS Sắp diễn ra Bồ Đào Nha KaKa 23:00 - 31-08 BÓNG ĐÁ AFC U20 Asian Cup Saudi Arabia U20 VS Sắp diễn ra Hong Kong U20 Văn Minh",
     "match_name": "31-08 AFC U20 Asian Cup Saudi Arabia U20 VS Hong Kong U20 Văn Minh",
     "home_name": "31-08 AFC U20 Asian Cup Saudi Arabia U20",
     "away_name": "Hong Kong U20 Văn Minh",
@@ -1085,10 +1117,10 @@
     "date": "31/08",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thai-lan-u20-vs-united-arab-emirates-u20",
     "metadata_complete": false,
-    "scan_time_iso": "2026-08-31T07:59:10.947371+07:00",
+    "scan_time_iso": "2026-08-31T13:41:19.682947+07:00",
     "kickoff_iso": "2026-08-31T23:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 901,
+    "minutes_to_kickoff": 559,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
