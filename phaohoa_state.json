@@ -1,32 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-09-02T12:14:20.077941+07:00",
+  "updated_at": "2026-09-02T16:46:51.498786+07:00",
   "matches": {
-    "c5a7d95516d4": {
-      "url": "https://phaohoa1.live/truc-tiep/indonesia-u20-vs-malaysia-u20",
-      "match_name": "31-08 AFC U20 Asian Cup Indonesia U20 VS Malaysia U20 Văn Minh",
-      "kickoff_iso": "2026-08-31T16:00:00+07:00",
-      "minutes_to_kickoff": 139,
-      "last_scan_at": "2026-08-31T13:41:19.649331+07:00",
-      "next_scan_at": "2026-08-31T14:26:19.649331+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "44a04b36ba29": {
-      "url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-kuwait-u20",
-      "match_name": "31-08 AFC U20 Asian Cup Japan U20 VS Kuwait U20 Tày",
-      "kickoff_iso": "2026-08-31T16:00:00+07:00",
-      "minutes_to_kickoff": 139,
-      "last_scan_at": "2026-08-31T13:41:19.649331+07:00",
-      "next_scan_at": "2026-08-31T14:26:19.649331+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
     "458201c192a9": {
       "url": "https://phaohoa1.live/truc-tiep/cong-hoa-sec-vs-thuy-dien",
       "match_name": "01-09 Vô Địch Châu Âu Cộng Hoà Séc VS Thuỵ Điển Tày",
@@ -273,6 +249,66 @@
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
       ],
+      "scan_decision": "browser-fallback"
+    },
+    "821705": {
+      "url": "https://phaohoa1.live/truc-tiep/yunnan-yukun-vs-chongqing-tonglianglong-02-09-2026-821705",
+      "match_name": "02-09 FA Cup Yunnan Yukun VS Chongqing Tonglianglong Văn Minh",
+      "kickoff_iso": "2026-09-02T19:00:00+07:00",
+      "minutes_to_kickoff": 134,
+      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
+      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "807520": {
+      "url": "https://phaohoa1.live/truc-tiep/verdy-vs-vissel-kobe-02-09-2026-807520",
+      "match_name": "02-09 Coppa Italia Sassuolo VS Frosinone Pháo Thủ",
+      "kickoff_iso": "2026-09-02T20:00:00+07:00",
+      "minutes_to_kickoff": 194,
+      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
+      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "237ade6b38ee": {
+      "url": "https://phaohoa1.live/truc-tiep/Serbia-vs-HyLap-",
+      "match_name": "02-09 Vô Địch Châu Âu Serbia VS Hy Lạp KaKa",
+      "kickoff_iso": "2026-09-02T20:00:00+07:00",
+      "minutes_to_kickoff": 194,
+      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
+      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "807514": {
+      "url": "https://phaohoa1.live/truc-tiep/cerezo-osaka-vs-kashiwa-reysol-02-09-2026-807514",
+      "match_name": "02-09 J1 League Cerezo Osaka VS Kashiwa Reysol Lưu Bị",
+      "kickoff_iso": "2026-09-02T17:00:00+07:00",
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
+      "next_scan_at": "2026-09-02T16:51:51.498602+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "807518": {
+      "url": "https://phaohoa1.live/truc-tiep/sanfrecce-hiroshima-vs-nagoya-grampus-02-09-2026-807518",
+      "match_name": "02-09 J1 League Sanfrecce Hiroshima VS Nagoya Grampus Tày",
+      "kickoff_iso": "2026-09-02T17:00:00+07:00",
+      "minutes_to_kickoff": 13,
+      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
+      "next_scan_at": "2026-09-02T16:51:51.498602+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     }
   }
