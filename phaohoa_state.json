@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-09-02T16:46:51.498786+07:00",
+  "updated_at": "2026-09-02T20:57:49.803793+07:00",
   "matches": {
     "458201c192a9": {
       "url": "https://phaohoa1.live/truc-tiep/cong-hoa-sec-vs-thuy-dien",
@@ -277,15 +277,17 @@
     },
     "237ade6b38ee": {
       "url": "https://phaohoa1.live/truc-tiep/Serbia-vs-HyLap-",
-      "match_name": "02-09 Vô Địch Châu Âu Serbia VS Hy Lạp KaKa",
-      "kickoff_iso": "2026-09-02T20:00:00+07:00",
-      "minutes_to_kickoff": 194,
-      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
-      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "match_name": "Serbia vs Hy Lạp",
+      "kickoff_iso": "2026-09-02T21:00:00+07:00",
+      "minutes_to_kickoff": 3,
+      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
+      "next_scan_at": "2026-09-02T21:02:49.803577+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "807514": {
       "url": "https://phaohoa1.live/truc-tiep/cerezo-osaka-vs-kashiwa-reysol-02-09-2026-807514",
@@ -309,6 +311,56 @@
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "847340": {
+      "url": "https://phaohoa1.live/truc-tiep/udinese-vs-venezia-02-09-2026-847340",
+      "match_name": "02-09 Coppa Italia Udinese VS Venezia Kevin",
+      "kickoff_iso": "2026-09-02T23:00:00+07:00",
+      "minutes_to_kickoff": 123,
+      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
+      "next_scan_at": "2026-09-02T21:42:49.803577+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "785745": {
+      "url": "https://phaohoa1.live/truc-tiep/zenit-vs-dynamo-makhachkala-02-09-2026-785745",
+      "match_name": "03-09 UEFA Women's Champions League Real Sociedad W VS Chelsea W Pháo Thủ",
+      "kickoff_iso": "2026-09-03T00:00:00+07:00",
+      "minutes_to_kickoff": 183,
+      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
+      "next_scan_at": "2026-09-02T21:42:49.803577+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "655a5f8672a9": {
+      "url": "https://phaohoa1.live/truc-tiep/italy-vs-thuy-dien",
+      "match_name": "03-09 CEV Cup Italy VS Thuỵ Điển KaKa",
+      "kickoff_iso": "2026-09-03T00:00:00+07:00",
+      "minutes_to_kickoff": 183,
+      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
+      "next_scan_at": "2026-09-02T21:42:49.803577+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "847880": {
+      "url": "https://phaohoa1.live/truc-tiep/sassuolo-vs-frosinone-02-09-2026-847880",
+      "match_name": "Sassuolo vs Frosinone",
+      "kickoff_iso": "2026-09-02T20:00:00+07:00",
+      "minutes_to_kickoff": -57,
+      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
+      "next_scan_at": "2026-09-02T21:02:49.803577+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
