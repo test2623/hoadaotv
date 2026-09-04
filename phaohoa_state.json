@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-09-04T12:13:33.128540+07:00",
+  "updated_at": "2026-09-04T16:48:16.093032+07:00",
   "matches": {
     "821705": {
       "url": "https://phaohoa1.live/truc-tiep/yunnan-yukun-vs-chongqing-tonglianglong-02-09-2026-821705",
@@ -424,6 +424,66 @@
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
+    },
+    "797814": {
+      "url": "https://phaohoa1.live/truc-tiep/pattani-vs-pathum-united-04-09-2026-797814",
+      "match_name": "04-09 Thai League 1 Pattani VS Pathum United Tiểu Mây",
+      "kickoff_iso": "2026-09-04T19:00:00+07:00",
+      "minutes_to_kickoff": 132,
+      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
+      "next_scan_at": "2026-09-04T17:33:16.092809+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "838463": {
+      "url": "https://phaohoa1.live/truc-tiep/herrera-vs-viettel-04-09-2026-838463",
+      "match_name": "04-09 Super League DPMM VS Johor DT Tày",
+      "kickoff_iso": "2026-09-04T19:15:00+07:00",
+      "minutes_to_kickoff": 147,
+      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
+      "next_scan_at": "2026-09-04T17:33:16.092809+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "824100": {
+      "url": "https://phaohoa1.live/truc-tiep/kelantan-red-warrior-vs-kuala-lumpur-city-04-09-2026-824100",
+      "match_name": "04-09 Super League Kelantan Red Warrior VS Kuala Lumpur City Văn Minh",
+      "kickoff_iso": "2026-09-04T20:00:00+07:00",
+      "minutes_to_kickoff": 192,
+      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
+      "next_scan_at": "2026-09-04T17:33:16.092809+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "b48654733dee": {
+      "url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-oman",
+      "match_name": "04-09 Vô Địch Châu Á Nhật Bản VS Oman KaKa",
+      "kickoff_iso": "2026-09-04T17:30:00+07:00",
+      "minutes_to_kickoff": 42,
+      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
+      "next_scan_at": "2026-09-04T16:58:16.092809+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "795424": {
+      "url": "https://phaohoa1.live/truc-tiep/ch-odesa-vs-livyi-bereg-04-09-2026-795424",
+      "match_name": "04-09 Premier League Ch. Odesa VS Livyi Bereg Văn Minh",
+      "kickoff_iso": "2026-09-04T17:00:00+07:00",
+      "minutes_to_kickoff": 12,
+      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
+      "next_scan_at": "2026-09-04T16:53:16.092809+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
     }
   }
 }
