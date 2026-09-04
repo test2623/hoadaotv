@@ -1,32 +1,8 @@
 {
   "version": 1,
   "source": "phaohoa",
-  "updated_at": "2026-09-04T16:48:16.093032+07:00",
+  "updated_at": "2026-09-04T20:52:35.401997+07:00",
   "matches": {
-    "821705": {
-      "url": "https://phaohoa1.live/truc-tiep/yunnan-yukun-vs-chongqing-tonglianglong-02-09-2026-821705",
-      "match_name": "02-09 FA Cup Yunnan Yukun VS Chongqing Tonglianglong Văn Minh",
-      "kickoff_iso": "2026-09-02T19:00:00+07:00",
-      "minutes_to_kickoff": 134,
-      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
-      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
-    "807520": {
-      "url": "https://phaohoa1.live/truc-tiep/verdy-vs-vissel-kobe-02-09-2026-807520",
-      "match_name": "02-09 Coppa Italia Sassuolo VS Frosinone Pháo Thủ",
-      "kickoff_iso": "2026-09-02T20:00:00+07:00",
-      "minutes_to_kickoff": 194,
-      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
-      "next_scan_at": "2026-09-02T17:31:51.498602+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
     "237ade6b38ee": {
       "url": "https://phaohoa1.live/truc-tiep/Serbia-vs-HyLap-",
       "match_name": "Serbia vs Hy Lạp",
@@ -39,30 +15,6 @@
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
       ],
-      "scan_decision": "browser-fallback"
-    },
-    "807514": {
-      "url": "https://phaohoa1.live/truc-tiep/cerezo-osaka-vs-kashiwa-reysol-02-09-2026-807514",
-      "match_name": "02-09 J1 League Cerezo Osaka VS Kashiwa Reysol Lưu Bị",
-      "kickoff_iso": "2026-09-02T17:00:00+07:00",
-      "minutes_to_kickoff": 14,
-      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
-      "next_scan_at": "2026-09-02T16:51:51.498602+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
-    "807518": {
-      "url": "https://phaohoa1.live/truc-tiep/sanfrecce-hiroshima-vs-nagoya-grampus-02-09-2026-807518",
-      "match_name": "02-09 J1 League Sanfrecce Hiroshima VS Nagoya Grampus Tày",
-      "kickoff_iso": "2026-09-02T17:00:00+07:00",
-      "minutes_to_kickoff": 13,
-      "last_scan_at": "2026-09-02T16:46:51.498602+07:00",
-      "next_scan_at": "2026-09-02T16:51:51.498602+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "847340": {
@@ -102,20 +54,6 @@
       "has_verified": true,
       "verified_urls": [
         "https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9"
-      ],
-      "scan_decision": "browser-fallback"
-    },
-    "847880": {
-      "url": "https://phaohoa1.live/truc-tiep/sassuolo-vs-frosinone-02-09-2026-847880",
-      "match_name": "Sassuolo vs Frosinone",
-      "kickoff_iso": "2026-09-02T20:00:00+07:00",
-      "minutes_to_kickoff": -57,
-      "last_scan_at": "2026-09-02T20:57:49.803577+07:00",
-      "next_scan_at": "2026-09-02T21:02:49.803577+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -427,15 +365,17 @@
     },
     "797814": {
       "url": "https://phaohoa1.live/truc-tiep/pattani-vs-pathum-united-04-09-2026-797814",
-      "match_name": "04-09 Thai League 1 Pattani VS Pathum United Tiểu Mây",
+      "match_name": "Pattani vs Pathum United",
       "kickoff_iso": "2026-09-04T19:00:00+07:00",
-      "minutes_to_kickoff": 132,
-      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
-      "next_scan_at": "2026-09-04T17:33:16.092809+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": -112,
+      "last_scan_at": "2026-09-04T20:52:35.401788+07:00",
+      "next_scan_at": "2026-09-04T20:57:35.401788+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "838463": {
       "url": "https://phaohoa1.live/truc-tiep/herrera-vs-viettel-04-09-2026-838463",
@@ -451,11 +391,11 @@
     },
     "824100": {
       "url": "https://phaohoa1.live/truc-tiep/kelantan-red-warrior-vs-kuala-lumpur-city-04-09-2026-824100",
-      "match_name": "04-09 Super League Kelantan Red Warrior VS Kuala Lumpur City Văn Minh",
-      "kickoff_iso": "2026-09-04T20:00:00+07:00",
-      "minutes_to_kickoff": 192,
-      "last_scan_at": "2026-09-04T16:48:16.092809+07:00",
-      "next_scan_at": "2026-09-04T17:33:16.092809+07:00",
+      "match_name": "04-09 Saudi Pro League Abha VS Al Ettifaq Kevin",
+      "kickoff_iso": "2026-09-04T23:00:00+07:00",
+      "minutes_to_kickoff": 128,
+      "last_scan_at": "2026-09-04T20:52:35.401788+07:00",
+      "next_scan_at": "2026-09-04T21:37:35.401788+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -483,6 +423,44 @@
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "795430": {
+      "url": "https://phaohoa1.live/truc-tiep/polissya-zhytomyr-vs-kudrivka-04-09-2026-795430",
+      "match_name": "04-09 Premier League Polissya Zhytomyr VS Kudrivka Pháo Thủ",
+      "kickoff_iso": "2026-09-04T22:00:00+07:00",
+      "minutes_to_kickoff": 68,
+      "last_scan_at": "2026-09-04T20:52:35.401788+07:00",
+      "next_scan_at": "2026-09-04T21:12:35.401788+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "809628": {
+      "url": "https://phaohoa1.live/truc-tiep/arminia-bielefeld-vs-st-pauli-04-09-2026-809628",
+      "match_name": "04-09 2. Bundesliga Arminia Bielefeld VS St. Pauli Chim Nhỏ",
+      "kickoff_iso": "2026-09-04T23:30:00+07:00",
+      "minutes_to_kickoff": 158,
+      "last_scan_at": "2026-09-04T20:52:35.401788+07:00",
+      "next_scan_at": "2026-09-04T21:37:35.401788+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "824099": {
+      "url": "https://phaohoa1.live/truc-tiep/dpmm-vs-johor-dt-04-09-2026-824099",
+      "match_name": "Dpmm vs Johor Dt",
+      "kickoff_iso": "2026-09-04T19:15:00+07:00",
+      "minutes_to_kickoff": -97,
+      "last_scan_at": "2026-09-04T20:52:35.401788+07:00",
+      "next_scan_at": "2026-09-04T20:57:35.401788+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
