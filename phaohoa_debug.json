@@ -1,592 +1,8 @@
 [
   {
-    "url": "https://phaohoa1.live/truc-tiep/abha-vs-al-ettifaq-04-09-2026-825137",
-    "raw_title": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin",
-    "card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
-        "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
-        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
-        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
-        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
-        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
-        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 75,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Abha min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 50,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Ettifaq min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
-        "score": 40,
-        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Abha 56' 0-0 23:00 - 04/09/2026 Al Ettifaq relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_278.png"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Abha vs Al Ettifaq",
-    "home_name": "Abha",
-    "away_name": "Al Ettifaq",
-    "time": "23:00",
-    "date": "04/09",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/abha-vs-al-ettifaq-04-09-2026-825137",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-09-05T00:17:01.306320+07:00",
-    "kickoff_iso": "2026-09-04T23:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -77,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825137.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 1,
-    "_scan_total": 7,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa2",
-        "family_key": "phaohoa2",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2891847156-1788539332-20260904T171626.ts?volcDst=MTAuMTMuOC4xNDg",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Hydration completed but contains mismatches.",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825137.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "825137",
-        "family_key": "825137",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/825137.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/arminia-bielefeld-vs-st-pauli-04-09-2026-809628",
-    "raw_title": "23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ",
-    "card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_171.png",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_171.png"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
-        "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
-        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
-        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
-        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
-        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
-        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
-        "source": "home-card"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 75,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Arminia Bielefeld min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_171.png",
-        "score": 75,
-        "context": "size-5 object-contain 2. BUNDESLIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs 2. BUNDESLIGA Arminia Bielefeld 45+ 1-1 23:30 - 04/09/2026 St. Pauli relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 50,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] St. Pauli min-w-0 text-center",
-        "source": "detail-match"
-      },
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_171.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg"
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Arminia Bielefeld vs St Pauli",
-    "home_name": "Arminia Bielefeld",
-    "away_name": "St Pauli",
-    "time": "23:30",
-    "date": "04/09",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/arminia-bielefeld-vs-st-pauli-04-09-2026-809628",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-09-05T00:17:01.309611+07:00",
-    "kickoff_iso": "2026-09-04T23:30:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -47,
-    "timing_state": "started-recently",
-    "upcoming_within_window": false,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "near-or-live",
-    "_previous_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809628.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "history_source": "working-tree"
-      }
-    ],
-    "_scan_index": 2,
-    "_scan_total": 7,
-    "time_source": "json-ld/startDate",
-    "streams": [
-      {
-        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": 200,
-        "statuses": [
-          200
-        ],
-        "content_type": "application/x-mpegurl",
-        "sources": [
-          "request/xhr",
-          "response",
-          "quality/FHD",
-          "dom/performance"
-        ],
-        "quality": "FHD",
-        "parent_url": "",
-        "candidate_score": 231,
-        "observed_active": true,
-        "high_confidence_observed": true,
-        "channel_key": "phaohoa5",
-        "family_key": "phaohoa5",
-        "quality_rank": 40,
-        "probe": {
-          "status": 200,
-          "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
-          "error": "",
-          "playable": true,
-          "state": "verified",
-          "kind": "m3u8",
-          "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3208753504-1788540127-20260904T171625.ts?volcDst=MTAuMTMuOC4xNDU",
-          "segment_status": 206,
-          "segment_bytes": 4096,
-          "sample_bytes": 482
-        },
-        "playability": "verified"
-      }
-    ],
-    "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
-    ],
-    "errors": [
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Hydration completed but contains mismatches.",
-      "console/warning: Service Worker registration blocked by Playwright",
-      "console/error: Failed to load resource: the server responded with a status of 404 ()",
-      "console/warning: [Icon] failed to load icon `lucide:pin`"
-    ],
-    "scan_decision": "browser-fallback",
-    "rejected_streams": [
-      {
-        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809628.m3u8",
-        "referer": "https://phaohoa1.live/",
-        "origin": "https://phaohoa1.live",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "status": null,
-        "statuses": [],
-        "content_type": "",
-        "sources": [
-          "previous-playlist"
-        ],
-        "quality": "",
-        "parent_url": "",
-        "candidate_score": 90,
-        "observed_active": false,
-        "high_confidence_observed": false,
-        "channel_key": "809628",
-        "family_key": "809628",
-        "quality_rank": 0,
-        "probe": {
-          "status": 0,
-          "content_type": "",
-          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/809628.m3u8",
-          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "playable": false,
-          "state": "invalid",
-          "kind": "m3u8",
-          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
-          "sample_bytes": 0
-        },
-        "playability": "rejected",
-        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
-      }
-    ],
-    "scan_attempted": true,
-    "playlist_mode": "stream",
-    "listed_in_playlist": true
-  },
-  {
     "url": "https://phaohoa1.live/truc-tiep/al-ahli-sc-vs-al-riyadh-05-09-2026-825138",
-    "raw_title": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh",
-    "card_text": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh",
+    "raw_title": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC 4 : 0 80' Al Riyadh Văn Minh",
+    "card_text": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC 4 : 0 80' Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab 0 : 1 80' Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart 1 : 0 53' FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis 0 : 0 42' Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich 0 : 2 43' Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG 1 : 0 39' Monaco Kevin 08:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Úc VS Sắp diễn ra Bahrain Tày 11:30 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Ấn Độ KaKa 15:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Thái Lan Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
@@ -603,117 +19,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
+        "score": 64.99,
         "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 64.97,
         "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
+        "score": 64.93,
         "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
+        "score": 64.92,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
+        "score": 64.91,
         "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
+        "score": 64.87,
         "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
+        "score": 64.86,
         "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
+        "score": 64.85,
         "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
+        "score": 64.81,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 64.8,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
+        "score": 64.75,
+        "context": "Ipswich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ipswich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
+        "score": 64.74,
+        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Liverpool min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.73,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.68,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.67,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": -15.36,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Bahrain.svg.webp",
+        "score": 34.62,
+        "context": "Bahrain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bahrain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/OIP.jpg",
+        "score": 4.79,
+        "context": "Lưu Bị size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Lưu Bị relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
@@ -732,57 +148,35 @@
         "source": "detail-match"
       },
       {
-        "url": "https://phaohoa1.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 50,
-        "context": "w-full h-full object-cover rounded-full w-6 h-6 rounded-full bg-gray-100 dark:bg-neutral-950 flex items-center justify-center overflow-hidden shrink-0 VĂN MINH flex items-center gap-1.5 rounded-full font-bold transition-all border duration-200 cursor-pointer select-none gap-2 px-4 py-1.5 text-xs bg-red-600 text-white border-red-500 shadow-md shadow-black/20",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-        "score": 40,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[124px] items-center justify-center gap-1 text-[10px] font-black uppercase sm:max-w-[140px] sm:text-[11px] 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-center gap-2 px-3 py-3 sm:px-6",
-        "source": "detail-match"
-      },
-      {
         "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
         "score": 40,
-        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Ahli SC SẮP DIỄN RA VS 01:00 - 05/09/2026 Al Riyadh TRẬN ĐẤU SẼ BẮT ĐẦU SAU 00 NGÀY 00 GIỜ 43 PHÚT 52 GIÂY relative flex h-full flex-col items-center justify-center gap-3 px-3 py-5 text-center text-white sm:gap-5 sm:px-8 sm:py-6",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
-        "score": 15,
-        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Cua 2 phút trước E nghĩ nó phải đợi e trc r chỉ chờ lúc e đi 1 mình th chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Ahli SC 80' 4-0 01:00 - 05/09/2026 Al Riyadh relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-      "https://phaohoa1.live/media/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-      "https://phaohoa1.live/media/sports/icons/bóng_đá_tXyI0zo.png",
-      "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
-      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_278.png"
     ],
-    "blv": "Văn Minh",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "match_name": "Al Ahli SC VS Al Riyadh",
+    "match_name": "Al Ahli SC vs Al Riyadh",
     "home_name": "Al Ahli SC",
     "away_name": "Al Riyadh",
     "time": "01:00",
     "date": "05/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-ahli-sc-vs-al-riyadh-05-09-2026-825138",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-09-05T00:17:01.312615+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-09-05T02:44:50.749698+07:00",
     "kickoff_iso": "2026-09-05T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 43,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -105,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
+    "delta_reason": "near-or-live",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/825138.m3u8",
@@ -791,11 +185,54 @@
         "history_source": "working-tree"
       }
     ],
-    "_scan_index": 3,
-    "_scan_total": 7,
+    "_scan_index": 1,
+    "_scan_total": 5,
     "time_source": "json-ld/startDate",
-    "streams": [],
-    "stream_urls": [],
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa3",
+        "family_key": "phaohoa3",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa3/phaohoa3-ss-2993720543-1788546526-20260904T194409.ts?volcDst=MTAuMTMuOC4xNDY",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a"
+    ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
@@ -851,13 +288,13 @@
       }
     ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/lyon-vs-auxerre-05-09-2026-809928",
-    "raw_title": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây",
-    "card_text": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây",
+    "url": "https://phaohoa1.live/truc-tiep/al-shabab-vs-al-hilal-05-09-2026-825139",
+    "raw_title": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab 0 : 1 80' Al Hilal Tiểu Mây",
+    "card_text": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC 4 : 0 80' Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab 0 : 1 80' Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart 1 : 0 53' FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis 0 : 0 42' Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich 0 : 2 43' Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG 1 : 0 39' Monaco Kevin 08:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Úc VS Sắp diễn ra Bahrain Tày 11:30 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Ấn Độ KaKa 15:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Thái Lan Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
@@ -874,117 +311,117 @@
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
+        "score": 64.99,
         "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
+        "score": 64.98,
         "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
+        "score": 64.97,
         "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
+        "score": 64.93,
         "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
+        "score": 64.92,
         "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
+        "score": 64.91,
         "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
+        "score": 64.87,
         "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
+        "score": 64.86,
         "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
+        "score": 64.85,
         "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
+        "score": 64.81,
         "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 64.8,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
+        "score": 64.75,
+        "context": "Ipswich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ipswich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
+        "score": 64.74,
+        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Liverpool min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.73,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.68,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.67,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": -15.36,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Bahrain.svg.webp",
+        "score": 34.62,
+        "context": "Bahrain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bahrain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/OIP.jpg",
+        "score": 4.79,
+        "context": "Lưu Bị size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Lưu Bị relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
@@ -992,54 +429,532 @@
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 70,
-        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
-        "source": "detail-match"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 50,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "score": 75,
+        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Shabab min-w-0 text-center",
         "source": "detail-match"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 45,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "score": 50,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Al Hilal min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_278.png",
+        "score": 40,
+        "context": "size-5 object-contain SAUDI PRO LEAGUE flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs SAUDI PRO LEAGUE Al Shabab 80' 0-1 01:00 - 05/09/2026 Al Hilal relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
         "source": "detail-match"
       },
       "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-      "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_278.png"
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "match_name": "05-09 Saudi Pro League Al Shabab VS Al Hilal Tiểu Mây",
-    "home_name": "05-09 Saudi Pro League Al Shabab",
-    "away_name": "Al Hilal Tiểu Mây",
-    "time": "00:00",
+    "match_name": "Al Shabab vs Al Hilal",
+    "home_name": "Al Shabab",
+    "away_name": "Al Hilal",
+    "time": "01:00",
     "date": "05/09",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/lyon-vs-auxerre-05-09-2026-809928",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-shabab-vs-al-hilal-05-09-2026-825139",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-05T00:17:01.315494+07:00",
-    "kickoff_iso": "2026-09-05T00:00:00+07:00",
+    "scan_time_iso": "2026-09-05T02:44:50.754777+07:00",
+    "kickoff_iso": "2026-09-05T01:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": -17,
+    "minutes_to_kickoff": -105,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825139.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 2,
+    "_scan_total": 5,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa9",
+        "family_key": "phaohoa9",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa9/phaohoa9-ss-3324396968-1788546968-20260904T194403.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/825139.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "825139",
+        "family_key": "825139",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/825139.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/real-betis-vs-real-madrid-05-09-2026-798838",
+    "raw_title": "02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis 0 : 0 42' Real Madrid Lưu Bị",
+    "card_text": "02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis 0 : 0 42' Real Madrid Lưu Bị",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+        "score": 64.99,
+        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 64.98,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/OIP.jpg",
+        "score": 4.97,
+        "context": "Lưu Bị size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Lưu Bị relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
+        "score": -0.04,
+        "context": "FB88 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_5.png",
+        "score": -0.05,
+        "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+        "score": 75,
+        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Real Betis min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 75,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Real Madrid min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+        "score": 75,
+        "context": "size-5 object-contain LA LIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs LA LIGA Real Betis 40' 0-0 02:00 - 05/09/2026 Real Madrid relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 mân r 4 phút trước coi bóng real phải như anh nói chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/1000001215_SRQGKjw.jpg",
+        "score": 35,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 Dế nước Lv11 5 phút trước bỏ cái fan real hộ nghe như ccho sủa chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-1.5",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_302.png",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/1000001215_SRQGKjw.jpg"
+    ],
+    "blv": "Dế Lửa 3 phút trước 3 mùa chắng zái là c",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 hot-match-card | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Real Betis vs Real Madrid",
+    "home_name": "Real Betis",
+    "away_name": "Real Madrid",
+    "time": "02:00",
+    "date": "05/09",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/real-betis-vs-real-madrid-05-09-2026-798838",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-09-05T02:44:50.757534+07:00",
+    "kickoff_iso": "2026-09-05T02:00:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -45,
     "timing_state": "started-recently",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
     "delta_reason": "new-match",
     "_previous_streams": [],
-    "_scan_index": 4,
-    "_scan_total": 7,
+    "_scan_index": 3,
+    "_scan_total": 5,
     "time_source": "json-ld/startDate",
     "streams": [
       {
-        "url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa7",
+        "family_key": "phaohoa7",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa7/phaohoa7-ss-3324510882-1788548778-20260904T194405.ts?volcDst=MTAuMTMuOC4xNDc",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/stuttgart-vs-fc-koln-05-09-2026-809272",
+    "raw_title": "02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich 0 : 2 43' Liverpool Chim Nhỏ",
+    "card_text": "01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC 4 : 0 80' Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab 0 : 1 80' Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart 1 : 0 53' FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis 0 : 0 42' Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich 0 : 2 43' Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG 1 : 0 39' Monaco Kevin 08:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Úc VS Sắp diễn ra Bahrain Tày 11:30 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Ấn Độ KaKa 15:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Thái Lan Chim Nhỏ",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_175.png",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_175.png"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
+        "score": 64.99,
+        "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
+        "score": 64.98,
+        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
+        "score": 64.97,
+        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
+        "score": 64.93,
+        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
+        "score": 64.92,
+        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
+        "score": 64.91,
+        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+        "score": 64.87,
+        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
+        "score": 64.86,
+        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
+        "score": 64.85,
+        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
+        "score": 64.81,
+        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_76.jpg",
+        "score": 64.8,
+        "context": "Real Madrid max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Madrid min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
+        "score": 64.75,
+        "context": "Ipswich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ipswich min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
+        "score": 64.74,
+        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Liverpool min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.73,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.68,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.67,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
+        "score": -15.36,
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_Bahrain.svg.webp",
+        "score": 34.62,
+        "context": "Bahrain max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Bahrain min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/OIP.jpg",
+        "score": 4.79,
+        "context": "Lưu Bị size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Lưu Bị relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+        "score": 75,
+        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Stuttgart min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_175.png",
+        "score": 75,
+        "context": "size-5 object-contain BUNDESLIGA flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs BUNDESLIGA Stuttgart 53' 1-0 01:30 - 05/09/2026 FC Koln relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
+        "score": 50,
+        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] FC Koln min-w-0 text-center",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_175.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg"
+    ],
+    "blv": "Dế Lửa 4 phút trước 3 mùa chắng zái là c",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Stuttgart vs FC Koln",
+    "home_name": "Stuttgart",
+    "away_name": "FC Koln",
+    "time": "01:30",
+    "date": "05/09",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/stuttgart-vs-fc-koln-05-09-2026-809272",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-09-05T02:44:50.762585+07:00",
+    "kickoff_iso": "2026-09-05T01:30:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -75,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "near-or-live",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809272.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 4,
+    "_scan_total": 5,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
         "referer": "https://phaohoa1.live/",
         "origin": "https://phaohoa1.live",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -1058,19 +973,19 @@
         "candidate_score": 223,
         "observed_active": true,
         "high_confidence_observed": true,
-        "channel_key": "phaohoa8",
-        "family_key": "phaohoa8",
+        "channel_key": "phaohoa4",
+        "family_key": "phaohoa4",
         "quality_rank": 0,
         "probe": {
           "status": 200,
           "content_type": "application/x-mpegurl",
-          "final_url": "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262",
           "error": "",
           "playable": true,
           "state": "verified",
           "kind": "m3u8",
           "detail": "manifest + segment OK",
-          "segment_url": "https://luong.phaohoa.live/live/phaohoa8/phaohoa8-ss-2366852538-1788540954-20260904T171650.ts?volcDst=MTAuMTMuOC4xNDQ",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa4/phaohoa4-ss-2367002730-1788548053-20260904T194435.ts?volcDst=MTAuMTMuOC4xNDQ",
           "segment_status": 206,
           "segment_bytes": 4096,
           "sample_bytes": 482
@@ -1079,23 +994,202 @@
       }
     ],
     "stream_urls": [
-      "https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149"
+      "https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262"
     ],
     "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Hydration completed but contains mismatches.",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
-      "console/error: Failed to load resource: net::ERR_FAILED",
       "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/809272.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "809272",
+        "family_key": "809272",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/809272.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
+    "scan_attempted": true,
+    "playlist_mode": "stream",
+    "listed_in_playlist": true
+  },
+  {
+    "url": "https://phaohoa1.live/truc-tiep/psg-vs-monaco-05-09-2026-809931",
+    "raw_title": "02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG 1 : 0 39' Monaco Kevin",
+    "card_text": "02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG 1 : 0 39' Monaco Kevin",
+    "raw_time": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+    "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg"
+    ],
+    "logo_candidates": [
+      {
+        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "score": -15.0,
+        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+        "score": 64.98,
+        "context": "Monaco max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Monaco min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
+        "score": 64.97,
+        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+        "score": 4.99,
+        "context": "PSG max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] PSG min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
+        "score": -0.04,
+        "context": "FB88 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_5.png",
+        "score": -0.05,
+        "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
+        "source": "home-card"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3817.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_100.jpg"
+    ],
+    "blv": "Dế Lửa 4 phút trước 3 mùa chắng zái là c",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 hot-match-card | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col",
+    "stream_hints": [],
+    "source_home_url": "https://phaohoa1.live/",
+    "match_name": "Psg vs Monaco",
+    "home_name": "Psg",
+    "away_name": "Monaco",
+    "time": "02:05",
+    "date": "05/09",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/psg-vs-monaco-05-09-2026-809931",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-09-05T02:44:50.764182+07:00",
+    "kickoff_iso": "2026-09-05T02:05:00+07:00",
+    "kickoff_resolution": "explicit-date",
+    "minutes_to_kickoff": -40,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng đá",
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [],
+    "_scan_index": 5,
+    "_scan_total": 5,
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "dom/performance"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 223,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa2",
+        "family_key": "phaohoa2",
+        "quality_rank": 0,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa2/phaohoa2-ss-2892185176-1788548570-20260904T194438.ts?volcDst=MTAuMTMuOC4xNDg",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa"
+    ],
+    "errors": [
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
       "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
       "console/error: Failed to load resource: the server responded with a status of 404 ()",
       "console/warning: [Icon] failed to load icon `lucide:pin`"
     ],
@@ -1106,201 +1200,106 @@
     "listed_in_playlist": true
   },
   {
-    "url": "https://phaohoa1.live/truc-tiep/stuttgart-vs-fc-koln-05-09-2026-809272",
-    "raw_title": "01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ",
-    "card_text": "01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ",
+    "url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-an-do",
+    "raw_title": "11:30 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Ấn Độ KaKa",
+    "card_text": "11:30 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Trung Quốc VS Sắp diễn ra Ấn Độ KaKa",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
+    "away_logo": "",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_OOrZwnR.jpg",
         "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
+        "context": "Trung Quốc max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Trung Quốc min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/615543582_889430890502971_1885663534110047008_n.jpg",
+        "score": 39.97,
+        "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Flag_of_India.svg.webp",
+        "score": 4.98,
+        "context": "Ấn Độ max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ấn Độ min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_4_Wyvn5Ji.png",
+        "score": -0.04,
+        "context": "FB88 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
-        "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
-        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
-        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
-        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
-        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
-        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
+        "url": "https://phaohoa1.live/media/sponsors/logos/Frame_5.png",
+        "score": -0.05,
+        "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
       }
     ],
-    "blv": "Pháo Thủ",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
+    "blv": "KaKa",
+    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 hot-match-card | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "match_name": "Stuttgart VS FC Koln",
-    "home_name": "Stuttgart",
-    "away_name": "FC Koln",
-    "time": "01:30",
+    "match_name": "Trung Quốc VS Ấn Độ",
+    "home_name": "Trung Quốc",
+    "away_name": "Ấn Độ",
+    "time": "11:30",
     "date": "05/09",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/stuttgart-vs-fc-koln-05-09-2026-809272",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-09-05T00:17:01.317434+07:00",
-    "kickoff_iso": "2026-09-05T01:30:00+07:00",
+    "playlist_page_url": "https://phaohoa1.live/truc-tiep/trung-quoc-vs-an-do",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-09-05T02:44:50.765585+07:00",
+    "kickoff_iso": "2026-09-05T11:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 73,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 5,
-    "_scan_total": 7,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "minutes_to_kickoff": 525,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng chuyền",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
   {
     "url": "https://phaohoa1.live/truc-tiep/ipswich-vs-liverpool-05-09-2026-812670",
-    "raw_title": "02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ",
-    "card_text": "02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ",
+    "raw_title": "15:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Thái Lan Chim Nhỏ",
+    "card_text": "15:00 - 05-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Thái Lan Chim Nhỏ",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_TkTkw3i.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_TkTkw3i.jpg",
+    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png"
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_TkTkw3i.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg"
     ],
     "logo_candidates": [
       {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
+        "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
+        "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3121.jpg",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_TkTkw3i.jpg",
         "score": 64.99,
-        "context": "Ipswich max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Ipswich min-w-0 text-center",
+        "context": "Qatar max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Qatar min-w-0 text-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/nGfV05dipbAc7zzojivKew_96x96_Gvkafg4.png",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_Q9mUTFM.jpg",
         "score": 39.98,
-        "context": "Liverpool max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Liverpool min-w-0 text-center",
+        "context": "Thái Lan max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Thái Lan min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1322,201 +1321,26 @@
         "source": "home-card"
       }
     ],
-    "blv": "Chim Nhỏ",
+    "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 hot-match-card | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Ipswich VS Liverpool",
-    "home_name": "Ipswich",
-    "away_name": "Liverpool",
-    "time": "02:00",
+    "match_name": "05-09 Vô Địch Châu Á Qatar VS Thái Lan Chim Nhỏ",
+    "home_name": "05-09 Vô Địch Châu Á Qatar",
+    "away_name": "Thái Lan Chim Nhỏ",
+    "time": "15:00",
     "date": "05/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ipswich-vs-liverpool-05-09-2026-812670",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-09-05T00:17:01.318401+07:00",
-    "kickoff_iso": "2026-09-05T02:00:00+07:00",
-    "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 103,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 6,
-    "_scan_total": 7,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
-    "playlist_mode": "metadata-only",
-    "listed_in_playlist": true
-  },
-  {
-    "url": "https://phaohoa1.live/truc-tiep/al-shabab-vs-al-hilal-05-09-2026-825139",
-    "raw_title": "02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "card_text": "02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "raw_time": "",
-    "logo": "",
-    "home_logo": "",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp"
-    ],
-    "logo_candidates": [
-      {
-        "url": "https://phaohoa1.live/media/sports/icons/b%C3%B3ng_%C4%91%C3%A1_tXyI0zo.png",
-        "score": -15.0,
-        "context": "Bóng đá size-4 shrink-0 object-contain BÓNG ĐÁ flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG ĐÁ relative z-20 justify-self-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Abha_Club_Logo.svg.webp",
-        "score": 64.99,
-        "context": "Abha max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Abha min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/19c61b1ae0b964b7a8a79d3bf3648a69.png",
-        "score": 64.98,
-        "context": "Al Ettifaq max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ettifaq min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-07-17-063900.jpeg",
-        "score": 64.97,
-        "context": "Kevin size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Kevin relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_4269.jpg",
-        "score": 64.93,
-        "context": "Arminia Bielefeld max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Arminia Bielefeld min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3921.jpg",
-        "score": 64.92,
-        "context": "St. Pauli max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] St. Pauli min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 64.91,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3815.jpg",
-        "score": 64.87,
-        "context": "Lyon max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Lyon min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3797.jpg",
-        "score": 64.86,
-        "context": "Auxerre max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Auxerre min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_359.jpg",
-        "score": 64.81,
-        "context": "Al Ahli SC max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Ahli SC min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/al-riyadh-logo-footylogos-320.webp",
-        "score": 39.8,
-        "context": "Al Riyadh max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Riyadh min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/fde77dc8-1f5f-4002-81d9-9c244f254180.png",
-        "score": 39.79,
-        "context": "Văn Minh size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Văn Minh relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-08-162304.jpeg",
-        "score": 4.85,
-        "context": "Tày size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tày relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_6327.jpg",
-        "score": 4.75,
-        "context": "Al Shabab max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Shabab min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_366.jpg",
-        "score": 4.74,
-        "context": "Al Hilal max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Al Hilal min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/signal-2026-08-24-204213.jpeg",
-        "score": 4.73,
-        "context": "Tiểu Mây size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Tiểu Mây relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3933.jpg",
-        "score": 4.69,
-        "context": "Stuttgart max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Stuttgart min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_3932.jpg",
-        "score": 4.68,
-        "context": "FC Koln max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] FC Koln min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/photo_6246769060473409763_y.jpg",
-        "score": 4.67,
-        "context": "Pháo Thủ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Pháo Thủ relative flex shrink-0 items-center py-1",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_7261.jpg",
-        "score": 4.63,
-        "context": "Real Betis max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Real Betis min-w-0 text-center",
-        "source": "home-card"
-      }
-    ],
-    "blv": "",
-    "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | min-h-screen bg-[#050606] text-white flex flex-col | __nuxt | isolate",
-    "stream_hints": [],
-    "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "23:00 - 04-09 BÓNG ĐÁ Saudi Pro League Abha 0 : 0 56' Al Ettifaq Kevin 23:30 - 04-09 BÓNG ĐÁ 2. Bundesliga Arminia Bielefeld 1 : 1 45' St. Pauli Chim Nhỏ 00:00 - 05-09 BÓNG ĐÁ Ligue 1 Lyon 0 : 0 15' Auxerre Tày 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Ahli SC VS Sắp diễn ra Al Riyadh Văn Minh 01:00 - 05-09 BÓNG ĐÁ Saudi Pro League Al Shabab VS Sắp diễn ra Al Hilal Tiểu Mây 01:30 - 05-09 BÓNG ĐÁ Bundesliga Stuttgart VS Sắp diễn ra FC Koln Pháo Thủ 02:00 - 05-09 BÓNG ĐÁ La Liga Real Betis VS Sắp diễn ra Real Madrid Lưu Bị 02:00 - 05-09 BÓNG ĐÁ Premier League Ipswich VS Sắp diễn ra Liverpool Chim Nhỏ 02:05 - 05-09 BÓNG ĐÁ Ligue 1 PSG VS Sắp diễn ra Monaco Kevin",
-    "match_name": "05-09 Ligue 1 PSG VS Monaco Kevin",
-    "home_name": "05-09 Ligue 1 PSG",
-    "away_name": "Monaco Kevin",
-    "time": "02:05",
-    "date": "05/09",
-    "playlist_page_url": "https://phaohoa1.live/truc-tiep/al-shabab-vs-al-hilal-05-09-2026-825139",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-05T00:17:01.320345+07:00",
-    "kickoff_iso": "2026-09-05T02:05:00+07:00",
+    "scan_time_iso": "2026-09-05T02:44:50.767399+07:00",
+    "kickoff_iso": "2026-09-05T15:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 108,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
-    "sport_group": "Bóng đá",
-    "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
-    "_previous_streams": [],
-    "_scan_index": 7,
-    "_scan_total": 7,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
-    "scan_attempted": true,
+    "minutes_to_kickoff": 735,
+    "timing_state": "future",
+    "upcoming_within_window": false,
+    "sport_group": "Bóng chuyền",
+    "scan_window_reason": "too-early",
+    "scan_attempted": false,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   }
