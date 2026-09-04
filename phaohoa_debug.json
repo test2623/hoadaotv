@@ -59,15 +59,31 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/iran-vs-new-zealand",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-04T05:41:06.891222+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.306753+07:00",
     "kickoff_iso": "2026-09-04T10:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 289,
-    "timing_state": "future",
-    "upcoming_within_window": false,
+    "minutes_to_kickoff": 179,
+    "timing_state": "upcoming-window",
+    "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
-    "scan_window_reason": "too-early",
-    "scan_attempted": false,
+    "scan_window_reason": "time-window",
+    "delta_reason": "new-match",
+    "_previous_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/a4a517c4ef59.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "history_source": "working-tree"
+      }
+    ],
+    "_scan_index": 1,
+    "_scan_total": 1,
+    "time_source": "home-card",
+    "streams": [],
+    "stream_urls": [],
+    "errors": [],
+    "scan_decision": "http-only-far-upcoming",
+    "scan_attempted": true,
     "playlist_mode": "metadata-only",
     "listed_in_playlist": true
   },
@@ -154,6 +170,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Tr%C6%B0%E1%BB%9Dng_T%C6%B0%C6%A1i_%C4%90%E1%BB%93ng_Nai_FC.png",
+        "score": 4.75,
+        "context": "Đồng Nai max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đồng Nai min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
         "score": 4.74,
         "context": "Viettel max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Viettel min-w-0 text-center",
@@ -194,12 +216,6 @@
         "score": 4.62,
         "context": "Johor DT max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Johor DT min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-        "score": 4.57,
-        "context": "Kelantan Red Warrior max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kelantan Red Warrior min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
@@ -214,10 +230,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/han-quoc-vs-dai-loan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-04T05:41:06.900943+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.312023+07:00",
     "kickoff_iso": "2026-09-04T14:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 499,
+    "minutes_to_kickoff": 389,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -287,10 +303,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nhat-ban-vs-oman",
     "metadata_complete": true,
-    "scan_time_iso": "2026-09-04T05:41:06.903345+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.313623+07:00",
     "kickoff_iso": "2026-09-04T17:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 709,
+    "minutes_to_kickoff": 599,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng chuyền",
@@ -304,10 +320,11 @@
     "raw_title": "18:00 - 04-09 BÓNG ĐÁ V.League 1 Đồng Nai VS Sắp diễn ra Viettel Lưu Bị",
     "card_text": "18:00 - 04-09 BÓNG ĐÁ V.League 1 Đồng Nai VS Sắp diễn ra Viettel Lưu Bị",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Trường_Tươi_Đồng_Nai_FC.png",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Trường_Tươi_Đồng_Nai_FC.png",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/Trường_Tươi_Đồng_Nai_FC.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp"
     ],
     "logo_candidates": [
@@ -384,6 +401,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Tr%C6%B0%E1%BB%9Dng_T%C6%B0%C6%A1i_%C4%90%E1%BB%93ng_Nai_FC.png",
+        "score": 4.75,
+        "context": "Đồng Nai max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đồng Nai min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
         "score": 4.74,
         "context": "Viettel max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Viettel min-w-0 text-center",
@@ -424,12 +447,6 @@
         "score": 4.62,
         "context": "Johor DT max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Johor DT min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-        "score": 4.57,
-        "context": "Kelantan Red Warrior max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kelantan Red Warrior min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
@@ -444,10 +461,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/ch-odesa-vs-livyi-bereg-04-09-2026-795424",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-04T05:41:06.906835+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.317215+07:00",
     "kickoff_iso": "2026-09-04T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 739,
+    "minutes_to_kickoff": 629,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -542,6 +559,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Tr%C6%B0%E1%BB%9Dng_T%C6%B0%C6%A1i_%C4%90%E1%BB%93ng_Nai_FC.png",
+        "score": 4.75,
+        "context": "Đồng Nai max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đồng Nai min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
         "score": 4.74,
         "context": "Viettel max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Viettel min-w-0 text-center",
@@ -582,12 +605,6 @@
         "score": 4.62,
         "context": "Johor DT max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Johor DT min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-        "score": 4.57,
-        "context": "Kelantan Red Warrior max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kelantan Red Warrior min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tiểu Mây",
@@ -602,10 +619,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/pattani-vs-pathum-united-04-09-2026-797814",
     "metadata_complete": true,
-    "scan_time_iso": "2026-09-04T05:41:06.910053+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.320341+07:00",
     "kickoff_iso": "2026-09-04T19:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 799,
+    "minutes_to_kickoff": 689,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -619,12 +636,10 @@
     "raw_title": "20:00 - 04-09 BÓNG ĐÁ Super League Kelantan Red Warrior VS Sắp diễn ra Kuala Lumpur City Văn Minh",
     "card_text": "20:00 - 04-09 BÓNG ĐÁ Super League Kelantan Red Warrior VS Sắp diễn ra Kuala Lumpur City Văn Minh",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
+    "logo": "",
+    "home_logo": "",
     "away_logo": "",
-    "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png"
-    ],
+    "team_logos": [],
     "logo_candidates": [
       {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
@@ -699,6 +714,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Tr%C6%B0%E1%BB%9Dng_T%C6%B0%C6%A1i_%C4%90%E1%BB%93ng_Nai_FC.png",
+        "score": 4.75,
+        "context": "Đồng Nai max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đồng Nai min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
         "score": 4.74,
         "context": "Viettel max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Viettel min-w-0 text-center",
@@ -739,12 +760,6 @@
         "score": 4.62,
         "context": "Johor DT max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Johor DT min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-        "score": 4.57,
-        "context": "Kelantan Red Warrior max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kelantan Red Warrior min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Văn Minh",
@@ -759,10 +774,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/kelantan-red-warrior-vs-kuala-lumpur-city-04-09-2026-824100",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-04T05:41:06.913339+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.325784+07:00",
     "kickoff_iso": "2026-09-04T20:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 859,
+    "minutes_to_kickoff": 749,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -854,6 +869,12 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Tr%C6%B0%E1%BB%9Dng_T%C6%B0%C6%A1i_%C4%90%E1%BB%93ng_Nai_FC.png",
+        "score": 4.75,
+        "context": "Đồng Nai max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Đồng Nai min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/logo-clb-bong-da-viettel-1024x1024.webp",
         "score": 4.74,
         "context": "Viettel max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Viettel min-w-0 text-center",
@@ -894,12 +915,6 @@
         "score": 4.62,
         "context": "Johor DT max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Johor DT min-w-0 text-center",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Kelantan_Red_Warrior_FC.png",
-        "score": 4.57,
-        "context": "Kelantan Red Warrior max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Kelantan Red Warrior min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
@@ -914,10 +929,10 @@
     "date": "04/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/herrera-vs-viettel-04-09-2026-838463",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-04T05:41:06.919217+07:00",
+    "scan_time_iso": "2026-09-04T07:31:20.331648+07:00",
     "kickoff_iso": "2026-09-04T22:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 979,
+    "minutes_to_kickoff": 869,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
