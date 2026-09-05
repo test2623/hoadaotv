@@ -1,27 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="phaohoa-807523-1" tvg-name="[17:00 05/09] Avispa Fukuoka vs Mito" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa2.live/truc-tiep/avispa-fukuoka-vs-mito-05-09-2026-807523" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_5048.jpg" phaohoa-home-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_5048.jpg" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_5081.jpg",[17:00 05/09] Avispa Fukuoka vs Mito [HD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa2.live/
+#EXTINF:-1 tvg-id="phaohoa-838457-1" tvg-name="[19:15 05/09] Cong An Ha Noi vs Hong Linh Ha Tinh" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/cong-an-ha-noi-vs-hong-linh-ha-tinh-05-09-2026-838457" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/logo-clb-hong-linh-ha-tinh-1-930x1024.png",[19:15 05/09] Cong An Ha Noi vs Hong Linh Ha Tinh [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa2.live
+#EXTVLCOPT:http-origin=https://phaohoa3.live
 #EXTVLCOPT:http-reconnect=true
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="phaohoa-728391-1" tvg-name="[17:00 05/09] Jeonbuk vs Pohang" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa2.live/truc-tiep/jeonbuk-vs-pohang-05-09-2026-728391" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg" phaohoa-home-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_396.jpg",[17:00 05/09] Jeonbuk vs Pohang [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa2.live/
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="phaohoa-809275-1" tvg-name="[20:30 05/09] Hoffenheim vs Dortmund" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/hoffenheim-vs-dortmund-05-09-2026-809275" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_170.jpg" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_170.jpg" phaohoa-away-logo="https://phaohoa3.live/media/tournaments/icons/tournament_175.png",[20:30 05/09] Hoffenheim vs Dortmund [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa2.live
+#EXTVLCOPT:http-origin=https://phaohoa3.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 tvg-id="phaohoa-838459-1" tvg-name="[18:00 05/09] 05-09 Premier League Newcastle VS Bournemouth Chim Nhỏ" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa2.live/truc-tiep/cong-an-hcm-vs-ha-noi-fc-05-09-2026-838459" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_3100.jpg" phaohoa-home-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_3100.jpg" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_3071.jpg",[18:00 05/09] 05-09 Premier League Newcastle VS Bournemouth Chim Nhỏ [FHD M3U8]
-#EXTVLCOPT:http-referrer=https://phaohoa2.live/
+#EXTINF:-1 tvg-id="phaohoa-812674-1" tvg-name="[21:00 05/09] 05-09 La Liga Ath Bilbao VS Atl. Madrid Tiểu Mây" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/fulham-vs-crystal-palace-05-09-2026-812674" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png",[21:00 05/09] 05-09 La Liga Ath Bilbao VS Atl. Madrid Tiểu Mây [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://phaohoa2.live
+#EXTVLCOPT:http-origin=https://phaohoa3.live
 #EXTVLCOPT:http-reconnect=true
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="phaohoa-838458-1" tvg-name="[18:00 05/09] Hải Phòng VS Phù Đổng Ninh Bình [BLV Pháo Thủ]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa2.live/truc-tiep/hai-phong-vs-phu-dong-ninh-binh-05-09-2026-838458" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/logo-clb-bong-da-hai-phong.webp" phaohoa-home-logo="https://phaohoa2.live/media-thumb/team/teams/logos/logo-clb-bong-da-hai-phong.webp" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/cbf7b130-4dbf-4706-9892-8249bb65a183.png" phaohoa-blv="Pháo Thủ",[18:00 05/09] Hải Phòng VS Phù Đổng Ninh Bình [BLV Pháo Thủ]
-http://127.0.0.1:9/__phaohoa_metadata__/838458.m3u8
-#EXTINF:-1 tvg-id="phaohoa-838457-1" tvg-name="[19:15 05/09] Công An Hà Nội VS Hồng Lĩnh Hà Tĩnh [BLV Tiểu Mây]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa2.live/truc-tiep/cong-an-ha-noi-vs-hong-linh-ha-tinh-05-09-2026-838457" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png" phaohoa-home-logo="https://phaohoa2.live/media-thumb/team/teams/logos/dde2897a-7204-4f4b-a5e7-cbd526e8e9a2.png" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/logo-clb-hong-linh-ha-tinh-1-930x1024.png" phaohoa-blv="Tiểu Mây",[19:15 05/09] Công An Hà Nội VS Hồng Lĩnh Hà Tĩnh [BLV Tiểu Mây]
-http://127.0.0.1:9/__phaohoa_metadata__/838457.m3u8
-#EXTINF:-1 tvg-id="phaohoa-809275-1" tvg-name="[20:30 05/09] Hoffenheim VS Dortmund [BLV Văn Minh]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa2.live/truc-tiep/hoffenheim-vs-dortmund-05-09-2026-809275" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg" phaohoa-blv="Văn Minh",[20:30 05/09] Hoffenheim VS Dortmund [BLV Văn Minh]
-http://127.0.0.1:9/__phaohoa_metadata__/809275.m3u8
-#EXTINF:-1 tvg-id="phaohoa-812671-1" tvg-name="[21:00 05/09] 05-09 Premier League Brentford VS Sunderland Pháo Thủ" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa2.live/truc-tiep/newcastle-vs-bournemouth-05-09-2026-812671" tvg-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg" phaohoa-away-logo="https://phaohoa2.live/media-thumb/team/teams/logos/team_389.jpg",[21:00 05/09] 05-09 Premier League Brentford VS Sunderland Pháo Thủ
-http://127.0.0.1:9/__phaohoa_metadata__/812671.m3u8
+#EXTINF:-1 tvg-id="phaohoa-812672-1" tvg-name="[21:00 05/09] Brentford VS Sunderland [BLV Pháo Thủ]" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/brentford-vs-sunderland-05-09-2026-812672" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/brentford-logo-png-3.png" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/brentford-logo-png-3.png" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_3111.jpg" phaohoa-blv="Pháo Thủ",[21:00 05/09] Brentford VS Sunderland [BLV Pháo Thủ] [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa3.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-id="phaohoa-812673-1" tvg-name="[21:00 05/09] Brighton vs Leeds" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/brighton-vs-leeds-05-09-2026-812673" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_3079.jpg" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_3103.jpg",[21:00 05/09] Brighton vs Leeds [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa3.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:-1 tvg-id="phaohoa-812675-1" tvg-name="[21:00 05/09] Manchester City vs Coventry" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/manchester-city-vs-coventry-05-09-2026-812675" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_80.jpg" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_80.jpg" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/team_3094.jpg",[21:00 05/09] Manchester City vs Coventry [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa3.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="phaohoa-9adf1b7670a2-1" tvg-name="[20:00 05/09] Tho Nhi Ki vs Serbia" group-title="Bóng chuyền" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa3.live/truc-tiep/tho-nhi-ki-vs-serbia" tvg-logo="https://phaohoa3.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-home-logo="https://phaohoa3.live/media-thumb/team/teams/logos/OIP_YsFHEHv.jpg" phaohoa-away-logo="https://phaohoa3.live/media-thumb/team/teams/logos/OIP_OI6UvXR.jpg",[20:00 05/09] Tho Nhi Ki vs Serbia [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa3.live
+#EXTVLCOPT:http-reconnect=true
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
