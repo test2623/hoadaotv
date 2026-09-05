@@ -1,1 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="phaohoa-798843-1" tvg-name="[23:30 05/09] Rayo Vallecano vs Racing Santander" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/rayo-vallecano-vs-racing-santander-05-09-2026-798843" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_302.png",[23:30 05/09] Rayo Vallecano vs Racing Santander [HD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="phaohoa-809278-1" tvg-name="[23:30 05/09] Schalke vs Bayern Munich" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/schalke-vs-bayern-munich-05-09-2026-809278" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3931.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_3931.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_175.png",[23:30 05/09] Schalke vs Bayern Munich [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-id="phaohoa-795662-1" tvg-name="[00:00 06/09] Fenerbahce vs Besiktas [BLV thôi thuygiangg Lv6 5 phút trước bóng k]" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/fenerbahce-vs-besiktas-06-09-2026-795662" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7694.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_322.png" phaohoa-blv="thôi thuygiangg Lv6 5 phút trước bóng k",[00:00 06/09] Fenerbahce vs Besiktas [BLV thôi thuygiangg Lv6 5 phút trước bóng k] [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:-1 tvg-id="phaohoa-803681-1" tvg-name="[00:00 06/09] Maritimo vs Benfica" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/maritimo-vs-benfica-06-09-2026-803681" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5995.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_5995.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_266.png",[00:00 06/09] Maritimo vs Benfica [FHD M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 tvg-id="phaohoa-807876-1" tvg-name="[01:45 06/09] As Roma vs Atalanta" group-title="Bóng đá" phaohoa-entry="stream" phaohoa-page-url="https://phaohoa1.live/truc-tiep/as-roma-vs-atalanta-06-09-2026-807876" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_139.jpg" phaohoa-home-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_139.jpg" phaohoa-away-logo="https://phaohoa1.live/media/tournaments/icons/tournament_207.png",[01:45 06/09] As Roma vs Atalanta [M3U8]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://phaohoa1.live
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://phaohoa1.live/","Origin":"https://phaohoa1.live"}
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="phaohoa-803683-1" tvg-name="[02:30 06/09] Sporting CP VS Nacional [BLV Kevin]" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/sporting-cp-vs-nacional-05-09-2026-803683" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg" phaohoa-blv="Kevin",[02:30 06/09] Sporting CP VS Nacional [BLV Kevin]
+http://127.0.0.1:9/__phaohoa_metadata__/803683.m3u8
+#EXTINF:-1 tvg-id="phaohoa-825142-1" tvg-name="[06:30 06/09] 06-09 MLS Inter Miami VS Atlanta Utd Chim Nhỏ" group-title="Bóng đá" phaohoa-entry="metadata-only" phaohoa-page-url="https://phaohoa1.live/truc-tiep/al-ittihad-vs-al-nassr-06-09-2026-825142" tvg-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg" phaohoa-away-logo="https://phaohoa1.live/media-thumb/team/teams/logos/team_7264.jpg",[06:30 06/09] 06-09 MLS Inter Miami VS Atlanta Utd Chim Nhỏ
+http://127.0.0.1:9/__phaohoa_metadata__/825142.m3u8
