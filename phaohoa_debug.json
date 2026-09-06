@@ -1,15 +1,15 @@
 [
   {
     "url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-atlanta-utd-06-09-2026-711621",
-    "raw_title": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ",
-    "card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ",
+    "raw_title": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ",
+    "card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ",
     "raw_time": "",
     "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
-    "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+    "away_logo": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
     "team_logos": [
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
-      "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg"
+      "https://phaohoa1.live/media/tournaments/icons/tournament_332.png"
     ],
     "logo_candidates": [
       {
@@ -26,13 +26,13 @@
       },
       {
         "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
+        "score": 64.98,
         "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
         "source": "home-card"
       },
       {
         "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
+        "score": 64.97,
         "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
         "source": "home-card"
       },
@@ -47,28 +47,73 @@
         "score": -0.05,
         "context": "OK9 h-7 w-auto max-w-[85px] object-contain rounded sm:max-w-[100px] flex h-7 shrink-0 items-center justify-end transition hover:scale-105 flex shrink-0 items-center gap-1.5",
         "source": "home-card"
-      }
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+        "score": 75,
+        "context": "Inter Miami max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Inter Miami min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
+        "score": 75,
+        "context": "size-5 object-contain MLS flex max-w-full items-center gap-2 rounded-full border border-white/10 bg-black/62 px-3 py-1.5 text-[10px] font-black uppercase text-neutral-200 shadow-[0_10px_30px_rgba(0,0,0,.35)] backdrop-blur-md sm:text-xs MLS Inter Miami ĐANG DIỄN RA 0-0 06:30 - 06/09/2026 Atlanta Utd relative flex w-full max-w-4xl flex-col items-center gap-3 sm:gap-5",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 50,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[64px] place-items-center sm:size-[120px] Atlanta Utd min-w-0 text-center",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none e mới ngủ dậy chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/IMG_7182.jpeg",
+        "score": 40,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Vậy trong lúc chờ chim hát dc ko chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/avatars/IMG_1830.jpeg",
+        "score": 35,
+        "context": "w-full h-full object-cover chat-avatar flex size-8 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/10 bg-gray-100 shadow-md dark:bg-neutral-900 opacity-0 pointer-events-none Xem messi xong e ngủ chat-message group relative flex gap-2.5 rounded-xl px-2 py-0.5 text-xs transition-all duration-300 text-left mt-0",
+        "source": "detail-match"
+      },
+      "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
+      "https://phaohoa1.live/media/tournaments/icons/tournament_332.png",
+      "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+      "https://phaohoa1.live/images/default-avatar-96.webp?v=20260722-3",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/IMG_7182.jpeg",
+      "https://phaohoa1.live/media-thumb/avatar/avatars/IMG_1830.jpeg"
     ],
-    "blv": "Chim Nhỏ",
+    "blv": "Chim Nhỏ 27 phút trước trận đấu của chún",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 hot-match-card | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px]",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "match_name": "Inter Miami VS Atlanta Utd",
+    "match_name": "Inter Miami vs Atlanta Utd",
     "home_name": "Inter Miami",
     "away_name": "Atlanta Utd",
     "time": "06:30",
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/inter-miami-vs-atlanta-utd-06-09-2026-711621",
     "metadata_complete": true,
-    "scan_time_iso": "2026-09-06T05:28:04.091386+07:00",
+    "scan_time_iso": "2026-09-06T07:06:54.499644+07:00",
     "kickoff_iso": "2026-09-06T06:30:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 62,
-    "timing_state": "upcoming-window",
-    "upcoming_within_window": true,
+    "minutes_to_kickoff": -37,
+    "timing_state": "started-recently",
+    "upcoming_within_window": false,
     "sport_group": "Bóng đá",
     "scan_window_reason": "time-window",
-    "delta_reason": "delta-due",
+    "delta_reason": "near-or-live",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/711621.m3u8",
@@ -79,13 +124,108 @@
     ],
     "_scan_index": 1,
     "_scan_total": 2,
-    "time_source": "home-card",
-    "streams": [],
-    "stream_urls": [],
-    "errors": [],
-    "scan_decision": "http-only-far-upcoming",
+    "time_source": "json-ld/startDate",
+    "streams": [
+      {
+        "url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": 200,
+        "statuses": [
+          200
+        ],
+        "content_type": "application/x-mpegurl",
+        "sources": [
+          "request/xhr",
+          "response",
+          "quality/FHD",
+          "dom/performance"
+        ],
+        "quality": "FHD",
+        "parent_url": "",
+        "candidate_score": 231,
+        "observed_active": true,
+        "high_confidence_observed": true,
+        "channel_key": "phaohoa5",
+        "family_key": "phaohoa5",
+        "quality_rank": 40,
+        "probe": {
+          "status": 200,
+          "content_type": "application/x-mpegurl",
+          "final_url": "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d",
+          "error": "",
+          "playable": true,
+          "state": "verified",
+          "kind": "m3u8",
+          "detail": "manifest + segment OK",
+          "segment_url": "https://luong.phaohoa.live/live/phaohoa5/phaohoa5-ss-3211235883-1788651580-20260906T000643.ts?volcDst=MTAuMTMuOC4xNDU",
+          "segment_status": 206,
+          "segment_bytes": 4096,
+          "sample_bytes": 482
+        },
+        "playability": "verified"
+      }
+    ],
+    "stream_urls": [
+      "https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d"
+    ],
+    "errors": [
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Failed to load resource: net::ERR_FAILED",
+      "console/error: Hydration completed but contains mismatches.",
+      "console/warning: Service Worker registration blocked by Playwright",
+      "console/error: Failed to load resource: the server responded with a status of 404 ()",
+      "console/warning: [Icon] failed to load icon `lucide:pin`"
+    ],
+    "scan_decision": "browser-fallback",
+    "rejected_streams": [
+      {
+        "url": "http://127.0.0.1:9/__phaohoa_metadata__/711621.m3u8",
+        "referer": "https://phaohoa1.live/",
+        "origin": "https://phaohoa1.live",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "status": null,
+        "statuses": [],
+        "content_type": "",
+        "sources": [
+          "previous-playlist"
+        ],
+        "quality": "",
+        "parent_url": "",
+        "candidate_score": 90,
+        "observed_active": false,
+        "high_confidence_observed": false,
+        "channel_key": "711621",
+        "family_key": "711621",
+        "quality_rank": 0,
+        "probe": {
+          "status": 0,
+          "content_type": "",
+          "final_url": "http://127.0.0.1:9/__phaohoa_metadata__/711621.m3u8",
+          "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "playable": false,
+          "state": "invalid",
+          "kind": "m3u8",
+          "detail": "URLError: <urlopen error [Errno 111] Connection refused>",
+          "sample_bytes": 0
+        },
+        "playability": "rejected",
+        "reject_reason": "playlist cũ không còn xác minh được: URLError: <urlopen error [Errno 111] Connection refused>"
+      }
+    ],
     "scan_attempted": true,
-    "playlist_mode": "metadata-only",
+    "playlist_mode": "stream",
     "listed_in_playlist": true
   },
   {
@@ -93,10 +233,11 @@
     "raw_title": "08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày",
     "card_text": "08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày",
     "raw_time": "",
-    "logo": "",
-    "home_logo": "",
+    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "team_logos": [
+      "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png"
     ],
     "logo_candidates": [
@@ -113,21 +254,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -213,35 +360,29 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tày",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "Iran VS Ấn Độ",
     "home_name": "Iran",
     "away_name": "Ấn Độ",
     "time": "08:00",
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/iran-vs-an-do",
-    "metadata_complete": false,
-    "scan_time_iso": "2026-09-06T05:28:04.094271+07:00",
+    "metadata_complete": true,
+    "scan_time_iso": "2026-09-06T07:06:54.502778+07:00",
     "kickoff_iso": "2026-09-06T08:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 152,
+    "minutes_to_kickoff": 53,
     "timing_state": "upcoming-window",
     "upcoming_within_window": true,
     "sport_group": "Bóng chuyền",
     "scan_window_reason": "time-window",
-    "delta_reason": "new-match",
+    "delta_reason": "delta-due",
     "_previous_streams": [
       {
         "url": "http://127.0.0.1:9/__phaohoa_metadata__/03a3f96f1d36.m3u8",
@@ -286,21 +427,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -386,19 +533,13 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Tiểu Mây",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "Japan U20 VS Yemen U20",
     "home_name": "Japan U20",
     "away_name": "Yemen U20",
@@ -406,10 +547,10 @@
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/japan-u20-vs-yemen-u20-06-09-2026-854282",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-06T05:28:04.097326+07:00",
+    "scan_time_iso": "2026-09-06T07:06:54.505780+07:00",
     "kickoff_iso": "2026-09-06T16:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 632,
+    "minutes_to_kickoff": 533,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -444,21 +585,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -544,19 +691,13 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "06-09 J1 League Vissel Kobe VS V-Varen Nagasaki Văn Minh",
     "home_name": "06-09 J1 League Vissel Kobe",
     "away_name": "V-Varen Nagasaki Văn Minh",
@@ -564,10 +705,10 @@
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/qatar-vs-dai-loan",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-06T05:28:04.101173+07:00",
+    "scan_time_iso": "2026-09-06T07:06:54.509510+07:00",
     "kickoff_iso": "2026-09-06T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 692,
+    "minutes_to_kickoff": 593,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -602,21 +743,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -702,19 +849,13 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Chim Nhỏ",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "Thanh Hoá VS Đà Nẵng",
     "home_name": "Thanh Hoá",
     "away_name": "Đà Nẵng",
@@ -722,10 +863,10 @@
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/thanh-hoa-vs-da-nang-06-09-2026-838462",
     "metadata_complete": true,
-    "scan_time_iso": "2026-09-06T05:28:04.104431+07:00",
+    "scan_time_iso": "2026-09-06T07:06:54.512852+07:00",
     "kickoff_iso": "2026-09-06T17:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 692,
+    "minutes_to_kickoff": 593,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -739,11 +880,10 @@
     "raw_title": "18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị",
     "card_text": "18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị",
     "raw_time": "",
-    "logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXNĐ_3_sao.png",
-    "home_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXNĐ_3_sao.png",
+    "logo": "",
+    "home_logo": "",
     "away_logo": "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png",
     "team_logos": [
-      "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXNĐ_3_sao.png",
       "https://phaohoa1.live/media-thumb/team/teams/logos/INTER-90-x-90-1024x1024.png"
     ],
     "logo_candidates": [
@@ -760,21 +900,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -860,30 +1006,24 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "Lưu Bị",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "Nam Định VS Hoàng Anh Gia Lai",
     "home_name": "Nam Định",
     "away_name": "Hoàng Anh Gia Lai",
     "time": "18:00",
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/nam-dinh-vs-hoang-anh-gia-lai-06-09-2026-838460",
-    "metadata_complete": true,
-    "scan_time_iso": "2026-09-06T05:28:04.110538+07:00",
+    "metadata_complete": false,
+    "scan_time_iso": "2026-09-06T07:06:54.516050+07:00",
     "kickoff_iso": "2026-09-06T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 752,
+    "minutes_to_kickoff": 653,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
@@ -917,21 +1057,27 @@
         "source": "home-card"
       },
       {
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
+        "score": 64.98,
+        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
+        "source": "home-card"
+      },
+      {
+        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
+        "score": 64.97,
+        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "source": "home-card"
+      },
+      {
         "url": "https://phaohoa1.live/media/sports/icons/bchuyen.png",
         "score": 64.94,
         "context": "Bóng chuyền size-4 shrink-0 object-contain BÓNG CHUYỀN flex max-w-[118px] items-center justify-center gap-1 text-[10px] font-black uppercase text-white sm:max-w-[130px] sm:text-[11px] BÓNG CHUYỀN relative z-20 justify-self-center",
         "source": "home-card"
       },
       {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/team_299.jpg",
-        "score": 39.98,
-        "context": "Atlanta Utd max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Atlanta Utd min-w-0 text-center",
-        "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/avatar/commentators/avatars/att.p-RTBjTOoLkdpjXdV7faF0gTJKEehnKLLBizeh-PjpY.jpg",
-        "score": 39.97,
-        "context": "Chim Nhỏ size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 Chim Nhỏ relative flex shrink-0 items-center py-1",
+        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/OIP_xjljaQl.jpg",
+        "score": 59.93,
+        "context": "Iran max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Iran min-w-0 text-center",
         "source": "home-card"
       },
       {
@@ -1017,19 +1163,13 @@
         "score": 4.61,
         "context": "KaKa size-full rounded-full object-cover relative z-10 size-[32px] shrink-0 rounded-full border-2 border-red-600 bg-neutral-900 shadow-md ring-1 ring-red-500/40 KaKa relative flex shrink-0 items-center py-1",
         "source": "home-card"
-      },
-      {
-        "url": "https://phaohoa1.live/media-thumb/team/teams/logos/Logo_CLB_TXN%C4%90_3_sao.png",
-        "score": 4.57,
-        "context": "Nam Định max-h-full max-w-full object-contain mx-auto grid size-[68px] place-items-center sm:size-[78px] Nam Định min-w-0 text-center",
-        "source": "home-card"
       }
     ],
     "blv": "",
     "sport_hint": "group relative flex h-[270px] w-full flex-col justify-between overflow-hidden rounded-[22px] bg-[#111] shadow-[0_14px_34px_rgba(0,0,0,.34)] transition hover:-translate-y-0.5 border border-red-500/35 hover:border-red-500/60 | grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 lg:gap-6 | mt-8 | mx-auto w-full max-w-[1440px] px-2 pb-4 pt-0 lg:px-4 lg:pb-6 | flex-1 pb-16 lg:pb-0 | relative flex-1 flex flex-col w-full min-h-[900px] | min-h-screen bg-[#050606] text-white flex flex-col",
     "stream_hints": [],
     "source_home_url": "https://phaohoa1.live/",
-    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami VS Sắp diễn ra Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
+    "page_card_text": "06:30 - 06-09 BÓNG ĐÁ MLS Inter Miami 0 : 0 Trực tiếp Atlanta Utd Chim Nhỏ 08:00 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Iran VS Sắp diễn ra Ấn Độ Tày 11:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Qatar VS Sắp diễn ra Đài Loan Tiểu Mây 16:00 - 06-09 BÓNG ĐÁ AFC U20 Asian Cup Japan U20 VS Sắp diễn ra Yemen U20 Tiểu Mây 17:00 - 06-09 BÓNG ĐÁ J1 League Vissel Kobe VS Sắp diễn ra V-Varen Nagasaki Văn Minh 17:00 - 06-09 BÓNG ĐÁ V.League 1 Thanh Hoá VS Sắp diễn ra Đà Nẵng Chim Nhỏ 17:30 - 06-09 BÓNG CHUYỀN Vô Địch Châu Á Nhật Bản VS Sắp diễn ra Bahrain KaKa 18:00 - 06-09 BÓNG ĐÁ V.League 1 Nam Định VS Sắp diễn ra Hoàng Anh Gia Lai Lưu Bị 18:00 - 06-09 BÓNG ĐÁ V.League 1 Sông Lam Nghệ An VS Sắp diễn ra Bắc Ninh Tày",
     "match_name": "06-09 V.League 1 Sông Lam Nghệ An VS Bắc Ninh Tày",
     "home_name": "06-09 V.League 1 Sông Lam Nghệ An",
     "away_name": "Bắc Ninh Tày",
@@ -1037,10 +1177,10 @@
     "date": "06/09",
     "playlist_page_url": "https://phaohoa1.live/truc-tiep/vissel-kobe-vs-v-varen-nagasaki-06-09-2026-807531",
     "metadata_complete": false,
-    "scan_time_iso": "2026-09-06T05:28:04.115694+07:00",
+    "scan_time_iso": "2026-09-06T07:06:54.519517+07:00",
     "kickoff_iso": "2026-09-06T18:00:00+07:00",
     "kickoff_resolution": "explicit-date",
-    "minutes_to_kickoff": 752,
+    "minutes_to_kickoff": 653,
     "timing_state": "future",
     "upcoming_within_window": false,
     "sport_group": "Bóng đá",
